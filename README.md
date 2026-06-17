@@ -953,6 +953,7 @@
 -   [fn7 Helix](https://www.fn7.io) - Build Clickable Prototypes in 3 Minutes with AI / No Design Skills Needed - From $14/Month
 -   [LangUI](https://www.langui.dev) - Free components / Open Source Tailwind components / UI for AI & GPT projects
 -   [UX Pilot](https://uxpilot.ai) - 90 credits (one time) / Hifi UI / Wireframe generation / Export to Figma - From $12/month
+-   [Roblox GUI Maker](https://robloxguimaker.dev/) - Free / AI-assisted Roblox Studio GUI generator / Game menus, HUDs, inventory UI and Lua starter code
 -   [Uxia](https://www.uxia.app) - Up to 3 tests & 7-day free trial / AI-powered user testing / Fast, reliable insights - From €34.95/month
 -   [Little Bro](https://www.littlebro.app) - 10 day free trial / On-Demand design feedback / Real-Time Trend Analyzer / Personal Mentor - From $28.84/month
 -   [Components AI](https://components.ai) - Build custom design tools without writing any code / Create responsive components, pages, and sites / Multi-format export
