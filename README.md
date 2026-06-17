@@ -3658,6 +3658,7 @@ I Love Free
 -   [MealSnap: AI meal log journal](https://apps.apple.com/us/app/mealsnap-ai-meal-log-journal/id6475162854) - Free / AI-Powered Meal Scanning / Nutritional Information at a Glance - From $1.99
 -   [HoneyHive](https://honeyhive.ai) - Free 10K events per month / AI Observability / Evaluation / Prompt Management
 -   [DepsHub](https://depshub.com) - Free for Open-Source / Automatic dependency updates / License checks / Security vulnerability scanning - From $19/month
+-   [FPVTune](https://fpvtune.com/) - Free and open-source / Betaflight blackbox flight log analysis / AI-assisted PID and filter tuning suggestions for FPV drones
 
 ---
 
