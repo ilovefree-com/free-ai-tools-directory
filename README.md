@@ -1289,6 +1289,7 @@
 -   [DreamShootAI](https://www.dreamshootai.com) - / AI Couple Photo Maker / Professional quality photoshoots with AI / AI Videos - $9.99 for 80 photos
 -   [imini AI](https://imini.com) - 20 daily chat rounds / Super AI Agent / AI Slides / Deep Research - From US$4.17/month
 -   [ImageToVideo AI](https://imagetovideoai.io) - Free online service / Convert Image & Text to Video / No-watermark outputs - From $9.9 (one-time payment) for 60 credits
+-   [ImagineClip](https://imagineclip.com) - Free plan available / Generate avatar clips, stylized scenes, and social-ready AI videos from prompts, images, and effects
 -   [Nana Banana Pro](https://nanabanana.pro) - 5 free credits / AI-powered image editing / Perfect character consistency - From $6.9/month for 100 images
 -   [Pietra](https://www.pietrastudio.com/ai-tools/ai-t-shirt-generator) - Unlimited AI t-shirt designs / AI T-shirt Design Generator / Customizable Free Templates / No registration needed to generate designs - From $49/month (billed yearly)
 -   [Face Swap Solution Online](https://faceswap.so) - Free 10 images, 3 videos per month / AI Face Swap / Multi-Person Face Swap - From $7.00/month
