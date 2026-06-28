@@ -7694,6 +7694,7 @@ I Love Free
 -   [MealSnap: AI meal log journal](https://apps.apple.com/us/app/mealsnap-ai-meal-log-journal/id6475162854) - Free / AI-Powered Meal Scanning / Nutritional Information at a Glance - From $1.99
 -   [HoneyHive](https://honeyhive.ai) - Free 10K events per month / AI Observability / Evaluation / Prompt Management
 -   [DepsHub](https://depshub.com) - Free for Open-Source / Automatic dependency updates / License checks / Security vulnerability scanning - From $19/month
+-   [FPVTune](https://fpvtune.com/) - Free and open-source / Betaflight blackbox flight log analysis / AI-assisted PID and filter tuning suggestions for FPV drones
 
 ---
 
@@ -13497,6 +13498,7 @@ I Love Free
 -   [Flowstep](https://flowstep.ai) - Create UI designs, wireframes, and user flows / Rapidly iterate designs
 -   [Frame0](https://frame0.app) - Unlimited free trial with watermarks / Hand-drawn wireframes / Interactive prototypes / AI integration - From $99 (one-time payment)
 -   [Flowstep](https://flowstep.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3029)- Freemium + From $15/month / Generate real UI in seconds
+-   [Roblox GUI Maker](https://robloxguimaker.dev/) - Free / AI-assisted Roblox Studio GUI generator / Game menus, HUDs, inventory UI and Lua starter code
 
 ### AI Coloring Book Generator
 
@@ -13813,6 +13815,7 @@ I Love Free
 -   [Nana Banana Pro](https://nanabanana.pro) - 5 free credits / AI-powered image editing / Perfect character consistency - From $6.9/month for 100 images
 -   [Pietra](https://www.pietrastudio.com/ai-tools/ai-t-shirt-generator) - Unlimited AI t-shirt designs / AI T-shirt Design Generator / Customizable Free Templates / No registration needed to generate designs - From $49/month (billed yearly)
 -   [Face Swap Solution Online](https://faceswap.so) - Free 10 images, 3 videos per month / AI Face Swap / Multi-Person Face Swap - From $7.00/month
+-   [ImagineClip](https://imagineclip.com) - Free plan available / Generate avatar clips, stylized scenes, and social-ready AI videos from prompts, images, and effects
 
 ### AI Color Palette Generator
 
