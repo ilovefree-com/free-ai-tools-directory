@@ -1,5 +1,7 @@
 # Health & Wellness
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/health-wellness/
+
 [⬆️ Back to README](./README.md)
 
 ## Health & Wellness | I Love Free

@@ -1,5 +1,7 @@
 # Research & Data Analysis
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/research-data-analysis/
+
 [⬆️ Back to README](./README.md)
 
 ## Research & Data Analysis | I Love Free

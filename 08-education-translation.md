@@ -1,5 +1,7 @@
 # Education & Translation
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/education-translation/
+
 [⬆️ Back to README](./README.md)
 
 ## Education & Translation | I Love Free

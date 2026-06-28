@@ -1,5 +1,7 @@
 # Social Media
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/social-media/
+
 [⬆️ Back to README](./README.md)
 
 ## Social Media | I Love Free

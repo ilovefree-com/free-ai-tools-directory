@@ -1,5 +1,7 @@
 # Marketing & Advertising
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/marketing-advertising/
+
 [⬆️ Back to README](./README.md)
 
 ## Marketing & Advertising | I Love Free

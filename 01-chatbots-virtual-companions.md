@@ -1,5 +1,7 @@
 # Chatbots & Virtual Companions
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/chatbots-virtual-companions/
+
 [⬆️ Back to README](./README.md)
 
 ## Chatbots & Virtual Companions | I Love Free

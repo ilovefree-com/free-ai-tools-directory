@@ -8,6 +8,12 @@
 
 ---
 
+I Love Free
+
+👉 **[iLoveFree.com](https://www.ilovefree.com/free-ai-tools/chatbots-virtual-companions/)** is your ultimate directory for free AI tools. Helping you save money on subscriptions.
+
+---
+
 **📖 Table of Contents — 22 categories**
 
 - [Chatbots & Virtual Companions](./01-chatbots-virtual-companions.md)
@@ -491,8 +497,3 @@
   - [Minecraft AI](./22-other.md#minecraft-ai)
   - [AI Poker](./22-other.md#ai-poker)
 
----
-
-I Love Free
-
-👉 **[iLoveFree.com](https://www.ilovefree.com/free-ai-tools/chatbots-virtual-companions/)** is your ultimate directory for free AI tools. Helping you save money on subscriptions.

@@ -1,5 +1,7 @@
 # Other
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/other/
+
 [⬆️ Back to README](./README.md)
 
 ## Other | I Love Free

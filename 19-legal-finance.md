@@ -1,5 +1,7 @@
 # Legal & Finance
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/legal-finance/
+
 [⬆️ Back to README](./README.md)
 
 ## Legal & Finance | I Love Free

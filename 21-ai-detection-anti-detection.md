@@ -1,5 +1,7 @@
 # AI Detection & Anti-Detection
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/ai-detection-anti-detection/
+
 [⬆️ Back to README](./README.md)
 
 ## AI Detection & Anti-Detection | I Love Free
