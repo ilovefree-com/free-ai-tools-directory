@@ -1,0 +1,678 @@
+# Coding & Development
+
+[⬆️ Back to README](./README.md)
+
+## Coding & Development | I Love Free
+
+> Find free AI developer tools, app builders, and code assistants. Build software faster with these no-cost AI coding solutions.
+
+### AI Developer Tools
+
+-   [Google AI Studio](https://aistudio.google.com) - Completely free in Google AI Studio / Multimodal generative AI models / 2M token context window / Search grounding - From $0.0375 per 1M tokens
+-   [Bitbucket](https://bitbucket.org) - Free for up to 5 users, 50 build minutes, 1 GB Git LFS / CI/CD / AI / Jira integration - From $3.30/month
+-   [Salesforce Platform](https://force.com) - 30-day trial / Unifies Data, AI, CRM, Development, and Security / Low Code Development / Automation - From $25/user/month
+-   [Weights & Biases](https://wandb.ai) - Free 5GB storage / 1GB Weave data ingestion / AI model experiment tracking / AI application evaluations / AI assets registry - From $50/mo
+-   [Roboflow](https://roboflow.com) - 30 credits per month free / AI-assisted data annotation / Hosted model training & deployment - From $49/month
+-   [Ultralytics](https://www.ultralytics.com) - 20GB Storage free / Build, train, and deploy Vision AI models / No-code platform - From $20/month
+-   [Google Antigravity](https://antigravity.google) - Individual plan $0/month / AI IDE Core / Agent-first development - From $0/month
+-   [Convex](https://www.convex.dev) - Free Starter plan / Realtime reactive database / Full-stack TypeScript backend / AI integration - From $25 per developer/month
+-   [Jam](https://jam.dev) - Unlimited Jams / Auto-captures all info for debugging / Automatic repro steps / AI debugger - From $12/month
+-   [Modal](https://modal.com) - 30 / month free compute credits / High-performance AI infrastructure / Serverless pay-per-second compute - From $0/month
+-   [SuperAnnotate](https://www.superannotate.com) - Free Trial / Streamline AI Data Workflows / Build feedback-driven annotation and evaluation pipelines / Centralizes all your AI data work in one place
+-   [Together AI](https://www.together.ai) - Fast Inference, Fine-Tuning & Training / Scalable GPU Clusters / 200+ Generative AI Models
+-   [Qoder](https://qoder.com) - Free Access During Preview, 2-week Pro Trial / Agentic Coding Platform / Enhanced Context Engineering - From $0/month
+-   [CapSolver](https://capsolver.com) - Free trial / AI-powered automatic captcha solving / Solves reCAPTCHA, Cloudflare, and other types / Fastest captcha solving service - From $23/50k requests
+-   [Warp](https://warp.dev) - Free 300 AI requests per month / AI Tools / Team knowledge built-in - From $18/month
+-   [ImageKit.io](https://imagekit.io) - Image and Video API / AI-powered Digital Asset Management / Automatic performance optimization
+-   [CodePal](https://codepal.ai) - text-to-code generation / code review / bug detection
+-   [Composio](https://composio.dev) - Free Forever with 100 User Accounts & 10k API Calls /month / Seamlessly integrate AI Agents & LLMs with 250+ tools / Managed Auth - From $29/month
+-   [Lightning AI](https://lightning.ai) - 35 free GPU hours/month / Build models and full-stack AI apps / Train, deploy, and serve AI / No credit card - From $50/month
+-   [VideoSDK](https://videosdk.live) - 10,000 free minutes every month / Low-latency infrastructure / Native SDKs for every platform / AI communication
+-   [Zeabur](https://zeabur.com) - Free Trial (24-hour project deletion) / Painless Deployment / Automatic Scaling - From $5/month
+-   [SaladCloud](https://salad.com) - 5-audio hour transcription free trial / Save up to 90% on cloud costs / Deploy AI/ML production models easily - From $0.005/month
+-   [SiliconFlow](https://www.siliconflow.com) - $1 in free credits / Deploy LLMs & multimodal models / Fine-tune models - Pay-as-you-go
+-   [Lablab.ai](https://lablab.ai) - All events free to attend / AI Hackathons / Community of Makers
+-   [LlamaIndex](https://www.llamaindex.ai) - Free 10K credits / Build Knowledge Assistants / GenAI-native document parsing - From $50/month (50K credits)
+-   [Pieces for Developers](https://pieces.app) - Free 9 months of individual context / AI-powered code snippet manager / Long-Term Memory technology
+-   [ClawCloud Run](https://run.claw.cloud/?referralCode=Q7T3Y8M4K6VX) - Free $5 credits / 4 vCPU / 8GiB RAM / 10GiB disk / 10G traffic / Cloud-Native Platform / One-click Docker deployment - From $5/month
+-   [Label Studio](https://labelstud.io) - Open Source / flexible data labeling for all data types / ML-assisted labeling & LLM fine-tuning - From $99/month
+-   [Toolhouse](https://toolhouse.ai) - Complete cloud infrastructure for LLMs / Built-in function calling & agentic setup / Deploy agents as APIs with RAG, evals, memory
+-   [Airbyte](https://airbyte.com) - Free forever & 14-day free trial / Open-Source Data Integration / 600+ connectors
+-   [Zilliz](https://zilliz.com) - Free 5 GB storage, 2.5M vCUs per month / Fully managed Milvus / Billion-scale vector search - From $0.3/GB per month
+-   [Workik AI](https://workik.com) - 10 Free requests daily / AI for Backend & Frontend Code Development / Context-driven AI Assistance - From $15/month
+-   [ZEGOCLOUD](https://www.zegocloud.com) - 10,000 MINUTES free / Voice, Video & Chat APIs / Real-Time Interaction - From $0.99/1,000 participant minutes
+-   [Dagster](https://www.dagster.io) - 30-day free trial / Unified control plane for AI & data pipelines / End-to-end observability & lineage - From $10/month with 7.5k credits
+-   [Tinybird](https://www.tinybird.co) - Free forever, 1,000 queries per day, 10GB Storage / Real-time analytics backend / Scalable REST APIs - From $25/month
+-   [Kombai](https://kombai.com) - Understand and code UI like human devs / Generate high-quality UI code from designs / No manual tags or auto-layout needed - Always Free
+-   [Coder](https://coder.com) - Free unlimited workspaces and users / Self-Hosted Cloud Development Environment / Faster Build Times & Reduced Cloud Costs
+-   [Localazy](https://localazy.com) - 14-days free trial / Software localization on autopilot / Automated human professional translations
+-   [Portkey](https://portkey.ai) - Free trial / Observability Suite / AI Gateway / Prompt Engineering
+-   [PureCode AI](https://purecode.ai) - 50 chat messages per month / Generate UI Using AI / Human-Like Codebase Understanding - From $20/per month
+-   [Agno](https://www.agno.com) - Free framework / model agnostic / memory, knowledge and tools / blazing fast / -
+-   [accessiBe](https://accessibe.com) - AI-Powered web accessibility / ADA & WCAG Compliance / Litigation support - From $59/month for up to 5,000 website visits/month
+-   [Confident AI](https://www.confident-ai.com) - Limited to 1 project, 5 test runs per week, 1 week data retention / LLM evaluation / LLM observability / LLM red teaming & guardrails - From $29.99/month
+-   [ChartDB](https://chartdb.io) - Free / Database diagram editor / Visualize database with a single query / AI-powered DDL script generation
+-   [Anyscale](https://anyscale.com) - $100 Credit / Supercharge your AI Platform / Build, run and scale AI applications
+-   [Helicone](https://www.helicone.ai) - 10,000 free requests / LLM observability / cost tracking / agent tracing - From $20/seat per month
+-   [ElevenLabs](https://www.aiengineerpack.com) - 10 minutes Text to Speech free / Realistic AI voices / Comprehensive AI development toolkit - From $5/month
+-   [gpt-oss playground](https://gpt-oss.com) - Free demo / Explore OpenAI's open-weight models / Adjustable reasoning level
+-   [Commissioned](https://www.commissioned.tech/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3159)- Freemium + From $25/month, No Refunds / Fine-tuning in minutes not weeks
+-   [EZClaws](https://www.ezclaws.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3204)- 2 days free trial + From $49/unit, No Refunds / One-click OpenClaw AI agent hosting.
+-   [InitRunner](https://www.initrunner.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3321)- 100% Free / Build AI agents in YAML. Run them from your terminal.
+-   [Mnemom](https://mnemom.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3480)- Freemium + From $0.01/month, No Refunds / Trust scores, cryptographic proof, and risk assessment for AI agents.
+-   [Ticketify](https://ticketify.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3495)- 100% Free / AI-powered ticket creation for developers.
+-   [BareMinimum](https://bareminimum.design/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2985)- 100% Free / AI-powered ASCII wireframe generator for developers.
+-   [ETLR](https://etlr.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2679)- Freemium + From $27/month, No Refunds / AI workflows as code, deployed in minutes.
+-   [Replay](https://www.replay.build/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) - Freemium + From $20/unit, No Refunds / Turn videos into working UI. First AI tool for UI Behavior Reconstruction
+-   [Vivgridv1.1.1](https://www.vivgrid.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3044)- Freemium + From $25/month, No Refunds / The confident path for AI agents.
+-   [Respan](https://www.respan.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3523)- Freemium + From $199/month, No Refunds / Ship reliable AI applications with confidence.
+
+### AI App Builder
+
+-   [Replit](https://replit.com) - Replit Agent trial included / 3 development apps / AI-powered app development / Cloud IDE & Deployment - From $20/month
+-   [Salesforce Platform](https://force.com) - 30-day trial / Unifies Data, AI, CRM, Development, and Security / Low Code Development / Automation - From $25/user/month
+-   [Base44](https://base44.com) - 25 message credits / month / Build Apps with AI in Minutes / No code / Integrated backend and database system - From $16/mo
+-   [Glide](https://glideapps.com) - Create Custom, AI-Powered Apps / Automate Manual Work
+-   [Airtable](https://airtable.com/ai) - Free plan with 250 AI credits/user / AI-powered app building / Data analysis & web research - From $24/seat/month
+-   [Dify.AI](https://dify.ai) - 200 messages free / Orchestrate LLM apps / RAG engine - From $59/month
+-   [Firebase Studio](https://firebase.studio) - 3 workspaces free / AI-powered full-stack development / End-to-end testing
+-   [RunningHub](https://www.runninghub.ai) - Cloud-Based ComfyUI / Edit & Run Workflows Online / Publish AI Apps to Earn Revenue
+-   [miniapps.ai](https://miniapps.ai) - Discover & Create Free AI-powered Mini Apps / Chatbots and AI tools / Various categories (health, social media, SEO)
+-   [Hex](https://hex.tech) - 14 days free trial / Collaborative AI-powered workspace / Notebook-based data exploration / Interactive data apps - From $36 per Editor/month
+-   [Anakin.ai](https://anakin.ai) - 30 free credits / day / Generate Content, Images, Videos, and Voice / Craft Automated Workflows, Custom AI Apps, and Intelligent Agents - From $12.90/month
+-   [Creao AI](https://www.creao.ai) - 30 credits/month free / Build custom AI apps with natural language / Built-in AI copilot / No card required - From $12.50/month
+-   [Mocha](https://getmocha.com) - Free 120 credits, 1 app deployment / AI-powered no-code app builder / Turns ideas into live websites / Unique designs - From $20/month
+-   [Create](https://www.create.xyz) - 10k credits / Chat and generate / AI integrations / - From $16/mo
+-   [Softr](https://www.softr.io) - 1 published app, 10 app users free / Build custom apps without code / Turn data into portals & tools - From $59/month
+-   [Vibecode](https://vibecodeapp.com) - Limited messages / Generate apps with prompting / View and test your app on your phone - From $20/month
+-   [DhiWise](https://www.dhiwise.com) - Free trial / AI-powered web & mobile app building / Figma to Code conversion
+-   [Rosebud AI](https://www.rosebud.ai) - AI Generated Visuals / No-code 3D Game Creation
+-   [WeWeb](https://www.weweb.io) - 1 million AI tokens free / AI-assisted building / Visual drag & drop editor - From $16/month
+-   [Dyad](https://dyad.sh) - Free / AI app builder, no coding required / Local & open-source / No Sign-up required - From $30/month
+-   [OnSpace.AI: App Builder AI No-code Platform](https://www.onspace.ai) - No-Code AI App Builder / From Idea to App in Minutes / Screenshot to App in Seconds - From $15/month
+-   [a0.dev](https://a0.dev) - 5 AI code generation messages/day / AI App Builder / Built-in Image / LLM APIs - From $20/month
+-   [Trickle Magic Canvas](https://www.trickle.so) - Free 30 messages per month / Build stunning websites, AI apps, and forms / Seamless data management - From $20/month
+-   [Tile](https://www.tile.dev) - 1000 monthly credits / Build and ship App Store ready mobile apps with AI agents / Powerful Visual Editing - From $29/month
+-   [FlowHunt](https://flowhunt.io) - 7-day free trial (5 credits) / Build intelligent chatbots and AI tools without coding / Automate workflows - From 10€/month
+-   [Softgen.ai](https://softgen.ai) - 100K tokens free / AI Web App Builder / No coding required / Build full-stack apps - From $25/month
+-   [PartyRock](https://partyrock.aws) - Build AI-generated apps / Learn generative AI fundamentals
+-   [BuildAI](https://www.buildai.space) - 20 magic builder messages per month / Build AI Apps in Minutes / No Coding Required - From $20/month
+-   [RapidNative](https://www.rapidnative.com) - 20 requests/month free / Convert prompts into production-ready React Native and Expo apps / Generate clean, modular React Native code - From $20/month
+-   [UI Bakery](https://uibakery.io/ai-app-generator) - Up to 5 users and 1000 scheduled job/webhook/server action executions per month / Generate web apps with AI / Visual low-code editor - From $5/month per user
+-   [Vitara.ai](https://vitara.ai/%20%20) - Free 5 messages per day, 25 messages per month / Build full-stack apps using just a prompt / No coding needed - From $20/month
+-   [Floot](https://floot.com) - 6,000 credit signup bonus / Build Apps in Minutes with AI / All-in-one platform - From $25/month
+-   [Formaloo](https://www.formaloo.com/en) - 100 monthly form submissions / No-code forms, web apps, and membership portals / AI-powered forms & analytics - From $12/month
+-   [Sleek: AI Mobile App Designer](https://sleek.design) - Free designs / AI Mobile App Designer / Export to Figma or code
+-   [Vibe Architect](https://momen.app/vibe-architect-lovable) - Free 1 API, 1 Actionflow, 1 AI agent, 100,000 AI points/month / Launch a real, interactive AI / Native agent builder - From $33/month
+-   [Momen](https://momen.app/ai) - Free 1 AI Customization / API / Actionflow / Build AI-powered Apps / Create AI Agents - From $33/month
+-   [Dualite - AI Frontend Engineer](https://dualite.dev) - 5 messages free / Local-first AI builder / Figma-to-Code / GitHub Sync - From $29/month
+-   [Flatlogic](https://flatlogic.com) - 5 credits per month / AI-powered app generation & modification / Own your software & source code - From $20/month
+-   [Vondy](https://vondy.com) - Browse and create AI-powered apps / Generate anything you can imagine - From $19/month
+-   [VectorShift](https://www.vectorshift.ai) - Free 1,000 non-AI actions per month / No-code AI app building / Workflow automation / Custom chatbots - From $20/month
+-   [ZOER](https://zoer.ai) - 15 credits / AI Web App Generator / Full-stack app builder / - From $19/month
+-   [Capacity](https://capacity.so) - Create Full Stack Web Apps with AI & natural language / No coding required / Build production-grade software
+-   [Dazl](https://dazl.dev) - 5 daily credits / Generative AI app building / Hands-on editing tools - From $25/month
+-   [Jet Admin](https://www.jetadmin.io) - Free plan (1 app, 1 user) & 14-day free trial / Build Custom Business Apps / No-Code Customization - From $0/month
+-   [Klu](https://klu.ai) - Build with Preferred LLMs & Data Integration / Collaborative Prompt Engineering & Evaluation / 1-Click Fine-tuning - From $30/month
+-   [Progressier](https://progressier.com) - 14 days free, unlimited access / Universal Installation / Push Notifications - From $15/month for 1 PWA
+-   [Stately](https://stately.ai) - Unlimited public projects free, 3 AI generations/month / Visually build and deploy logic / AI-enhanced tools / Executable diagrams - From $33/month
+-   [HeroUI Chat](https://heroui.chat) - Turns prompts or screenshots into production-ready React code / Build stunning UIs by describing what you want
+-   [Raccoon AI](https://raccoonai.tech/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3306)- Freemium + From $19/month, No Refunds / The AI Coworker for Apps, Research, Docs & Everything Else
+-   [Sketchflow.ai](https://www.sketchflow.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3087)- Freemium + From $25/month, No Refunds / Text to native iOS & Android apps. Real Swift & Kotlin code
+-   [ThinkRoot - The AI Compiler](https://www.thinkroot.dev/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3192)- Freemium + From $5, One-time / From idea to app in minutes.
+-   [RapidNative](https://www.rapidnative.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2856)- Freemium + From $20/month, No Refunds / Build mobile apps from idea to prototype instantly.
+
+### AI Website Builder
+
+-   [Looka](https://looka.com) - AI-powered Logo Design / Brand Kit for marketing materials
+-   [Lovable](https://lovable.dev) - Free 30 credits per month / Build software products using a chat interface / Faster granular edits / Supports multi-page apps - From $25/month
+-   [Framer](https://www.framer.com) - Free 10 CMS collections, 1,000 pages, 5MB file uploads, and a free locale / Zero code website design and publishing / AI-powered site creation - From SGD 90/month
+-   [Replit](https://replit.com) - Replit Agent trial included / 3 development apps / AI-powered app development / Cloud IDE & Deployment - From $20/month
+-   [Solo](https://www.soloist.ai) - Free website / Instantly create beautiful websites with AI / Free custom domain connection
+-   [Tilda](http://tilda.cc) - Free 1 website / No coding required / AI-Powered Website Creation - From $10/month
+-   [Prismic](https://prismic.io) - Free plan with 1 user, 4M API calls, 100GB CDN / Empower marketers to create on-brand pages fast / Local developer tool - From $10/month
+-   [Relume](https://relume.io) - Free 30 components / AI Site Builder / Webflow Library
+-   [Durable](https://durable.co) - Free website generation / AI Website Builder / Automated Marketing / CRM & Invoicing / No credit card required - From $12/month
+-   [Gamma](https://gamma.app) - Free 400 AI credits at signup / Generate AI Presentations / Webpages & Docs / Effortless Design - From $16/user/month
+-   [STUDIO AI](https://studio.design) - 2,000 visitors/mo / AI-augmented design / multi-step task automation / responsive design - From $10/month
+-   [Mobirise AI Website Builder](https://mobirise.com/builder/ai-website-builder.html) - / Generate website with AI / No-code website building / Customizable templates - From $199/year
+-   [B12](https://b12.io) - AI-powered website builder / Streamline business operations - From $49/month
+-   [Hocoos AI Website Builder](https://hocoos.com) - Free website creation and hosting with limited features / AI-designed business websites / AI-powered design tools / Sales and marketing tools - From $15/month
+-   [Mocha](https://getmocha.com) - Free 120 credits, 1 app deployment / AI-powered no-code app builder / Turns ideas into live websites / Unique designs - From $20/month
+-   [Wegic](https://wegic.ai) - Free plan available / AI web designer and developer / Create and modify websites via chat / No coding required
+-   [Dora AI](https://dora.run) - 120 credits at signup / AI-powered website generation / 3D animated websites / No-code editor - From $0/month
+-   [10Web](https://10web.io) - One-week free trial / AI Website Builder / Automated WordPress Hosting / 90+ PageSpeed Optimization - From $10/month
+-   [Plug&Pay](https://plugandpay.com) - 14-day free trial / Launch a profitable website with A.I. / Set up ultimate sales funnels - From €15/month
+-   [DhiWise](https://www.dhiwise.com) - Free trial / AI-powered web & mobile app building / Figma to Code conversion
+-   [TeleportHQ](https://teleporthq.io) - Free 1 project, 3 pages/project, 10 code views/downloads / Visual Builder / Headless CMS Integrations / Figma to Code - From $9/editor/month
+-   [Readdy](https://readdy.ai) - 100 Credits / AI design / natural language to design - From $20/Month
+-   [Dorik AI](https://dorik.com) - 5 websites free / AI Website Generation / No-Code Website Builder - From $18/month
+-   [Universe Website Builder](https://univer.se) - 5 image/text generations free / No-code website builder / Build online stores - From $12/month
+-   [CodeDesign.ai](https://www.codedesign.ai) - Free 3 websites / AI-powered website builder / AI Sales Funnels - From SGD 9/month
+-   [Skip](https://helloskip.com) - Free 7 Day Trial / Skip Applies for You / Complete Applications Faster Using AI
+-   [Trickle Magic Canvas](https://www.trickle.so) - Free 30 messages per month / Build stunning websites, AI apps, and forms / Seamless data management - From $20/month
+-   [StoreBuild.ai](https://storebuild.ai/toolify-ai) - Free AI-built store / AI builds your store / 10 winning products loaded
+-   [Zarla](https://zarla.com) - Free website / AI-powered website builder / SEO & Lead Generation - From $9/month
+-   [Sell The Trend](https://sellthetrend.com) - 14-Day Free Trial / AI Dropshipping Software / Winning Product Discovery / Store Automation - From $19.97/month
+-   [Softgen.ai](https://softgen.ai) - 100K tokens free / AI Web App Builder / No coding required / Build full-stack apps - From $25/month
+-   [Mixo](https://www.mixo.io) - Free Trial Available / AI-powered website builder / Integrated subscriber management tools - From $6/month
+-   [Floot](https://floot.com) - 6,000 credit signup bonus / Build Apps in Minutes with AI / All-in-one platform - From $25/month
+-   [Lumi.new](https://lumi.new) - 5 daily credits / Build websites instantly through AI chat / Create apps & websites by chatting with AI - From $25.00/month
+-   [LandingPage AI](https://landing-page.io) - Free access / AI Landing Page Builder / Conversion-Optimized / Full Website Builder
+-   [Dropmagic](https://dropmagic.ai) - Free trial (unlimited stores, 57+ sections) / Build winning AI stores in minutes / Turn any product into a high-converting Shopify store - From $79/month
+-   [WiziShop](https://wizishop.com) - 7-day free trial / AI content creation / Best-in-class SEO / No credit card required - From $24.90/month
+-   [Dualite - AI Frontend Engineer](https://dualite.dev) - 5 messages free / Local-first AI builder / Figma-to-Code / GitHub Sync - From $29/month
+-   [Ucraft Next](https://www.ucraft.com) - 14-day Free Trial / No-Code Website Builder / Create online stores / AI-assisted design
+-   [Capacity](https://capacity.so) - Create Full Stack Web Apps with AI & natural language / No coding required / Build production-grade software
+-   [Typedream](https://typedream.com) - AI Website Builder / Build your dream site
+-   [Open Lovable](https://open-lovable.com) - Unlimited Usage / AI-Powered Website Cloning / Clean React/TypeScript Code - Free
+-   [Brizy AI Website Builder](https://www.brizy.io/brizy-ai-website-builder) - Website builder for non-techies
+-   [Butternut.ai](https://butternut.ai) - Instant website building / AI-generated images and copy / Full SEO optimization - From $20/month
+-   [Pineapple Builder](https://pineapplebuilder.com) - 1 AI page generation free / AI Website Builder / AI SEO Optimization - From $12/month
+-   [Macaly](https://macaly.com) - Free / AI Website Generation / SEO Optimization
+-   [Meku.dev](https://meku.dev) - 150 Credits/month, 3 Projects / AI-powered web app and site builder / Generate, customize and deploy full-stack web apps - From $10/month
+-   [Atoms](https://atoms.dev/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3465)- Freemium + From $15.80/month, No Refunds / Turn ideas into products that sell with AI.
+-   [CodePup AI](https://codepup.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3441)- Free Trial + From $25/month, No Refunds / Build it. Test it. Launch it. In one shot.
+-   [Design.com | AI Website Builder](https://www.design.com/ai-website-generator?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3357)- Freemium + From $6/month, No Refunds / Build your dream website with AI in seconds.
+
+### AI API
+
+-   [Google AI Studio](https://aistudio.google.com) - Completely free in Google AI Studio / Multimodal generative AI models / 2M token context window / Search grounding - From $0.0375 per 1M tokens
+-   [OpenRouter](https://openrouter.ai) - Unified interface for LLMs / Better prices, better uptime
+-   [Groq](https://groq.com) - Fast AI Inference / Exceptional compute speed / Supports openly-available AI models
+-   [Venice AI](https://venice.ai) - Free 25 text prompts & 15 image prompts daily / Private and Uncensored AI / Generate text, images, characters and code - From $18/month
+-   [Nano Banana Pro API - Kie.ai](https://kie.ai/nano-banana-pro) - Free initial credits / Cost-effective AI image generation / High-fidelity 4K output - From $0.12/image
+-   [Roboflow](https://roboflow.com) - 30 credits per month free / AI-assisted data annotation / Hosted model training & deployment - From $49/month
+-   [Kie AI](https://kie.ai) - Text, Music, and Video Generation APIs / Stable and Scalable Performance / Real-Time Streaming Output
+-   [DeepSeek](https://www.deepseek.com) - World-leading AI Foundational Models / Open-source LLM & Coder Models / AI Chat & API Access
+-   [ElevenLabs](https://elevenlabs.io) - 10k credits/month / Realistic Text to Speech / AI Voice Generation - From $5/month
+-   [Deepgram](https://deepgram.com) - Free $200 credit / Speech-to-Text / Text-to-Speech / Voice Agent APIs / No credit card required - From $4k/year
+-   [Modal](https://modal.com) - 30 / month free compute credits / High-performance AI infrastructure / Serverless pay-per-second compute - From $0/month
+-   [Together AI](https://www.together.ai) - Fast Inference, Fine-Tuning & Training / Scalable GPU Clusters / 200+ Generative AI Models
+-   [DataCamp](https://datacamp.com) - Every first chapter free / Interactive video tutorials & coding challenges / Hands-on learning in browser - From $14/month
+-   [Runway](https://runwayml.com) - 125 credits (one time) / AI video generation / AI image generation - From $12/month
+-   [Bannerbear](https://bannerbear.com) - 30 API credits / Automated Image Generation / Automated Video Generation - From $49/month
+-   [Bigjpg](https://bigjpg.com) - 20 images/month / AI Super-Resolution lossless image enlarging / Noise Reduction - From $3/month (500 images)
+-   [Exa](https://exa.ai) - Free $10 in credits / Web search / LLM answers - From $1 per 1k pages
+-   [ImageKit.io](https://imagekit.io) - Image and Video API / AI-powered Digital Asset Management / Automatic performance optimization
+-   [Pinecone](https://www.pinecone.io) - Free up to 2GB storage / Vector database for knowledgeable AI / Performance at scale - From $25/month
+-   [Composio](https://composio.dev) - Free Forever with 100 User Accounts & 10k API Calls /month / Seamlessly integrate AI Agents & LLMs with 250+ tools / Managed Auth - From $29/month
+-   [OpenAI](https://openai.com) - Limited free access / Access to GPT-4o / Real-time data & search / Image generation & voice mode - From $20/month
+-   [VideoSDK](https://videosdk.live) - 10,000 free minutes every month / Low-latency infrastructure / Native SDKs for every platform / AI communication
+-   [Erase.bg](https://www.erase.bg) - 3 free credits / Remove background from images / High-resolution downloads / Bulk processing - From $5/month
+-   [SaladCloud](https://salad.com) - 5-audio hour transcription free trial / Save up to 90% on cloud costs / Deploy AI/ML production models easily - From $0.005/month
+-   [AudioPod AI](https://www.audiopod.ai) - Free 10000 credits per month / Voice cloning / Noise reduction / Audio translation - From $2.50/month
+-   [Pipedream](https://pipedream.com) - Up to 300 credits/mo / Connect APIs, AI, databases, and more / code-level control when you need it and no code when you don't - From $29/month
+-   [Algolia](https://www.algolia.com) - 10k search requests / month & 1M records free / AI-powered Search / AI Recommendations / Crawler
+-   [D-ID](https://www.d-id.com) - 14-day trial / Create AI-powered talking avatars / Translate videos into multiple languages - From $14.4/month
+-   [Unscreen](https://www.unscreen.com) - Free up to 5 seconds per clip / Remove Video Background / 100% Automatically / No Sign-Up - From $9.00/month
+-   [Firecrawl](https://www.firecrawl.dev) - 500 credits free / Turn websites into LLM-ready data / Scrape & Crawl web data - From $16/month
+-   [Toolhouse](https://toolhouse.ai) - Complete cloud infrastructure for LLMs / Built-in function calling & agentic setup / Deploy agents as APIs with RAG, evals, memory
+-   [Jina AI](https://jina.ai) - 10 Million tokens free / Embeddings / Rerankers / Deep Search / No credit card or registration required - From $50 for 1 Billion tokens
+-   [Kie.ai](https://kie.ai/4o-image-api) - Free trial / High-quality 4o image generation / Image-to-image & text-to-image generation / Accurate text rendering & flexible style control
+-   [Novita AI](https://novita.ai) - Free access to select LLM & Embedding models / 200+ AI Model APIs / GPU services - From $0.001 /image
+-   [Thordata](https://www.thordata.com/?ls=dc&lk=toolai) - Free trial / 60M+ Residential Proxies / High-Quality Proxy Service / Perfect for AI - From $0.65/GB
+-   [AI/ML API](https://www.aimlapi.com) - Access 200+ AI Models with a Single AI API / GPT-4 level performance at 80% lower costs
+-   [Fireworks AI](https://fireworks.ai) - Free $1 credits / Blazing fast inference for LLMs & image models / Fine-tune and deploy your own models - Fully pay-as-you-go from $0.10/1M tokens
+-   [Runware](https://runware.ai) - 1000 free images / Ultra-Fast Stable Diffusion API / Lowest Cost Image Generation - From $1 for 1000 images
+-   [Mubert](https://mubert.com) - AI Music Generator / Royalty-Free Music / AI soundtracks for content - From $9.99/month
+-   [Pollinations.AI](https://pollinations.ai) - Image, Text, and Audio Generation API / No Login or Sign Up required
+-   [SaladCloud](https://salad.com/transcription) - 5 hours free / AI Speech-to-Text / Lowest GPU Prices - From $3.65/month
+-   [Picarta](https://picarta.ai) - Free 3 Searches / day / Photo Location Search using AI / Image Geolocalization using AI - From $59.99/month
+-   [Eden AI](https://www.edenai.co) - Free $10 credit / Access to +100 AI models / Compare AI models accuracy & price
+-   [Cartesia](https://cartesia.ai) - 20K Credits Free / Fastest, ultra-realistic voice AI / Real-time voice agents / AI voice cloning - From $5/month
+-   [NoFilterGPT](https://nofiltergpt.com) - Limited messages per day, 30 image generations per day / Unfiltered, Uncensored AI chat / Anonymous - From $2.79/month
+-   [Tess AI](https://pareto.io) - 7-Day Free Trial / Access the world’s largest AIs in one place / Safe, Affordable, and Fast AI Adoption - From $9.8/month
+-   [Deep Infra](https://deepinfra.com) - 10 USD free per month / Fast ML Inference / Simple API - From $0.005 per 1M input tokens
+-   [Supermeme.ai](https://supermeme.ai) - 10 free AI memes / AI Meme Generator / Multilingual support - From $6.49/month
+-   [Browser Use](https://browser-use.com) - Unlimited API access / Make websites accessible for AI agents / Automate browser interactions - From $0/month
+-   [ElevenLabs](https://www.aiengineerpack.com) - 10 minutes Text to Speech free / Realistic AI voices / Comprehensive AI development toolkit - From $5/month
+-   [HumanLayer](https://humanlayer.dev) - 100 operations/month / Require Human Approval for Function Calls / OmniChannel Contact / Human as Tool - From $500/month
+-   [The Profanity API](https://the-profanity-api.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3162)- Freemium + From $0.00/unit, No Refunds / Intelligent profanity detection that understands context.
+
+### AI Code Assistant
+
+-   [Cursor - The AI Code Editor](https://cursor.sh) - Free 2-week Pro trial, 2000 completions, 50 slow premium requests / AI-powered code completion / Codebase Q&A / Natural language editing - From $20/month
+-   [Bitbucket](https://bitbucket.org) - Free for up to 5 users, 50 build minutes, 1 GB Git LFS / CI/CD / AI / Jira integration - From $3.30/month
+-   [Trae](https://www.trae.ai) - / AI-powered IDE / Human-AI Collaboration / Smart Autocompletion
+-   [Kiro](https://kiro.dev) - 50 interactions per month free / Spec-driven development / Agent hooks / Multimodal chat - From $19/mo. per user
+-   [LockedIn AI](https://www.lockedinai.com) - 10 minutes free daily / AI Interview & Meeting Copilot / Coding Copilot
+-   [DeepWiki](https://deepwiki.com) - AI documentation you can talk to / Understands codebase structure
+-   [Google Antigravity](https://antigravity.google) - Individual plan $0/month / AI IDE Core / Agent-first development - From $0/month
+-   [Interview Coder](https://www.interviewcoder.co) - Free plan / Real-time coding assistance / Undetectable during technical interviews / Detailed solution explanations - From $25/month (billed annually)
+-   [BLACKBOX.AI](https://www.blackbox.ai) - Autonomous Coding Agent / Access to all AI models / Web IDE & Integrations to All Local IDEs - From $14.99/month
+-   [Firebase Studio](https://firebase.studio) - 3 workspaces free / AI-powered full-stack development / End-to-end testing
+-   [Qoder](https://qoder.com) - Free Access During Preview, 2-week Pro Trial / Agentic Coding Platform / Enhanced Context Engineering - From $0/month
+-   [Augment Code](https://www.augmentcode.com) - Up to 50 user messages free / Context Engine / MCP & Native Tools / Unlimited Next Edits & Completions - From $50/month
+-   [Warp](https://warp.dev) - Free 300 AI requests per month / AI Tools / Team knowledge built-in - From $18/month
+-   [Sourcegraph](https://sourcegraph.com/cody) - 200 chats and commands per month / AI Editor Assistant / Code Search - From $9/month
+-   [CodePal](https://codepal.ai) - text-to-code generation / code review / bug detection
+-   [Tabnine](https://www.tabnine.com) - 14-day free preview / AI code completion / AI chat / Code privacy & IP protection - From $9/month
+-   [Aikido](https://aikido.dev) - Free 2 users, 10 repos, 2 AI AutoFixes/mo / All-in-one security platform / AI AutoTriage & AutoFix / No CC required - From $350/month
+-   [CodeGPT](https://codegpt.co) - Up to 30 interactions free / AI Coding Assistant / Automate code reviews - From $15/month/Seat
+-   [Z.ai](https://chat.z.ai) - Free / AI for Presentations / Writing / Coding / No Login
+-   [Activepieces](https://www.activepieces.com) - Free 1,000 tasks per month / AI-first automation / No-Code Automation / AI agents - From $1,200 per month
+-   [cto.new](https://cto.new/product-hunt) - Completely free / Code with latest frontier models / AI code agent - Free
+-   [Pieces for Developers](https://pieces.app) - Free 9 months of individual context / AI-powered code snippet manager / Long-Term Memory technology
+-   [Kilo Code](https://kilocode.ai) - Free $20 credits / Generate code / Automate tasks
+-   [Writingmate.ai](https://writingmate.ai) - Unlimited Free tier models / Multiple AI Models / Image Generation / Web Search - From $9.99/month
+-   [Runcell - Jupyter AI Agent](https://www.runcell.dev) - Free Trial / Generate code and run cells with natural language / Full notebook automation and execution -
+-   [Interview Solver](https://interviewsolver.com) - Solves all Leetcode style problems / Invisible to screensharing / Transcribe from audio - From $39/month
+-   [BlackBox AI](https://www.useblackbox.io) - 5-day free trial / Turn any question into code / Extract code from any video
+-   [Workik AI](https://workik.com) - 10 Free requests daily / AI for Backend & Frontend Code Development / Context-driven AI Assistance - From $15/month
+-   [Traycer](https://traycer.ai) - Free One Slot Capacity, 7-day Pro trial / Plan Smarter, Ship Faster / Make your AI coding agents 5x more effective / Verify Changes - From $10/month
+-   [PseudoEditor](https://pseudoeditor.com) - Free / Online Pseudocode Editor & Compiler / AI conversion to Python, JavaScript & high-level languages / No Login required
+-   [Vitara.ai](https://vitara.ai/%20%20) - Free 5 messages per day, 25 messages per month / Build full-stack apps using just a prompt / No coding needed - From $20/month
+-   [Refact.ai](https://refact.ai) - 5,000 coins free / Code Completion / Refactoring / AI Chat - From $10/month
+-   [DocuWriter.ai](https://www.docuwriter.ai) - 5-day trial / Automated Code Documentation Generation / AI-Powered Code Tests Suite Generation / Intelligent Code Refactoring - From $29/month
+-   [Digma AI](https://digma.ai) - Free forever to developers / Uncover code runtime regressions / Resolve performance issues in pre-production / No Login or Sign Up required
+-   [PureCode AI](https://purecode.ai) - 50 chat messages per month / Generate UI Using AI / Human-Like Codebase Understanding - From $20/per month
+-   [AskCodi](https://www.askcodi.com) - 7 days free trial / AI-Powered Code Assistant / Code Generator / Unit-Tests Writer - From $149.99/year (500 AI credits monthly)
+-   [Morph](https://morphllm.com) - Fast Apply code edits / Code-specific Embeddings & Reranking
+-   [Sourcery](https://sourcery.ai/production-issues) - 20 Sentry issues per month / AI investigation and code fixes / Monitor Sentry.io issues - From $200/month
+-   [Sweep AI](https://sweep.dev) - 75 Chat and Agent free / Automate software chores / Next-Edit Autocomplete - From $20/month
+-   [GitLoop](https://gitloop.com) - 50k GPT tokens, 50MB code indexing, 150MB max repo size free / Chat with codebases / Generate documentation / Review code - From $15/mo
+-   [PearAI](https://trypear.ai) - Free trial / AI Code Editor / Integrated AI tools - From $15/month
+-   [CodeAI](https://www.codeai.studio) - 2 public projects, 60 AI generation calls, 40,960 tokens free / AI-driven code generation / full-stack application creation / local-first privacy - From $12/month
+-   [Cratecode](https://cratecode.com) - Free to start / Interactive non-linear lessons / AI-powered guidance
+-   [Kodezi](https://kodezi.com) - Free 50 credits / Auto-corrects code / Auto-generates code - From $6.99/month
+-   [CodeBanana](https://www.codebanana.com) - 30 agent requests free / Real-time collaborative coding / Project-aware AI - From $36/month
+-   [DevLensPro](https://www.devlens.pro/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3035)- Freemium + From $11.95/month / Point at UI elements, let Claude fix code automatically.
+
+### No-Code&Low-Code
+
+-   [MailerLite](https://www.mailerlite.com) - Free for up to 1,000 subscribers / Email marketing / Automations / Websites - From $9/month for up to 500 subscribers
+-   [n8n](https://n8n.io) - / AI-powered workflow automation / Code & no-code flexibility / Self-host or cloud deployment - From $20/month
+-   [Framer](https://www.framer.com) - Free 10 CMS collections, 1,000 pages, 5MB file uploads, and a free locale / Zero code website design and publishing / AI-powered site creation - From SGD 90/month
+-   [Salesforce Platform](https://force.com) - 30-day trial / Unifies Data, AI, CRM, Development, and Security / Low Code Development / Automation - From $25/user/month
+-   [Base44](https://base44.com) - 25 message credits / month / Build Apps with AI in Minutes / No code / Integrated backend and database system - From $16/mo
+-   [Tilda](http://tilda.cc) - Free 1 website / No coding required / AI-Powered Website Creation - From $10/month
+-   [Coda](https://coda.io) - Free plan / Collaborative docs / Integrated apps & data / AI assistance - From $10/month per Doc Maker
+-   [Glide](https://glideapps.com) - Create Custom, AI-Powered Apps / Automate Manual Work
+-   [Adalo](https://www.adalo.com) - Build free apps / No-Code Mobile and Web App Builder / Drag and Drop platform / Publish to App Store, Google Play, or Web - From $36/month
+-   [Onepage](https://onepage.io) - Free 1 Website, 3 pages / Fast website building / Integrated CRM - From $19.9/month
+-   [Glitch](https://glitch.com) - Free full-stack apps (sleep after 5 mins) & unlimited static sites / Build fast, full-stack web apps / Intuitive code editor - From $8/month
+-   [Mobirise AI Website Builder](https://mobirise.com/builder/ai-website-builder.html) - / Generate website with AI / No-code website building / Customizable templates - From $199/year
+-   [Callbell](https://callbell.eu) - 7 days free trial / Centralized multi-channel communication / Automated customer support - From $15/user/month
+-   [Anakin.ai](https://anakin.ai) - 30 free credits / day / Generate Content, Images, Videos, and Voice / Craft Automated Workflows, Custom AI Apps, and Intelligent Agents - From $12.90/month
+-   [Creao AI](https://www.creao.ai) - 30 credits/month free / Build custom AI apps with natural language / Built-in AI copilot / No card required - From $12.50/month
+-   [Mocha](https://getmocha.com) - Free 120 credits, 1 app deployment / AI-powered no-code app builder / Turns ideas into live websites / Unique designs - From $20/month
+-   [Wegic](https://wegic.ai) - Free plan available / AI web designer and developer / Create and modify websites via chat / No coding required
+-   [PhantomBuster](https://phantombuster.com) - 14-day free trial, 2h execution time, 1k AI credits, 5 slots, 50 email credits / Generate leads from all major networks & websites / Automate data collection & outreach - From $56/month (paid annually)
+-   [Relevance AI](https://relevanceai.com) - Build your AI Workforce / Automate processes / Deliver human-quality work
+-   [Dora AI](https://dora.run) - 120 credits at signup / AI-powered website generation / 3D animated websites / No-code editor - From $0/month
+-   [Easycart](https://www.easy.tools/cart) - Free plan / 1-click checkout / Conversion Optimization / Automated Payments
+-   [Softr](https://www.softr.io) - 1 published app, 10 app users free / Build custom apps without code / Turn data into portals & tools - From $59/month
+-   [Gumloop](https://www.gumloop.com) - 1,000 Credits per Month / AI Web Scraping / Social Media Automation - From $97/month
+-   [Unbounce](https://unbounce.com) - 14-day free trial / Landing Page Builder / A/B Testing / AI Optimization - From $99/month
+-   [Vibecode](https://vibecodeapp.com) - Limited messages / Generate apps with prompting / View and test your app on your phone - From $20/month
+-   [DhiWise](https://www.dhiwise.com) - Free trial / AI-powered web & mobile app building / Figma to Code conversion
+-   [TeleportHQ](https://teleporthq.io) - Free 1 project, 3 pages/project, 10 code views/downloads / Visual Builder / Headless CMS Integrations / Figma to Code - From $9/editor/month
+-   [WeWeb](https://www.weweb.io) - 1 million AI tokens free / AI-assisted building / Visual drag & drop editor - From $16/month
+-   [Dyad](https://dyad.sh) - Free / AI app builder, no coding required / Local & open-source / No Sign-up required - From $30/month
+-   [Fibery](https://fibery.io) - Free for 10 users / One platform for the whole company / No-code customizable workspace / AI Assistant - From $12/seat/month
+-   [Xano](https://www.xano.com) - Free plan with 100,000 records & 1GB storage / Scalable No-Code Backend / AI Agent Builder / No-code API Builder - From $25/month
+-   [Activepieces](https://www.activepieces.com) - Free 1,000 tasks per month / AI-first automation / No-Code Automation / AI agents - From $1,200 per month
+-   [Dorik AI](https://dorik.com) - 5 websites free / AI Website Generation / No-Code Website Builder - From $18/month
+-   [Universe Website Builder](https://univer.se) - 5 image/text generations free / No-code website builder / Build online stores - From $12/month
+-   [V7](https://www.v7labs.com) - Document workflow automation / Multi-modal data extraction - From $249/month
+-   [NoteForms](https://noteforms.com) - Unlimited forms, unlimited submissions free / Create beautiful forms / Receive submissions straight into Notion - From $0/month
+-   [Trickle Magic Canvas](https://www.trickle.so) - Free 30 messages per month / Build stunning websites, AI apps, and forms / Seamless data management - From $20/month
+-   [Powtoon](https://www.powtoon.com) - Unlimited Powtoons, 3 min duration, 100MB storage / Easy to use video maker / Animated Videos - From $15/month
+-   [Albato](https://albato.com) - 100 transactions free / No-code automation platform / 800+ available apps - From $13/month for 1,000 transactions
+-   [UI Bakery](https://uibakery.io/ai-app-generator) - Up to 5 users and 1000 scheduled job/webhook/server action executions per month / Generate web apps with AI / Visual low-code editor - From $5/month per user
+-   [Browse AI](https://browse.ai) - 50 credits per month / Extract data from any website / Monitor websites for changes / Turn any website into an API - From $19/month
+-   [Katalon](https://www.katalon.com) - Free forever / 30-day trial / Web, mobile, API, desktop app testing / Low-code, full-code, AI-powered test creation / No credit card required - From $84/month
+-   [Octoparse](https://www.octoparse.com) - Free Plan: 10 tasks, 50K data export/month / No-code web scraping / AI web scraping assistant - From $99/month
+-   [BotPenguin](https://botpenguin.com) - FREE Forever Plan / 12,000 Messages / 1200 Conversations / 1 Chatbot / Omnichannel Chatbot / No-Code Chatbot Maker / ChatGPT Integration - From $150/year
+-   [Gambo](https://www.gambo.ai) - Create 1 game for free, 100 credits / AI game builder / Day-one monetization - From $25/month
+-   [Axiom.ai](https://axiom.ai) - 2 hours runtime free / Browser Automation / Web Scraping / No credit card required - From $15/month
+-   [Hello Audio](https://helloaudio.fm) - 7-day free trial / Turn content into private podcasts / Automatic video to audio conversion - From $17/month
+-   [testRigor](https://testrigor.com) - 14-day trial / Plain English test automation / AI-based self-healing - From $300/month
+-   [Stack AI](https://stack-ai.com) - 500 runs per month free / Build AI Agents / No-code platform / Automate back-office processes
+
+### AI Web Scraping
+
+-   [Apify](https://apify.com) - Free $5 credit / Web scraping / Data extraction / Automation - From $39/month
+-   [Thunderbit](https://thunderbit.com) - 6 pages / month / Scrape any website in 2 clicks / No CSS Selectors or Complex Drag-and-Drop - From $9/month
+-   [SmartProxy](https://www.smartproxy.org/?keyword=qbxls4p9) - Free trial / 100M+ Residential Proxies / Blazing-Fast Internet Access - From $0.5/GB
+-   [Scrapingdog](https://www.scrapingdog.com) - 1000 credits free / Effortlessly managing proxies and headless browsers / Highest Success Rate / No credit card required - From $33.33/month
+-   [Speak AI](https://speakai.co) - 7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant - From $15/month
+-   [POKY - Product Importer](https://poky.app) - 2-day trial / Import Unlimited Products / Build Your Own Scraper / Enhance and Translate with ChatGPT - Then $2.95/month
+-   [Browserless](https://www.browserless.io) - 1k units free / Bypass bot detection / Browser Automation / Automatic captcha solving - From $35/month
+-   [Databar](https://databar.ai) - 100 free trial credits / Access any data API in under 3 clicks / Automate data collection without code - From $39/month with 1,000 credits
+-   [ScrapeGraphAI](https://scrapegraphai.com) - 50 credits included / Transform Websites into Structured Data / Turn unstructured web content into clean, organized JSON - From $20/month
+-   [ProxyCC](https://proxy.cc/?keyword=z9mk0exv) - Unlimited traffic free / Global IP proxy provider / Residential proxies - From $0/day
+-   [Swiftproxy](https://www.swiftproxy.net) - 500MB free traffic / 80M+ Residential IPs / 99.89% Uptime - Starting at $0.70/GB
+-   [Dumpling AI](https://www.dumplingai.com) - 250 credits free / Intelligently scrape the web / Search Google / Document Conversion - From $40/month
+-   [PromptLoop](https://www.promptloop.com) - Free with two workflows / Automate web scraping, Deep Research, and CRM data enrichment / 10x faster B2B research / Integrates with HubSpot CRM - From $750/month
+-   [IGLeads](https://igleads.io) - / No-code Email Scraping / Verified B2B and B2C leads / Multi-platform scraping - From $49/month
+-   [Map Lead Scraper](https://www.mapleadscraper.com) - Free 1,000 leads/month (15 records/time) / Collect local business data / Export to CSV file - From $9.9/month
+-   [Chat4Data](https://chat4data.ai) - 1 million free tokens / AI-powered web scraping with natural language / Extracts various data types & automates pagination / No coding required - From $1 per million tokens
+-   [AgentQL](https://agentql.com) - 300 free API calls / Connect LLMs to Web Data / Precise Data Extraction / Self-Healing Selectors - From $99/monthly
+-   [My Email Extractor](https://www.myemailextractor.com) - 5 free credits per month / Extract Emails from Websites / Extract social media profiles - From $119/year for 6000 credits
+-   [WaterCrawl](https://www.watercrawl.dev) - 1,000 page credit / Smart Website Crawler / Precise Content Extraction - From €4.80/month
+-   [Maps Scraper AI](https://mapsscraper.ai) - Free 1,000 leads/month / Extract business data / Extract email and social media - From $9.9/month
+-   [CapGo.AI](https://capgo.ai) - / Spreadsheet That Fills Itself / Programmatic SEO -
+-   [WebscrapeAI](https://webscrapeai.com) - Free Trial / Automate Data Collection / No-Code / Easy to Use - $27/month for 250 URLs
+-   [Sheet0](https://sheet0.com) - Free tier / Data collection automation / Data analysis automation / Interactive spreadsheets
+-   [Parseium](https://parseium.com) - 3 Custom Parsers free during Beta / AI-powered custom parsers / High-speed deterministic API - From $49/month
+-   [Bright Data](https://get.brightdata.com/datatoolify?utm_content=dataforai) - Real-time web data / AI-driven web scraping and automation tools - From $1.5/1K Results
+-   [Bright Data](https://get.brightdata.com/3z6rc4sr5ptb) - Start Free Trial / Award winning proxy networks / Powerful web scrapers / Ready-to-use datasets - From $3.53/GB
+-   [Thordata](https://www.thordata.com/?ls=dc&lk=toolai) - Free trial / 60M+ Residential Proxies / High-Quality Proxy Service / Perfect for AI - From $0.65/GB
+-   [Bright Data SERP API](https://get.brightdata.com/satoolify) - Multi-engine search results / Real-time structured data / Pay-per-successful-request - From $499/month
+-   [BestProxy](https://bestproxy.com) - 500M free traffic / 80M+ Residential Proxy IPs / Unlimited Concurrent Requests - From $0.66/GB
+-   [AProxy](https://aproxy.com/?keyword=unw8l6dq) - Trial available upon request / 70M+ Compliant Source IPs / Empower Web Scraping & AI Tasks - From $0.27/GB
+-   [Browse AI](https://browse.ai) - 50 credits per month / Extract data from any website / Monitor websites for changes / Turn any website into an API - From $19/month
+-   [ImgKit](https://imgkit.app) - Business Images Automation / Image Downloading / Image Editing
+-   [UseScraper](https://usescraper.com) - Free 1,000 pages / Scrape & crawl the web fast / Full Browser Rendering / No credit card needed - From $0/mo + $1 per 1,000 web pages
+-   [Octoparse](https://www.octoparse.com) - Free Plan: 10 tasks, 50K data export/month / No-code web scraping / AI web scraping assistant - From $99/month
+-   [Skrape.ai](https://skrape.ai) - 50 requests free / AI-powered web scraping API / Structured data for AI/RAG systems / No credit card required - From $15/month
+-   [FlowQY](https://flowqy.com) - 10 extraction jobs for free / AI-Powered Data Extraction / No Coding, no proxies or blocks to deal with! - From $19/month
+-   [Axiom.ai](https://axiom.ai) - 2 hours runtime free / Browser Automation / Web Scraping / No credit card required - From $15/month
+-   [Extracto.bot](https://www.extracto.bot) - Free 50 pages per month / no-configuration, intelligent web scraper / automagically collect data from any site into Google Sheets - From $8/month
+-   [Hexomatic](https://hexomatic.com) - 7-day free trial / Web Scraping / Workflow Automation / AI Work Automation - From $20/mo
+-   [ExtractG2](https://chromewebstore.google.com/detail/scrape-g2-reviews-and-dow/hfagedjelfincfbpghapdmndlppenbnm) - Free / Instant G2 review extraction / AI-powered review summaries / No Login or Sign Up required
+-   [Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) - Free / AI-powered data extraction / Export to Excel/CSV
+
+### AI Testing
+
+-   [PTE APEUni](https://apeuni.com) - Free / AI Scorings / PTE Study Tools
+-   [AlfaPTE](https://alfapte.com) - 2 free mock tests & 5 daily AI score checks / AI Scoring / Real Exam Simulation / Comprehensive Mock Tests - From $10.95/10 days
+-   [LambdaTest](https://www.lambdatest.com/kane-ai) - 60 Min/Month Freemium Plan / GenAI-Native Test Agent / Natural Language Test Authoring - From $15/month
+-   [Qase](https://qase.io) - Free 25k test results/mo via API / Manual & Automated Test Management / AI-Powered QA Testing - From $20/user/month
+-   [Applitools](https://applitools.com) - 14-day free trial / AI-Powered End-to-End Testing / Visual AI / Automated Maintenance - From $699/month billed annually for 500 Components
+-   [Hallo AI](https://hallo.ai) - Free trial available / AI-driven language assessments / 60+ languages - From $19 per test
+-   [TestSprite](https://www.testsprite.com) - Fully Automated End-to-End Testing / AI-powered / Minimal Input
+-   [Certiverse](https://www.certiverse.com) - Free exam development lessons / Launch exams faster / 80% savings over traditional models
+-   [Testportal](https://testportal.net) - AI-powered Question Generator / Automated Grading / Comprehensive Insights & Analytics
+-   [Maestro](https://maestro.dev) - Free to use locally / Automate testing for mobile & web apps / AI-Assisted testing for devs & non-tech teammates - From $125/month
+-   [Devzery](https://www.devzery.com) - Free 150 AI-generated test cases per month / AI-driven test case generation / Automated API regression testing / Precise bug tracking - From $25/month
+-   [Beagle Security](https://beaglesecurity.com) - 1 lite test/month / AI-driven comprehensive penetration tests / contextual reports - From $119/month
+-   [Assessment Systems](https://assess.com) - Online assessment platform / Modern psychometrics / Expert consulting
+-   [Aikido](https://aikido.dev) - Free 2 users, 10 repos, 2 AI AutoFixes/mo / All-in-one security platform / AI AutoTriage & AutoFix / No CC required - From $350/month
+-   [Canditech](https://www.canditech.io) - 100 candidates free trial / Job-simulation assessments / Technical & soft skill evaluation / Advanced anti-cheating - From $150/month for 100 candidates
+-   [Qodex.ai](https://qodex.ai) - 500k AI Tokens free / Automates API testing and security with AI / Generate tests via chat, no code - From $0/month (500k AI Tokens)
+-   [Qodo (formerly Codium)](https://www.codium.ai) - 250 messages & tool use per month / AI code review / AI testing / AI code generation - From $38/User per month
+-   [DET Practice](https://www.detpractice.com) - 300 Practice Questions & 50 Daily AI Tutor requests / Largest Test Bank (18,000+ Questions) / AI Correction Service - From $7.9/month
+-   [Maxim](https://www.getmaxim.ai) - AI evaluation & observability / Simulate, evaluate, and observe AI agents
+-   [Voicepanel](https://voicepanel.co) - AI-moderated interviews / Built-in recruiting
+-   [Mida](https://www.mida.so) - 25,000 Monthly Test Users Free / Lightweight A/B testing / No-code visual editor - From $199/month for 100,000 MTU
+-   [EarlyAI](https://www.startearly.ai) - 20 methods/functions initial capacity, 3 methods/functions per day free / Automatically generates high-quality, working unit tests / Generates high-quality tests with mocks and edge cases - From $19/month
+-   [TapTalent.ai](https://taptalent.ai) - Free 7-day trial / Discover talent contacts / Run multi-channel outreach campaigns / Screen candidates using AI
+-   [R.test](https://rtest.ai) - Sample Report / AI-Powered SAT® & ACT® Practice Test Online / Comprehensive AI-powered Analytics Reports -
+-   [AdeptLR](https://adeptlr.com) - Limited adaptive drilling, 2 official LSATs free / Adaptive Drilling / All 80 official LSATs / Comprehensive Performance Analytics - From $49/month
+-   [QA.tech](https://qa.tech) - AI-driven E2E testing / Identifies 95% of bugs - From $499/month
+-   [ZeroThreat](https://zerothreat.ai) - Free for All / Identify critical vulnerabilities at 5x speed / Automated Pentesting / Zero Configuration
+-   [Openlayer](https://www.openlayer.com) - 20k inferences / mo / AI evaluation / observability & governance
+-   [Relyable](https://relyable.ai) - 25k Free Credits / Automated Testing / Monitoring / Evaluation - From $500/month
+-   [Toefl Practice](https://toeflpractice.io) - Free Practice Test / 50+ Online Tests / Instant AI-Powered Feedback / Realistic Mock Tests
+-   [BotGauge](https://www.botgauge.com) - 14-day free trial / Automate end-to-end tests / Zero Technical Expertise Required - Contact Sales
+-   [KushoAI](https://kusho.ai) - AI-generated exhaustive test suites / Tests update with codebase changes
+-   [VWO](https://vwo.com) - Free 50K MTU / Web Experimentation / AI-powered Optimization - From $393/month
+-   [ContextQA](https://contextqa.com) - AI-Driven Test Automation / No-Code/Low-Code / AI-Powered Root Cause Analysis
+-   [DocuWriter.ai](https://www.docuwriter.ai) - 5-day trial / Automated Code Documentation Generation / AI-Powered Code Tests Suite Generation / Intelligent Code Refactoring - From $29/month
+-   [Athina AI](https://athina.ai) - 10k logs/mo / Monitor and evaluate LLM applications / 50+ preset eval metrics - Free
+-   [Katalon](https://www.katalon.com) - Free forever / 30-day trial / Web, mobile, API, desktop app testing / Low-code, full-code, AI-powered test creation / No credit card required - From $84/month
+-   [Use of English AI](https://useofenglish.ai) - 1 exercise a day / AI-powered Use of English and Reading exercises / Unlimited practice from 5000+ official exams / Detailed feedback
+-   [Bugster](https://www.bugster.dev) - 200 free execution minutes / Capture user flows into automated tests / Self-maintaining & adaptive tests - From $0.02/minute
+-   [BaseRock.ai](https://www.baserock.ai) - 10 Classes/Month free / AI-Powered Software Testing / Automated Test Generation - From $14.99/month
+-   [Teste.ai](https://www.teste.ai) - Free plan available / AI-powered test case creation / AI-powered test data generation / Comprehensive test types - From R$88/month
+-   [Confident AI](https://www.confident-ai.com) - Limited to 1 project, 5 test runs per week, 1 week data retention / LLM evaluation / LLM observability / LLM red teaming & guardrails - From $29.99/month
+-   [Debugg AI](https://debugg.ai) - 100 tests/mo / Automated Browser Tests / AI-Powered Understanding - From $20/month
+-   [OwlityAI](https://owlity.ai) - Free trial / Autonomous AI QA testing / Cut QA costs by up to 93% / Eliminate human involvement
+-   [Fume](https://fumedev.com) - 30 day free trial / AI QA team / Playwright browser tests / No signup needed - From $500/month
+-   [Scorecard](https://www.scorecard.io) - 100,000 scores free / Evaluate, Optimize, and Ship Enterprise AI Agents / Continuous Evaluation / Prompt Management - From $0/Month
+-   [Testbook.ai](https://testbook.ai) - AI-Powered Automated Regression Testing & UI Comparison / No Code / Integrates with Testing Clouds - From ₹17999.00 for 3 Months
+-   [testRigor](https://testrigor.com) - 14-day trial / Plain English test automation / AI-based self-healing - From $300/month
+-   [SecureSaaS](https://www.scanmysaas.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3438)- Freemium + From $29/month, No Refunds / Free website vulnerability scanner for web apps.
+
+### AI Code Generator
+
+-   [Trae](https://www.trae.ai) - / AI-powered IDE / Human-AI Collaboration / Smart Autocompletion
+-   [Kiro](https://kiro.dev) - 50 interactions per month free / Spec-driven development / Agent hooks / Multimodal chat - From $19/mo. per user
+-   [Venice AI](https://venice.ai) - Free 25 text prompts & 15 image prompts daily / Private and Uncensored AI / Generate text, images, characters and code - From $18/month
+-   [Supernova.io](https://www.supernova.io) - Free forever / AI-powered collaborative prototyping / Design system management - From $25/month
+-   [Interview Coder](https://www.interviewcoder.co) - Free plan / Real-time coding assistance / Undetectable during technical interviews / Detailed solution explanations - From $25/month (billed annually)
+-   [Convex](https://www.convex.dev) - Free Starter plan / Realtime reactive database / Full-stack TypeScript backend / AI integration - From $25 per developer/month
+-   [Ninja AI](https://myninja.ai) - 6 tasks per day / Research & Writing / Code Generation & Debugging / Image Generation & Editing - From $5/mo
+-   [Augment Code](https://www.augmentcode.com) - Up to 50 user messages free / Context Engine / MCP & Native Tools / Unlimited Next Edits & Completions - From $50/month
+-   [Ludo.ai](https://ludo.ai) - 30 free Credits / Game Concept Generation / 3D Asset Generation / Market Research - From $15/month
+-   [CodePal](https://codepal.ai) - text-to-code generation / code review / bug detection
+-   [Locofy.ai](https://www.locofy.ai) - 600 LDMtokens free / Convert designs to production ready code / Figma or Adobe XD to React, React Native, HTML-CSS, Gatsby, Next.js - From $33.3/month
+-   [Tabnine](https://www.tabnine.com) - 14-day free preview / AI code completion / AI chat / Code privacy & IP protection - From $9/month
+-   [Bind AI](https://www.getbind.co) - 3 Days Free Trial / AI Assistant for Code Generation & Technical Content / GitHub Integration & Online IDE
+-   [Qodo (formerly Codium)](https://www.codium.ai) - 250 messages & tool use per month / AI code review / AI testing / AI code generation - From $38/User per month
+-   [Readdy](https://readdy.ai) - 100 Credits / AI design / natural language to design - From $20/Month
+-   [cto.new](https://cto.new/product-hunt) - Completely free / Code with latest frontier models / AI code agent - Free
+-   [CodeDesign.ai](https://www.codedesign.ai) - Free 3 websites / AI-powered website builder / AI Sales Funnels - From SGD 9/month
+-   [Codia AI](https://codia.ai) - Free 5 AI Transform Credits per month / AI-driven design and development / Convert screenshots, PDFs, and webpages to Figma designs and code - From $15/month
+-   [Kilo Code](https://kilocode.ai) - Free $20 credits / Generate code / Automate tasks
+-   [AI2sql](https://www.ai2sql.io) - 5 queries/month free / Text to SQL conversion / SQL Error Fixing / SQL Optimization - From $9/month for 100 SQL queries/mo
+-   [Softgen.ai](https://softgen.ai) - 100K tokens free / AI Web App Builder / No coding required / Build full-stack apps - From $25/month
+-   [BlackBox AI](https://www.useblackbox.io) - 5-day free trial / Turn any question into code / Extract code from any video
+-   [Workik AI](https://workik.com) - 10 Free requests daily / AI for Backend & Frontend Code Development / Context-driven AI Assistance - From $15/month
+-   [RapidNative](https://www.rapidnative.com) - 20 requests/month free / Convert prompts into production-ready React Native and Expo apps / Generate clean, modular React Native code - From $20/month
+-   [SQLAI.ai](https://www.sqlai.ai) - 7-day free trial / Generate SQL Queries / Optimize SQL Queries - From $6/month (200 queries/mo)
+-   [Vitara.ai](https://vitara.ai/%20%20) - Free 5 messages per day, 25 messages per month / Build full-stack apps using just a prompt / No coding needed - From $20/month
+-   [Kombai](https://kombai.com) - Understand and code UI like human devs / Generate high-quality UI code from designs / No manual tags or auto-layout needed - Always Free
+-   [Mito](https://trymito.io) - 50 AI Completions per month / Python Spreadsheet Automation / AI Code Generation / No Sign-Up - From $20/user per month
+-   [Refact.ai](https://refact.ai) - 5,000 coins free / Code Completion / Refactoring / AI Chat - From $10/month
+-   [IMG2HTML](https://www.img2html.com) - 3-day free trial / AI-powered image to HTML CSS JS conversion / Turn screenshots into responsive HTML & CSS instantly - From $29.99 for 200 images
+-   [DeepSeek R1 Online](https://deepseek-r1.com) - Free / Advanced Reasoning / Open-Source / No Login - From $0.07/million tokens
+-   [Digma AI](https://digma.ai) - Free forever to developers / Uncover code runtime regressions / Resolve performance issues in pre-production / No Login or Sign Up required
+-   [PureCode AI](https://purecode.ai) - 50 chat messages per month / Generate UI Using AI / Human-Like Codebase Understanding - From $20/per month
+-   [AskCodi](https://www.askcodi.com) - 7 days free trial / AI-Powered Code Assistant / Code Generator / Unit-Tests Writer - From $149.99/year (500 AI credits monthly)
+-   [Dualite - AI Frontend Engineer](https://dualite.dev) - 5 messages free / Local-first AI builder / Figma-to-Code / GitHub Sync - From $29/month
+-   [Formulas HQ](https://www.formulashq.com) - 5 generation per month / AI-Powered Formula Generator / Regex, VBA, & Apps Script Generation - From $433/month
+-   [Flatlogic](https://flatlogic.com) - 5 credits per month / AI-powered app generation & modification / Own your software & source code - From $20/month
+-   [CSSPicker](https://www.csspicker.dev) - One Day Free Trial / Copy CSS from Any Website / AI UI Generator - From $9.9/month
+-   [Dazl](https://dazl.dev) - 5 daily credits / Generative AI app building / Hands-on editing tools - From $25/month
+-   [Open Lovable](https://open-lovable.com) - Unlimited Usage / AI-Powered Website Cloning / Clean React/TypeScript Code - Free
+-   [Dynobase](https://dynobase.dev) - 7-day free trial / Faster data exploration / Code generation / Visual query builder - From $9/mo
+-   [PearAI](https://trypear.ai) - Free trial / AI Code Editor / Integrated AI tools - From $15/month
+-   [Codev](https://www.co.dev) - Free $3 in Credit Balance & 1 Public Project / Text to App in Minutes / Full ownership of code - From $19/month
+-   [vly.ai](https://vly.ai) - Build and launch fully functional web applications without writing code / State-of-the-art code generation, configuration, & deployment
+-   [Stately](https://stately.ai) - Unlimited public projects free, 3 AI generations/month / Visually build and deploy logic / AI-enhanced tools / Executable diagrams - From $33/month
+-   [WPTurbo](https://wpturbo.dev) - 100 requests / AI-powered code generation / WordPress code snippets / Project management - From $9/month
+-   [HeroUI Chat](https://heroui.chat) - Turns prompts or screenshots into production-ready React code / Build stunning UIs by describing what you want
+-   [Legasite - Website Redesigner](https://www.legasite.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3243)- Free Trial + From $89, One-time / Automated website migration to React & Next.js templates.
+-   [Record2Code](https://record2code.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3165)- Freemium + From $10/unit, 30 days money back guarantee / Record your screen and get clean code fast.
+-   [TalkCody](https://www.talkcody.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3009)- 100% Free / Generate correct code as quickly and cost-effectively as possible.
+
+### AI Browsers
+
+-   [HARPA AI](https://harpa.ai) - Free up to 10 messages/day & 100 AI command runs / Automate online work / Summarize web pages & videos - From $13.2/month
+-   [Browserbase](https://www.browserbase.com) - 1 browser hour included / Seamless integration / Stealth capabilities - From $39/month
+-   [Sigma AI Browser](https://sigmabrowser.com) - Built-in AI Chat / Enhanced Privacy / AI-powered Content Generation
+-   [SigmaOS](https://sigmaos.com) - Limited Airis Assistant / Look it up / Ask Anything / Interactive Summaries - From $20/month
+-   [Airtop](https://www.airtop.ai) - 5,000 credits free / Intelligent browser automation for AI agents / Seamless web interaction & data extraction - From $29/month
+-   [Deeptranslate](https://deeptranslate.ai) - One-click bilingual page generation for news, papers, and social media / Supports 142 languages and major translation APIs (Google, ChatGPT, Microsoft)
+-   [Deta Surf](https://deta.surf) - Free to download / Intelligent notebook for files & web / Generative AI for thinking
+-   [Dex](https://joindex.com) - Free plan / Organizes tabs / Automates workflows / Handles tasks
+-   [Side Space](https://www.sidespace.app) - Up to 5 free spaces / AI-powered vertical tabs manager / AI-powered Tab Grouping - $39 Lifetime
+-   [Viinyx AI](https://viinyx.com) - Use ChatGPT, Claude, Gemini on any site / Summarize Pages & Videos, Chat with PDFs / AI Writing & Image Generation
+-   [Chippy](https://chippyai.com) - Twenty free GPT-3.5 queries daily / Summarize, research, translate and answer questions / Focused search on current page / No account required
+-   [AIPex](https://www.claudechrome.com) - Free $1 credit gift / Up to 3 @tabs / AI browser automation / Natural language control - From $4.49
+-   [Wiseone](https://wiseone.io) - Free 10 queries per day / Sourced answers to complex questions / Information summarization / Fact checking - From $8.25/month
+-   [Floutwork](https://www.floutwork.com) - 10,000 free AI token credits / Split views / Browser with AI / No credit card required - From $7/month
+-   [Phew AI Tab](https://phewtab.com) - 3-day premium trial / AI-based automatic grouping / AI Analyzing & Search / Cloud Sync & Spaces
+-   [Pola Browser](https://polabrowser.com) - Free Forever / Smart organization / Distraction-free productivity - From €2.99/week
+-   [Muddy](https://feelmuddy.com) - AI-powered organization / Multiplayer browser / Infinite rewind
+-   [Flakes](https://flakes.ai) - Free download / Keyboard-First Vim Navigation / Context-Aware AI (Drift AI) / Command Palette (⌘K) -
+-   [Remember](https://wellgrounded.us) - Up to 500 pages processed free / AI-enhanced searchable browsing history / No manual bookmarking - From $5/month
+-   [Askman Chrome Extension](https://chromewebstore.google.com/detail/askman-connect-ai-to-page/gpopfjaknekkfaepclelildfnmfgdjnd) - Free trial API / OpenAI-compatible protocol support / Customizable prompts
+-   [AiPlix](https://aiplix.com) - AI-augmented browsing / Automated content retrieval & summarization / On-device AI agents & privacy
+-   [Blenny](https://chromewebstore.google.com/detail/blenny-ai-vision-co-pilot/dofojeaoockndffbaacclfbkppbehlgj) - Limited trial access / AI vision anywhere on the web / Customize and build your own AI agents
+-   [Critique AI Browser Companion](https://chromewebstore.google.com/detail/critique-realtime-autonom/dilehbkmjigbpdjlpaglemebmheoilnm) - Free Public Beta / Real-Time Fact-Checking / Autonomous Insights
+-   [AI Right-Click Extension](https://chromewebstore.google.com/detail/righty-right-click-for-ai/gndcgagkgcjcpimlechkkggfbapakcmg) - Chat with Page / Explain Text / Summarize Text
+-   [Skyvern](https://www.skyvern.com) - Open Source (Free) / AI Browser Automation / Adapts to any webpage with Computer Vision / Supports CAPTCHA & 2FA - From $0.10/step
+-   [ChatGPT Extension](https://chromewebstore.google.com/detail/chatgpt-in-google-search/kbnaijlnfjhealhalmoghfldckmgglmh) - Free / ChatGPT responses with Google, Bing, DuckDuckGo & more / Chat instantly with ChatGPT
+
+### AI Landing Page Builder
+
+-   [Leadpages](https://www.leadpages.com) - Free 14-day trial / Create high-converting landing pages / Generate qualified leads / A/B Testing for optimization - From $37/month
+-   [PagePilot.ai](https://pagepilot.ai) - 3 product pages free / AI Product Pages & Landing Pages / AI Ad Copy Generation - From $39/month
+-   [MarketingBlocks](https://marketingblocks.ai) - 5 Days Trial / AI marketing assistant / landing pages / promo videos / marketing copy - From $47/Month
+-   [AI LandingPage](https://ailandingpage.ai) - Free trial / AI-Powered Design / One-Click Publishing / SEO Optimization
+-   [Persuva](https://persuva.ai) - Limited credits / High-Converting Product Pages / Optimized Ads & Audience Insights - From $9/month
+-   [Redesignr Ai - landing page builder and website redesign](https://redesignr.ai) - 15 AI credits / AI Landing Page Builder / Website Redesigner / GitHub Docs Generator - From $50/month
+-   [60sec.site](https://60sec.site) - 1 website free / AI-generated landing pages / Create websites in under 60 seconds / No coding required - From $10/month
+-   [Yep.so](https://yep.so) - 1 branded landing page, 5 AI content generation uses / AI-powered no-code landing page builder / Collect signups & payments - From $29/month
+-   [xPage - AI Ecommerce Landing Page Generator](https://www.xpage.ai) - 20 Landing Page Generations, 10 Regenerations free / Instant Landing Page Generation / Multi-Platform Integration - From $49/month
+-   [Landing AI](https://www.landing.so/tools/ai-landing-page-generator) - AI Landing Page Generator / No coding or design skills needed / Scale marketing with generative AI - From $19/month
+-   [TurboSite](https://www.turbosite.io) - 5 Websites & 100 Form Submissions Free / AI-Powered Landing Pages / No coding or design skills required - From $9/month
+-   [LiftPilot](https://liftpilot.ai) - Up to 1,000 pages free / 1:1 landing page builder / Boost outbound and ABM response rates - Free for up to 1,000 pages
+-   [Plug&Pay](https://plugandpay.com) - 14-day free trial / Launch a profitable website with A.I. / Set up ultimate sales funnels - From €15/month
+-   [Unbounce](https://unbounce.com) - 14-day free trial / Landing Page Builder / A/B Testing / AI Optimization - From $99/month
+-   [Pagen](https://pagen.so) - AI landing page generator / No coding required / Customizable templates
+-   [Permar AI](http://www.permar.xyz) - 3 Landing Pages / 10,000 Visitors / Generate Landing Pages in Seconds / Conversion Rate Optimization - From $39.00/month
+-   [Lazycom](https://lazycom.io) - Start for just $5 / Segment visitors / Automate marketing / Streamline ecommerce business - From $5/month
+-   [dynares](https://dynares.ai) - Free Plan / AI-Powered Landing Pages / Ad Campaigns for Google Ads - From $29/month
+-   [Wizlink](https://ai.wiz.link) - 5 queries per day / AI-powered Mobile Landing Pages / Game-changing Link-in-Bio Tool / Interactive Widgets
+-   [CodeDesign.ai](https://www.codedesign.ai) - Free 3 websites / AI-powered website builder / AI Sales Funnels - From SGD 9/month
+-   [Reaady.site](https://reaady.site) - 3 Free Generations / AI-Powered Generation / No design or coding skills needed
+-   [dMunity](https://dmunity.com) - 14-day free trial / Effortless Landing Pages / AI Generated Content + Images / No Hosting/DNS worries - $9.99/month for 3 campaign landing pages
+-   [Kurt Converts](https://kurt-converts.com) - Free Hero Section / Generate High-Converting Landing Pages / SEO-Enhanced Copy - From S$128.97 for 1 Page
+-   [60sec.store](https://60sec.store) - 1 store and 1 template free / AI-powered landing page generation / No design or coding skills required - From $25/month
+-   [GPTConsole AI Agent PIXIE Landing Page Generator](https://landingpages.gptconsole.ai) - Quickly build professional, single-page HTML landing pages / Effortlessly create AI-powered landing pages
+-   [Mixo](https://www.mixo.io) - Free Trial Available / AI-powered website builder / Integrated subscriber management tools - From $6/month
+-   [Content Canvas](https://contentcanvas.ai) - Quickly create content for web pages / Optimized for custom layout / Enhance SEO rankings
+-   [LampBuilder](https://lampbuilder.com) - x1 AI Landing Page / AI-powered landing page generation / Easy on-page editing / Built-in waitlist and email follow-ups - From $20/month
+-   [LandingPage AI](https://landing-page.io) - Free access / AI Landing Page Builder / Conversion-Optimized / Full Website Builder
+-   [Leadpages](http://www.sommerai.com) - 14-day free trial / Landing Page Builder / Conversion Tools / A/B Testing - From $37/month
+-   [Pipedata AI](http://ai.pipedata.co) - AI-powered ad-to-page personalization at scale / Create 1000s of personalized landing pages in under 30 minutes / No code required
+-   [Lndr.pro](https://lndr.pro) - Generate unique and selling landing pages with AI / Save time and money on designers and copywriters
+-   [GenPage](https://genpage.ai) - 14-day free trial, 10 free credits / Personalized AI Sales Outreach / Generate Custom Landing Pages - From $59/month
+-   [Autofunnel](https://autofunnel.ai) - 14-day trial for $1 / AI-powered business building / High-converting funnels & websites / Automated marketing & sales - From $99/month
+-   [White Swan](https://whiteswan.io) - Free / AI-powered, no-code platform / White-labeled life & LTC insurance funnels / Digitize sales process for any product, from any carrier
+-   [xBuilder.ai](https://xbuilder.ai) - 1 Landing Page, 1 Blog-Post per month / AI-powered E-commerce Store Creation / AI Video Ads / Winning Product Research - From $27/month
+-   [Webjourney](https://webjourney.pro) - Build production-ready websites with AI / No coding required
+-   [GETitOUT](https://getitout.io) - 14-day free trial & 5,000 GIO Coins / AI Persona Generator / Generate Marketing Texts & Materials - From $19/month (1 Workspace)
+-   [Lindo](https://www.lindoai.com) - AI Website Builder / AI SEO Pages
+-   [Macaly](https://macaly.com) - Free / AI Website Generation / SEO Optimization
+-   [GetResponse](https://getresponse.fr) - Free 30-day trial / Email Marketing / Marketing Automation / No credit card required - From $15.58/month for 1000 contacts
+
+### AI Code Review
+
+-   [Bitbucket](https://bitbucket.org) - Free for up to 5 users, 50 build minutes, 1 GB Git LFS / CI/CD / AI / Jira integration - From $3.30/month
+-   [CodeRabbit](https://coderabbit.ai) - 14-day free trial / AI-powered code reviews / contextual line-by-line feedback / catches 95%+ bugs - From $15/monthly
+-   [Bito](https://bito.ai) - Free plan / 14 days free trial / AI Code Reviews / Codebase-aware feedback - From $15/user/month
+-   [Kodus](https://kodus.io) - Free self-hosted option / Automates AI code reviews / Improves quality, security, and performance / Customizable & learns from context - From $12/developer/month
+-   [Ellipsis](https://ellipsis.dev) - Free 7-day trial / Automated code reviews / Fixes bugs / Generates working, tested code - From $20 per developer per month
+-   [Metabob](https://metabob.com) - Free individual developer plan with unlimited analyses / AI code review / Debug & refactor legacy code - From $30/month
+-   [Nora](https://www.mynora.ai) - Free forever / Deep Reasoning / AI Coding Agent for Web3 - From $29/month
+-   [CodeReviewBot](https://codereviewbot.ai) - 100 reviews/month free / Automated AI code review / Detailed feedback / Integration with GitHub - From $15/month
+-   [What The Diff](https://whatthediff.ai) - 25,000 tokens per month (~10 PRs) / Automated PR descriptions / Inline AI refactoring - From $19/month
+-   [CodeThreat](https://codethreat.com) - Free Community Plan (up to 5 team members) / AI-powered SAST / DevSecOps Integrations - From $39/month
+-   [AquilaX](https://aquilax.ai) - Unlimited scans for Secrets, PII and Compliance / AI-Powered Code Scanning / Eliminate False Positives - From $19/month
+-   [Aikido](https://aikido.dev) - Free 2 users, 10 repos, 2 AI AutoFixes/mo / All-in-one security platform / AI AutoTriage & AutoFix / No CC required - From $350/month
+-   [Qodo (formerly Codium)](https://www.codium.ai) - 250 messages & tool use per month / AI code review / AI testing / AI code generation - From $38/User per month
+-   [ReviewForge](https://reviewforge.cloud) - Free 14-day trial / AI-powered code review / Bug, security, and performance analysis / Automated Pull Request Reviews
+-   [GitClear](https://chromewebstore.google.com/detail/gitclears-codecruncher-yo/eomdpndhabakfjmabipmmmdacbjojhen) - Free trial / 30% less code to review / AI summaries and completions / Review only new changes
+-   [aiCode.fail](https://aicode.fail) - Free 14-day Trial / Hallucination Detection / Security Check - From $9/mo
+-   [Codespect](https://codespect.io) - / AI-powered Code Reviews / Automate GitHub PR Analysis / Actionable Improvement Suggestions
+-   [Codara](https://codara.io) - 14 days free / Automate code reviews / Diagnose coding errors / Increase productivity - From $4/month
+-   [DevDynamics](https://devdynamics.ai) - Free up to 9 contributors / Engineering Metrics / AI Reports - From $15/contributor/mo
+-   [Macroscope](https://macroscope.com) - 2 Week Free Trial / Summaries for Commits / AI Code Review - From $30/developer/month
+-   [Refact.ai](https://refact.ai) - 5,000 coins free / Code Completion / Refactoring / AI Chat - From $10/month
+-   [AI Code Mentor](https://code-mentor.ai) - Free Code Explainer & 500 Characters for Code Complexity / Code Refactor / Code Review - From $7/mth
+-   [Digma AI](https://digma.ai) - Free forever to developers / Uncover code runtime regressions / Resolve performance issues in pre-production / No Login or Sign Up required
+-   [EZAI](https://ezai.io) - 1-month trial / Secure AI for your organization / Tailor AI models with your data / Automate daily work with AI Assistants - From $99/month
+-   [CyberSanctus](https://cybersanctus.com) - 2,000 Free Lines of Code / AI-Powered Smart Contract Audits / Trusted Vulnerability Detectors - From £19/month
+-   [VibeSec](https://www.vibesec.app) - AI-powered code security copilot / Instantly scan GitHub repos for vulnerabilities
+-   [GitLoop](https://gitloop.com) - 50k GPT tokens, 50MB code indexing, 150MB max repo size free / Chat with codebases / Generate documentation / Review code - From $15/mo
+-   [Cratecode](https://cratecode.com) - Free to start / Interactive non-linear lessons / AI-powered guidance
+-   [GitBrain](https://gitbrain.dev) - Free (Pay what you want) / AI-powered Git Client / Intelligent code splitting / Self-code review - From $0
+-   [Kilo | Code Reviewer](https://kilo.ai/code-reviewer?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3053)- Freemium + From $15/month, No Refunds / AI-powered code reviews that catch bugs before merge.
+
+### SQL Query Builder
+
+-   [GPTExcel](https://gptexcel.uk) - 4 requests per day / Generate & Explain Excel/Sheets Formulas / Automate with Scripts & SQL - From $6.99/month
+-   [Quadratic](https://www.quadratichq.com) - Free plan / AI-powered Spreadsheet / Code Integration / Database Connections - From $18/month
+-   [Chat2DB](https://chat2db.ai) - 200 OpenAI calls free trial / AI-powered SQL generation / Multi-database management - From $9.9/month
+-   [Vanna.AI](https://vanna.ai) - AI SQL agent / writes complex SQL
+-   [Wren AI Cloud](http://getwren.ai) - 14-day free trial / Chat with your databases in plain English / Unify data from multiple sources / AI-powered spreadsheets & dashboards - From $60/month
+-   [Text2SQL.ai](https://text2sql.ai) - Generate SQL queries from text with AI / Generate optimized SQL queries / Accurate queries with schema support - From $8/month
+-   [Blaze SQL](https://www.blazesql.com) - 14-day free trial / AI Data Analytics chatbot / AI SQL generator - From $249/month (incl. 3 users)
+-   [Sparkco AI Spreadsheet Agent](https://sparkco.ai) - Free forever (3 workbooks, 5 data sources) / Natural-language formulas / Automated data sync / No credit card for Free - From $19/month
+-   [Peaka](https://www.peaka.com) - Zero-ETL Data Integration / Integrates 300+ Data Sources / Real-time, Cross-sourced Querying
+-   [Sequel](https://sequel.sh) - 50 AI Queries / Natural language database interaction / AI-powered reports and visualizations - From $19/month
+-   [Quills.ai](https://www.quills.ai) - AI data assistant for analysis & visualization / Chat in plain English for data insights / AI-generated SQL queries
+-   [TurboSQL](https://www.turbosql.co) - Powerful free SQL client / Blazing-fast SQL GUI / AI-powered SQL features - From $12/month
+-   [Bind AI](https://www.getbind.co) - 3 Days Free Trial / AI Assistant for Code Generation & Technical Content / GitHub Integration & Online IDE
+-   [Kvery.io](https://kvery.io) - Free 3 query / AI-powered SQL editor / Create charts from data / Generate APIs and admin interfaces - From $89.90/month
+-   [SQLAI.ai](https://aihelperbot.com) - 7-day free trial / Generate SQL queries with AI / Optimize SQL queries - From $6/month (200 queries/mo)
+-   [SQLPilot](https://sqlpilot.ai) - Free 20 gpt-4 generations / AI SQL Query Generation / Natural Language to SQL - From $9/month
+-   [QueryX](https://queryx.eu) - 500 queries/month / Translate natural language to SQL queries / 10x faster SQL query generation - Free
+-   [Sherloq](https://www.sherloqdata.io) - 2 Week Pro Trial, 30 Chat Messages, 50 SQL Syntax Fixes, 25 Saved Queries / Context-aware AI SQL Generation / Collaborative SQL Management - From $16/month
+-   [Reindeer](https://tryreindeer.com) - Free / Generates production-ready SQL / Autocompletes / Fixes with AI / -
+-   [QueryZy](https://queryzy.com) - 7-days free trial / Chat with data files using natural language / Plot data to charts - From $9 USD/month
+-   [Innic](https://innicdata.com) - All features free / AI assistance to write SQL / Links to multiple databases / No registration required
+-   [AI2sql](https://www.ai2sql.io) - 5 queries/month free / Text to SQL conversion / SQL Error Fixing / SQL Optimization - From $9/month for 100 SQL queries/mo
+-   [Workik AI](https://workik.com) - 10 Free requests daily / AI for Backend & Frontend Code Development / Context-driven AI Assistance - From $15/month
+-   [Graphite Note](https://graphite-note.com) - 14-day free trial / No-code machine learning for predictive analytics / GenAI Actionable Insights / No card required - From $295/mo
+-   [SQLAI.ai](https://www.sqlai.ai) - 7-day free trial / Generate SQL Queries / Optimize SQL Queries - From $6/month (200 queries/mo)
+-   [CodeCompanion.AI](https://codecompanion.ai) - AI-powered code reading, writing & modification / Executes shell commands / Multi-language & multi-platform support
+-   [VerbaGPT](https://verbagpt.com) - 60-day trial, Free for personal use (up to 10,000 rows) / Data analysis with LLMs / Data privacy / Text-to-Python
+-   [Arcwise AI](https://arcwise.app) - AI copilot for Google Sheets / Explore, understand, and visualize data
+-   [ChatViz](https://chatviz.io) - / SQL translator / Chart suggestion / -
+-   [Teste.ai](https://www.teste.ai) - Free plan available / AI-powered test case creation / AI-powered test data generation / Comprehensive test types - From R$88/month
+-   [Refraction](https://www.refraction.dev) - 10 code generations free / Generate unit tests / Refactor code / Create inline documentation - From $8/month
+-   [DevKit](https://getdevkit.com) - Test public APIs / Query databases / Generate and execute code - From $5/month
+-   [FormulaGenerator](https://formulagenerator.app) - Generate Excel Formulas, VBA, Regex, and SQL queries / Debug Formulas and Code / Get Instant Answers with Answer Bot
+-   [EverSQL](https://eversql.com) - 1 optimization free / SQL Optimizer / Performance Insights / Cost Reduction - From $129/month for 10 optimizations
+-   [MotionExcel](https://www.motionexcel.co) - / AI-Powered Spreadsheet / Python & SQL editor / No login required -
+-   [ReliveAI](https://reliveai.com) - No-code AI platform / Automate using plain English with AI Agents
+
+### AI Github
+
+-   [CodeRabbit](https://coderabbit.ai) - 14-day free trial / AI-powered code reviews / contextual line-by-line feedback / catches 95%+ bugs - From $15/monthly
+-   [OSS Insight](https://ossinsight.io) - Up to $2000 TiDB Cloud credits / GPT-powered GitHub data exploration / Natural language to SQL / Visual data presentation
+-   [Packfiles](https://packfiles.io) - 100 free migrations / Lightning fast migration to GitHub / Accelerate migration with Copilot AI - From $2,000/Box for 100 Migrations
+-   [Gitlights](https://gitlights.com) - 15-day free trial / Track commits, PRs, and reviews / AI-powered dev workflow optimization - From $14.9/month
+-   [DeepWiki](https://deepwiki.com) - AI documentation you can talk to / Understands codebase structure
+-   [GPTDuck](https://www.gptduck.com) - Free tier for public repos <200 files, <100MB / Question answering against Github repositories / Code embeddings creation
+-   [Gitmore](https://gitmore.io) - 1 repository, 50 Credits per month free / AI-powered Git reporting / GitHub & Bitbucket integration - From $9.99/month
+-   [devActivity](https://devactivity.com) - Up to 7 Active Contributors Free / AI-powered contributions analytics / Performance Reviews / Gamification - From $10/contributor
+-   [CodeReviewBot](https://codereviewbot.ai) - 100 reviews/month free / Automated AI code review / Detailed feedback / Integration with GitHub - From $15/month
+-   [Maige](https://maige.app) - AI labels your issues / Automatic labeling for new issues / Custom instructions
+-   [Valyfy](https://valyfy.com) - Solve real-world challenges / Build AI-powered portfolios / Connect with startups
+-   [Prismy](https://prismy.io) - Free up to 10,000 hosted words, 14-day trial / High quality AI translations / GitHub & GitLab native - From €49/month for up to 30,000 hosted words
+-   [What The Diff](https://whatthediff.ai) - 25,000 tokens per month (~10 PRs) / Automated PR descriptions / Inline AI refactoring - From $19/month
+-   [Gitcord](https://gitcord.pro) - Track & analyze GitHub repos / Advanced analytics / Team & organization insights
+-   [Bind AI](https://www.getbind.co) - 3 Days Free Trial / AI Assistant for Code Generation & Technical Content / GitHub Integration & Online IDE
+-   [GitHub Natural Advanced Search](https://chromewebstore.google.com/detail/natural-advanced-search-f/mepaacibaogonhhhacklhngfkkhlclfj) - / Convert natural language to advanced search syntax / Search property suggestions / -
+-   [String Catalog](https://stringcatalog.com) - Add your first language, Free! / Automated iOS & Android Localization / AI-Powered Accuracy - From $15/month
+-   [Codespect](https://codespect.io) - / AI-powered Code Reviews / Automate GitHub PR Analysis / Actionable Improvement Suggestions
+-   [RepoNotes](https://reponotes.com) - 5-day free trial / Summarizes code changes / Sends Slack posts / Supports private repos / - From $3.99/month
+-   [Unsloth AI](https://unsloth.ai) - Free / Open source fine-tuning & RL for LLMs / 30x faster training / 90% less memory usage
+-   [Pl@ntNet](https://plantnet.org) - Free / Identify plants from photos / Join citizen science projects
+-   [Glarity](https://glarity.app) - 40,000 tokens/day / YouTube Video Summary / Google Search Summary / PDF Summary / No registration required - From $7.49/month
+-   [Bright Data](https://get.brightdata.com/datatoolify?utm_content=dataforai) - Real-time web data / AI-driven web scraping and automation tools - From $1.5/1K Results
+-   [Devv AI](https://devv.ai) - Free tier / AI search engine for developers / Contextualized search with GitHub repos / Chat with AI for code/docs
+-   [Aident AI](https://aident.ai) - 300 refresh credits every month / AI automation / Consistent workflows - From $12/month
+-   [Haxiom](https://haxiom.io) - Up to 3 team members free / AI-powered collaborative Markdown workspace / Semantic AI to organize docs / Real-time Markdown collaboration - From $4/user/month
+-   [GitHub](https://chatall.ai) - 2,000 completions and 50 chat requests free / Concurrently chat with multiple AI bots / Discover best answers and insights / No Login required - From $4/month
+-   [Git Assistant](https://www.gitassistant.com) - Generate pull requests with Chat GPT / Code iteratively with Github and Chat GPT - From $2/mo
+-   [ReadmeChef](https://www.readmechef.com) - AI-powered README generation / One-Click Generation / Smart Repository Analysis
+-   [Debugg AI](https://debugg.ai) - 100 tests/mo / Automated Browser Tests / AI-Powered Understanding - From $20/month
+-   [MakerJournal](https://makerjournal.app) - Free / Improve social engagement / AI-generated summaries / Generate updates from GitHub commits
+-   [ChatGPT Copilot from Yooz](https://chromewebstore.google.com/detail/yooz-free-chatgpt-writer/hhijegfgodpbaaalajoknihbgakjgdob) - FREE / Write content without leaving the website / Summarize, explain, translate selected text
+-   [DigestDiff](https://www.digestdiff.com) - 5 free credits / Recap recent work / Generate codebase overviews / Create release notes
+-   [Aide](https://aide.dev) - Parallel Agents / SWE-Bench #1 Agent - $49 per month
+-   [CodeMaker AI](https://codemaker.ai) - Free 200,000 tokens for 30 days / Coding Assistant / Context-aware code generation - From $7.50/month for 500,000 Token limit
+-   [DevSeerAI](https://devseer.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2946)- 100% Free / Turn GitHub Issues Into Development Roadmaps in Seconds
+
+### Log Management
+
+-   [Middleware](https://middleware.io) - Up to 100GB Data / 1k RUM Sessions / 20K Synthetic Checks / Full-Stack Cloud Observability / AI-driven issue detection / Ingestion Control - From $0.3/GB
+-   [Instalog](https://instalog.dev) - AI-powered crash analysis / Mobile-specific insights / Reduced debugging time - From $19/month 100K errors
+-   [AICosts.ai](https://www.aicosts.ai) - 7-day free trial / Manage All AI Costs / Optimize AI Spending / Cut Costs by 30+% - From $19.99/month
+-   [Lunary](https://llmonitor.com) - Free 10k events per month / Observability / Prompt Management - From $20/user/month
+-   [Traceroot.AI](https://traceroot.ai) - 7-day free trial / AI-native, open-source observability / Automated bug fixing with GitHub issues and PRs - From $49/month
+-   [MealSnap: AI meal log journal](https://apps.apple.com/us/app/mealsnap-ai-meal-log-journal/id6475162854) - Free / AI-Powered Meal Scanning / Nutritional Information at a Glance - From $1.99
+-   [HoneyHive](https://honeyhive.ai) - Free 10K events per month / AI Observability / Evaluation / Prompt Management
+-   [DepsHub](https://depshub.com) - Free for Open-Source / Automatic dependency updates / License checks / Security vulnerability scanning - From $19/month
+
+[⬆️ Back to README](./README.md)

@@ -1,0 +1,943 @@
+# Marketing & Advertising
+
+[⬆️ Back to README](./README.md)
+
+## Marketing & Advertising | I Love Free
+
+> Discover free AI marketing, sales, and SEO tools. Grow your business and reach more customers with no-cost AI marketing solutions.
+
+### AI Marketing
+
+-   [Klaviyo](https://klaviyo.com) - 500 monthly email sends, 150 monthly SMS/MMS credits, up to 250 active profiles / Intelligent marketing automation / Hyper-personalized messages / Unified customer data - From $45/month (15,000 Emails)
+-   [Mailchimp](https://mailchi.mp) - Free plan for up to 500 contacts and 1,000 emails/month / Email marketing / Automation / AI marketing tools - From $13/month for 500 contacts
+-   [ScoreApp](https://scoreapp.com) - Advanced Quiz Funnel Marketing / Personalized Results / Data & Analytics - From $49/month
+-   [Jasper AI](https://jasper.ai) - 7-day free trial / AI copywriting tool / AI-powered apps & workflows - From $39/month
+-   [HypeAuditor](https://hypeauditor.com) - Influencer Discovery / Influencer Analytics / Campaign Management
+-   [ActiveCampaign](https://www.activecampaign.com/platform/artificial-intelligence) - Free 14-day trial / AI-powered marketing automation / Generative AI / Predictive sending - From $15/month
+-   [Copy.ai](https://www.copy.ai) - 2,000 Words in Chat free / Generates high-quality copy / Automate GTM tasks / No credit card required - From $36/month
+-   [Delve AI](https://www.delve.ai) - Free Website Persona / Automatic persona creation / Digital twins & synthetic users / Actionable marketing recommendations - From $89/month for 15k Monthly visits
+-   [Blaze](https://blaze.ai) - Free 30 posts / AI-assisted content creation / Brand voice cloning / Multi-channel publishing - From $26/month (billed annually)
+-   [Topview AI](https://www.topview.ai) - 10 credits per month / Create viral videos with AI / DIY Product Avatar with AI - From $9.9/month
+-   [Testmarket](https://testmarket.io) - Free membership / AI-powered Sales Strategy & A/B Testing / Cashback & Rewards Deals
+-   [AI Insights by Coupler.io](https://www.coupler.io/ai-insights) - 7-day free trial, Free plan (1 connection, 100 rows) / AI Insights / Data Transformations - From $32/month
+-   [WhatsApp CRM](https://wadesk.io/whatsapp-crm) - 3-day free trial / WhatsApp Customer Management / Multi-Account Operation / No Credit Card Required - From $24/month
+-   [Zixflow](https://zixflow.com) - Free 3 Users / AI-Powered CRM / Multi-Channel Marketing Automation - From $39/month
+-   [iSmartRecruit](https://www.ismartrecruit.com) - AI Recruitment Software / Hiring Automation / Applicant Tracking
+-   [Relevance AI](https://relevanceai.com) - Build your AI Workforce / Automate processes / Deliver human-quality work
+-   [Winning Hunter](https://winninghunter.com) - Facebook & TikTok Ad Spy / Sales Tracker / AI-powered Product Search - From €79/month
+-   [Omnichat](https://www.omnichat.ai) - 14-day free trial / Omnichannel Chat Commerce / AI-powered conversational suite
+-   [Pillar](https://pillar.io) - Free / Sell digital products & courses / All-in-one link in bio tool / Real-time media kits
+-   [Archive](https://archive.com) - / Automatic UGC Collection / AI-powered UGC Search -
+-   [Pippit AI](https://pippit.capcut.com) - 150 credits per week / AI Video Creation / AI Product Images / AI Avatars - From S$24.17/month
+-   [SleekFlow](https://sleekflow.io) - AI-personalized workflows / Omnichannel Inbox / Automate customer interactions - From S$199/month
+-   [StoryChief](https://www.storychief.io) - Free forever / Effective Content Strategies / Content Collaboration & Distribution / No credit card required - From $39/month per user
+-   [AI Prompt Library by God of Prompt](https://godofprompt.ai/prompt-library) - Free Prompts / 30,000+ AI Prompts / Boost Productivity & Business Growth - From $3.99/month
+-   [200+ ChatGPT Mega-Prompts for Marketing](https://www.godofprompt.ai/marketing-mega-prompts) - Free 1000+ ChatGPT, 100+ Midjourney, 10 Mega-Prompts / High-quality AI output / Automate marketing tasks - From $15/month
+-   [200+ ChatGPT Mega-Prompts for Business](https://www.godofprompt.ai/business-mega-prompts) - 10 Free Mega-Prompts / Supercharge your Business with AI / Run business tasks on auto-pilot - From $37.00 for 200+ Mega-Prompts
+-   [topYappers](https://www.topyappers.com) - AI-powered matching finds the perfect creators for your specific product niche / Advanced analytics to see what exactly creators promoted in the past - From $30/month
+-   [Guideflow](https://guideflow.com) - 5 guideflows free / Create interactive demos / AI Demo Automation - From $35/month (unlimited guideflows)
+-   [Seomator](https://seomator.com) - 7 days free trial / AI-Powered SEO & SEM Platform / All-in-one SEO Toolset / White label reports - From $49/month
+-   [Particl](https://www.particl.com) - Free 1 Competitor, 5 AI Analyst chats / Competitor Tracking / AI-powered Market Insights - From $250/month
+-   [Sell The Trend](https://sellthetrend.com) - 14-Day Free Trial / AI Dropshipping Software / Winning Product Discovery / Store Automation - From $19.97/month
+-   [Wirestock](https://wirestock.io) - 100 submissions, 5 AI image generations, 5 challenge submissions free / Sell photos, AI art & videos on major marketplaces / Generate and monetize AI art - From $6.49/month
+-   [X-Design](https://www.x-design.com) - Free Plan with 10 credits gift / AI-powered photo editing / Background removal / AI Fashion Model - From $4.17/month
+-   [GrackerAI](https://gracker.ai) - Free trial / Real-time news monitoring / AI-assisted content creation / SEO-optimized blogs - From $4k/month
+-   [Seller Snap](https://sellersnap.io) - 15-day free trial / AI Amazon Repricer / Seller Analytics - From $250/month
+-   [Taggbox](https://taggbox.com) - Collect Social Media Feeds & Reviews / Showcase Social Walls for Events
+-   [Addlly AI](https://addlly.ai) - Free trial / Custom AI Agents / Effortless Content Automation
+-   [Vendasta](https://vendasta.com) - Free trial with 10 Snapshot Reports/month / AI-powered platform / Client Acquisition & Retention / No credit card required - From $79/month
+-   [Plerdy](https://plerdy.com) - 14-day free trial / Heatmaps / Session Replay / SEO Checker - From $32/month
+-   [Shortimize](https://www.shortimize.com) - 7-day free trial / Track, Analyze & Explore TikTok, Insta Reels and YouTube Shorts / Automatically track videos with URL / Data visualization & reports - From $99/month
+-   [Team-GPT](https://team-gpt.com) - Free trial / Collaborative AI workspace / Multiple AI models & prompt organization / Scale on-brand content - From $25/user/month
+-   [Impulze.ai](https://www.impulze.ai) - Free plan for 1-2 influencers / Find & analyze influencers from 280M+ profiles / Manage campaigns & measure ROI - From $89/month for 10-40 influencers
+-   [Averi AI](https://averi.ai) - 1 User Free / AI Marketing Manager / Content Creation / Expert Sourcing - From $80/month
+-   [GoZen](https://gozen.io) - 250 Views per month, 5 AI questions/month / AI-powered marketing and sales automation / Unified suite for customer support and lead generation - $0/month
+-   [Lebesgue: AI CMO](https://lebesgue.io) - 14-day free trial / AI-Powered Insights / Competitor Tracking / LTV Analysis - From $59/month
+-   [AiSensy](https://aisensy.com) - Free forever plan with unlimited service conversations & $1 credit / WhatsApp Broadcasting / AI Chatbots / Click to WhatsApp Ads - From $20/month
+-   [Anyword](https://anyword.com) - 7-day free trial (2,500 words) / AI copywriting that converts / Performance prediction scores / Consistent on-brand content - From $39/month (billed yearly)
+-   [Ortto](https://ortto.com) - 14 day free trial / AI-powered marketing automation / Unified customer data platform / Omnichannel engagement & support - From $509/month
+-   [Pin Generator](https://pingenerator.com) - 12 free generations per month / Generate Pinterest pins FAST / AI text writer / Bulk scheduler - From $16.99/month
+-   [Pressmaster.ai](https://www.pressmaster.ai) - 7-day free trial / Authentic content in your voice / One-click publishing - From US$16/month per user
+-   [Lillian - AI Influencer Marketing](https://www.heylillian.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3174)- Freemium + From $19.90/month, No Refunds / AI-powered influencer marketing automation platform.
+-   [buzzaboutv1.1](https://buzzabout.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2949)- Freemium + From $49/month / AI social media research for marketers
+-   [Chatbeat](https://chatbeat.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2634)- Free Trial + From $99/month / Track your brand's exposure across major AI platforms
+-   [Personyze](https://www.personyze.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2550)- Freemium + From $134/month, No Refunds / AI-driven personalization engine boosting engagement and conversions.
+-   [The AI CMO](https://theaicmo.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2988)- Free Trial + From $99/month, No Refunds / The marketing system that learns and compounds.
+
+### AI Sales
+
+-   [Instantly.ai](https://instantly.ai) - 1000 Uploaded Contacts, 5000 Emails Monthly / Automated Outreach / Deliverability Network / Lead Database - From $37/month
+-   [Clay](https://www.clay.com) - 1.2K credits/year free / 100+ data providers / web scraping / AI message drafting - From $149/month
+-   [Hotel in Cloud](https://hotelincloud.com) - Free demo / AI-powered dynamic pricing / All-in-one hotel management / Automated daily operations
+-   [Reply.io](https://reply.io) - 14-day free trial / AI Sales Email Assistant / Multichannel Automation - From $59/month for 1000 active contacts
+-   [Copy.ai](https://www.copy.ai) - 2,000 Words in Chat free / Generates high-quality copy / Automate GTM tasks / No credit card required - From $36/month
+-   [Vidyard](https://vidyard.com) - 5 videos per month / Personalized Video Messages / AI-Powered Automation / Video Hosting & Analytics - From $59/month
+-   [Hyperbound](https://www.hyperbound.ai) - Free demo / AI Sales Roleplays / AI Real Call Scoring / AI Coaching / No password or credit card required
+-   [200+ ChatGPT Mega-Prompts for Sales](https://godofprompt.ai/sales-mega-prompts) - 10 Free Mega-Prompts / Automate sales tasks / Generate high-converting sales proposals - $37.00 for 200+ sales prompts
+-   [Nutshell](https://www.nutshell.com/crm) - 14-day free trial / User-friendly Sales & CRM / Sales Automation / Email & Calendar Sync / No credit card required - From $13/month per user
+-   [Ringflow](https://www.ringflow.com) - 14 Days Free Trial / AI-Powered Cloud Communication / Omnichannel Support / Real-Time Analytics - From $9.99/month
+-   [Second Nature](https://secondnature.ai) - Free role plays (3-5 min experience) / AI-driven role play sales training / Real-time personalized feedback
+-   [PPSPY](https://www.ppspy.com) - Free Trial / AI-powered product research / Competitor sales tracking - From $19.9/month
+-   [Salesmate](https://salesmate.io) - Try FREE for 15 days / AI-powered CRM / Sales & Marketing Automation / No credit card required - From $23/user/month
+-   [Orum](https://orum.com) - Free 500 dials / AI-powered Dialer / AI Coaching - From $250/month (billed annually)
+-   [Salesforge](https://salesforge.ai) - 7-day free trial / AI-powered unique emails / Email deliverability tools / AI Agents for sales pipeline - From $48/month
+-   [Success.ai](http://success.ai) - 14-day free trial, 30 free lead credits / Unlimited access to 700M+ B2B leads / Unlimited Email Sending & Warmup - From $35/month
+-   [Claap](https://claap.io) - 10 videos / 300 mins free / AI notes & transcripts / Automate sales busywork - From €30/month
+-   [Gojiberry AI](https://www.gojiberry.ai) - 7 days free trial / AI Meeting Notes & Summaries / AI Deals Follow-ups / CRM Updates - From $29/month
+-   [Relevance AI](https://relevanceai.com) - Build your AI Workforce / Automate processes / Deliver human-quality work
+-   [SalesRobot](https://salesrobot.co) - 14-day free trial, 225 free credits / Automated personalized outreach / Multi-channel LinkedIn & Email outreach / No credit card required - From $39/month
+-   [Amplemarket](https://amplemarket.com) - Free trial / AI Sales Copilot / Intent Signals / AI-driven research - $600/mo for 2 users and 30,000 contacts
+-   [Clarify](https://clarify.ai) - 2,500 credits free / Automates pipeline creation / Close more deals / Automates tedious work - From $20/mo
+-   [PromptLoop](https://www.promptloop.com) - Free with two workflows / Automate web scraping, Deep Research, and CRM data enrichment / 10x faster B2B research / Integrates with HubSpot CRM - From $750/month
+-   [Jeeva AI](https://www.jeeva.ai) - 14 Days Free Trial, 150 credits/mo / Lead Discovery & Enrichment / Personalized Outreach - From $20/month
+-   [Omnichat](https://www.omnichat.ai) - 14-day free trial / Omnichannel Chat Commerce / AI-powered conversational suite
+-   [Sybill](https://www.sybill.ai) - 14 days free trial / Accurate AI sales call summaries / Automates CRM updates / Crafts follow-up emails - From $19/month/user
+-   [SalesRender CRM](https://salesrender.com/en) - 14-day free trial / Automate dialers / Track team productivity / Audit calls with AI
+-   [SleekFlow](https://sleekflow.io) - AI-personalized workflows / Omnichannel Inbox / Automate customer interactions - From S$199/month
+-   [Dubb](https://dubb.com) - Free forever (25 SD video limit) / AI-Powered Video Sales System / Real-time activity tracking - From $59/month
+-   [UMU](https://www.umu.com) - AI-powered performance learning platform / AI video generation with avatars / Video practice & AI feedback
+-   [Common Room](https://www.commonroom.io) - 14-day free trial / AI-powered GTM intelligence / Comprehensive buying signals - From $1k/mo (billed annually) for up to 35k contacts
+-   [Demodesk](https://demodesk.com) - 14 days free trial / AI Sales Agents / Automate tasks / Fill CRM - From $49/month
+-   [Dealism](https://dealism.ai) - 3-day Free Trial / Conversational AI Sales Agent / Human-Like Sales Rep - From $39/month
+-   [Koncert](https://koncert.com) - Free trial available / AI-Powered Sales Dialer / Remote Salesfloor & Coaching / Automated Caller ID Management
+-   [B2B Rocket](https://www.b2brocket.ai) - Unlimited AI Agents / Lead Search / Multi-Channel Outreach / AI Auto Reply - From $449/month (2,000 Contacts Monthly)
+-   [Seller Snap](https://sellersnap.io) - 15-day free trial / AI Amazon Repricer / Seller Analytics - From $250/month
+-   [Crono](https://www.crono.one) - Find qualified leads / Automate outreach / AI-powered sales automation - From €69/user/month (billed annually)
+-   [Zipchat AI](https://zipchat.ai) - Free 7-day trial / Automate Sales & Support / Turn last-minute doubters into lifetime customers - From $49/month (500 replies)
+-   [SellRaze](https://sellraze.com) - Free / AI-powered instant listings / Cross-listing across multiple marketplaces
+-   [Vendasta](https://vendasta.com) - Free trial with 10 Snapshot Reports/month / AI-powered platform / Client Acquisition & Retention / No credit card required - From $79/month
+-   [Leadspicker](https://leadspicker.com) - AI-powered lead generation / Multichannel outreach - From $80/month
+-   [Parspec](https://parspec.io) - 14-day free trial / AI-powered product selection / Quoting / Submittals & O&Ms - From $149/month
+-   [Oliv AI](https://www.oliv.ai) - 10 free credits for 10 meetings / Automate everyday sales workflows / AI-written personalized follow-up emails / Without signing up - From $19/user (billed annually)
+-   [Airscale](https://airscale.io) - 14 days free trial / Source, enrich, clean and export leads / Access 30+ data providers - From $49/month
+-   [Firebender](https://firebender.com) - 50 user messages free / General Coding Agent / Autocomplete - From $30/month
+-   [GoZen](https://gozen.io) - 250 Views per month, 5 AI questions/month / AI-powered marketing and sales automation / Unified suite for customer support and lead generation - $0/month
+-   [Humantic AI](https://humantic.ai) - 7 Days FREE Trial / Know your buyers / Personalize interactions - From $32/month
+-   [Roketfy](https://roketfy.com) - Free 3 Listings / Analyze Listings / Smart Recommendations / AI-powered Sales Booster - From $6.99/month
+-   [Hammer AI](https://hammer-corp.com) - Free Trial / AI-powered 24x7 sales engagement / Multi-platform communication
+-   [Humanlinker](https://www.humanlinker.com) - 30 AI credits / AI leads recommendation / DISC Personality Analysis / AI-generated 1:1 messages - From $53/month
+-   [QuoteCraft AI](https://quotecraftai.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3477)- Freemium + From $9/month, Free during beta / AI-Powered Proposals That Win Deals
+-   [Signado](https://signado.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3150)- Freemium + From $149/month, 30 Days Money Back Guarantee / Outreach that lands because the timing is real
+
+### AI SEO Tools
+
+-   [TubeBuddy](https://tubebuddy.com) - 5 Suggested Shorts / AI-powered Video Optimization / YouTube SEO Tools - From $6.00/month
+-   [200+ ChatGPT Mega-Prompts for SEO](https://www.godofprompt.ai/seo-mega-prompts) - 10 Free Mega-Prompts / Boost SEO & organic traffic / Automate SEO tasks - From $15/month
+-   [Diib](https://diib.com) - Free 1 RankGuard® scan / SEO Tool + Traffic & SEO Checker / Custom Growth Plan - From $14.99/month
+-   [SEO.AI](https://seo.ai) - 7-day free trial, two auto-generated articles / AI copywriting / SEO keyword research / Product feed optimization - From $49/month
+-   [Frase](https://www.frase.io) - Free 10,000 AI words / SEO content optimization / AI writing - From $45/month
+-   [Surfer](https://surferseo.com) - SEO Content Optimization / AI-powered article generation / Content Strategy & Research - From $99/month
+-   [Senuto](https://www.senuto.com/en) - 14-day free trial, 3 free AI texts / Visibility Analysis / Keyword Explorer / Content Writer - From EUR 32/month
+-   [Testmarket](https://testmarket.io) - Free membership / AI-powered Sales Strategy & A/B Testing / Cashback & Rewards Deals
+-   [TimeSkip AI](https://timeskip.io) - 2 videos free / Instantly create chapters/timestamps / SEO-optimized chapters / No CC required - From $17 for 30 videos
+-   [GTranslate](https://gtranslate.io) - 15 day free trial / Translate your website / Search engine indexing - From $9.99/month
+-   [Rankability](https://www.rankability.com) - / Content Optimizers / AI Briefs and Outlines / Keyword Research - From $149/month
+-   [Whitespark](https://whitespark.ca) - Local SEO Tools / Citation Services / Reputation Management - From $1/month
+-   [Junia AI](https://junia.ai) - 1 article workflow free / Long-form SEO blog posts / Automatic link insertion - From $27/month
+-   [SurgeGraph](https://surgegraph.io) - 30 free AI writing credits / Humanlike content that ranks high and drives traffic / Automated content generation - From $19.42/month
+-   [InLinks](https://inlinks.com) - Free 2 content optimizations, 25 internal links / Automate internal links / Schema automation / Content optimization - From US$49/m
+-   [Nightwatch](https://nightwatch.io) - 14 Days for Free / Accurate Keyword Ranking Reports / Automated Reports - From $32/month (250 keywords)
+-   [Koala AI](https://koala.sh) - 5,000 words & 25 chat messages free trial / SEO-optimized articles / Real-time factual data / No Login required - From $7/month
+-   [RivalFlow AI](https://rivalflow.com) - 14-day free trial / Pages we help improve / New Improvement Ideas - From $79 a month
+-   [AI SEO Content Generator](https://i10x.ai/seo/content) - 5 uses of basic models daily / SEO-ready, competitor-beating articles / Optimized for GPT & all LLMs - From US$10/mo
+-   [Scalenut](https://www.scalenut.com) - 2 SEO articles free / Create SEO-optimized blog posts in 5 minutes / AI-driven content optimization - From $20/month
+-   [Positional](https://www.positional.com) - Free 5 Optimize reports per month / Content Optimization / SEO Strategy / Content Analytics - From $49/month
+-   [Seomator](https://seomator.com) - 7 days free trial / AI-Powered SEO & SEM Platform / All-in-one SEO Toolset / White label reports - From $49/month
+-   [Otterly.AI](https://otterly.ai) - 14 Days Free Trial / AI Search Monitoring for AI Overviews, ChatGPT & Perplexity / Brand & Content Monitoring - From $29/month for 10 search prompts
+-   [Zarla](https://zarla.com) - Free website / AI-powered website builder / SEO & Lead Generation - From $9/month
+-   [LLMrefs](https://llmrefs.com) - 1 Keyword free / Track keyword rankings in AI search engines / Optimize AI SEO performance / No credit card required - From $79/month
+-   [AITDK](https://aitdk.com) - AI SEO Title Generator / AI SEO Description Generator / AI SEO Keywords Generator
+-   [InsightFactory](https://insightfactory.app) - 15 free credits / Etsy Trends Research / Keyword Research - From $19.99/month
+-   [Arvow](https://arvow.com) - 3 Free Articles / AI Article Writer for SEO / Automatic Blogging / No card required - From $39/month
+-   [GrackerAI](https://gracker.ai) - Free trial / Real-time news monitoring / AI-assisted content creation / SEO-optimized blogs - From $4k/month
+-   [Taja AI](https://taja.ai) - Free 7 Day Trial / Turn one video into 27 social posts automatically / AI-Powered YouTube SEO expert / Content Idea Generation - From $17.50/month
+-   [OutlierKit](https://outlierkit.com) - 10 free credits / YouTube Competitor Analysis / Low-Competition Keyword Finder - From $19/month
+-   [Prepostseo](https://www.prepostseo.com) - Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants - From $7/month
+-   [Creaitor](https://www.creaitor.ai) - 7-Day Free Trial / AI-Powered Content Generation / Integrated SEO Tools / Automated Content Workflow - From SGD 25.1/month
+-   [AirOps](https://www.airops.com) - 1,000 tasks/month free / Orchestrate Content. Drive Revenue. / Build powerful LLM workflows - From $0/month for 1,000 tasks
+-   [GetGenie Ai](https://getgenie.ai) - 2,500 AI Writing Words free / One-Click Blog Generation / Head-to-Head Competitor Analysis - From $10/month
+-   [Plerdy](https://plerdy.com) - 14-day free trial / Heatmaps / Session Replay / SEO Checker - From $32/month
+-   [WriterZen](https://writerzen.net) - 15-day free trial / AI-powered content solution / simplified SEO workflow / Google's top rankings
+-   [Keyword Insights](https://www.keywordinsights.ai) - 600 One time credits / Keyword Clustering / Search Intent / AI Writing Assistant - From $46/month (120,000 Credits)
+-   [Local SEO Tools and Tips (LSTT)](https://localseotoolsandtips.com) - 15 tokens free / AI automation for Google Business Profile / Automated Review Replies - From ₹1,440/month for 200 tokens per location
+-   [WiziShop](https://wizishop.com) - 7-day free trial / AI content creation / Best-in-class SEO / No credit card required - From $24.90/month
+-   [Alli AI](https://alliai.com) - 10-day free trial / Onpage SEO Automation / No Coding Required / Works with any CMS - From $169/month for 1 site, 1 team member, 100 keywords, 250 pages
+-   [QuickCreator](https://quickcreator.io/ai-blog-writer) - 3 free articles / Humanized, SEO-Optimized Blogs / Automatic link insertion - From $39/month
+-   [NEURONwriter](https://www.neuronwriter.com) - 7-day free trial / Content optimization for Google / Advanced content editor with NLP & SERP analysis / Generative AI - From $23/month
+-   [SEOpital](https://www.seopital.co) - AI SEO Writing Tool / Generate and Optimize SEO Content - From $49/month
+-   [Contadu](https://contadu.com) - 30-day free trial / Content strategy planning / SEO content optimization - From $37/month (billed annually)
+-   [Leap Rank](https://www.tryleap.ai/ai-seo) - AI-powered workflow automation / SEO content creation / No-code custom automations - From $99/month
+-   [SEO Vendor](https://seovendor.co) - 2-week free trial / Patented AI SEO for White Label / AI SEO Automations - From $99/month
+-   [BlogSEO](https://blogseo.io) - Free 3-day trial / Auto-published SEO blog articles / AI-driven content generation - From $97 USD / month
+-   [Ranking Turbo](https://www.rankingturbo.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3363)- Freemium + From $29/month, No Refunds / Find winnable SEO keywords using AI-powered analysis.
+-   [Skillaeo](https://skillaeo.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3216)- Freemium + From $19.90/month, No Refunds / See how ChatGPT, Claude & Gemini describe your brand
+-   [Beacon AI](https://www.hellobeacon.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2592)- Freemium + From $49/month, 14-day money-back guarantee / Track your visibility across AI-powered search engines.
+-   [BrightKeyword](https://brightkeyword.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2682)- 10 days free trial + From $29/month, Refunds are available within 30 days of your initial purchase. / Find hidden keywords your competitors miss.
+-   [Facet](https://tryfacet.io?ref=ilovefree&utm_source=ilovefree&utm_medium=directory&utm_campaign=launch) [](https://free.ilovefree.com/link/2810)- Freemium + From $29/month, No Refunds / The Growth Engine for the Post-Google Era (AEO & GEO)
+-   [Kensaku AI](https://kensakuai.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2544)- 3 days free trial + From $99/month, No Refunds / 100+ SEO Optimized pages in1 click
+-   [Opttab](https://opttab.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2538)- Freemium + From $17/month, No Refunds / Manage your visibility and presence in AI models.
+-   [TryRankSense](https://tryranksense.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3056)- Freemium + From $29/month, No Refunds / AI tells you what to fix first.
+
+### AI Sales Assistant
+
+-   [Dialpad](https://www.dialpad.com) - Free for 14 days / Ai-powered communications / Connect customers & coach teams / Unlimited calls, messages, and meetings - From $27/month
+-   [GetProspect](https://chromewebstore.google.com/detail/email-finder-getprospect/bhbcbkonalnjkflmdkdodieehnmmeknp) - Free monthly credits / Email Finder / Bulk email finder / CRM contact management - From $49/month
+-   [CallHippo](https://callhippo.com) - Free 3 users / 10-day free trial / Virtual Phone System / AI-driven inbound calls / Increased Productivity - From $10/month
+-   [Nifty](https://nifty.ai) - 7-day free trial / Crosslisting / Automation / Analytics - From $25/month
+-   [Omakase Voice AI](https://www.omakase.ai) - Free / Voice-Powered Sales AI Agent / Drives Real Sales / Effortless Setup / No Credit Card Required
+-   [VanChat](https://vanchat.io) - 7-Day Free Trial / Accurately answer 97% of customer questions / Personalized Product Recommendations / Proactive Sales
+-   [Rep AI](https://www.hellorep.ai) - 30-day free trial / Shopify's first AI Sales Concierge chatbot / Increase traffic conversions & sales uplift - From $39/month
+-   [200+ ChatGPT Mega-Prompts for Sales](https://godofprompt.ai/sales-mega-prompts) - 10 Free Mega-Prompts / Automate sales tasks / Generate high-converting sales proposals - $37.00 for 200+ sales prompts
+-   [Respond.io](https://respond.io) - 7-day free trial / AI-Powered Customer Conversation Management / Automate chats - From $79/month
+-   [Clodura.AI](https://www.clodura.ai) - Database / Sales Engagement / Email Verification
+-   [folk](https://www.folk.app) - 14-day free trial / AI-powered CRM / Sales assistant features / Collaborative pipelines - From $25/member/month
+-   [Orum](https://orum.com) - Free 500 dials / AI-powered Dialer / AI Coaching - From $250/month (billed annually)
+-   [Claap](https://claap.io) - 10 videos / 300 mins free / AI notes & transcripts / Automate sales busywork - From €30/month
+-   [Firework](https://firework.com) - Free 10 video uploads / Video Commerce / AI-Powered Solutions / Shoppable Video
+-   [MiiTel](https://miitel.com) - AI-powered analytics / Smart PBX - From $69/month
+-   [Meet Alfred](https://meetalfred.com) - 1 Active Campaign / Automate LinkedIn outreach and close more deals / Multichannel Sequences - From $29 USD user/month billed annually
+-   [SalesRobot](https://salesrobot.co) - 14-day free trial, 225 free credits / Automated personalized outreach / Multi-channel LinkedIn & Email outreach / No credit card required - From $39/month
+-   [Amplemarket](https://amplemarket.com) - Free trial / AI Sales Copilot / Intent Signals / AI-driven research - $600/mo for 2 users and 30,000 contacts
+-   [Clarify](https://clarify.ai) - 2,500 credits free / Automates pipeline creation / Close more deals / Automates tedious work - From $20/mo
+-   [Jeeva AI](https://www.jeeva.ai) - 14 Days Free Trial, 150 credits/mo / Lead Discovery & Enrichment / Personalized Outreach - From $20/month
+-   [Layerpath](https://www.layerpath.com) - 3 Projects / Interactive Product Demo Creation / AI Demo Agent - From $0/month
+-   [Sybill](https://www.sybill.ai) - 14 days free trial / Accurate AI sales call summaries / Automates CRM updates / Crafts follow-up emails - From $19/month/user
+-   [Trellus](https://trellus.ai) - / Real-time AI coaching / Parallel dialer / Automates post-call work - From $34.99/month
+-   [Dubb](https://dubb.com) - Free forever (25 SD video limit) / AI-Powered Video Sales System / Real-time activity tracking - From $59/month
+-   [GigRadar](https://gigradar.io) - AI-Powered Upwork Automation / Automated AI Bidding / Real-time Job Alerts
+-   [Juphy](https://juphy.com) - 24/7 AI Sales Assistant / Automate 95% of Support Tickets & Turn Chats into Sales - From $99/month (Up to 10k Visitors / mo)
+-   [Lavender](https://www.lavender.ai) - Write better emails faster / Get more positive replies / Boost pipeline from your inbox
+-   [Pokee AI](https://pokee.ai/verticals/e-commerce) - 14-day free trial / AI-powered search & recommendations / 24/7 AI Sales Chatbot & Customer Support - From $29/month
+-   [Guideflow](https://guideflow.com) - 5 guideflows free / Create interactive demos / AI Demo Automation - From $35/month (unlimited guideflows)
+-   [GetSales.io](https://getsales.io) - LinkedIn & Email Outreach Automation / Best-in-Class Account Safety with Single Session Protection - From $79/team
+-   [SalesAPE.ai](https://www.salesape.ai/?red=toolif4e9d90) - Test your AI agent for free / Train your own AI sales rep / Qualify leads, engage customers, book appointments / Convert more customers into sales
+-   [Koncert](https://koncert.com) - Free trial available / AI-Powered Sales Dialer / Remote Salesfloor & Coaching / Automated Caller ID Management
+-   [Miragic - SalesPilot](https://miragic.ai/products/sales-pilot) - 5 Free credits / AI-Powered Sales Analytics / Sales Forecasting / Virtual Try-On / No credit card required for free plan - From $5 one-time for 100 credits
+-   [Winn.AI](https://winn.ai) - Try it free for 14 days! / Real-time meeting notes & data capture / Automated CRM updates - From $69/seat/month (billed annually)
+-   [Zaia](https://zaia.app) - 7-day free trial / Create and manage 24/7 AI employees / Automate support and sales processes - From R$249/month for 10 AI employees
+-   [Elephant.ai](https://elephant.ai) - Free 1 chatbot, 25 message credits / Custom ChatGPT Chatbot / 24/7 AI Sales Assistant / No Coding Needed - From $9/month
+-   [VoiceGenie](https://voicegenie.ai) - 30 voice minutes for 7 days / Qualify Leads / Book Meetings - From $50/month for 250 Minutes
+-   [Ignition](https://www.haveignition.com/sales-battlecard-template) - Free battlecard generator & Freemium plan / AI-Generated Sales Battlecards / Up-to-date Competitive Intelligence / Automated Sales Enablement - From $99/editor/mo
+-   [Parspec](https://parspec.io) - 14-day free trial / AI-powered product selection / Quoting / Submittals & O&Ms - From $149/month
+-   [Oliv AI](https://www.oliv.ai) - 10 free credits for 10 meetings / Automate everyday sales workflows / AI-written personalized follow-up emails / Without signing up - From $19/user (billed annually)
+-   [xAutoDM](https://xautodm.com) - 50 DMs/day free / Automate personalized Twitter DMs / 5x higher response rates - From $59/month
+-   [Offorte](https://www.offorte.com) - 14-day free trial / Automated proposal creation / Real-time tracking & insights / Automated follow-ups - From $14/month - 1 user
+-   [SendWo](https://sendwo.com) - Free $0/month plan (1 WhatsApp Account, 10K contacts) / AI Powered WhatsApp Chatbot / Bulk WhatsApp Broadcasting - From $29/month
+-   [Lyzr](https://www.lyzr.ai) - Free Forever with 500 credits / Instant insights / Intelligent recommendations - From $99/month
+-   [BestChat](https://bestchat.com) - Try for free / AI-Driven Conversions / Streamlined Customer Experience / Multi-channel Communication
+-   [Humantic AI](https://humantic.ai) - 7 Days FREE Trial / Know your buyers / Personalize interactions - From $32/month
+-   [DitLead](https://ditlead.com) - 200 Contacts, 1000 Emails per month, 100 verification credits / LinkedIn Outreach Automation / Cold Emailing / Email Warmup - From $31/month
+-   [Hammer AI](https://hammer-corp.com) - Free Trial / AI-powered 24x7 sales engagement / Multi-platform communication
+-   [SalesMind AI](https://sales-mind.ai) - 7 day free trial / Personalized AI messages / LinkedIn Prospecting Automation - From $89/month per 1 LinkedIn account
+-   [Skarbe](https://skarbe.com) - Free plan available / Automates deal tracking / Email follow-ups / No credit card required - From $29/month
+
+### AI Ad Generator
+
+-   [Creatify](https://creatify.ai) - 10 credits/mo (~2 videos) / AI Video Ads / AI Avatar / No credit card required - From $33/mo
+-   [Creatopy](https://www.creatopy.com) - 7-day free trial / AI-powered Ad Generation / Design & Scale Ads Online / No credit card required - From $45/month
+-   [Higgsfield](https://higgsfield.ai) - 25 credits free / AI-powered cinematic video generation / Create product videos from a single photo - From $9/month
+-   [AdCreative.ai](https://www.adcreative.ai) - Generate ad creatives / AI product photoshoots / Detailed competitor insights - From $25/month
+-   [VMEG AI](https://www.vmeg.ai/tools/clips-to-videos) - 60 free credits / Clips to Videos / AI Voiceovers & Subtitles - From $9.6 for 240 credits
+-   [Predis.ai](https://predis.ai) - 15 AI Credits / AI Ad Creatives & Social Posts / Content Scheduling & Publishing - From $27/month
+-   [Captions](https://www.captions.ai) - AI-powered video creation / Automatic captions / UGC-style ad generation - From $9.99/mo
+-   [Writesonic](https://writesonic.com) - 10000 Premium words free / SEO-optimized content creation / AI Article & Blog Writer - From $16/month
+-   [Atria](https://tryatria.com) - 7-day free trial / AI Ad Generation / Ad Inspiration & Reporting - From $129/month
+-   [Postly](https://postly.ai) - Free Plan with 50 posts & 20k AI text credits / AI Social Media Management / AI Ads Maker - From $20.00/month
+-   [Icon AI](https://icon.com) - 6 FREE static ads + 1 FREE video ad / Partner with creators / Turn 1 video into 20 videos with AI / A/B test messaging - From $39/month
+-   [Gethookd](https://www.gethookd.ai) - 14-day free trial / AI-Powered ad research / AI UGC creation - From $35/month (billed annually)
+-   [Sivi AI](https://sivi.ai) - 10 designs per month free / Turn ideas into visual designs in 2 minutes / Generate designs in 72+ global languages - From $10/month
+-   [Persuva](https://persuva.ai) - Limited credits / High-Converting Product Pages / Optimized Ads & Audience Insights - From $9/month
+-   [Search Atlas](https://searchatlas.com/otto-google-ads) - Free for 7 Days / Automate Google Ads campaigns / Automate SEO tasks - From $99/month
+-   [Lexi AI](https://lexilexi.ai) - 7-day free trial / AI Meta Ad Generation / Optimized Audience Targeting / Continuous Ad Optimization - From $199/month
+-   [Denote](https://denote.net) - Unlimited Creatives (Free Starter) / 7-day free trial (Pro) / Save Ads from Ad Libraries / AI Script Generation / Competitor Ad Spy - From $9/month
+-   [Pencil](https://www.trypencil.com) - Create new ad variations 10x faster / Double productivity and performance with Generative AI / Generate copy and visuals with AI chat
+-   [Smartli](https://www.smartli.ai) - 7-day free trial / AI Product Descriptions / AI Blog Writer / AI Ads Writer - From $29/month
+-   [Tagshop AI](https://tagshop.ai) - Free 1 video / AI UGC Video Generation / Lifelike AI Avatars - From $11/month
+-   [Marpipe](https://marpipe.com) - Control your Dynamic Product Ads / Make your catalog ads look like real ad creative / Turn every SKU into a thumb-stopping video
+-   [VisCap.ai](https://viscap.ai) - 30-day free trial / AI Video Builder / Integrated Project Management / Media Library
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [Bestever](https://bestever.ai) - 120 credits, expires in 14 days / AI Ad Analysis / AI Ad Generation / Competitor Ad Analysis - From $39/mo
+-   [Waymark](https://waymark.com) - Unlimited draft videos / AI video creator / agency-quality ads in minutes - From $125/month
+-   [Shown.io](https://shown.io) - Free 7-day trial / AI-Powered Ad Campaign Optimization / Automated Ad Creation & Management - From $29/month
+-   [AdGen AI](https://www.adgenai.com) - 5 credits free / AI-driven ad generation / One-click publishing - From $19/month
+-   [uSpeedo.AI](https://uspeedo.ai) - 100 Credit / Month / AI-powered marketing content generation / Data-driven insights & competitor analysis - From $9.90/Month
+-   [Freeadcopy](https://freeadcopy.com) - Free forever / AI Copy Generator / Outperforms your ads / Powered by GPT-4
+-   [Admaker by Picsart](https://onlineadmaker.com) - 4 free credits / AI-generated imagery, backgrounds, and text / All-in-one ad creation - From $2.99 / 50 credits
+-   [Adwisely](https://adwisely.com) - 7-day free trial / AI-powered campaigns for Meta and Google / Monthly support from Ad Experts - From $249 for 30 days of service
+-   [Plai](https://www.plai.io) - 7-day free trial / AI-powered ad & social post creation / Multi-platform ad management - From $27/month
+-   [UGC Ads AI](https://ugcads.ai) - 5 free credits / Generate winning video ads in minutes / 500+ AI actors & viral scripts - From $49.99/mo
+-   [Sprello](https://sprello.ai) - 50 free credits / AI video ad creation / UGC-style ads with AI Influencers - From $59/month
+-   [Remagine AI](https://remagineai.com) - 250 AI runs/month / AI-driven content creation / 200+ AI Templates & Tools - From $20/month
+-   [30characters](https://30chars.com) - Generates ad copy quickly / Understands character limits / Allows easy fine-tuning - From $4.16/month
+-   [AdsPolar](https://adspolar.com/en) - AI-powered Ad Automation / Multi-channel Ad Delivery / AI Assistant for Optimization - From $99/month
+-   [Quickads](https://www.quickads.ai) - 5 Days Trial / AI Ad Generator / Image & Video Ads / 10M+ Ads library - From $39/month
+-   [Flair AI](https://flair.ai) - 5 generated images free / AI Product Photo Generator & Editor / On Model Photography - From $8/month
+-   [FusionAds.ai](https://www.fusionos.ai) - 7 days FREE / Instantly generate social media posts & paid ads / Automated A/B testing for best results - From $35/month
+-   [Productly](https://productly.app) - 3-day free trial / Product Description / Email Marketing - From $21.99/month
+-   [Muze AI](https://muzecmo.com) - 7-day Free Trial / Autonomous 24/7 optimization / AI image & video ad creation / - From $399/month
+-   [Anyword](https://anyword.com) - 7-day free trial (2,500 words) / AI copywriting that converts / Performance prediction scores / Consistent on-brand content - From $39/month (billed yearly)
+-   [AdCopy.ai & Koast.ai](https://adcopy.ai) - 30 FREE ADS / AI-powered ad copy generation / High-converting & compliant copy / Unlimited variations - From $29/month
+-   [Adgen Studio](https://www.adgenstudio.com) - 10,000 tokens free / AI-powered ad generation / Automated social media posts - From $19.99/month
+
+### AI Email Marketing
+
+-   [Klaviyo](https://klaviyo.com) - 500 monthly email sends, 150 monthly SMS/MMS credits, up to 250 active profiles / Intelligent marketing automation / Hyper-personalized messages / Unified customer data - From $45/month (15,000 Emails)
+-   [Mailchimp](https://mailchi.mp) - Free plan for up to 500 contacts and 1,000 emails/month / Email marketing / Automation / AI marketing tools - From $13/month for 500 contacts
+-   [Smartlead](https://smartlead.ai) - 14-day free trial / Premium Deliverability / Unlimited Mailboxes / Unlimited AI Warm-ups / No Credit Card Required - From $39/month
+-   [Robly Email Marketing](https://robly.com) - 14 day free trial / Get 50% More Opens / List Growth - From $15/mo for up to 500 contacts
+-   [Reply.io](https://reply.io) - 14-day free trial / AI Sales Email Assistant / Multichannel Automation - From $59/month for 1000 active contacts
+-   [ActiveCampaign](https://www.activecampaign.com/platform/artificial-intelligence) - Free 14-day trial / AI-powered marketing automation / Generative AI / Predictive sending - From $15/month
+-   [Mailmodo AI](https://mailmodo.com) - 21 days free trial / Send interactive emails / Drag & Drop Editor / Email Automation - From $39/month for 2,500 contacts
+-   [ReachInbox](https://reachinbox.ai) - 14-Day Free Trial / AI-driven Cold Email Sending / Email Warmups & Inbox Rotation / AI-driven Sequence Generation - From $39/Month
+-   [Folderly](https://folderly.com) - 2 tests per month / Email placement insights / Sender IPs & Blacklists insights - From $79/month
+-   [Mailercloud](https://www.mailercloud.com) - 12000 emails/month free / Advanced Automation / Personalized campaigns / Drag and drop builder - From $10/Month
+-   [Unspam](https://unspam.email) - Free 10 spam tests, 10 email previews, 10 email heatmaps, 3 inbox tests / Email Spam Checker / Inbox Placement / AI Email Heatmap - From $9/month
+-   [Hoppy Copy](https://www.hoppycopy.co) - 7-Day Free Trial / AI Email Writing / Email Marketing & Automation / No CC required - From $23/mo
+-   [Maverick](https://www.trymaverick.com) - Free subject line generation / AI generated personalized videos / Automated A/B testing for email content / Improved email deliverability - From $200/month for up to 3,000 video sends
+-   [SendBridge](https://sendbridge.com) - 100 free email verifications/month / AI-powered email validation / Protects sender reputation - From $9 for 5,000 credits
+-   [Beacons](https://beacons.ai) - 10 AI image and text generations free / Customizable link-in-bio / Sell digital products / Real-time analytics - From $8.33/month
+-   [pipl.ai](https://pipl.ai) - 14-day free trial with 1000 emails & 100 enrichment credits / AI-powered Cold Outreach / Smart Email Automation / Built-in Email Validation - From $37/month
+-   [SwiftERM](https://swifterm.com) - 30-day free trial / AI hyper-personalisation for email / Predicts next customer purchase - From £100/month for <20k contacts
+-   [Humanic](https://humanic.ai) - AI-powered segmentation / Tailored content generation / AI marketing agents - From $499/month for up to 25K MAU's
+-   [Ecomail](https://ecomail.app) - 14-day trial for up to 40,000 contacts, unlimited emails / AI-powered copy / Advanced automation / Omni-channel marketing - Free for up to 200 contacts, 200 emails/month
+-   [Mailgo](https://www.mailgo.ai) - 200 Outreach emails/month free / AI Leads Finding Agent / High Deliverability / No credit card required - From $15.2/month
+-   [Lyne.ai](https://lyne.ai) - AI-powered sales personalization at scale / Automate prospecting research / Increase reply rates & shorten sales cycles
+-   [Show by Animaker](https://www.getshow.io) - 500 AI Credits & 100 email sends/month / AI-Powered Email Marketing / Multi-touch attributed campaigns - From $29/mo
+-   [Kasplo](https://kasplo.com/email-intelligence-2) - 14 days free trial, 100 contacts, 50 emails / Email Marketing / AI-Powered Email Intelligence / Inbox Performance Tracking - From $13/month
+-   [Outboundly.ai](https://outboundly.ai) - 7-DAY FREE TRIAL / AI Powered Cold Email Outreach / Automated Email Sequences - From $29/month
+-   [MailTester.ai](https://mailtester.ai) - Test any email free / AI-powered email analysis / Technical deliverability checks / Just forward your email - Free
+-   [Mailead.io](https://mailead.io) - Unlimited email accounts and prospects / Generative AI / Unlimited Warmup - From $19/month
+-   [MailOptimal](https://www.mailoptimal.com) - Free 5000 Warmup Emails / month / AI-powered email warmup / comprehensive deliverability tests - From $12/month
+-   [tinyEinstein](https://www.tinyeinstein.ai) - 7-day free trial / AI-powered Email Marketing for Shopify / Automated Campaigns / AI Content Generation - From $3 USD/month for 100 subscribers
+-   [Email Outreach Company](https://eocworks.com) - expert cold email campaigns / high-quality sales appointments / More Meetings, Hassle-Free
+-   [Mocke](https://mocke.co) - 100 monthly mock credits / Know your reply rate in 1 minute / Reveal hidden lead actions - From $79/month
+-   [Email Marketing Automate By Soujiyi.com](https://chromewebstore.google.com/detail/email-marketing-automate/pmihmkpgkmmohhkipmmfgeiknmelklfn) - Free / Automated marketing / Email Tracking / Marketing Analysis
+-   [Emotsy](https://www.emotsy.com) - AI real-time personalization / Email marketing automation / Real-time statistics & insight reports
+-   [GoZen](https://gozen.io) - 250 Views per month, 5 AI questions/month / AI-powered marketing and sales automation / Unified suite for customer support and lead generation - $0/month
+-   [Productly](https://productly.app) - 3-day free trial / Product Description / Email Marketing - From $21.99/month
+-   [Maildrill](https://maildrill.app) - 2000 free emails / AI-powered email marketing / Visual Editor / Pay-per-email pricing - From $59 for 100,000 emails
+-   [Outplay](https://outplayhq.com) - 7-day free trial / Multi-Channel Outreach / Sales Automation / Conversation Intelligence / No credit card required - From $39/month
+-   [EmailVerify](https://emailverify.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2726)- Freemium + From $5/unit, No Refunds / Verify emails in real-time with 99.9% accuracy.
+
+### AI Lead Generation
+
+-   [GetProspect](https://chromewebstore.google.com/detail/email-finder-getprospect/bhbcbkonalnjkflmdkdodieehnmmeknp) - Free monthly credits / Email Finder / Bulk email finder / CRM contact management - From $49/month
+-   [Instantly.ai](https://instantly.ai) - 1000 Uploaded Contacts, 5000 Emails Monthly / Automated Outreach / Deliverability Network / Lead Database - From $37/month
+-   [Clay](https://www.clay.com) - 1.2K credits/year free / 100+ data providers / web scraping / AI message drafting - From $149/month
+-   [Leadpages](https://www.leadpages.com) - Free 14-day trial / Create high-converting landing pages / Generate qualified leads / A/B Testing for optimization - From $37/month
+-   [Thunderbit](https://thunderbit.com) - 6 pages / month / Scrape any website in 2 clicks / No CSS Selectors or Complex Drag-and-Drop - From $9/month
+-   [Popl](https://popl.co) - Free plan available / AI-powered lead capture / Digital business cards / CRM integrations - From $6.49/month
+-   [ScoreApp](https://scoreapp.com) - Advanced Quiz Funnel Marketing / Personalized Results / Data & Analytics - From $49/month
+-   [Smartlead](https://smartlead.ai) - 14-day free trial / Premium Deliverability / Unlimited Mailboxes / Unlimited AI Warm-ups / No Credit Card Required - From $39/month
+-   [Reply.io](https://reply.io) - 14-day free trial / AI Sales Email Assistant / Multichannel Automation - From $59/month for 1000 active contacts
+-   [VideoAsk](https://videoask.com) - 20 mins of video or audio processing per month / Interactive Video Platform / AI-powered video chatbots / Video Forms / No credit card required - From $24/month
+-   [200+ ChatGPT Mega-Prompts for Sales](https://godofprompt.ai/sales-mega-prompts) - 10 Free Mega-Prompts / Automate sales tasks / Generate high-converting sales proposals - $37.00 for 200+ sales prompts
+-   [Nutshell](https://www.nutshell.com/crm) - 14-day free trial / User-friendly Sales & CRM / Sales Automation / Email & Calendar Sync / No credit card required - From $13/month per user
+-   [Clodura.AI](https://www.clodura.ai) - Database / Sales Engagement / Email Verification
+-   [Gallabox](https://gallabox.com) - 7-day free trial / Automate customer chats / Simplify workflows
+-   [Leads.fr](https://leads.fr) - 14-day free trial / AI-powered lead acquisition & qualification / High-quality intent-based leads / Integrated CRM & 4000+ tool compatibility
+-   [Success.ai](http://success.ai) - 14-day free trial, 30 free lead credits / Unlimited access to 700M+ B2B leads / Unlimited Email Sending & Warmup - From $35/month
+-   [FinalScout](https://finalscout.com) - 50 emails/month free / Find professional email addresses / Craft tailored emails with ChatGPT - From $35/month
+-   [Coachvox AI](https://coachvox.ai) - 14-day free trial / AI coach version of you / Generate qualified leads / Content creation in your voice - From $99/month
+-   [Meet Alfred](https://meetalfred.com) - 1 Active Campaign / Automate LinkedIn outreach and close more deals / Multichannel Sequences - From $29 USD user/month billed annually
+-   [PhantomBuster](https://phantombuster.com) - 14-day free trial, 2h execution time, 1k AI credits, 5 slots, 50 email credits / Generate leads from all major networks & websites / Automate data collection & outreach - From $56/month (paid annually)
+-   [SalesRobot](https://salesrobot.co) - 14-day free trial, 225 free credits / Automated personalized outreach / Multi-channel LinkedIn & Email outreach / No credit card required - From $39/month
+-   [Amplemarket](https://amplemarket.com) - Free trial / AI Sales Copilot / Intent Signals / AI-driven research - $600/mo for 2 users and 30,000 contacts
+-   [IGLeads](https://igleads.io) - / No-code Email Scraping / Verified B2B and B2C leads / Multi-platform scraping - From $49/month
+-   [Map Lead Scraper](https://www.mapleadscraper.com) - Free 1,000 leads/month (15 records/time) / Collect local business data / Export to CSV file - From $9.9/month
+-   [GigRadar](https://gigradar.io) - AI-Powered Upwork Automation / Automated AI Bidding / Real-time Job Alerts
+-   [Maps Scraper AI](https://mapsscraper.ai) - Free 1,000 leads/month / Extract business data / Extract email and social media - From $9.9/month
+-   [The Swarm](https://www.theswarm.com) - Free 30-day trial / Combine team networks / Find warm intros / Reveal relationships - From $29/month
+-   [Common Room](https://www.commonroom.io) - 14-day free trial / AI-powered GTM intelligence / Comprehensive buying signals - From $1k/mo (billed annually) for up to 35k contacts
+-   [Devi AI](https://ddevi.com) - 10-day trial / Social media leads monitoring / AI-powered outreach / AI content creation & scheduling - From SGD 6.5/month
+-   [Xreacher](https://xreacher.com) - 50 DMs/day for Free / Automate X (Twitter) outreach / Track reply rates / Manage all messages in Unibox - From $97/month
+-   [GetSales.io](https://getsales.io) - LinkedIn & Email Outreach Automation / Best-in-Class Account Safety with Single Session Protection - From $79/team
+-   [Lessie AI](https://lessie.ai) - Start for free / People Search AI Agent / Automates sourcing, scoring, and outreach
+-   [Landbase](https://www.landbase.com) - Free / Find & Engage Prospects / Launch High-Converting Campaigns - Free
+-   [B2B Rocket](https://www.b2brocket.ai) - Unlimited AI Agents / Lead Search / Multi-Channel Outreach / AI Auto Reply - From $449/month (2,000 Contacts Monthly)
+-   [Extruct AI](https://www.extruct.ai) - AI Company Discovery / Real-time Company Research / Structured Data Output / No Card Required - From $39/month for 2.5K credits
+-   [DenserAI](https://denser.ai) - 20 queries free / AI-powered Chatbot Built for your Website / Leverage website/file content - From $29/mo
+-   [Leadspicker](https://leadspicker.com) - AI-powered lead generation / Multichannel outreach - From $80/month
+-   [RepliQ](https://repliq.co) - Free 30 videos / Hyper-personalized emails, videos, images & landing pages / Minimize time effort for cold outreach / No credit card required - From $39/month for 200 credits
+-   [Linkeddit](https://www.linkeddit.com) - 1 Demo Pipeline Execution / AI-powered Reddit lead generation / Qualified, export-ready leads - From $19.99/month
+-   [xAutoDM](https://xautodm.com) - 50 DMs/day free / Automate personalized Twitter DMs / 5x higher response rates - From $59/month
+-   [Airscale](https://airscale.io) - 14 days free trial / Source, enrich, clean and export leads / Access 30+ data providers - From $49/month
+-   [Ciro](https://www.ciro.io) - 300 credits, one-time / AI agent that builds, scores and enriches your perfect prospect list / pulls verified emails/mobiles - From $39/month
+-   [Embeddable](https://embeddable.co) - 25 tokens per month / Build interactive tools / No code needed / Convert more leads - From $19/month
+-   [BuildForm](https://buildform.ai) - Unlimited Forms & Submissions Free Forever / AI-Powered Forms / AI-driven insights & drop-off tracking - From $23/month
+-   [Firebender](https://firebender.com) - 50 user messages free / General Coding Agent / Autocomplete - From $30/month
+-   [GoZen](https://gozen.io) - 250 Views per month, 5 AI questions/month / AI-powered marketing and sales automation / Unified suite for customer support and lead generation - $0/month
+-   [Kumo](https://withkumo.com) - 7-Day Free Trial / Aggregates 100,000+ deals / AI-powered listings & robust data - From $100/month
+-   [SalesMind AI](https://sales-mind.ai) - 7 day free trial / Personalized AI messages / LinkedIn Prospecting Automation - From $89/month per 1 LinkedIn account
+-   [Clodo](https://clodo.ai) - 5-day free trial / Find high-intent B2B buyers / Automated, tasteful outbound / - From $75 per user per month
+-   [Humanlinker](https://www.humanlinker.com) - 30 AI credits / AI leads recommendation / DISC Personality Analysis / AI-generated 1:1 messages - From $53/month
+-   [Konvertly](https://www.konvertly.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3330)- Freemium + From $99/month, No Refunds / Finds leads, writes emails, and books meetings all on autopilot.
+-   [Linkdify](https://linkdify.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2982)- Free Trial + From $59/month / Automate your LinkedIn outreach with smart campaigns.
+-   [ProximValue](https://proximvalue.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2559)- Freemium + From $15, One-time / Get 5x more B2B meetings. Visual Radar replaces dead lead lists instantly.
+-   [TalkWiz.ai](https://talkwiz.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2865)- 15 days free trial + From $79/month / Convert leads into sales with AI appointment booking.
+
+### AI Advertising
+
+-   [Creatify](https://creatify.ai) - 10 credits/mo (~2 videos) / AI Video Ads / AI Avatar / No credit card required - From $33/mo
+-   [AdCreative.ai](https://www.adcreative.ai) - Generate ad creatives / AI product photoshoots / Detailed competitor insights - From $25/month
+-   [Pipiads](https://www.pipiads.com) - Trial 500 Credits / TikTok Adspy / Facebook Ad Spy / Winning Products - From $69/month
+-   [AI Ad Library](https://www.pipiads.com/ai-saas-business) - 500 Credits / World's Biggest Ad Database / Powerful Ad Analytics - From $24.5/month
+-   [Predis.ai](https://predis.ai) - 15 AI Credits / AI Ad Creatives & Social Posts / Content Scheduling & Publishing - From $27/month
+-   [Atria](https://tryatria.com) - 7-day free trial / AI Ad Generation / Ad Inspiration & Reporting - From $129/month
+-   [Testmarket](https://testmarket.io) - Free membership / AI-powered Sales Strategy & A/B Testing / Cashback & Rewards Deals
+-   [AI Insights by Coupler.io](https://www.coupler.io/ai-insights) - 7-day free trial, Free plan (1 connection, 100 rows) / AI Insights / Data Transformations - From $32/month
+-   [Scale Insights™](https://scaleinsights.com) - 30-Days Free Trial (1 product in 1 country) / AI Automation / Mass Campaign Management / Maximize ROI - From $78/month
+-   [AdNabu](https://www.adnabu.com) - 14-day trial, 50 products free / AI Feed Optimization / Keyword Suggestions - From $29.99/month
+-   [Lexi AI](https://lexilexi.ai) - 7-day free trial / AI Meta Ad Generation / Optimized Audience Targeting / Continuous Ad Optimization - From $199/month
+-   [Denote](https://denote.net) - Unlimited Creatives (Free Starter) / 7-day free trial (Pro) / Save Ads from Ad Libraries / AI Script Generation / Competitor Ad Spy - From $9/month
+-   [Winning Hunter](https://winninghunter.com) - Facebook & TikTok Ad Spy / Sales Tracker / AI-powered Product Search - From €79/month
+-   [Tagshop AI](https://tagshop.ai) - Free 1 video / AI UGC Video Generation / Lifelike AI Avatars - From $11/month
+-   [Adminer](https://adminer.pro) - 7-day guarantee / Competitive intelligence for dropshipping and infoproducts / Find winning products, offers, and ads - From R$18.33/month
+-   [Marpipe](https://marpipe.com) - Control your Dynamic Product Ads / Make your catalog ads look like real ad creative / Turn every SKU into a thumb-stopping video
+-   [AdFlex](https://adflex.io) - Unlimited Credit for Meta Search & Analytics / Uncover competitor's advertising strategies / Advanced ad spy tools - From $99/month
+-   [SymphonyOS](https://symphonyos.co) - Free plan & 2-week trial / Automated Marketing Solutions / Fanbase Growth on Autopilot / AI-powered Ads - From $6/month
+-   [Bestever](https://bestever.ai) - 120 credits, expires in 14 days / AI Ad Analysis / AI Ad Generation / Competitor Ad Analysis - From $39/mo
+-   [Blobr](https://blobr.io) - One analysis free / Optimize Google Ads spending / Automate keyword optimization - From 89€/month
+-   [BrandBastion](https://www.brandbastion.com) - Free trial available / AI-powered comment management / 24/7 social media engagement
+-   [Shown.io](https://shown.io) - Free 7-day trial / AI-Powered Ad Campaign Optimization / Automated Ad Creation & Management - From $29/month
+-   [Spatial.ai](https://www.spatial.ai) - 100,000 contacts or 50 locations free / AI-Powered Segmentation / Identify and reach your best customers - From $500/mo
+-   [AdGen AI](https://www.adgenai.com) - 5 credits free / AI-driven ad generation / One-click publishing - From $19/month
+-   [KeywordSearch](https://keywordsearch.com) - AI Audience Builder / Keyword Research / YouTube Ad Spy - From $97/month
+-   [Aimy Ads](https://aimyads.ai) - First month FREE / Conversational AI / Cross-channel ads - From $149/mo.
+-   [Admaker by Picsart](https://onlineadmaker.com) - 4 free credits / AI-generated imagery, backgrounds, and text / All-in-one ad creation - From $2.99 / 50 credits
+-   [Adwisely](https://adwisely.com) - 7-day free trial / AI-powered campaigns for Meta and Google / Monthly support from Ad Experts - From $249 for 30 days of service
+-   [Strique](https://strique.io) - 30-day free trial / AI-powered insights / Customizable dashboards / Cross-channel reporting - From $199/month for 3 ad accounts
+-   [Plai](https://www.plai.io) - 7-day free trial / AI-powered ad & social post creation / Multi-platform ad management - From $27/month
+-   [Segwise](https://www.segwise.ai) - 14 Day Free Trial / Creative Tagging / Creative Analytics / Campaign Monitoring
+-   [BluePear](https://bluepear.net) - 7-day trial / AI powered brand protection & tracking / Monitors branded search queries 24/7 - From $169/month
+-   [Retail Media IQ (RMIQ)](https://www.rmiq.net) - First month free / AI-Powered Campaign Optimisation / Unified Reporting Across Networks - 10% revenue share on results
+-   [AdsPolar](https://adspolar.com/en) - AI-powered Ad Automation / Multi-channel Ad Delivery / AI Assistant for Optimization - From $99/month
+-   [Quickads](https://www.quickads.ai) - 5 Days Trial / AI Ad Generator / Image & Video Ads / 10M+ Ads library - From $39/month
+-   [GoWit](https://gowit.com) - Free Integration / Omnichannel Retail Media Advertising platform / AI-powered Bidding Engine / First-party data activation
+-   [Minea](https://en.minea.com) - 200-250 credits free trial / Tracks ads on all networks / AI-powered insights for winning products - From $49/month
+-   [Dappier](https://www.dappier.com) - Monetize Content & Data / AI-powered Search & Agents / Contextual AI Ads
+-   [Adtwin](https://adtwin.ai) - Free to create / AI audio ads made easy / Collaborate across teams / Target any customers - From $500/month
+-   [Lebesgue: AI CMO](https://lebesgue.io) - 14-day free trial / AI-Powered Insights / Competitor Tracking / LTV Analysis - From $59/month
+-   [AiSensy](https://aisensy.com) - Free forever plan with unlimited service conversations & $1 credit / WhatsApp Broadcasting / AI Chatbots / Click to WhatsApp Ads - From $20/month
+-   [Midas AI](https://midas.ing) - Free Beta until Dec 1, 2025 / AI-powered strategy / Always-on optimization / No cards needed -
+-   [LensAI](https://lens-ai.com) - Embed shoppable & contextual ads in visual content / AI-powered contextual targeting & privacy-first
+-   [AdScriptly](https://adscriptly.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3375)- Free Trial + From $79/month, No Refunds / AI ad optimization for predictable revenue.
+-   [RYPL](https://rypl.is/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3339)- 7 days free trial + From $19/month, No Refunds / AI Facebook automation that converts comments into sales.
+
+### SEO Writing AI
+
+-   [200+ ChatGPT Mega-Prompts for SEO](https://www.godofprompt.ai/seo-mega-prompts) - 10 Free Mega-Prompts / Boost SEO & organic traffic / Automate SEO tasks - From $15/month
+-   [SEO Writing AI](https://seowriting.ai) - 5 Articles free / 1-click SEO-optimized articles / Auto-publish on WordPress - From $14/month
+-   [SEO.AI](https://seo.ai) - 7-day free trial, two auto-generated articles / AI copywriting / SEO keyword research / Product feed optimization - From $49/month
+-   [Frase](https://www.frase.io) - Free 10,000 AI words / SEO content optimization / AI writing - From $45/month
+-   [Surfer](https://surferseo.com) - SEO Content Optimization / AI-powered article generation / Content Strategy & Research - From $99/month
+-   [Senuto](https://www.senuto.com/en) - 14-day free trial, 3 free AI texts / Visibility Analysis / Keyword Explorer / Content Writer - From EUR 32/month
+-   [Mark Copy AI](https://markcopy.ai) - 14-day free trial / Content that matches your brand voice / SEO features and plagiarism detection - From 750€/month
+-   [Affpilot](https://affpilot.com) - Free 2 Info Articles & 2 Amazon Review Articles / AI Bulk Article Generation / Auto-posting to WordPress/Blogger/Medium - From $19/month
+-   [Rankability](https://www.rankability.com) - / Content Optimizers / AI Briefs and Outlines / Keyword Research - From $149/month
+-   [Wellows](https://wellows.com/kiva) - 7-day Free Trial / Original content for AI & traditional search engines / GSC data & LLM queries - From $39.99/month
+-   [Outranking](https://www.outranking.io) - AI-powered SEO content strategy / AI-written content generation / Automatic content optimization - From $19/month for 4 SEO Documents
+-   [Copymate](https://copymate.app) - 3 articles (one time) / High-quality, SEO optimized articles / Bulk generation / WordPress integration - From $29/month
+-   [SurgeGraph](https://surgegraph.io) - 30 free AI writing credits / Humanlike content that ranks high and drives traffic / Automated content generation - From $19.42/month
+-   [InLinks](https://inlinks.com) - Free 2 content optimizations, 25 internal links / Automate internal links / Schema automation / Content optimization - From US$49/m
+-   [Transcope](https://transcope.io) - 4,000 characters free / SEO AI writing / Internal document creation - From ¥11,000/month
+-   [Pepper Content](https://peppercontent.io) - Free Trial / AI-driven content marketing platform / Expert-led talent network / Drive organic growth and ROI
+-   [AI SEO Content Generator](https://i10x.ai/seo/content) - 5 uses of basic models daily / SEO-ready, competitor-beating articles / Optimized for GPT & all LLMs - From US$10/mo
+-   [Abun](https://abun.com) - 2 Articles, 100 Keywords free / SEO-Optimized Blog Content Creation / Human-like AI Content - From $24/month (10 Articles, 5000 Keywords)
+-   [AI-Writer.com](https://ai-writer.com) - 1-week free trial / Verifiable Citations / Guaranteed Originality / No credit card needed - From $29/month (Up to 40 Articles)
+-   [Writify AI](https://writifyai.com) - 3 Free Articles / Factually Accurate Articles / Real-time external linking
+-   [Grocliq](https://grocliq.com) - 3 day free trial / SEO optimized blog posts / Automatic internal linking - From $99/month
+-   [NeuralText](https://neuraltext.com) - Free 5,000 AI words, 3 SERP Analyses / AI Writing Assistant / SEO Tools - From $19/month
+-   [AutoWrite](https://autowrite.app) - 1 article per day / Human-like SEO Articles / WordPress Automation / No Registration Required - From $9.00/month
+-   [Article Forge](https://www.articleforge.com) - 5-day free trial / Unique, SEO optimized, high-quality content / Generates 1,500+ word articles - From $57/month
+-   [Arvow](https://arvow.com) - 3 Free Articles / AI Article Writer for SEO / Automatic Blogging / No card required - From $39/month
+-   [Article Fiesta](https://articlefiesta.com) - 2 free articles / Long-form SEO articles / Automatic internal linking - From $19.99/month
+-   [Adaptify SEO](https://adaptify.ai) - 7 day free trial / High-quality content / Backlinks / Keyword strategy - From $499/month (for 1 site)
+-   [GetGenie Ai](https://getgenie.ai) - 2,500 AI Writing Words free / One-Click Blog Generation / Head-to-Head Competitor Analysis - From $10/month
+-   [WordRocket](https://wordrocket.ai) - Free during beta / SEO-optimized content / Access to top AI models / Variety of content templates
+-   [Keyword Insights](https://www.keywordinsights.ai) - 600 One time credits / Keyword Clustering / Search Intent / AI Writing Assistant - From $46/month (120,000 Credits)
+-   [Le Scribouillard](https://lescribouillard.fr) - AI-powered Article Generation / Content from Videos / Image Generation - From 10€ for 100 credits
+-   [Verbite](https://verbite.com) - 3 free articles / 150 free tokens / Publish-ready, high-ranking content / Specialized AI Agents - From $29/month
+-   [Arvow](https://journalist.cafe) - 3 Free Articles / AI SEO Article Writer / Autoblog - From $39/month
+-   [Skribra](https://skribra.com) - Start Free Trial / Daily SEO Content / AI-Powered Content Creation / Advanced SEO tools - From $74.99/month
+-   [BrandWell (formerly Content at Scale)](https://contentatscale.ai) - 7-day free trial / Long-form SEO content / Undetectable AI writing - From $249/mo for 25 articles
+-   [QuickCreator](https://quickcreator.io/ai-blog-writer) - 3 free articles / Humanized, SEO-Optimized Blogs / Automatic link insertion - From $39/month
+-   [seo.ing](https://www.seo.ing) - 2 articles/month free / AI SEO Content Generation / High-ranking articles in two clicks / Multilingual content generation - From $15/month for 10 articles
+-   [Fast Articles AI](https://fastarticles.ai) - Free credits / Generate SEO articles and blog posts / In-article images - From $1/article
+-   [NEURONwriter](https://www.neuronwriter.com) - 7-day free trial / Content optimization for Google / Advanced content editor with NLP & SERP analysis / Generative AI - From $23/month
+-   [SEOpital](https://www.seopital.co) - AI SEO Writing Tool / Generate and Optimize SEO Content - From $49/month
+-   [Flowtale](https://www.flowtale.io) - AI-powered text editor / SEO optimization - From $9.00/month
+-   [Contadu](https://contadu.com) - 30-day free trial / Content strategy planning / SEO content optimization - From $37/month (billed annually)
+-   [Content Redefined](https://contentredefined.ai) - 5000 words per month free / AI Content Writer for SEO / 1-click article & blog post generation - From €9/month
+-   [BlogSEO](https://blogseo.io) - Free 3-day trial / Auto-published SEO blog articles / AI-driven content generation - From $97 USD / month
+-   [Obsess AI](https://www.obsessai.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3093)- 7 days free trial + From $9/month, No Refunds / AI-powered content engine for Shopify stores.
+-   [Skribra](https://skribra.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2652)- Free Trial + From $74.99/month, No Refunds / Daily SEO content that compounds traffic.
+-   [ContentBeast](https://contentbeast.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3505)- Free Trial + From $39/month, No Refunds / Grow targeted website traffic on autopilot.
+
+### AI Ad Creative
+
+-   [AdCreative.ai](https://www.adcreative.ai) - Generate ad creatives / AI product photoshoots / Detailed competitor insights - From $25/month
+-   [AIBanner](https://www.aibanner.ai) - 10 free credits / AI Banner Generation / Brand Kits - From $29/month
+-   [Pipiads](https://www.pipiads.com) - Trial 500 Credits / TikTok Adspy / Facebook Ad Spy / Winning Products - From $69/month
+-   [AI Ad Library](https://www.pipiads.com/ai-saas-business) - 500 Credits / World's Biggest Ad Database / Powerful Ad Analytics - From $24.5/month
+-   [Predis.ai](https://predis.ai) - 15 AI Credits / AI Ad Creatives & Social Posts / Content Scheduling & Publishing - From $27/month
+-   [Atria](https://tryatria.com) - 7-day free trial / AI Ad Generation / Ad Inspiration & Reporting - From $129/month
+-   [Icon AI](https://icon.com) - 6 FREE static ads + 1 FREE video ad / Partner with creators / Turn 1 video into 20 videos with AI / A/B test messaging - From $39/month
+-   [Gethookd](https://www.gethookd.ai) - 14-day free trial / AI-Powered ad research / AI UGC creation - From $35/month (billed annually)
+-   [Wafrow](https://wafrow.com) - 14 day free trial / Personalized dynamic images / Automated marketing campaigns - $49/month for 5,000 automated banners
+-   [Search Atlas](https://searchatlas.com/otto-google-ads) - Free for 7 Days / Automate Google Ads campaigns / Automate SEO tasks - From $99/month
+-   [Denote](https://denote.net) - Unlimited Creatives (Free Starter) / 7-day free trial (Pro) / Save Ads from Ad Libraries / AI Script Generation / Competitor Ad Spy - From $9/month
+-   [Pencil](https://www.trypencil.com) - Create new ad variations 10x faster / Double productivity and performance with Generative AI / Generate copy and visuals with AI chat
+-   [Daydrm.ai](https://www.daydrm.ai) - Free credits / AI tool for creative advertising ideas / Concepts-on-demand - From $5/day
+-   [Evercopy](https://www.evercopy.ai) - Personalized banners, product visuals, video ads / On-brand marketing creatives at scale - From $185/month (2,000 Credits)
+-   [Marpipe](https://marpipe.com) - Control your Dynamic Product Ads / Make your catalog ads look like real ad creative / Turn every SKU into a thumb-stopping video
+-   [IMGPT-One](https://www.img-pt.com) - Custom Ad Creatives / Auto-Generated Ad Copy / One-Link Ad Generation
+-   [ShowStop](https://showstop.ai) - Free insights report / AI-powered video ad creation / Predictive ad performance scoring / Actionable creative insights
+-   [CreativeScore](https://creativescore.ai) - 7 day free trial / Immediate objective feedback / Optimize ad performance / Score creative in 90 seconds - From $79/month
+-   [Bestever](https://bestever.ai) - 120 credits, expires in 14 days / AI Ad Analysis / AI Ad Generation / Competitor Ad Analysis - From $39/mo
+-   [HOLLYFY](https://www.hollyfy.com) - Free trial / Big Agency Ad Creative / Digital Ads, Web Design & Performance Marketing / Unlimited Revisions - From $3,800/mo
+-   [象寄 AI](https://www.xiangji.ai) - Free 500 points + daily 100 points / AI-powered product photo generation / AI-generated marketing copy - From ¥99/month (4000 points/800 images)
+-   [AdGen AI](https://www.adgenai.com) - 5 credits free / AI-driven ad generation / One-click publishing - From $19/month
+-   [uSpeedo.AI](https://uspeedo.ai) - 100 Credit / Month / AI-powered marketing content generation / Data-driven insights & competitor analysis - From $9.90/Month
+-   [Didoo AI - URL in, Meta ads out. One Click to Outperform.](https://didoo.ai) - Free 7-day trial / AI builds, runs, and perfects your Meta ads / 24/7 Auto-optimization - From $59/month
+-   [Admaker by Picsart](https://onlineadmaker.com) - 4 free credits / AI-generated imagery, backgrounds, and text / All-in-one ad creation - From $2.99 / 50 credits
+-   [Plugger AI](https://www.cameralyze.co) - Free trial available / AI Design Generator / Generate unlimited AI designs - From $19/month (2,000 Image Generation)
+-   [Metric.Tech](https://www.metric.tech) - AI-Powered Ad Creation / Fully Automated Shopify Sales / Comprehensive Marketing Control - From $499/month
+-   [Segwise](https://www.segwise.ai) - 14 Day Free Trial / Creative Tagging / Creative Analytics / Campaign Monitoring
+-   [Nextify.ai](https://www.nextify.ai) - 50 Credits/month (~2 ad videos) / Generate viral ad creatives and UGC videos / AI Talking Actors (1000+ Avatars, 40+ Languages) - From $34.3/month
+-   [Magic Mango](https://www.magicmango.ai/en) - 7-day free trial / Infinite inspiration by automatically tracking any brand's active ads / AI chat to extract scripts, analyze hooks, and decode the structure - From R$ 139.00/month
+-   [Quickads](https://www.quickads.ai) - 5 Days Trial / AI Ad Generator / Image & Video Ads / 10M+ Ads library - From $39/month
+-   [Adlas](https://adlas.io) - 7 days for free / AI-generated ad creatives / Quick Google Ads campaign launch - From $4.17/month
+-   [Adspire](https://apps.apple.com/us/app/adspire/id1667132875) - Generate 100+ winning ad creatives in seconds / Product Ad Generation / Creative Ad Generation - From $19.99/month
+-   [EngaugeAI](https://www.engaugeai.net) - Free trial of 7 days or 15,000 credits / Real-time audience insights / Granular audience measurement - From $19.99/month for 30,000 Credits
+-   [Minea](https://en.minea.com) - 200-250 credits free trial / Tracks ads on all networks / AI-powered insights for winning products - From $49/month
+-   [Dicer.ai](https://faqx.com) - 7-day free trial / Optimize ad creatives & campaign strategies / Superhuman insights & actionable next steps / Deep Multi-Modal Analysis
+-   [AI Omnigen](https://aiomnigen.com) - Free Plan / AI Image Generation / AI Video Generation / No Login - From $12.9/month
+-   [Wan 2.6](https://www.jxp.com/wan/wan-2-6) - Free credits for new users / AI Video Generator with Audio Sync / Precise Lip-Sync - From $10/month
+-   [DartAd](https://dartad.com/en?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3129)- Freemium + From $5/month / Turn product images into scroll-stopping ad videos.
+-   [TemVideo AI Video Ad Maker](https://temvideo.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3255)- Free Trial + From $13.90/month / Turn images into viral video ads instantly.
+-   [UGC Maker AI](https://ugcmaker.org/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3096)- Freemium + From $9.99/month / Smart AI Ad Creative Platform, Effortlessly Create Viral Images and Videos
+-   [Nextify.ai](https://www.nextify.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2613)- Free Trial + From $34.30/month, No Refunds / Create high-performing ad creatives from idea to launch.
+-   [Marketeze](https://www.marketeze.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3532)- Freemium + From $8/month / Go viral faster!
+
+### AI Affiliate Marketing
+
+-   [JoyLink](https://joylink.io) - 1000 clicks free / AI-powered DeepLinking / AI Post Generation / Deal Catalog - From $13/month for 5,000 clicks
+-   [Reditus](https://www.getreditus.com/?red=reditus&sid=toolify) - Free plan (up to $1,000 MRR) / 14-day Free trial / All-in-One Affiliate & Referral Platform / Setup, manage & recruit B2B SaaS affiliates - From $47/month (billed annually)
+-   [Affistash](https://affistash.com) - Find High-Quality Partners using AI / AI powered email outreach - From $97/mo
+-   [UseArticle](https://usearticle.com) - 2 free AI blogs / AI-powered affiliate website builder / One-click content generation / No credit card required - From $49/month
+-   [Evolup](https://www.evolup.com) - 7-day free trial / AI-powered affiliate store creation / Amazon synchronization / Advanced SEO features - From $10/month
+-   [Quick QR Art](https://textartai.com) - AI-generated QR codes Art / Legible Text Art - From $45.00 for 5,000 credits
+-   [UpTk](https://uptik.app) - 14-Day Free Trial / Automated TikTok Shop affiliate outreach / Find top affiliates & manage campaigns - From $179/month
+-   [Evangeler](https://evangeler.com) - Free / Lists Best Affiliate Programs / Free to add your program / Open Source
+-   [Humanlike Writer](https://humanlikewriter.com) - 3 Articles Free / Pass AI Detection / Built for affiliate sales / No Credit Card Required - From $12/month for 10 articles
+-   [Uplodio](https://www.uplodio.com) - 7 days access, 10 Creators, 1 Campaign / Scales influencer & affiliate programs / Finds, recruits, negotiates, and manages creators - From $197/month (Up to 500 creator outreach, 20 Activated Creators)
+-   [Affpilot](https://affpilot.com) - Free 2 Info Articles & 2 Amazon Review Articles / AI Bulk Article Generation / Auto-posting to WordPress/Blogger/Medium - From $19/month
+-   [SMSGenius](https://www.smsgenius.io) - 14-days free trial / Maximize SMS Profits / Laser Audience Segmentation / A/B Testing & Batch Delivery - From €259/mth
+-   [Neunera](https://neunera.com) - Automated Pinterest Marketing / AI-powered Pin & Blog Creation / Blog Monetization with Affiliate Links
+-   [Syllaby.io](https://syllaby.io) - 7 day free trial / AI Avatars / Faceless Videos - From $25/Month
+-   [Pillar](https://pillar.io) - Free / Sell digital products & courses / All-in-one link in bio tool / Real-time media kits
+-   [Bonsai](https://bonsai.trade) - Start free / Intelligent algorithms / 24/7 market monitoring - From $34.95/month
+-   [SmartGiftAI](https://smartgiftai.com) - 100% Free / AI-powered gift ideas / Personalized recommendations / Gift Finder Chatbot
+-   [Sludge AI](https://sludge.ai) - 10 free videos / Download and edit content from 50+ sites / Make reposted content appear original to algorithms
+-   [Bazaarvoice](https://www.affable.ai) - Free Trial / Find Influencers / Manage Campaigns & Measure ROI
+-   [Trend AI Tools](https://trendaitools.com) - Discover multiple AI tools / Tools for various categories
+-   [Aimy Ads](https://aimyads.ai) - First month FREE / Conversational AI / Cross-channel ads - From $149/mo.
+-   [ChatGPT Toolbox](https://ai-toolbox.co) - 2 folders, 2 pinned chats, 2 prompts free / Organize conversations with folders / Manage and save prompts - From $9.99/month
+-   [AIWriter](https://aiwriter.fi) - Free trial / AI Text Generation / AI Image Generation - From €9.90/month
+-   [BluePear](https://bluepear.net) - 7-day trial / AI powered brand protection & tracking / Monitors branded search queries 24/7 - From $169/month
+-   [MobiRest Business](https://mobirest.business) - Free plan available / Cloud-based POS system / AI-powered menu management / Customer mobile ordering - From €3.38/month
+-   [Bigly Pages AI Builder](https://biglypage.com) - Create any webpage in seconds with AI / Identify Every Visitor Instantly / Automatic SEO
+-   [GyftPro](https://apps.apple.com/us/app/gyftpro/id6737129031) - Free / AI-powered recommendations / Save, share, and purchase gifts
+-   [AiKeeda](https://www.aikeeda.com) - 7 Days of free trial / AI Text Generator / AI Image Generator / AI Chat Bot - From $9.99/month
+-   [InteraxAI](https://interaxai.com) - Free 3 AI Widgets, 50 Generations / No-Code Embeddable AI Widgets / Monetizable AI Widgets - From $20/month
+-   [Norby AI](https://norby.io) - Free chat forever + 1 automation (4,000 characters) / Automate customer support and sales / AI-powered chat - From €9/month
+-   [Heartstring AI](https://heartstring.ai) - Free / Write wedding vows, speeches, eulogies / / -
+
+### AI Pitch Deck Generator
+
+-   [Pitch](https://pitch.com) - Free up to 5 members / Unlimited presentations / AI presentation creation - From $20/month for 2 editors
+-   [Slidebean](https://slidebean.com) - Free unlimited presentations / AI Pitch Deck Creator / Pitch Deck Design Services - From $12/mo
+-   [OpenVC](https://www.openvc.app/decks) - AI pitch deck review / Connect with 5,000+ investors / Track investor interactions
+-   [Venturekit](https://venturekit.ai) - Free 3 full business plans per month / AI-generated business plans / Financial forecasts & Pitch deck - From $8/month
+-   [Xavier AI](https://www.xavier.ai) - 50 AI slides/month / Generate consulting-style decks in seconds / Adapt to your firm’s branding and style - From $19/Month/user
+-   [Journey](https://journey.io) - Up to 2 Journeys free / AI-powered content generation / Interactive content blocks / Detailed insights - From $39/month
+-   [Pitchyouridea.ai](https://pitchyouridea.ai) - 1 Pitch Deck per Account free / AI-enhanced pitch deck creation / Create pitch decks with your voice - From $29 (one-time payment) for 1 Pitch Deck
+-   [NDeck](https://ndeck.io) - Personalized video proposals / Automatic technical diagrams / Stunning presentations - From 1,499/month
+-   [Score My Deck](https://scoremydeck.com) - 25 Free Credits / Get instant VC feedback on your pitch deck / Pre-empt VC Objections - $10 for 50 Credits
+-   [Blooper](https://blooper.ai) - Free trial / Script breakdowns / Storyboard generation / Location scouting
+-   [FikraHub](https://fikrahub.com) - 5 ideas per month / Create essential business tools (SWOT, Lean Canvas, User Stories) / Turn ideas into websites for user testing
+-   [PitchLeague](https://pitchleague.ai) - 100% Free / AI pitch deck coach / Slide-by-slide feedback on how to improve / AI scoring of your startup's investability
+-   [CheckMyPitch](https://www.checkmypitch.com) - Expert VC Feedback / AI-Driven Analysis / Market Research - From $99
+-   [LTX Studio](https://ltx.studio) - 800 Computing Seconds (one time) / AI-powered visual storytelling / Character casting & animation / Advanced camera controls - From $12/month
+-   [Choladeck](https://choladeck.com) - 50 Free Slides, 50 Icons, 100 Stock Images / 9870+ Unique Slides & 159 Categories / Compatible with PowerPoint, Keynote, and Google Slides / No Sign-in or Credit Card Required - From $29/month
+-   [NolanAI](https://www.nolanai.app) - 100 one time AI requests / AI-driven script writing / AI Budgeting - From $40/month
+-   [Startuptools.ai](https://www.startuptools.ai) - Free / Generate a business plan in 3 minutes / Streamline planning, marketing, and growth - From $11.99/month
+-   [Adviseful](https://adviseful.ai) - 14-day free trial / Accelerate web and mobile app planning / AI-driven lead generation - From $99.00/month for up to 100 leads
+-   [Taqdimly](https://deckify.ai) - 1 presentation free / Craft perfect pitch decks / Simplify market research / Turn data into compelling stories - From $10/month
+-   [Deep Founder AI](https://deepfounder.ai) - Deep research and generate well-structured business plans / Validate startup idea with AI - $32 for 1 Report
+-   [ProtoBoost.ai](https://www.protoboost.ai) - AI-driven prototypes / Comprehensive business plan
+-   [Zefram](https://zefram.com) - 7-day free trial / Company Data / AI Sales Automation / Prospecting Tool - From 19€/month
+-   [FoundrAI](https://foundrai.com) - Free (1 User License) / AI-Powered Startup Blueprint / Investor-Ready Pitch - From $25/month
+
+### AI Shopify Store Builder
+
+-   [Kopy](https://kopy.app) - 3 Days Free Trial / Copy products in 1-Click / AI High-Converting Product Page Generation - From $4.99/month
+-   [PagePilot.ai](https://pagepilot.ai) - 3 product pages free / AI Product Pages & Landing Pages / AI Ad Copy Generation - From $39/month
+-   [BuildMyStores](https://buildmystores.com) - Free / AI built Shopify dropshipping stores / No revenue percentage taken
+-   [Marketsy.ai](https://marketsy.ai) - 7-day free trial / AI-powered store creation / 0% commission - From $1/month
+-   [Weaverse](https://www.weaverse.io) - 10,000 view credits free / Theme Customizer / Visual Page Builder / AI Text Generation - From $0/month
+-   [Obviyo](https://obviyo.com) - 14-day FREE trial & Always free Starter plan / AI-powered suite of applications / Real-time product matching to shoppers - From $595/month
+-   [Scrollengine](https://scrollengine.com) - 45-day free trial / AI-optimized routing / Live tracking / Customer notifications
+-   [Persuva](https://persuva.ai) - Limited credits / High-Converting Product Pages / Optimized Ads & Audience Insights - From $9/month
+-   [Shoplauncher AI](https://www.shoplauncher.ai) - 3 months free / AI Store builder / Winning products / Ready-to-sell pages - From $1 to get started
+-   [Shopify](https://www.vantagediscovery.com) - Free for 3 days / Sell online and in person / World's best-converting checkout - From $1/month for 3 months
+-   [JsRates](https://jsrates.com) - Up to 1,000 requests, 500,000 AI characters free / Custom JavaScript Shipping Rates / AI-Assisted Coding / Third-Party API Connectivity - From $35/month
+-   [xPage - AI Ecommerce Landing Page Generator](https://www.xpage.ai) - 20 Landing Page Generations, 10 Regenerations free / Instant Landing Page Generation / Multi-Platform Integration - From $49/month
+-   [Ecom's Genie](https://www.ecomsgenie.com) - 3 day free trial / AI Product Finder / AI Coaching / AI Automation - From $30/month
+-   [WOV.APP](https://wov.app) - Always Free Plan / One-Click App Creation / No-Code / AI Powered - From $20.83/month
+-   [Caseo.ai](https://caseo.ai) - 15 Free Credits / AI ALT Text Generator / Meta Title & Descriptions - From $9 for 200 AI Credits
+-   [StoreBuild.ai](https://storebuild.ai/toolify-ai) - Free AI-built store / AI builds your store / 10 winning products loaded
+-   [Dropgenius](https://www.dropgenius.com) - Free AI-powered Shopify store / AI-powered store creation / Trending products / US & EU suppliers - From $39.99/month
+-   [Metric.Tech](https://www.metric.tech) - AI-Powered Ad Creation / Fully Automated Shopify Sales / Comprehensive Marketing Control - From $499/month
+-   [Dropmagic](https://dropmagic.ai) - Free trial (unlimited stores, 57+ sections) / Build winning AI stores in minutes / Turn any product into a high-converting Shopify store - From $79/month
+-   [BestDealer](https://www.bestdealer.com) - 3 free sourcing requests / Flash Sourcing / Reliable Order Fulfillment / Free Branding - From $49/month
+-   [Runner AI](https://www.runnerai.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3231)- Free Trial + From $23/month, No Refunds / Build your entire e-commerce store with AI prompts.
+-   [Stable Commerce](https://stablecommerce.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3411)- Freemium + From $29/month, No Refunds / The AI agent that Creates and Manages your eCommerce Store
+
+### AI Digital Marketing
+
+-   [Claspo](https://claspo.io) - Free lifetime subscription with 30,000 pageviews and 3 active widgets / High-Converting Popups / Intuitive & flexible drag-and-drop editor
+-   [ConvertMate](https://www.convertmate.io) - Search Optimization / Product Feeds / A/B Testing - From $80/month (up to 200 monthly orders)
+-   [Spray](https://spray.io/en) - Start free trial / AI-Powered Influencer Discovery / Automated Outreach & Campaign Management - From $199/month
+-   [Super Send](https://supersend.io) - Free trial / Multi-Channel Automation / Data-Driven Optimization / Cross-Channel Personalization
+-   [Stormy AI](https://stormy.ai) - Free tier / AI-powered influencer search / Automated outreach & negotiation
+-   [Keak](https://keak.com) - Free until your conversion rate goes up 10% / AI-powered A/B testing / Generate website variations / Continuously improves website - From $30/month
+-   [WhatsApp CRM](https://wadesk.io/whatsapp-crm) - 3-day free trial / WhatsApp Customer Management / Multi-Account Operation / No Credit Card Required - From $24/month
+-   [AdNabu](https://www.adnabu.com) - 14-day trial, 50 products free / AI Feed Optimization / Keyword Suggestions - From $29.99/month
+-   [Tracardi](https://www.tracardi.com) - Free Open-Source Version / Unify customer data from multiple sources / Automate customer engagement with no-code - Free
+-   [Podify](https://podify.io) - Create viral LinkedIn posts / Turn videos, PDFs, and questions into content / Distribute content to audience's inbox
+-   [Press Hook](https://presshook.com) - Free / AI-generated press kit & brand profile / Instant Journalist Matches / AI-powered press releases & pitches
+-   [Prefixbox](https://prefixbox.com) - 14 day free trial / AI Search & Discovery / AI Recommend / AI Navigation - From € 1,250/month
+-   [Minddex.ai](https://minddex.ai) - GEO tool & AI visibility analysis / Analyze & optimize brand/product presence in AIs / Proactive opportunity/threat detection
+-   [MagicBean](https://www.magicbean.ai) - 14-day free trial / AI-powered solutions / Actionable Insights - From $16/month
+-   [FeedbackbyAI](https://feedbackbyai.com) - Generate 100+ page business plans / Find high-intent leads / Create AI videos without filming - From $59/month
+-   [Music Tomorrow](https://music-tomorrow.com) - Understand Spotify algorithms / Grow audience & boost streams - From €29/month/artist
+-   [Madison AI](https://meetmadison.ai) - Free Trial / Improving Local SEO / Managing Social Media / Protecting Online Reputation - From $99/month
+-   [Sitelifter](https://sitelifter.com) - Free analysis / AI-powered website optimization / Actionable insights for design, messaging, user flow / Maximize conversions and ROI - From $15/Month
+-   [ConvertRocket.ai](https://convertrocket.ai) - One report and twenty-five chatbot messages free / AI-powered conversion rate audits / Actionable insights for growth - From $49/Month
+-   [Spatial.ai](https://www.spatial.ai) - 100,000 contacts or 50 locations free / AI-Powered Segmentation / Identify and reach your best customers - From $500/mo
+-   [Head](https://headai.io) - Generate brand DNA in one click / Deliver real results / One Person, Full Team Power.
+-   [Seomator](https://seomator.com) - 7 days free trial / AI-Powered SEO & SEM Platform / All-in-one SEO Toolset / White label reports - From $49/month
+-   [GetMyLikes](https://getmylikes.com) - Free $1 trial / Real Engagement & Followers / Cheapest SMM Panel - From $2.99 for 50 Twitter Likes
+-   [Metrotechs](https://metrotechs.io) - AI Copywriting Tools / Full-Service Digital Marketing Agency
+-   [OptimizeMyWebsite.ai](https://www.optimizemywebsite.ai) - Free / AI-powered Website Optimization / Instant Conversion Rate Optimization Audit
+-   [Plai](https://www.plai.io) - 7-day free trial / AI-powered ad & social post creation / Multi-platform ad management - From $27/month
+-   [Vendasta](https://vendasta.com) - Free trial with 10 Snapshot Reports/month / AI-powered platform / Client Acquisition & Retention / No credit card required - From $79/month
+-   [Flowpoint](https://flowpoint.ai) - 100 AI Credits free / AI-powered website issue identification / AI-powered recommendations / No Credit Card Required - From $12/month
+-   [GoWit](https://gowit.com) - Free Integration / Omnichannel Retail Media Advertising platform / AI-powered Bidding Engine / First-party data activation
+-   [Marketcells.io](https://marketcells.io) - 2 active accounts, 2 active channels, 20 posts per month free / All-in-one social media & eCommerce platform / AI-based marketing - From $33.00/month
+-   [Quick Hub](https://www.quickhub.ai) - Free Trial / Automate Marketing / AI-powered Social Media & Campaigns / Unified Inbox - From $15.99/month (Up to 5 users)
+-   [FOMO.ai](https://fomo.ai) - Human-quality AI marketing / AI Search early-mover advantage - From $547/month
+-   [xBuilder.ai](https://xbuilder.ai) - 1 Landing Page, 1 Blog-Post per month / AI-powered E-commerce Store Creation / AI Video Ads / Winning Product Research - From $27/month
+-   [Inflyx](https://inflyx.co) - Get started for free / AI Matchmaking / ROI Tracking Made Easy
+-   [AI KAT](https://www.aikat.ai) - 7 content pieces free / Brand strategy, naming, logo, content & visuals / Content scheduling - From £49/month
+-   [Anyword](https://anyword.com) - 7-day free trial (2,500 words) / AI copywriting that converts / Performance prediction scores / Consistent on-brand content - From $39/month (billed yearly)
+-   [MyDataNinja](https://mydataninja.com) - 30 Days Free Trial / Unified Dashboard / Accurate Tracking & Attribution - From $99/month for up to $500K GMV/year
+-   [RivalOut](https://rivalout.com) - 7-day free trial / AI-driven competitive insights / Automated Reports & Alerts - From $29/month
+-   [Dicer.ai](https://dicer.ai) - Free 7-day trial / AI Ad Analysis / Campaign & Creative Intelligence - From $199/month for up to $25K in monthly ad spend
+-   [ASOfuel](https://asofuel.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2711)- Freemium + From $23/month, Users can get a full refund if they request it within 3 days of being charged and have not used the product during that billing period / Stop guessing, start winning with competitor insights.
+-   [CreateWAlink](https://link.wadesk.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2741)- 100% Free / Generate WhatsApp links to chat without saving contacts.
+-   [Engain](https://www.engain.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3026)- Freemium + From $79/month, 30-day money-back guarantee for first-time subscribers / Get your brand mentioned on Reddit organically.
+-   [Soolo.ai - AI Brand Builder](https://soolo.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2889)- Freemium + From $39/month, No Refunds / Create, launch, and grow brands in minutes.
+
+### Google Ads AI
+
+-   [Optimyzee](https://www.optimyzee.com) - 14 days for free / AI-powered Google Ads management / Optimizes campaigns like a senior PPC specialist
+-   [Deep Marketer](https://deepmarketer.ai) - AI-powered Google Ads optimization / AI-powered landing page creation / Expert oversight
+-   [Search Atlas](https://searchatlas.com/otto-google-ads) - Free for 7 Days / Automate Google Ads campaigns / Automate SEO tasks - From $99/month
+-   [Toffu AI](https://toffu.ai) - 300 credits per month (100 per day/3 days) / Automates campaigns / Analyzes data / Executes strategies - From $20/month
+-   [DotChat](https://dotchat.co) - Beta program access / AI chat assistant for instant e-commerce data analysis / Seamless integration with Shopify and Google Ads
+-   [Blobr](https://blobr.io) - One analysis free / Optimize Google Ads spending / Automate keyword optimization - From 89€/month
+-   [Shown.io](https://instaon.io) - Free for 7 days / AI-powered ad campaign optimization / Publish on all major ad platforms - From $29/month
+-   [dynares](https://dynares.ai) - Free Plan / AI-Powered Landing Pages / Ad Campaigns for Google Ads - From $29/month
+-   [Shown.io](https://shown.io) - Free 7-day trial / AI-Powered Ad Campaign Optimization / Automated Ad Creation & Management - From $29/month
+-   [KeywordSearch](https://keywordsearch.com) - AI Audience Builder / Keyword Research / YouTube Ad Spy - From $97/month
+-   [Aimy Ads](https://aimyads.ai) - First month FREE / Conversational AI / Cross-channel ads - From $149/mo.
+-   [Adwisely](https://adwisely.com) - 7-day free trial / AI-powered campaigns for Meta and Google / Monthly support from Ad Experts - From $249 for 30 days of service
+-   [Macbeth AI](https://macbeth.ai) - Free 500 AI words/month / AI content generation / AI chat assistant - From $19.99/month
+-   [30characters](https://30chars.com) - Generates ad copy quickly / Understands character limits / Allows easy fine-tuning - From $4.16/month
+-   [Adlas](https://adlas.io) - 7 days for free / AI-generated ad creatives / Quick Google Ads campaign launch - From $4.17/month
+-   [FusionAds.ai](https://www.fusionos.ai) - 7 days FREE / Instantly generate social media posts & paid ads / Automated A/B testing for best results - From $35/month
+-   [AiKeeda](https://www.aikeeda.com) - 7 Days of free trial / AI Text Generator / AI Image Generator / AI Chat Bot - From $9.99/month
+-   [Muze AI](https://muzecmo.com) - 7-day Free Trial / Autonomous 24/7 optimization / AI image & video ad creation / - From $399/month
+-   [ADSoar](https://adsoar.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3041)- 30 days free trial + From $39/month, 7 Days Money Back Guarantee if less than 5% of credits were used / Spy on competitors. Scale your ads. Win bigger.
+
+### AI Reviews
+
+-   [VOC AI](https://shulex.com) - Customer Insights / AI Agent Excellence / Product Research - From $99/month
+-   [Essense](https://www.essense.io) - 2-week free trial, 10,000 feedback pieces/month, 500 insight questions/month / AI Feedback Analysis / Actionable user insights
+-   [Reflectfy](https://reflectfy.com) - Free / AI-Powered Reputation Management / All Reviews in One Place / AI Responses / No credit card required
+-   [My Best Pic](https://mybestpic.com) - Free / Custom Photo Feedback / Best Photo Selection
+-   [ReviewSense AI](https://reviewsenseai.com) - Free up to 50 reviews/month / AI-powered review analysis / Advanced Sentiment Analysis - From 8€/month for 150 reviews
+-   [RatingE](https://ratinge.com) - Automate review requests / Manage customer reviews / AI-powered platform - From $10/month
+-   [ReviewHawk](https://reviewhawk.app) - Analyze app store reviews / Reduce churn / Gain insights
+-   [Review AI](https://apps.apple.com/us/app/review-ai/id6503725365) - / Chat with App Reviews / Multidimensional Review Analysis / Competitive Analysis Tool / - $19.99 / 1 million tokens
+-   [Octoparse VOC](https://chromewebstore.google.com/detail/octoparse-voc-ai-review-r/dcejniggmfiedegekbcindccneeegeoi) - Free / AI-powered review research / Actionable insights
+-   [STLST: AI Fashion Review](https://apps.apple.com/app/stlst-ai-fashion-review/id6471924772) - Free / AI-Powered Fashion Ratings / Hard Review Mode / Item Uploading
+-   [Review Insights Pro](https://reviewinsights.pro) - 1 Week Unlimited use free / AI-powered insights / Professional response templates - From $17.00/month
+-   [ProductScope AI](https://chromewebstore.google.com/detail/chatgpt-for-amazon-from-p/opbmiilmogkpallllgollkihjpofjhff) - Free / Deep Customer Insights / AI-Enhanced Listing Builder
+-   [BravoClient](https://www.bravoclient.com) - 7 days free / Centralized Review Management / AI-powered review responses - From $32/month
+-   [Revyu AI](https://revyu.ai) - Free / Instant AI Hotel Review Search / Summaries & Insights / No Login or Sign Up required
+-   [Lessie AI](https://lessie.ai) - Start for free / People Search AI Agent / Automates sourcing, scoring, and outreach
+-   [Landing.report](https://landing.report) - 5 Credits Free / AI Landing Page Review / Chat with your landing page - From $9/mo
+-   [Outafit](https://outafit.com) - 5 free credits / AI-powered outfit ratings / personalized style tips / best outfit selection
+-   [Taggbox](https://taggbox.com) - Collect Social Media Feeds & Reviews / Showcase Social Walls for Events
+-   [Competitors App](https://competitors.app) - 15-day free trial / Monitor Competitors' Marketing Strategy with AI / Monitor competitors' lead generation and conversion funnels - From $9.95/competitor/month
+-   [Local SEO Tools and Tips (LSTT)](https://localseotoolsandtips.com) - 15 tokens free / AI automation for Google Business Profile / Automated Review Replies - From ₹1,440/month for 200 tokens per location
+-   [FullReviews](https://www.fullreviews.co) - 30-day free trial / Auto-reply to Google Reviews with AI / Boost local SEO / Collect customer insights - From $9.90/mo
+-   [best AI tools](https://navai.me) - Free / Curated Selection of AI Tools / Expert Guides and Reviews - Free
+-   [EchoSync](https://echosync.ai) - 7-day free trial / Automated Review Requests / AI-Powered Review Responses / Centralized Review Dashboard - From $49/month
+-   [GoZen](https://gozen.io) - 250 Views per month, 5 AI questions/month / AI-powered marketing and sales automation / Unified suite for customer support and lead generation - $0/month
+-   [ReplyReply](https://www.replyreply.pro) - Automate AI replies to Google reviews / Save time / Boost e-reputation / No Sign-Up - From 19€/month for 1 establishment
+-   [Roketfy](https://roketfy.com) - Free 3 Listings / Analyze Listings / Smart Recommendations / AI-powered Sales Booster - From $6.99/month
+-   [Zipplead](https://zipplead.com) - Free 7-day trial, unlimited articles / Lead Generation / Email Marketing / Chatbot Solution - From $29/month
+-   [Website Builder Hub](https://websitebuilderhub.com) - Expert reviews & comprehensive guides / AI-powered website creation / Performance & SEO testing
+
+### AI Response Generator
+
+-   [CommentGuard](https://commentguard.io) - Free 7-day trial / AI-powered comment moderation / AI-powered responses / No credit card required - From $29/month
+-   [MARA AI](https://www.mara-solutions.com) - / AI Review Reply Generator / AI Powered Reputation Management - From 60€/month
+-   [Engage AI](https://engage-ai.co) - Free unlimited AI-assisted comments, 3 custom tones, 10 prospects monitored / Generative AI for LinkedIn Comments and Content / Prospect Monitoring / No credit card required - From $10.32/month
+-   [Mailbutler](https://mailbutler.io) - 14-day free trial / AI-powered email assistant / Email Tracking / Smart Send Later - From $3.95/month
+-   [AutoRFP.ai](https://autorfp.ai) - Risk free 30 Day Trial / AI Response Automation / Content Management / AI Search - From $200/month
+-   [Commenter AI](https://commenter.ai) - 140 comments free / Write More Effective Comments / Save Valuable Time & Effort / No credit card required - From $97/year
+-   [Unthread](https://unthread.io) - Free for your first channel / Scale up support on Slack / AI-Powered Support - From $250/month
+-   [RightResponse AI](https://www.rightresponseai.com) - 7-day Trial with 1000 free credits / AI Review Response / Review Sentiment Analysis / Google Map Local Rank Tracker & Competitor Analytics - From $8/month/location
+-   [Jaivin's Shop](https://oomfmap.com) - AI-powered map placement / AI-generated roasts and responses
+-   [ToMate](https://www.tomate.ai) - Up to 100 responses per month / AI-powered responses for email, WhatsApp & more / Trained on your own data / - From $25/month
+-   [ReplyGuy](https://replyguy.com) - Free trial / AI finds best places to mention product / AI drafts natural replies - From $49/mo
+-   [Specgen](https://specgen.ai) - 100 credits free trial / Automated tender/RFP responses / 100% Confidentiality - From €99/month for 100 credits
+-   [Specgen](https://specgen.ai/fr) - 100 credits free trial / Automate tender responses / 100% Confidentiality with proprietary AI - From €99/month (100 credits)
+-   [Autoreviews AI](https://www.autoreviews.ai) - Automated customer review responses / Brand voice and values alignment
+-   [Winify AI](https://winifyai.com) - 14-day free trial, 3 knowledge documents, 50 questions / Automate security questionnaires and RFP responses / AI Response Generation - From $199/month (billed yearly)
+-   [TalkbackAI](https://www.talkbackai.com) - 10 free responses per month / AI-powered personalized responses / Multi-platform support / Brand voice setup - From $19 for 150 Response-Credits
+-   [Replyio](https://replyio.com) - 7-day free trial / Personalized LinkedIn Messaging / Automated AI Responses for Gmail, Outlook, Twitter - From $15/month
+-   [Responso](https://responso.com) - 25 messages free / Multi-channel comms management / AI-driven customer support - From 18 GBP/month per agent
+-   [CommentsPro](https://chromewebstore.google.com/detail/commentspro-linkedin-ai-c/pcbfaehbjkpohdfbbbenegjpbimiljcj) - Generate thoughtful and professional comments / Context-aware comments for LinkedIn
+-   [Otveto](https://chromewebstore.google.com/detail/otvetoru-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%BE%D0%B2-%D0%BD/lhbblbgmkofcjgjcabcfbbajimafbich) - Free trial / Personalized AI-generated responses to reviews and questions / Customer experience analysis from reviews
+-   [SoLike](https://chromewebstore.google.com/detail/review-response-reply-gen/idmbheepbkdljeocinjlenpfmnpalfcb) - Test for FREE / Human-Like AI Responses / Enhance Engagement Across Platforms
+-   [BravoClient](https://www.bravoclient.com) - 7 days free / Centralized Review Management / AI-powered review responses - From $32/month
+-   [AI-Powered Google Reviews Auto Responder](https://chromewebstore.google.com/detail/ai-reply-to-google-review/nnlapinnlakdekodfepkeiakidelgfoa) - 5 free replies a month / AI-Powered Auto Responder / Boosted Ranking
+-   [RedCom AI](https://redcom.ai) - 20 comments/month free / AI-powered personalized comments / Reddit & Quora monitoring - From $19.95/month
+-   [Reviewly](https://reviewly.ai) - 14 Day Free Trial / AI-Powered Google Review Management / Automated SMS Review Collection / AI-Assisted Review Responses - From $99/month
+-   [AmpUp.ai](https://ampup.ai) - 25 Total Responses free / Open-ended qualitative surveys powered by AI / Ask personalized follow-up questions - From $30/mo
+-   [Replier](https://replier.social) - 5 free AI-powered replies / AI-Powered Responses / Time-Saving Automation / No credit card required - From €5.00/month (500 AI reply generations)
+-   [Herodesk](https://herodesk.io) - Free plan available / Consolidated communication channels / AI Functions - From €15.95 per user, per month.
+-   [EchoSync](https://echosync.ai) - 7-day free trial / Automated Review Requests / AI-Powered Review Responses / Centralized Review Dashboard - From $49/month
+-   [thisorthis.ai](https://thisorthis.ai) - 15 Bonus Credits upon sign up / Compare AI models side-by-side / Analyze images with AI vision - From $20 for 2000 credits
+-   [Draftr](https://draftr.co) - 10 free drafts/per month / pre-drafts every response / perfectly learns your voice - From $4.99/month (100 messages)
+-   [ReplyReply](https://www.replyreply.pro) - Automate AI replies to Google reviews / Save time / Boost e-reputation / No Sign-Up - From 19€/month for 1 establishment
+-   [Interm AI](https://interm.ai) - 10 interviews / 5 minutes per interview free / Real-time AI Interview Assistant / Instant AI-generated answers - $10 / pack
+-   [Word WandAI](https://www.wordwandai.com) - 7-day free trial / AI-enhanced personalized responses / Supercharge macro templates / No OpenAI account required - From $24/month
+-   [AI Mail Assistant](https://www.chatgptservices.app) - 10 requests per month / Auto-responder / Email summarizer / 13-language translator - From €4.99/month
+-   [Leaddit](https://leaddit.co) - 3-Day Free Trial / AI-powered lead finder / Auto Comment Generator - From €19.99/mo
+
+### AI Email Generator
+
+-   [Toolsaday](https://toolsaday.com) - AI-powered content creation / Paraphrasing Tool / 40+ AI tools - From $7.99/month
+-   [Stripo](https://stripo.email/blog/introducing-stripos-ai-assistant-evolutionizing-editor-for-email-campaigns) - Free AI Assistant / AI-powered email creation / Automated content generation / Brand-aligned campaigns - From $20/month
+-   [BlueMail](https://bluemail.me) - Free / Unified Inbox / GemAI Generative Email -
+-   [Mailbutler](https://mailbutler.io) - 14-day free trial / AI-powered email assistant / Email Tracking / Smart Send Later - From $3.95/month
+-   [Recruit CRM](https://recruitcrm.io) - Unlimited free trial / ATS + CRM / AI-powered recruitment software / Workflow Automation - From $85/month
+-   [Typli.ai](https://typli.ai) - AI Writing / SEO Assistant / AI Image Generation - From $7.99/month
+-   [WriteMail.ai](https://writemail.ai) - AI-powered email generation / Customizable tone & style / Multilingual support - From $6.95/month for 50 emails
+-   [200+ ChatGPT Mega-Prompts for Sales](https://godofprompt.ai/sales-mega-prompts) - 10 Free Mega-Prompts / Automate sales tasks / Generate high-converting sales proposals - $37.00 for 200+ sales prompts
+-   [GMPlus](https://gmplus.io) - Free forever / AI Email Generation / 100+ AI-Generated Prompts / Multilingual Support
+-   [ReachInbox](https://reachinbox.ai) - 14-Day Free Trial / AI-driven Cold Email Sending / Email Warmups & Inbox Rotation / AI-driven Sequence Generation - From $39/Month
+-   [AImReply](https://aimreply.com) - / AI Email Writer / Multi-Language & Tone/Length Customization / No Login -
+-   [SmartWriter](https://www.smartwriter.ai) - 7-days free trial / Personalised cold emails / Automate outreach - From $59/month
+-   [Migma.ai](https://migma.ai) - 30 monthly requests free / On-brand email creation / AI-powered email creation - From $23.25/month
+-   [pipl.ai](https://pipl.ai) - 14-day free trial with 1000 emails & 100 enrichment credits / AI-powered Cold Outreach / Smart Email Automation / Built-in Email Validation - From $37/month
+-   [Speechly](https://speechly.io) - 20 emails / month / Voice-to-Email Engine / AI Structure Builder - From $9.99/month
+-   [LowTech AI](https://lowtech.ai) - Easy-to-use AI tools / Fill-in-the-blank inputs / Zero friction sharing / No Sign Up required
+-   [Press Ranger](https://pressranger.com) - AI-powered journalist outreach / Database of 500,000+ Journalists and Publishers / Automated pitch requests - From $79/month
+-   [Lyne.ai](https://lyne.ai) - AI-powered sales personalization at scale / Automate prospecting research / Increase reply rates & shorten sales cycles
+-   [Nureply](https://nureply.com) - 14-day free trial / AI-powered personalization / Automated email sequences / Email warmup & deliverability - From $99/month
+-   [Ready to Send](https://getreadytosend.com) - 200 emails free / Automated Gmail replies / Personalized draft replies / No setup required - From US$5/month
+-   [Draftly.io](https://draftly.io) - 1000 rows free / Personalized first-line intros for B2B cold emails / Web Scraping - From $20/month
+-   [EmailCanvasAi](https://www.emailcanvasai.com) - 5 tokens per month / Generate HTML Emails with AI / Drag-and-Drop Editor - From $15/Month
+-   [Subject Line Generator](https://subjectlinegenerator.com) - Free 10 subject line ideas / AI-powered Subject Line Generator / Tone and emoji customization
+-   [Emailor](https://aiemailgenerate.com) - Generate professional emails / Multilingual Support / No Account Required - From $4.99/month for 10000 emails
+-   [Write Mail AI](https://writemailai.com) - / Write, Analyze, Reply to Emails / No Login required
+-   [Genii Assistant](https://chromewebstore.google.com/detail/genii-assistant/hmjbgpeihcpkboenedoaeoemapepljda) - AI-Powered Email and Text Generation / One-click email drafting in Gmail
+-   [DesignMail Pro](https://designmail.pro) - Free Trial / AI-Powered Email Design / Create, customize, and export professional emails in minutes / Drag & Drop Editor
+-   [Paste2Email](https://paste2email.com) - 10 free credits and 3 amazing HTML emails / Transform email designs into code / MJML support for cross-email client compatibility
+-   [Styldod](https://www.styldod.com) - Free trial for first image / Virtual Staging / Photo Editing / AI Marketing Hub - From $1.5
+-   [Politemail Pro](https://www.pmailpro.com) - Language Polishing / Professional Courtesy / AI Email Generation
+-   [Anyword](https://anyword.com) - 7-day free trial (2,500 words) / AI copywriting that converts / Performance prediction scores / Consistent on-brand content - From $39/month (billed yearly)
+
+### AI Website Designer
+
+-   [Claspo](https://claspo.io) - Free lifetime subscription with 30,000 pageviews and 3 active widgets / High-Converting Popups / Intuitive & flexible drag-and-drop editor
+-   [UX Magic](https://uxmagic.ai) - 60 free credits (one time) / up to 10 screens / AI-generated mockups / Figma ready wireframes
+-   [PixoLabo AI Web Design](https://pixolabo.com) - Free Website Cost Calculator / AI Web Design Solutions / E-Commerce Design - From $41.67/month
+-   [Retro Camera](https://www.bubbbly.com) - Use Once / Take instant polaroid photos / Create beautiful collages
+-   [STUDIO AI](https://studio.design) - 2,000 visitors/mo / AI-augmented design / multi-step task automation / responsive design - From $10/month
+-   [Uizard](https://uizard.io) - Free 3 AI generations per month / AI-powered design tool / Text to design - From $12/month
+-   [uKit AI](https://ukit.ai) - Free design and technology upgrade / AI-powered website upgrade / HTTPS & Mobile-friendly Layout / Easy-to-use CMS & SEO Tools
+-   [Mysite.ai](https://mysite.ai) - Free 10 daily AI requests / AI Website Builder / Chat to edit / No Sign-Up needed - From $12/month
+-   [Mobirise AI Website Builder](https://mobirise.com/builder/ai-website-builder.html) - / Generate website with AI / No-code website building / Customizable templates - From $199/year
+-   [Redesignr Ai - landing page builder and website redesign](https://redesignr.ai) - 15 AI credits / AI Landing Page Builder / Website Redesigner / GitHub Docs Generator - From $50/month
+-   [SiteArchi AI](https://sitearchi.com) - 5 AI requests/day free / AI-powered sitemap creation / intuitive wireframe design studio - From $9/month
+-   [B12](https://b12.io) - AI-powered website builder / Streamline business operations - From $49/month
+-   [Wegic](https://wegic.ai) - Free plan available / AI web designer and developer / Create and modify websites via chat / No coding required
+-   [Galileo AI](https://www.usegalileo.ai) - 15 free designs / Editable UI designs from text / Mobile & Web UI generation - From $19/month (120 designs)
+-   [ace.me](https://ace.me) - Free, forever / Website builder / Email address
+-   [Readdy](https://readdy.ai) - 100 Credits / AI design / natural language to design - From $20/Month
+-   [OsoDesign](https://www.osodesign.com) - 1-Week Design Retainer Trial / AI-supercharged design / Quick Turnaround ~48 Hours / Unlimited revisions - From $2000/month
+-   [NoCodeSites.ai](https://nocodesites.ai) - No code / No drag & drop / Build by describing what you want - From $14.99 (50 websites)
+-   [DesignYay](https://www.designyay.com) - First month free / Unlimited designs / AI artwork / Fast delivery - From $2,950/month
+-   [CustomFit.ai](https://www.customfit.ai) - Free 20 Personalized visitors / No-code A/B Testing / Website Personalization - From $99/month
+-   [MSME Page](https://msme.page) - Live preview / Seamless alternative to Google Business Site / Turns listing into WordPress site - From $2.29/month
+-   [Koolay](https://www.koolay.com) - Free forever with 0.3 GB/month CDN bandwidth / AI-powered CMS / Centralized Multi-Site Management / No Membership Required - From $150/month
+-   [Sitescribe](https://sitescribe.link) - 1 Free AI generated site / Automatic AI-powered site builder / Customizable templates & Built-in SEO - From $1
+-   [HiPNG](https://hipng.com) - 5 credits / AI Transparent PNG Generator / True Alpha Channel Transparency - From $4.90/month
+-   [Webjourney](https://webjourney.pro) - Build production-ready websites with AI / No coding required
+-   [InstaWebAIv3.0.0](https://www.instawebai.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2607)- Freemium + From $25/month, No Refunds / Create, launch and grow your business website all in one platform
+-   [Rewebly](https://rewebly.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3541)- Free Trial + From $49.99, One-time, No Refunds / Redesign your website instantly with AI.
+
+### AI Reply
+
+-   [AutoResponder.ai](https://www.autoresponder.ai) - Unlimited Rules & 500 Daily replies free, 7-day PRO trial / AI-powered auto-replies / Customize messages & schedules - From $3.33/month
+-   [HyperClapper](https://hyperclapper.com) - 14-day free trial, 3 posts/month / AI Comment/Reply / Dwell Time - From $39/month
+-   [HowToReplyTo](https://howtoreplyto.com) - Free / Creative AI replies / Context-specific replies / Advanced filtering - From $1.99/mo
+-   [LinktoDM](https://linktodm.com) - 2000 contacts free / Comment to DM automation / Chat automation - From $15/month
+-   [Snoooz AI](https://snoooz.ai) - 14-day free trial / Personalized email auto-replies / Automated email routing and categorization - From $9/month
+-   [ReplyGuy](https://ai-reply.work) - 2 replies/month free / AI-driven brand mentions / Automated replies & time-saving - From $9.9/month
+-   [ReplyMind](https://www.replymind.com) - 90 replies/month free / Generate authentic, thoughtful & relevant replies / Boost social engagement - From $7/month (300 replies)
+-   [Tanka](https://www.tanka.ai) - / AI Long-Term Memory / AI-Assisted Smart Reply / Integrated Communication Hub
+-   [Tweet AI](https://tweetai.com) - Limited daily access / Generate tweets / One-click replies - From $8.25/month (billed yearly) for 1000 replies/posts
+-   [ReplyGuy](https://replyguy.com) - Free trial / AI finds best places to mention product / AI drafts natural replies - From $49/mo
+-   [Telegram Group Bot - TGDesk](https://tg.wadesk.io) - Free trial with 3000 AI credits / Lead generation / AI chatbot / Community growth - From $99.9/month
+-   [SuggestReply](https://www.suggestreply.com) - Free 3 requests per mode / Generates intelligent replies / Automates social media engagement - From 6.99€/month
+-   [1Stroke - Reply with AI](https://www.1stroke.ai) - 7 days free trial, 20 Credits/day / Reply with AI / Works Everywhere - From $7.50/mo
+-   [Facebook Marketplace Auto Reply Extension](https://chromewebstore.google.com/detail/nerdy-panda-fb-marketplac/glloldghmglalkoajdffnflknceacogg) - Automatically answer common questions / Personalized responses
+-   [TalkbackAI](https://www.talkbackai.com) - 10 free responses per month / AI-powered personalized responses / Multi-platform support / Brand voice setup - From $19 for 150 Response-Credits
+-   [Viral Reply](https://viralreply.com) - 7-day free trial / 20 replies / AI-powered tailored replies / Boost social media engagement - From $10.00/month / 3000 replies
+-   [Reply Pulse](https://www.replypulse.com) - Free 20 credits for 7 days / AI reply generation for X/Twitter growth / Human-like replies / Personalized replies with adjustable tonality - From $9/month
+-   [Ready to Send](https://getreadytosend.com) - 200 emails free / Automated Gmail replies / Personalized draft replies / No setup required - From US$5/month
+-   [Reply4Me](https://reply4me.com) - Free 3 replies per day / AI messaging assistant / Smart responses & engaging posts - From $8.25/month
+-   [AI Keyboard・ReplyAssistant](https://apps.apple.com/us/app/keyboard-ai-replyassistant/id1664247219) - / AI-Generated Replies / Diverse Prompts Library / - From $1.99/month
+-   [MagicReply AI](https://magicreply.ai) - Generate Professional Replies to Customers / One-click Reply Generation with bulk support - From $19.99/month
+-   [Ellie AI](https://tryellie.com) - 3 simple replies a day / Professional, bespoke emails / Save hours every day - From $19/month
+-   [ReplyMaster](https://replymaster.in) - 1-Hour Free Trial / AI-Powered Replies / Multi-Language Support - From 4.93 USD/Month
+-   [Local SEO Tools and Tips (LSTT)](https://localseotoolsandtips.com) - 15 tokens free / AI automation for Google Business Profile / Automated Review Replies - From ₹1,440/month for 200 tokens per location
+-   [Replier](https://replier.social) - 5 free AI-powered replies / AI-Powered Responses / Time-Saving Automation / No credit card required - From €5.00/month (500 AI reply generations)
+-   [FullReviews](https://www.fullreviews.co) - 30-day free trial / Auto-reply to Google Reviews with AI / Boost local SEO / Collect customer insights - From $9.90/mo
+-   [Tweeteasy](https://tweeteasy.io) - 20 AI gens per month / Generate human-like replies / Inspire posts & enhance tweets - From $4.9/month
+-   [OwlU](https://owlu.site) - AI-driven email processing / Fast email processing / Multi-email integration
+-   [SocialMagic AI](https://www.socialmagic.ai) - Free trial / AI-generated comments / AI-generated posts - From $40/month
+-   [Super Comments](https://super-comments.com) - AI comments directly on socials / AI post drafts / scheduled posts - From 24,99€/month
+-   [patronsAI](https://patronsai.com) - One-click personalized reply suggestions / Customizable Responses
+
+### AI Marketing Plan Generator
+
+-   [Marketing Guide AI](https://marketingguide.ai) - / AI-Powered Marketing Plan Generator / 15 Essential Marketing Documents / AI-Powered Analysis - 1 Project - $29.99
+-   [PHPilot](https://www.phpilot.com) - Limited Credits, 1 Product / AI-powered launch strategy generation / AI-powered relaunch optimization - From €39/month
+-   [ProductRoadmap.ai](http://productroadmap.ai) - 1 Roadmap w/ 100 Items & 5 GTM plans free / AI roadmapping suite / Revenue-based prioritization / Automated sales notifications - From $99/Editor/mo
+-   [Delve AI](https://www.delve.ai) - Free Website Persona / Automatic persona creation / Digital twins & synthetic users / Actionable marketing recommendations - From $89/month for 15k Monthly visits
+-   [Validea](https://validea.co) - 2 validation tokens per month / Quick Idea Scoring / Insightful Results - From $9.99/month
+-   [Growf AI](https://www.growf.io) - 14-day free trial / Targeted Marketing Campaigns / Audience Research / SEO Content
+-   [Supreme Plans](https://www.supremeplans.com) - AI-generated detailed, personalized plans / various categories (business, lesson, meal, travel, etc.)
+-   [HelloScribe](https://helloscribe.ai) - 10,000 Tokens Included / AI AutoPilot for Strategy & Planning / 10x faster writing and brainstorming / Comprehensive Business Strategies from a Single Prompt - From $29/month
+-   [FikraHub](https://fikrahub.com) - 5 ideas per month / Create essential business tools (SWOT, Lean Canvas, User Stories) / Turn ideas into websites for user testing
+-   [Toffu AI](https://toffu.ai) - 300 credits per month (100 per day/3 days) / Automates campaigns / Analyzes data / Executes strategies - From $20/month
+-   [Wonderflow](https://wonderflow.app) - 3 marketing flows & 100 AI credits free / AI Marketing Flow Generation / Visual Campaign Clarity / - From $17/month
+-   [Marketing Frameworks](https://marketingframe.works) - 5-day free trial / AI powered marketing insights / targeted content generation / 30+ marketing frameworks - From $29/month
+-   [Meet Lars](https://www.meetlars.com) - Persona Creator / Positioning Builder / Marketing Planner
+-   [PersonaBuilder.co](https://personabuilder.co) - Free 3 Personas / AI-Powered Buyer Personas / Actionable Marketing Insights - From $39/month
+-   [Startilla](https://startilla.co) - Free access / Generate essential business artifacts / Validate ideas fast
+-   [Startuptools.ai](https://www.startuptools.ai) - Free / Generate a business plan in 3 minutes / Streamline planning, marketing, and growth - From $11.99/month
+-   [Taqdimly](https://deckify.ai) - 1 presentation free / Craft perfect pitch decks / Simplify market research / Turn data into compelling stories - From $10/month
+-   [ReelSights AI](https://www.reelsightsai.com) - 14 days free trial / AI-powered marketing strategies / Hyper-targeted content creation / Unmatched insights
+-   [Yahini](https://yahini.io) - 5 briefs free / funnel-mapped keywords / detailed content briefs - From $50/month
+-   [Aimy Ads](https://aimyads.ai) - First month FREE / Conversational AI / Cross-channel ads - From $149/mo.
+-   [AppFlows](https://appflows.ai) - FREE Forever / Create visual app specifications / Scope, estimate & visualise app ideas / Plan mobile growth campaigns
+-   [PlanPros](https://planpros.ai) - AI business plan generator / Optimize business strategy / Secure funding / No email or credit card required
+-   [Velin](https://velin.ai) - 1 day free trial / Research and insights / Campaign generation / Content creation - From $30/month
+-   [Plannit AI](https://plannit.ai) - AI business plan generator / Financial projections
+-   [PostSam](https://postsam.ai) - Free plan available / AI Social Media Management / Automated Content Creation - From $15.99/month
+-   [MarketersPen](https://marketerspen.com) - 5000 words / 20 workflow runs free / AI Workflow Automation / 70+ Templates / Blog Builder - From $29/month
+-   [MetaMuse](https://metamuse.marketing) - Free trial / Craft marketing strategies and concepts that outperform / Leverage insights from 20,000+ success stories
+-   [Spellmint](https://spellmint.com) - Free up to 100K words/month / Team Planning / Brainstorming to Brilliance - From $8/month for up to 500K words/month
+-   [FoundrAI](https://foundrai.com) - Free (1 User License) / AI-Powered Startup Blueprint / Investor-Ready Pitch - From $25/month
+-   [VPLATE](https://vplate.io) - Free 3 video renders/month / AI video creation / AI marketing copy generation / Automatic SNS upload - From 21,600 KRW/month
+-   [Docuopia](https://www.docuopia.com) - 150 AI Credit/user / Craft product requirements, help docs, and wikis / AI-Generated Diagrams / No Sign-Up - From $10/month
+-   [Averi AI](https://averi.ai) - 1 User Free / AI Marketing Manager / Content Creation / Expert Sourcing - From $80/month
+-   [simbly.ai](https://www.simbly.ai) - Free business plan / AI-powered business plan creation / Integrated financial planning without Excel / Bank & funding compliant - From €249/one-time
+-   [FOMO.ai](https://fomo.ai) - Human-quality AI marketing / AI Search early-mover advantage - From $547/month
+-   [AI KAT](https://www.aikat.ai) - 7 content pieces free / Brand strategy, naming, logo, content & visuals / Content scheduling - From £49/month
+-   [Lensmor](https://www.lensmor.com) - 14-day free trial / AI-powered competitor monitoring / Actionable insights & strategic plans - From $49/month for 5 competitors
+-   [Twistly](https://twistly.ai) - Create presentations in PowerPoint / Convert content to slides / Enhance slides with AI
+-   [Orphiq](https://orphiq.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3065)- Freemium + From $37/month / Generate personalized release timelines and content plans, for music artists and teams.
+
+### AI Cold Calling
+
+-   [eCold.ai](https://ecold.ai) - Free 20 credits / AI personalized lines / Bulk generation - $15 for 100 credits
+-   [Second Nature](https://secondnature.ai) - Free role plays (3-5 min experience) / AI-driven role play sales training / Real-time personalized feedback
+-   [Hot Reach AI](https://www.hotreachai.com) - AI-generated first lines / Increases reply conversion / No Sign-Up
+-   [SmartWriter](https://www.smartwriter.ai) - 7-days free trial / Personalised cold emails / Automate outreach - From $59/month
+-   [Nova Echo AI](https://www.novaecho.ai) - Automate sales with conversational AI / Make 1800 calls/min / Support for 38 languages
+-   [Trellus](https://trellus.ai) - / Real-time AI coaching / Parallel dialer / Automates post-call work - From $34.99/month
+-   [Bravey](https://bravey.co) - All features free for a limited time / Automate outreach / Scale distribution
+-   [Callab AI](https://callab.ai) - / AI-powered automation for appointments, customer service & cold calling / Human-like AI Voice Agents / Supports Arabic Dialects - From $240/month - 2000 Minutes/Month
+-   [Asistee](https://www.asistee.eu) - Free initial assignment (value $15) / Operational tasks / Advanced research, marketing & QA projects / No payment details required
+-   [klink.cloud](https://www.klink.cloud) - CRM Contacts - 100 / Omnichannel Contact Center / AI & Workflow Automation / No credit card required - From $19/user/mo
+-   [Backlink Management](https://backlinkmanagement.io) - Free trial / Discover backlink opportunities / Automate outreach / Monitor links - From $49/month
+-   [Rooftops AI](https://rooftops.ai) - Free 3 requests per month / Access to all AI tools - From $3.99/month
+-   [SellMeThisPen AI](https://www.sellmethispen.ai) - 7 days free trial / AI Sales Role-Play / Real-Time Assistance - From $44 USD/seat/mo
+-   [Agent AI: AI Calling Assistant](https://apps.apple.com/us/app/agent-ai-ai-calling-assistant/id6446227327) - 7 minutes demo calls / Create custom voice agents / Automate incoming & outgoing calls - From $5.99/week
+-   [Koncert](https://koncert.com) - Free trial available / AI-Powered Sales Dialer / Remote Salesfloor & Coaching / Automated Caller ID Management
+-   [Landbase](https://www.landbase.com) - Free / Find & Engage Prospects / Launch High-Converting Campaigns - Free
+-   [VoiceGenie](https://voicegenie.ai) - 30 voice minutes for 7 days / Qualify Leads / Book Meetings - From $50/month for 250 Minutes
+-   [Ciro](https://www.ciro.io) - 300 credits, one-time / AI agent that builds, scores and enriches your perfect prospect list / pulls verified emails/mobiles - From $39/month
+-   [Simple Phones](https://simplephones.ai) - 14-day free trial / Answer calls using AI / Customizable AI voice agent - From $49/mo for 100 calls
+-   [Outplay](https://outplayhq.com) - 7-day free trial / Multi-Channel Outreach / Sales Automation / Conversation Intelligence / No credit card required - From $39/month
+
+### AI Flyer Generator
+
+-   [BrandCrowd](https://www.brandcrowd.com) - Make Logos, Business Cards, Social Designs and More / Customize professionally curated designs
+-   [Logome](https://www.logome.ai) - AI Logo Maker / Brand Kit / Website Generator / No Sign-Up required
+-   [SMMAI: AI Banner Maker](https://home.smmai.app) - AI-powered banner design / Thousands of ready-made layouts / No Sign-Up needed
+-   [Bazaart](https://bazaart.me) - AI Photo Editing / Graphic Design / Thousands of design templates
+-   [DesignLumo](https://www.designlumo.com) - Free credits / AI-powered editable designs / Full canvas editing - From $7/month
+-   [Styldod](https://www.styldod.com) - Free trial for first image / Virtual Staging / Photo Editing / AI Marketing Hub - From $1.5
+-   [Designs AI](https://designs.ai) - 50 complimentary credits upon signup / AI-powered logo, image, video generation / AI Chat & Writer
+-   [Stager AI](https://stagerai.com) - Virtual Staging / Image Enhancer / Image Editor
+
+### Ad Copy
+
+-   [Atria](https://tryatria.com) - 7-day free trial / AI Ad Generation / Ad Inspiration & Reporting - From $129/month
+-   [Pencil](https://www.trypencil.com) - Create new ad variations 10x faster / Double productivity and performance with Generative AI / Generate copy and visuals with AI chat
+-   [Google SERP Simulator](https://www.scottshorter.com.au/serp-simulator) - Free / SERP Simulator / Title Tag & Meta Description Preview / Mobile & Desktop View
+-   [Marpipe](https://marpipe.com) - Control your Dynamic Product Ads / Make your catalog ads look like real ad creative / Turn every SKU into a thumb-stopping video
+-   [Hooktok](https://hooktok.ai) - Free tier available / AI Product Video Ads / AI Ad Director / Video Ad Variations - From $39/month
+-   [AI Suggests](https://ai-suggests.com) - Generate unlimited content / Social media content / SEO-friendly content
+-   [CreativeScore](https://creativescore.ai) - 7 day free trial / Immediate objective feedback / Optimize ad performance / Score creative in 90 seconds - From $79/month
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [UnboundAI](https://www.unboundcontent.ai) - 25 credits every month / Automate content creation / AI-powered writing / Professional AI product photography - From $15/month
+-   [Blobr](https://blobr.io) - One analysis free / Optimize Google Ads spending / Automate keyword optimization - From 89€/month
+-   [Creatosaurus](https://www.creatosaurus.io) - 5k AI words, 20 AI images, 1GB storage free / AI Content Creation / Social Media Marketing & Management - From $30/month
+-   [Aimy Ads](https://aimyads.ai) - First month FREE / Conversational AI / Cross-channel ads - From $149/mo.
+-   [Freeadcopy](https://freeadcopy.com) - Free forever / AI Copy Generator / Outperforms your ads / Powered by GPT-4
+-   [iSavantAI](https://isavant.ai) - 10,000 AI writer credits free / AI Content Generation / Text-to-Speech / Transcription - From $16/month
+-   [Macbeth AI](https://macbeth.ai) - Free 500 AI words/month / AI content generation / AI chat assistant - From $19.99/month
+-   [30characters](https://30chars.com) - Generates ad copy quickly / Understands character limits / Allows easy fine-tuning - From $4.16/month
+-   [Quickads](https://www.quickads.ai) - 5 Days Trial / AI Ad Generator / Image & Video Ads / 10M+ Ads library - From $39/month
+-   [Adspire](https://apps.apple.com/us/app/adspire/id1667132875) - Generate 100+ winning ad creatives in seconds / Product Ad Generation / Creative Ad Generation - From $19.99/month
+-   [Mujo AI](https://mujoai.com) - 1 AI project, 100 credits free / Generate Product Images & Copy / E-commerce Listing Content Automation - From $32.50/month
+-   [UGC Maker](https://ugcmaker.io) - 10 credits upon registration / Generate Authentic UGC Ad Videos / Turn Links into Videos / Scaled by AI - From $9/month
+-   [AdCopy.ai & Koast.ai](https://adcopy.ai) - 30 FREE ADS / AI-powered ad copy generation / High-converting & compliant copy / Unlimited variations - From $29/month
+
+[⬆️ Back to README](./README.md)

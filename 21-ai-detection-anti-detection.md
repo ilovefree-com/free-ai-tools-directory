@@ -1,0 +1,455 @@
+# AI Detection & Anti-Detection
+
+[⬆️ Back to README](./README.md)
+
+## AI Detection & Anti-Detection | I Love Free
+
+> Discover free AI content detectors and humanizer tools. Verify text authenticity and detect AI-generated content with these no-cost solutions.
+
+### AI Content Detector
+
+-   [ZeroGPT](https://www.zerogpt.com) - Free 15,000 characters AI detection / AI text detection / Plagiarism checking / AI Chatbot - From $7.99/month
+-   [Uhmegle](https://uhmegle.com) - Meet strangers by interest / Moderated video & text chat
+-   [Originality.ai](https://originality.ai) - Accurate AI Detection / Plagiarism Checking / Fact Checking Aid - From $12.95/month
+-   [Bark](https://bark.us) - 7-day free trial / Advanced content monitoring / AI-powered safety alerts / Manage screen time - From $5/month
+-   [Canopy](https://canopy.us) - One-week free trial / AI-Powered Content Filtering / Sexting Prevention / Screen Time Management - From $7.99/month
+-   [Decopy AI](https://decopy.ai) - AI detection / Humanization / Summarization / No Login required
+-   [Undetectable AI](https://undetectable.ai) - Free AI Detector / Detects AI content from multiple checkers / Humanizes AI text to be undetectable
+-   [MyDetector AI](https://mydetector.ai) - Free and Unlimited / Accurate AI Detection / AI Humanizer / No Login Required
+-   [Winston AI](https://gowinston.ai) - 2,000 credits / 14 day trial / AI Content Detection / Plagiarism Checker - From $12/month
+-   [Smodin](https://smodin.io) - AI Writing Assistant / Plagiarism Checker / AI Content Detector - From $9/month
+-   [BypassGPT](https://www.bypassgpt.ai) - Free 150 Words/month / Undetectable AI Bypasser / Plagiarism-Free Rewrites - From $19/month
+-   [AI Detector Writer](https://aidetectorwriter.com) - Free / High precision model / Support for all languages
+-   [Quetext](https://quetext.com) - Free 500 words plagiarism check, 250 words AI detection / Plagiarism Checker / AI Detector / AI-powered Paraphrasing - From $8.80/month for 100,000 words
+-   [Rephrasy](https://rephrasy.ai) - Free 3 credits / AI humanizer / built-in AI detector - From $14.99/month
+-   [ContentDetector.AI](https://contentdetector.ai) - Free / AI Content Detector / ChatGPT Plagiarism Checker / No Login
+-   [PlagiarismSearch.com](https://plagiarismsearch.com) - Free 300 words daily / Plagiarism check / AI detection - From $22.95/month
+-   [Hastewire](https://hastewire.com) - 400 words per month / Humanize AI-generated content / Detect AI usage - From $4.99/month
+-   [ZeroGPT & StealthWriter](https://zerogpt.cc) - Accurate AI content detection / Supports multiple AI models / No Login required
+-   [ZeroGPT](https://zerogpt.tools) - Free / ChatGPT Detector & AI Content Checker / Detects Any AI Model / No Sign-Up
+-   [Leap AI](https://www.tryleap.ai/tools/ai-content-detector) - Free / Detect AI-generated content / Accurate AI content identification - From $99/month
+-   [iDox.ai](https://www.idox.ai) - 7-day free trial / AI-powered redaction / Scan over 47 different file formats - From $290/year for 3,000 pages
+-   [NoPlagio](https://noplagio.it) - Free 3 AI text checks per day / Plagiarism check / AI detection - From €9.95/month
+-   [X Detector](https://www.xdetector.ai) - Free / AI Content Detector & Chatgpt Detector / Supports 20+ languages / No registration required
+-   [SafeWrite AI](https://safewrite.ai) - Undetectable AI Humanizer / All-in-One AI Detector - From $9.99/month
+-   [Brandwise](https://brandwise.ai) - Up to 100 comments processed monthly / AI Comment Moderation / AI Replies - From $49/month
+-   [Checkstep](https://checkstep.com) - Free trial on your dataset / Instantly remove harmful content / Reduce moderation costs by up to 90%
+-   [Positional](https://www.positional.com) - Free 5 Optimize reports per month / Content Optimization / SEO Strategy / Content Analytics - From $49/month
+-   [PaperRed](https://paperred.com) - Unlimited Free Plagiarism Check / AI Rewriting / AI Writing
+-   [Corrector App](https://corrector.app) - Totally Free / Grammar, Spelling, and Punctuation Checker / Multi-language support / No account or download needed
+-   [Fotify](https://fotify.app) - Free 50 photos, 20 digital invites / Real-time photo sharing / RSVP Management / No App Download Required - From $19/event
+-   [EchoMark](https://www.echomark.com) - Free Individual plan with 100GB storage / Invisible forensic watermarking / Trace data leaks - From $19.99/month
+-   [AICheatCheck](https://www.aicheatcheck.com) - Detect AI in student writing / 99.7% accurate AI detection
+-   [AI Detect](https://www.aidetect.com) - Free 50 scans & 1 humanization per day / Detect AI / Humanize AI text - From $9.99/month
+-   [CoverSentry](https://www.coversentry.com) - Free scans / AI Cover Letter Detection / Human-like Cover Letter Generation / No Login required for scans
+-   [Aithenticate](https://aithenticate.org) - Free up to 10 Implementations / AI content transparency / WordPress plugin / Custom company profile - From €5,99/month
+-   [SmartStudi](https://smartstudi.com) - A few tries / AI Writing Detector / Humanizer / Undetectable AI Chatbot - From $9.99/Month
+-   [Lasso Moderation](https://www.lassomoderation.com) - AI-powered Content Moderation / Moderation Dashboard - From $99/month for up to 10K items
+-   [Ko-fi](https://gpt-zero.cc) - Free up to 2000 characters per operation / Detect AI-generated content from various models / Simple and accurate AI detection
+-   [Nonbot.org](https://nonbot.org) - Free service / Verify human-made content / Showcase human-made content
+-   [StopScam](https://www.stopscam.ai) - AI-powered scam detection / scans documents, PDFs, text, images, links
+-   [Nodac Intel](https://nodacintel.com) - 1 evaluation credit / Content performance prediction / AI-generated content alternatives - EUR49/mo
+-   [RideReply](https://ridereply.com) - Secure & Private Communication / AI-Moderated Messaging
+-   [OmniDetect](https://omnidetect.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3384)- Freemium + From $29.99/month, No Refunds / Multi-engine AI content detection in one scan.
+
+### AI Detector
+
+-   [GPTZero](https://gptzero.me) - 5 free Advanced AI scans / AI Detection / Plagiarism Check - From $8.33/month for 150,000 words
+-   [ZeroGPT](https://www.zerogpt.com) - Free 15,000 characters AI detection / AI text detection / Plagiarism checking / AI Chatbot - From $7.99/month
+-   [hCaptcha](https://hcaptcha.com) - 14-day free trial / Stop bots and human abuse / Privacy focus / Frictionless user experience - From $99/month
+-   [Originality.ai](https://originality.ai) - Accurate AI Detection / Plagiarism Checking / Fact Checking Aid - From $12.95/month
+-   [Onfido](https://onfido.com) - AI-powered digital identity solution / Automated KYC & AML compliance / Advanced fraud prevention
+-   [Undetectable AI](https://undetectable.ai) - Free AI Detector / Detects AI content from multiple checkers / Humanizes AI text to be undetectable
+-   [MyDetector AI](https://mydetector.ai) - Free and Unlimited / Accurate AI Detection / AI Humanizer / No Login Required
+-   [Winston AI](https://gowinston.ai) - 2,000 credits / 14 day trial / AI Content Detection / Plagiarism Checker - From $12/month
+-   [Surfer](https://surferseo.com) - SEO Content Optimization / AI-powered article generation / Content Strategy & Research - From $99/month
+-   [AI Detector Writer](https://aidetectorwriter.com) - Free / High precision model / Support for all languages
+-   [PlagiarismCheck.org](https://plagiarismcheck.org) - Accurate Plagiarism Detection / AI Content Detection - From $5.99/month
+-   [Resemble AI](https://www.resemble.ai) - Free trial / AI Voice Generation / Voice Cloning / Deepfake Detection - From $5/month
+-   [Protectstar](https://protectstar.com) - Securely Erase / Anti Spy / Antivirus AI - From $3.00 SGD for Bee Sponsorship
+-   [Lakera](https://www.lakera.ai) - / Protect your LLM-powered applications / Safeguard against prompt injection attacks, hallucinations, data leakage, toxic language
+-   [AI or Not](https://www.aiornot.com) - 10 AI or Not Image checks monthly free / AI detection for images & audio / Fraud prevention - From $5/month
+-   [ContentDetector.AI](https://contentdetector.ai) - Free / AI Content Detector / ChatGPT Plagiarism Checker / No Login
+-   [Detecting-AI](https://detecting-ai.com) - Free plan with 5,000 character limit & 100 detections/day / AI Detection / Plagiarism Checker / AI Humanizer / No Sign-Up Needed - From $7/month
+-   [AI Undetect](https://www.aiundetect.com) - 500 Free Rewrite Credits & 10 AI detector uses / Undetectable AI Rewriter / Integrated AI content detectors - From $5/mo
+-   [ZeroGPT & StealthWriter](https://zerogpt.cc) - Accurate AI content detection / Supports multiple AI models / No Login required
+-   [Uncheck AI](https://uncheck.ai) - 150 words/month / AI Humanizer / AI Detector - From $6.99/month
+-   [ZeroGPT](https://zerogpt.tools) - Free / ChatGPT Detector & AI Content Checker / Detects Any AI Model / No Sign-Up
+-   [Leap AI](https://www.tryleap.ai/tools/ai-content-detector) - Free / Detect AI-generated content / Accurate AI content identification - From $99/month
+-   [OctoEverywhere](https://octoeverywhere.com) - Up to 3 printers free / Remote Access / AI Failure Detection / Notifications - From $5.99/month
+-   [Face Age AI](https://www.howolddoilook.io) - Free / AI Age Detection / Easy & Secure
+-   [Facia.ai](https://facia.ai) - Free demo / Liveness Detection / Deepfake Detection / Facial Recognition
+-   [X Detector](https://www.xdetector.ai) - Free / AI Content Detector & Chatgpt Detector / Supports 20+ languages / No registration required
+-   [Desklib](https://desklib.com) - Free 20 AI Answer questions, 12 Plagiarism Checker scans / AI-Powered Study Tools / Study Documents / Plagiarism Checker - From $4.50/month
+-   [SafeWrite AI](https://safewrite.ai) - Undetectable AI Humanizer / All-in-One AI Detector - From $9.99/month
+-   [Spamdrain](https://spamdrain.com) - 14-day free trial / Great spam filtering / Newsletter and marketing filter - From €1.83/month for 1 email
+-   [Human or Not?](https://www.humanornot.ai) - 2-minute chat / Social Turing Game / Identify human or AI bot
+-   [IDScan.net](https://www.idscan.net) - / ID scanning / Age verification / ID fraud prevention - From $33/month (Single device)
+-   [Dog Breed AI](https://www.whatbreedismydog.com) - Free / AI-powered dog breed identification / Highly accurate analysis
+-   [AI Detect](https://www.aidetect.com) - Free 50 scans & 1 humanization per day / Detect AI / Humanize AI text - From $9.99/month
+-   [Omnilert](https://omnilert.com) - AI Visual Gun Detection / Emergency Mass Notification System
+-   [BINARLY](https://binarly.io) - Firmware Security / Supply Chain Risk Management
+-   [getsolved.ai](https://getsolved.ai) - 3 AI solutions free / Plagiarism Checker / AI Humanizer / AI Detector - From $19.99/month
+-   [Aporia](https://aporia.com) - 1M GRUs free / AI Guardrails / Real-time streaming support / Real-time issue resolution - From $60/month for 5M GRUs
+-   [ZeroTrusted.ai](https://www.zerotrusted.ai) - FREE 15 Day Trial / Robust LLM Firewall solutions / Data & Identity Protection / Prompt Anonymity - From $9.99/month/user
+-   [Nametag](https://getnametag.com) - Identity Verification for Helpdesks / Stop Social Engineering & Data Breaches / Reduce IT Costs
+-   [Averroes](https://averroes.ai) - 99%+ Accuracy / No-code platform / Works With Your Equipment
+-   [C9Lab](https://www.c9lab.com) - AI-powered protection against brand fraud / dark web threats
+-   [FaceShapeDetector](https://faceshapedetector.io) - Free / AI-powered accurate face shape detection / Personalized style recommendations
+-   [Quensus](https://quensus.com) - Basic functionalities free / Leak Prevention / Water Bill Savings
+-   [Anomify](https://anomify.ai) - Up to 25 metrics free / Real-time Anomaly Detection / Reduced False Positives - From $249/month
+-   [Pervaziv AI](https://pervaziv.com) - Free Trial / AI-powered software security / Application scan & remediation - From $20 / USER / MONTH
+-   [AI-Detector](https://ai-detector.info) - 1200 words free / Detect AI percentage / 99% accuracy - From $9.99/month
+
+### Humanizer AI
+
+-   [StealthWriter](https://stealthwriter.ai) - 5000 words daily / Humanize AI Content / Bypass AI Detection - From $20/month
+-   [AI Humanize](https://www.aihumanize.io) - Free 2000 words / Turns AI text into human-like writing / Bypasses all AI detection - From $5/month (billed annually)
+-   [Humanize AI](https://www.humanizeai.io) - Free / Humanize AI text / Bypass AI Detectors / Undetectable AI content / No Login or Sign Up required - From $4/mo
+-   [Clever AI Humanizer](https://aihumanizer.net) - 120,000 Words per Month / Humanize AI Text / Bypass AI detectors
+-   [Decopy AI](https://decopy.ai) - AI detection / Humanization / Summarization / No Login required
+-   [Humbot](https://humbot.ai) - 600 words per month / Humanize AI text / Bypass AI detection - From $7.99/month
+-   [MyDetector AI](https://mydetector.ai) - Free and Unlimited / Accurate AI Detection / AI Humanizer / No Login Required
+-   [WriteHuman](https://writehuman.ai) - Free 3 requests per month / Humanize AI Text / Bypass AI Detectors - From $12/month (billed annually)
+-   [Rewritify](https://rewritify.ai) - 200 words for free / Humanize AI content / Bypass AI detectors - From $9/month
+-   [BypassGPT](https://www.bypassgpt.ai) - Free 150 Words/month / Undetectable AI Bypasser / Plagiarism-Free Rewrites - From $19/month
+-   [Surfer](https://surferseo.com) - SEO Content Optimization / AI-powered article generation / Content Strategy & Research - From $99/month
+-   [TwainGPT](https://www.twaingpt.com) - Humanize AI Text / Bypass AI Detectors - From $8/month
+-   [Humanize.im](https://humanize.im) - Humanize AI Text / Bypass AI Detection - From $7.9/month
+-   [Rephrasy](https://rephrasy.ai) - Free 3 credits / AI humanizer / built-in AI detector - From $14.99/month
+-   [Phrasly.AI](https://phrasly.ai) - 550 AI Humanization words & 3 Content Generation Credits / Bypass AI Detection / Humanize AI-generated content - From $12.99/month
+-   [Hastewire](https://hastewire.com) - 400 words per month / Humanize AI-generated content / Detect AI usage - From $4.99/month
+-   [Humanizer.org](https://humanizer.org) - 200 Words Free / Humanize AI text / Bypass All AI Detectors / No Sign Up required - From $9.99/month
+-   [AI Undetect](https://www.aiundetect.com) - 500 Free Rewrite Credits & 10 AI detector uses / Undetectable AI Rewriter / Integrated AI content detectors - From $5/mo
+-   [GPTinf](https://gptinf.com) - Free 3,000 words in total / Bypass AI detectors / Humanize AI content / Easy to use - From $12/month for 10,000 words
+-   [Ryne AI](https://ryne.ai) - Humanize 250 words / request / AI Text Humanizer / AI Detector Bypass - From $29.99/month
+-   [Uncheck AI](https://uncheck.ai) - 150 words/month / AI Humanizer / AI Detector - From $6.99/month
+-   [Tenorshare AI](https://ai.tenorshare.com) - AI Humanizer / AI PDF Summarizer / AI Writer
+-   [Humanize AI](https://humanizeai.com) - Bypass All AI Detectors / Make AI Text Sound More Human / Save Time - From $7/month
+-   [Humanizer Pro](https://humanizer.pro) - 200 words free / Humanize AI text to 100% human scores / Error-Free & Plagiarism-Free Content / No Login
+-   [SafeWrite AI](https://safewrite.ai) - Undetectable AI Humanizer / All-in-One AI Detector - From $9.99/month
+-   [AI-Text-Humanizer](https://ai-text-humanizer.com) - 400 words on sign up / Humanize AI Text / Bypass AI detectors / No Login or Sign Up required - From $11.99/month
+-   [Tenorshare AI Bypass](https://ai.tenorshare.com/products/ai-bypass) - Human-like & Undetectable Text / Bypasses AI Detectors / Supports 50+ Languages - From $9.99/month (10,000 words/month)
+-   [Humanize.io](https://humanize.io) - 200 words/month / Effective AI humanization / Bypass basic AI detectors - From $9.99/month
+-   [BypassGPT.co](https://bypassgpt.co) - Free online access / Humanize AI Text / Bypass GPTZero Detection - From $7.9/month for 48,000 words
+-   [AIHumanizer](https://aihumanizer.ai) - 500 Words/month / Humanize AI text / Bypass AI detection / No-Signup Required - From $9.99/month
+-   [HumanizerPro](https://humanizerpro.ai) - Rewrite AI text to 100% Human-Like Content / Bypass AI detectors / Enhance readability
+-   [Humanize AI Text](https://www.humanizeaitext.org) - Unlimited Words / Humanize AI Text / Bypass AI Detection / No Login or Signup Required
+-   [Twixify](https://www.twixify.com) - Free Trial Available / Humanize AI Text & Bypass AI Detection / Mimic Your Writing Style
+-   [Netus AI](https://netus.ai) - 50 Netus AI credits / Undetectable AI Paraphraser / Beat any AI detector / AI to Human converter - From $30/month
+-   [AiTextConverter.com](https://aitextconverter.com) - Free unlimited uses / Convert AI To Human Text / Bypass AI Detection / No Registration Required
+-   [Humanizer AI](https://humanizerai.com) - 5,000 words free / Humanize AI Text / Detect AI Writing / No Sign-Up required - From $6/month
+-   [BEXI.ai](https://bexi.ai) - Free / Humanize AI Text / Customize Language Style / No Login Required
+-   [AI Humanize](https://aihumanize.com) - 400 words free / Humanize AI content / Bypass AI detectors / No Signup - From $12.00/month (5,000 words)
+-   [Conch AI](https://getconch.ai) - 10 free credits daily / AI Writing That's Undetectable / Humanize AI-written text
+-   [CleverSpinner](https://cleverspinner.com) - Free 3 day trial / AI Article Rewriter, Spinner & Humanizer / Humanizes AI text to be undetectable - From $9.90/month
+-   [Bypass AI](https://bypassai.io) - Free 1500 words / Humanize AI Text / Bypass AI Detectors / Plagiarism Checker - From $4.14/month
+-   [Stealthly AI](https://stealthly.ai) - 300 words/month / Humanize AI text to get 100% human score / Bypass AI detectors - From $17/month
+-   [Humanize AI](https://humanizeai.tools) - Unlimited free use / Humanize AI Text / Bypass AI Detection / No Login or Sign Up required - From $9.99/Month
+-   [Humanizey](https://humanizey.ai) - 150 words free / Humanize AI Text / Bypass AI Detection - From $8/month
+-   [OneClickHuman](https://oneclickhuman.com) - Free for 7 Days, 10,500 Words / Humanize AI content / Bypass AI Detectors / Maintain Formatting & Flawless Grammar - From $10/month
+-   [AI Humanizer Tool](https://www.humanizertool.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2595)- 100% Free / Make AI text sound human.
+-   [GhostPen](https://www.getghostpen.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2801)- Free Trial + From $4.90/unit, 7-day money-back guarantee (if you have used less than 20% of the credits) / Undetectable AI writing. Credits never expire. The most affordable humanizer.
+-   [ReHumanize AI - JbContentLab](https://jbcontentlab.com/rehumanize-ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2622)- Freemium + From $9/month, No Refunds / Bypass AI detectors with humanized text.
+-   [SuperHumanizer](https://superhumanizer.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2928)- 100% Free / Make AI text sound 100% human instantly.
+
+### AI Bypasser
+
+-   [StealthWriter](https://stealthwriter.ai) - 5000 words daily / Humanize AI Content / Bypass AI Detection - From $20/month
+-   [AI Humanize](https://www.aihumanize.io) - Free 2000 words / Turns AI text into human-like writing / Bypasses all AI detection - From $5/month (billed annually)
+-   [Humanize AI](https://www.humanizeai.io) - Free / Humanize AI text / Bypass AI Detectors / Undetectable AI content / No Login or Sign Up required - From $4/mo
+-   [Humbot](https://humbot.ai) - 600 words per month / Humanize AI text / Bypass AI detection - From $7.99/month
+-   [Rewritify](https://rewritify.ai) - 200 words for free / Humanize AI content / Bypass AI detectors - From $9/month
+-   [BypassGPT](https://www.bypassgpt.ai) - Free 150 Words/month / Undetectable AI Bypasser / Plagiarism-Free Rewrites - From $19/month
+-   [CapSolver](https://capsolver.com) - Free trial / AI-powered automatic captcha solving / Solves reCAPTCHA, Cloudflare, and other types / Fastest captcha solving service - From $23/50k requests
+-   [Humanize.im](https://humanize.im) - Humanize AI Text / Bypass AI Detection - From $7.9/month
+-   [Rephrasy](https://rephrasy.ai) - Free 3 credits / AI humanizer / built-in AI detector - From $14.99/month
+-   [Bypass AI](https://www.bypassai.ai) - Free 100 words/month / Bypass AI Detection / Humanize AI Text / 100% Human Scores - From $6.99/month
+-   [Phrasly.AI](https://phrasly.ai) - 550 AI Humanization words & 3 Content Generation Credits / Bypass AI Detection / Humanize AI-generated content - From $12.99/month
+-   [Humanizer.org](https://humanizer.org) - 200 Words Free / Humanize AI text / Bypass All AI Detectors / No Sign Up required - From $9.99/month
+-   [AI Undetect](https://www.aiundetect.com) - 500 Free Rewrite Credits & 10 AI detector uses / Undetectable AI Rewriter / Integrated AI content detectors - From $5/mo
+-   [GPTinf](https://gptinf.com) - Free 3,000 words in total / Bypass AI detectors / Humanize AI content / Easy to use - From $12/month for 10,000 words
+-   [Ryne AI](https://ryne.ai) - Humanize 250 words / request / AI Text Humanizer / AI Detector Bypass - From $29.99/month
+-   [Humanize AI](https://humanizeai.com) - Bypass All AI Detectors / Make AI Text Sound More Human / Save Time - From $7/month
+-   [NopeCHA](https://www.nopecha.com) - Up to 100 recognitions every 24 hours / Automated CAPTCHA Recognition / AI-driven solutions - From $4.99/month
+-   [SafeWrite AI](https://safewrite.ai) - Undetectable AI Humanizer / All-in-One AI Detector - From $9.99/month
+-   [AI-Text-Humanizer](https://ai-text-humanizer.com) - 400 words on sign up / Humanize AI Text / Bypass AI detectors / No Login or Sign Up required - From $11.99/month
+-   [Tenorshare AI Bypass](https://ai.tenorshare.com/products/ai-bypass) - Human-like & Undetectable Text / Bypasses AI Detectors / Supports 50+ Languages - From $9.99/month (10,000 words/month)
+-   [uPass AI](https://upass.ai) - 300 words free / Bypass AI detection / Plagiarism-free outputs - From $9.99/month
+-   [BypassGPT.co](https://bypassgpt.co) - Free online access / Humanize AI Text / Bypass GPTZero Detection - From $7.9/month for 48,000 words
+-   [Lunchbreak AI](https://lunchbreak.ai) - Rewrite, Humanize, and Stay 100% Undetectable / Bypass Every AI Detector
+-   [Interview Solver](https://interviewsolver.com) - Solves all Leetcode style problems / Invisible to screensharing / Transcribe from audio - From $39/month
+-   [Semihuman.ai](https://www.semihuman.ai) - 250 words/month free / Humanize AI content / Bypass AI Detectors - From $6/month
+-   [Humanize AI Text](https://www.humanizeaitext.org) - Unlimited Words / Humanize AI Text / Bypass AI Detection / No Login or Signup Required
+-   [Twixify](https://www.twixify.com) - Free Trial Available / Humanize AI Text & Bypass AI Detection / Mimic Your Writing Style
+-   [Netus AI](https://netus.ai) - 50 Netus AI credits / Undetectable AI Paraphraser / Beat any AI detector / AI to Human converter - From $30/month
+-   [AiTextConverter.com](https://aitextconverter.com) - Free unlimited uses / Convert AI To Human Text / Bypass AI Detection / No Registration Required
+-   [noCaptcha Ai](https://nocaptchaai.com) - 200 captchas per day / AI-Powered Captcha Solver / Auto Bypass Service - From $0.12/1000
+-   [ACE ESSAY](https://aceessay.ai) - Free 1000 beans/month (300 words/request) / Humanize AI Text / Bypass AI Detection - From $12/month
+-   [Cramly](https://www.cramly.ai) - Generate 10-page essays with real citations / AI-powered writing assistance / From $4.00/month
+-   [SpeedAI](https://kuaipaper.com) - 500 points free trial / Lower AIGC Rate / Reduce Repetition Rate - From ¥19.99 for 10,000 characters
+-   [BEXI.ai](https://bexi.ai) - Free / Humanize AI Text / Customize Language Style / No Login Required
+-   [AI Humanize](https://aihumanize.com) - 400 words free / Humanize AI content / Bypass AI detectors / No Signup - From $12.00/month (5,000 words)
+-   [PassMe AI](https://passme.ai) - 400 words / month / Bypass AI Detectors / Eliminate all plagiarism - From $9.00/month
+-   [Conch AI](https://getconch.ai) - 10 free credits daily / AI Writing That's Undetectable / Humanize AI-written text
+-   [Ryter Pro](https://www.ryter.pro) - 1 humanization per day with up to 500 words / Humanize AI Text / Make It Undetectable - From $6/month (100 credits/month)
+-   [CleverSpinner](https://cleverspinner.com) - Free 3 day trial / AI Article Rewriter, Spinner & Humanizer / Humanizes AI text to be undetectable - From $9.90/month
+-   [Humanize AI Text & AI Humanizer Online](https://www.writehybrid.com) - 500 free words / Bypass Every AI Detector / Make AI Sound Human - From $19/month
+-   [Bypass AI](https://bypassai.io) - Free 1500 words / Humanize AI Text / Bypass AI Detectors / Plagiarism Checker - From $4.14/month
+-   [HideMyAI](https://hidemy.ai) - Free 300 words / Make AI Content Undetectable / Humanize AI Content - From $5/month (billed annually)
+-   [AI Disturbance Overlay](https://aidisturbance.online) - Free 10 credits / AI Perception Blind Spot Protection / Resistance to Screenshot and Image Processing Attacks - From $9.9/month
+-   [Humanize AI](https://humanizeai.tools) - Unlimited free use / Humanize AI Text / Bypass AI Detection / No Login or Sign Up required - From $9.99/Month
+-   [SadCaptcha](https://www.sadcaptcha.com) - 25 API credits / Automatically Crack Any TikTok Captcha / Easy Integration - From $0.0020/solution for 10000 solutions
+-   [HumanizeText.ai](https://humanizetext.ai) - Bypass AI detection / 100% human content - From $9.99/month (10,000 words)
+-   [Humanizey](https://humanizey.ai) - 150 words free / Humanize AI Text / Bypass AI Detection - From $8/month
+-   [AIBypasser.pro](https://aibypasser.pro) - Rewrite AI text to humanize it / Bypass all AI detectors - From $4/month
+-   [OneClickHuman](https://oneclickhuman.com) - Free for 7 Days, 10,500 Words / Humanize AI content / Bypass AI Detectors / Maintain Formatting & Flawless Grammar - From $10/month
+
+### AI Plagiarism Checker
+
+-   [GPTZero](https://gptzero.me) - 5 free Advanced AI scans / AI Detection / Plagiarism Check - From $8.33/month for 150,000 words
+-   [ZeroGPT](https://www.zerogpt.com) - Free 15,000 characters AI detection / AI text detection / Plagiarism checking / AI Chatbot - From $7.99/month
+-   [Originality.ai](https://originality.ai) - Accurate AI Detection / Plagiarism Checking / Fact Checking Aid - From $12.95/month
+-   [Rephrasely](https://rephrasely.com) - 10000 characters free / Paraphrasing / AI writing / Plagiarism checks - From $4.99/month
+-   [RewriteGuru](https://rewriteguru.com) - 800 word limit free / AI rewriting / 100% unique content / No registration required - From $9.99/month
+-   [Paraphrase Tool](https://paraphrasetool.com) - 10000 characters free / Paraphrasing / Paragraph Generation / Plagiarism Checks - From $4.99/month
+-   [Surfer](https://surferseo.com) - SEO Content Optimization / AI-powered article generation / Content Strategy & Research - From $99/month
+-   [PlagiarismCheck.org](https://plagiarismcheck.org) - Accurate Plagiarism Detection / AI Content Detection - From $5.99/month
+-   [Katteb AI](https://katteb.com/en) - Fact Checked AI Writer / AI Image Generation / Built-in Plagiarism Checker - From $29/month
+-   [Quetext](https://quetext.com) - Free 500 words plagiarism check, 250 words AI detection / Plagiarism Checker / AI Detector / AI-powered Paraphrasing - From $8.80/month for 100,000 words
+-   [EasyEssay](https://easyessay.ai) - Free trial / AI Essay Writing Assistant / Paraphrasing Tool / Plagiarism Check
+-   [Rephrasy](https://rephrasy.ai) - Free 3 credits / AI humanizer / built-in AI detector - From $14.99/month
+-   [Plag](https://plag.lv) - Free 3 AI text checks per day / Plagiarism checking / AI detection - From €9.95/month
+-   [CopyFind AI](https://copyfind.ai) - Free upto 300 words / Plagiarism detection / AI Content Detection
+-   [Advacheck](https://advacheck.com) - 14-day FREE trial / Text and image plagiarism detection / AI content detection / Cross-lingual text analysis
+-   [PlagiarismSearch.com](https://plagiarismsearch.com) - Free 300 words daily / Plagiarism check / AI detection - From $22.95/month
+-   [AIPlagiarismChecker](https://aiplagiarismchecker.io) - Free up to 200,000 words / AI Powered Semantic Analysis / Multi-Format Support - Free
+-   [ZeroGPT](https://zerogpt.tools) - Free / ChatGPT Detector & AI Content Checker / Detects Any AI Model / No Sign-Up
+-   [PaperTyper](https://papertyper.net) - Free unlimited access / AI Essay Writer / Grammar Checker / Plagiarism Checker
+-   [CitationGenerator.AI](https://citationgenerator.ai/es) - Free / Automatic citation generation / Multiple citation styles / Instant citations with Autocite
+-   [NoPlagio](https://noplagio.it) - Free 3 AI text checks per day / Plagiarism check / AI detection - From €9.95/month
+-   [Desklib](https://desklib.com) - Free 20 AI Answer questions, 12 Plagiarism Checker scans / AI-Powered Study Tools / Study Documents / Plagiarism Checker - From $4.50/month
+-   [Tootler.ai](https://tootler.ai) - AI-driven SOPs & LORs / Plagiarism Checker / In-built Editor - From $14.99/Month (Upto 3 SOPs)
+-   [Tinq.ai](https://tinq.ai) - 50 credits free / Text Generation / Rewriter/Paraphraser / Summarizer - From $9 USD/month
+-   [Multilings](https://multilings.com) - Free 50,000 tokens / Language Translation / AI Content Writing / Plagiarism Checking - From $14.99/month
+-   [XYWriter](https://studyxy.com/xywriter) - Free / AI Writing Assistant / Citation Management / Plagiarism Checker
+-   [PaperRed](https://paperred.com) - Unlimited Free Plagiarism Check / AI Rewriting / AI Writing
+-   [GenAIos](https://chromewebstore.google.com/detail/genaios/mojmfndakphphinkoipadfghpahoppfe) - / AI Content detector / Readability score / Plagiarism detector
+-   [ContentDetector.AI](https://chromewebstore.google.com/detail/ai-content-detector/oijepnjgfeoldfanaobmnkiigpfcgodo) - Free / AI content detection / ChatGPT plagiarism detection
+-   [Copyleaks AI Content Detector](https://chromewebstore.google.com/detail/ai-content-detector-copyl/gplcmncpklkdjiccbknjjkoidpgkcakd) - Unprecedented 99.1% accuracy / Detect paraphrased or interspersed AI text
+-   [Prepostseo](https://www.prepostseo.com) - Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants - From $7/month
+-   [Trinka AI](https://www.trinka.ai) - 5000 words & 4 credits/month / Grammar Correction / Language Enhancement / AI Writing Assistant - From $6.67/month
+-   [Parafrasear Textos](https://www.parafraseartextos.net) - Free 1000 words / Online Paraphrasing / Text Humanization / No Registration Required - From €3/weekly
+-   [Paraphrasing.io](https://paraphrasing.io) - Free 1000 words per request / Rephrase essays, emails & paragraphs / Remove plagiarism & improve readability - From $7/month
+-   [Cramly](https://www.cramly.ai) - Generate 10-page essays with real citations / AI-powered writing assistance / From $4.00/month
+-   [ZeroTrusted.ai](https://www.zerotrusted.ai) - FREE 15 Day Trial / Robust LLM Firewall solutions / Data & Identity Protection / Prompt Anonymity - From $9.99/month/user
+-   [Plagiarism Remover](https://www.plagiarismremover.net) - 1000 words per submission free / AI-Based Plagiarism Removal / Plagiarism Checker / No Login required - From $20/month
+-   [QuizBot.ai](https://quizbot.ai) - 50 questions free / AI Question Generator / Generates questions from various sources (PDFs, videos, images, links) - From $9.5/month
+-   [AHelp](https://ahelp.com) - Free 3 credits / day / Check plagiarism / Improve grammar / Generate ideas - From $4.17/month
+-   [NEURONwriter](https://www.neuronwriter.com) - 7-day free trial / Content optimization for Google / Advanced content editor with NLP & SERP analysis / Generative AI - From $23/month
+-   [TextAdviser](https://textadviser.com) - AI-Powered Writing Assistance / Grammar and punctuation checker / Plagiarism Checker - From $12.75/month for 1M characters
+-   [Essay Grader AI](https://essaygrader.ai) - 25 essays/mo free / Rubric-based AI essay grader / Detailed feedback reports - From $6.99/mo
+-   [CoWriter AI](https://cowriter.ai) - 20 Completion Suggestions per Day / Smart Autocompletion / Versatile Citation Support / AI Detection Proof - From $11.99/month
+-   [Pressmaster.ai](https://www.pressmaster.ai) - 7-day free trial / Authentic content in your voice / One-click publishing - From US$16/month per user
+
+### Undetectable AI
+
+-   [Humanize AI](https://www.humanizeai.io) - Free / Humanize AI text / Bypass AI Detectors / Undetectable AI content / No Login or Sign Up required - From $4/mo
+-   [WriteHuman](https://writehuman.ai) - Free 3 requests per month / Humanize AI Text / Bypass AI Detectors - From $12/month (billed annually)
+-   [Rewritify](https://rewritify.ai) - 200 words for free / Humanize AI content / Bypass AI detectors - From $9/month
+-   [Humanize.im](https://humanize.im) - Humanize AI Text / Bypass AI Detection - From $7.9/month
+-   [Bypass AI](https://www.bypassai.ai) - Free 100 words/month / Bypass AI Detection / Humanize AI Text / 100% Human Scores - From $6.99/month
+-   [Phrasly.AI](https://phrasly.ai) - 550 AI Humanization words & 3 Content Generation Credits / Bypass AI Detection / Humanize AI-generated content - From $12.99/month
+-   [Hastewire](https://hastewire.com) - 400 words per month / Humanize AI-generated content / Detect AI usage - From $4.99/month
+-   [Humanizer.org](https://humanizer.org) - 200 Words Free / Humanize AI text / Bypass All AI Detectors / No Sign Up required - From $9.99/month
+-   [AI Undetect](https://www.aiundetect.com) - 500 Free Rewrite Credits & 10 AI detector uses / Undetectable AI Rewriter / Integrated AI content detectors - From $5/mo
+-   [GPTinf](https://gptinf.com) - Free 3,000 words in total / Bypass AI detectors / Humanize AI content / Easy to use - From $12/month for 10,000 words
+-   [Ryne AI](https://ryne.ai) - Humanize 250 words / request / AI Text Humanizer / AI Detector Bypass - From $29.99/month
+-   [EduWriter AI](https://eduwriter.ai) - 1 page Al Writer/day / Plagiarism-free, undetectable essays / Real references / No sign-up - From $11/month
+-   [Humanize AI](https://humanizeai.com) - Bypass All AI Detectors / Make AI Text Sound More Human / Save Time - From $7/month
+-   [Samwell.ai](https://samwell.ai) - / AI Essay Writer with Academic Citations / Undetectable & Plagiarism-Free Content /
+-   [uPass AI](https://upass.ai) - 300 words free / Bypass AI detection / Plagiarism-free outputs - From $9.99/month
+-   [BypassGPT.co](https://bypassgpt.co) - Free online access / Humanize AI Text / Bypass GPTZero Detection - From $7.9/month for 48,000 words
+-   [Lunchbreak AI](https://lunchbreak.ai) - Rewrite, Humanize, and Stay 100% Undetectable / Bypass Every AI Detector
+-   [Semihuman.ai](https://www.semihuman.ai) - 250 words/month free / Humanize AI content / Bypass AI Detectors - From $6/month
+-   [HumanizerPro](https://humanizerpro.ai) - Rewrite AI text to 100% Human-Like Content / Bypass AI detectors / Enhance readability
+-   [Humanize AI Text](https://www.humanizeaitext.org) - Unlimited Words / Humanize AI Text / Bypass AI Detection / No Login or Signup Required
+-   [Twixify](https://www.twixify.com) - Free Trial Available / Humanize AI Text & Bypass AI Detection / Mimic Your Writing Style
+-   [Leetcode Wizard](https://leetcodewizard.io) - Instantly providing answers to all Leetcode problems / Invisible desktop app with undetectable hotkeys - From €49/month
+-   [Netus AI](https://netus.ai) - 50 Netus AI credits / Undetectable AI Paraphraser / Beat any AI detector / AI to Human converter - From $30/month
+-   [EssayFlow](https://www.essayflow.ai) - / Undetectable AI Essay Writer / Human-like, Plagiarism-Free Essays / Bypass AI Detectors - From $17.98/month
+-   [Humanizer AI](https://humanizerai.com) - 5,000 words free / Humanize AI Text / Detect AI Writing / No Sign-Up required - From $6/month
+-   [UndetectableGPT.ai](https://undetectablegpt.ai) - / Transform AI-generated content into human-like text / Bypass AI checkers like GPTZero and ZeroGPT / -
+-   [BEXI.ai](https://bexi.ai) - Free / Humanize AI Text / Customize Language Style / No Login Required
+-   [AI Humanize](https://aihumanize.com) - 400 words free / Humanize AI content / Bypass AI detectors / No Signup - From $12.00/month (5,000 words)
+-   [Humanizador.net](https://humanizador.net) - 500 words free / Humanize AI text / AI Detector - From $3.97/month
+-   [PassMe AI](https://passme.ai) - 400 words / month / Bypass AI Detectors / Eliminate all plagiarism - From $9.00/month
+-   [BrandWell (formerly Content at Scale)](https://contentatscale.ai) - 7-day free trial / Long-form SEO content / Undetectable AI writing - From $249/mo for 25 articles
+-   [Conch AI](https://getconch.ai) - 10 free credits daily / AI Writing That's Undetectable / Humanize AI-written text
+-   [Ryter Pro](https://www.ryter.pro) - 1 humanization per day with up to 500 words / Humanize AI Text / Make It Undetectable - From $6/month (100 credits/month)
+-   [Undetectio](https://www.undetectio.com) - 1,000 words/month free / Transform AI-created text to human-like content / Bypass AI content detection systems - From €10/25,000 words per month
+-   [Bypass AI](https://bypassai.io) - Free 1500 words / Humanize AI Text / Bypass AI Detectors / Plagiarism Checker - From $4.14/month
+-   [HideMyAI](https://hidemy.ai) - Free 300 words / Make AI Content Undetectable / Humanize AI Content - From $5/month (billed annually)
+-   [Essay AI](https://www.essayai.ai) - Free plan available / Undetectable AI Essay Writing / Plagiarism-Free Generation - From $17.98/month
+-   [Humanize AI](https://humanizeai.tools) - Unlimited free use / Humanize AI Text / Bypass AI Detection / No Login or Sign Up required - From $9.99/Month
+-   [CoWriter AI](https://cowriter.ai) - 20 Completion Suggestions per Day / Smart Autocompletion / Versatile Citation Support / AI Detection Proof - From $11.99/month
+-   [Humanizey](https://humanizey.ai) - 150 words free / Humanize AI Text / Bypass AI Detection - From $8/month
+-   [Wittro](https://wittro.com) - 100 assists per month free / Undetectable AI assistant for interviews & meetings / Access to 100+ popular AI models - From $4.99/month
+-   [Humanizar Texto](https://humanizartexto.cc) - Bypass AI detectors / Guarantee original, unique content / Transform AI text to human-like content
+-   [OneClickHuman](https://oneclickhuman.com) - Free for 7 Days, 10,500 Words / Humanize AI content / Bypass AI Detectors / Maintain Formatting & Flawless Grammar - From $10/month
+
+### Bypass AI
+
+-   [AI Humanize](https://www.aihumanize.io) - Free 2000 words / Turns AI text into human-like writing / Bypasses all AI detection - From $5/month (billed annually)
+-   [Undetectable AI](https://undetectable.ai) - Free AI Detector / Detects AI content from multiple checkers / Humanizes AI text to be undetectable
+-   [MyDetector AI](https://mydetector.ai) - Free and Unlimited / Accurate AI Detection / AI Humanizer / No Login Required
+-   [Winston AI](https://gowinston.ai) - 2,000 credits / 14 day trial / AI Content Detection / Plagiarism Checker - From $12/month
+-   [WriteHuman](https://writehuman.ai) - Free 3 requests per month / Humanize AI Text / Bypass AI Detectors - From $12/month (billed annually)
+-   [Rewritify](https://rewritify.ai) - 200 words for free / Humanize AI content / Bypass AI detectors - From $9/month
+-   [Surfer](https://surferseo.com) - SEO Content Optimization / AI-powered article generation / Content Strategy & Research - From $99/month
+-   [Browserless](https://www.browserless.io) - 1k units free / Bypass bot detection / Browser Automation / Automatic captcha solving - From $35/month
+-   [TwainGPT](https://www.twaingpt.com) - Humanize AI Text / Bypass AI Detectors - From $8/month
+-   [WordAi](https://wordai.com) - 3-day free trial / High-quality rewriting / Avoid AI Detection - From $9/month (billed annually)
+-   [Bypass AI](https://www.bypassai.ai) - Free 100 words/month / Bypass AI Detection / Humanize AI Text / 100% Human Scores - From $6.99/month
+-   [Phrasly.AI](https://phrasly.ai) - 550 AI Humanization words & 3 Content Generation Credits / Bypass AI Detection / Humanize AI-generated content - From $12.99/month
+-   [AI Undetect](https://www.aiundetect.com) - 500 Free Rewrite Credits & 10 AI detector uses / Undetectable AI Rewriter / Integrated AI content detectors - From $5/mo
+-   [GPTinf](https://gptinf.com) - Free 3,000 words in total / Bypass AI detectors / Humanize AI content / Easy to use - From $12/month for 10,000 words
+-   [Ryne AI](https://ryne.ai) - Humanize 250 words / request / AI Text Humanizer / AI Detector Bypass - From $29.99/month
+-   [Tenorshare AI](https://ai.tenorshare.com) - AI Humanizer / AI PDF Summarizer / AI Writer
+-   [EduWriter AI](https://eduwriter.ai) - 1 page Al Writer/day / Plagiarism-free, undetectable essays / Real references / No sign-up - From $11/month
+-   [Humanize AI](https://humanizeai.com) - Bypass All AI Detectors / Make AI Text Sound More Human / Save Time - From $7/month
+-   [NopeCHA](https://www.nopecha.com) - Up to 100 recognitions every 24 hours / Automated CAPTCHA Recognition / AI-driven solutions - From $4.99/month
+-   [AI-Humanizer.com](https://ai-humanizer.com) - Get 100% Human score / Bypass AI Detectors - From $4.12/month for 35,000 words/month
+-   [AI-Text-Humanizer](https://ai-text-humanizer.com) - 400 words on sign up / Humanize AI Text / Bypass AI detectors / No Login or Sign Up required - From $11.99/month
+-   [Undetectable.wtf](https://www.undetectable.wtf) - 2 Free Essays, 3 Days Free Access / Bypass AI Detection Seamlessly / Humanize AI text - From $12.99/month
+-   [AIBypasser](https://aibypasser.com) - Free 3-day trial / Humanize AI Text / Bypass AI Detection - From $9.80/month
+-   [Tenorshare AI Bypass](https://ai.tenorshare.com/products/ai-bypass) - Human-like & Undetectable Text / Bypasses AI Detectors / Supports 50+ Languages - From $9.99/month (10,000 words/month)
+-   [Humanize AI Text](https://humanizetxt.ai) - Free trial / Humanize AI Text / Pass all AI detectors
+-   [Avoid.so](https://www.avoid.so) - 600 words free / Avoid AI Detection / Humanize AI Content - From $4.99/month
+-   [Lunchbreak AI](https://lunchbreak.ai) - Rewrite, Humanize, and Stay 100% Undetectable / Bypass Every AI Detector
+-   [AI Humanizer Pro](https://ai-humanizer.pro) - 400 words free / Transforms AI text to human content / Bypasses AI detection - From $12.00/month for 20000 words
+-   [AIHumanizer](https://aihumanizer.ai) - 500 Words/month / Humanize AI text / Bypass AI detection / No-Signup Required - From $9.99/month
+-   [HumanizerPro](https://humanizerpro.ai) - Rewrite AI text to 100% Human-Like Content / Bypass AI detectors / Enhance readability
+-   [Humanize AI](https://humanorai.io) - Free / Bypass All AI Detectors / Make AI Text Sound More Human
+-   [Humanize AI Text](https://www.humanizeaitext.org) - Unlimited Words / Humanize AI Text / Bypass AI Detection / No Login or Signup Required
+-   [AiTextConverter.com](https://aitextconverter.com) - Free unlimited uses / Convert AI To Human Text / Bypass AI Detection / No Registration Required
+-   [Humanizer AI](https://humanizerai.com) - 5,000 words free / Humanize AI Text / Detect AI Writing / No Sign-Up required - From $6/month
+-   [SpeedAI](https://kuaipaper.com) - 500 points free trial / Lower AIGC Rate / Reduce Repetition Rate - From ¥19.99 for 10,000 characters
+-   [BEXI.ai](https://bexi.ai) - Free / Humanize AI Text / Customize Language Style / No Login Required
+-   [Humanizador.net](https://humanizador.net) - 500 words free / Humanize AI text / AI Detector - From $3.97/month
+-   [PassMe AI](https://passme.ai) - 400 words / month / Bypass AI Detectors / Eliminate all plagiarism - From $9.00/month
+-   [BrandWell (formerly Content at Scale)](https://contentatscale.ai) - 7-day free trial / Long-form SEO content / Undetectable AI writing - From $249/mo for 25 articles
+-   [Humanize AI Text & AI Humanizer Online](https://www.writehybrid.com) - 500 free words / Bypass Every AI Detector / Make AI Sound Human - From $19/month
+-   [Humantext.pro](https://humantext.pro) - 500 words free / Convert AI Text to Human / Bypass AI Detection / No Login Required
+-   [Bypass AI](https://bypassai.io) - Free 1500 words / Humanize AI Text / Bypass AI Detectors / Plagiarism Checker - From $4.14/month
+-   [Speedwrite](https://speedwrite.com) - Unique, plagiarism-free writing / Insanely fast generation - From $3.33/month
+-   [AI Text Formatter](https://chatgpttextformatter.com) - Free / Unlimited usage / Convert and format AI-generated text / Enhance readability and usability / Produce human-like content / No Login or Sign Up required
+-   [Humanize AI](https://humanizeai.tools) - Unlimited free use / Humanize AI Text / Bypass AI Detection / No Login or Sign Up required - From $9.99/Month
+-   [Humanizey](https://humanizey.ai) - 150 words free / Humanize AI Text / Bypass AI Detection - From $8/month
+-   [Paraphrasing-tool.ai](https://paraphrasing-tool.ai) - 3 free tries / AI Paraphrasing Tool / Humanizer / Remove Plagiarism - From $9.95/month
+-   [SafeNew AI](https://safenew.ai) - Free trial with credits / Transforms AI content into natural, human-like text / Personalized private AI model - From $9.99/month for 5,000 words
+
+### AI Checker
+
+-   [GPTZero](https://gptzero.me) - 5 free Advanced AI scans / AI Detection / Plagiarism Check - From $8.33/month for 150,000 words
+-   [ZeroGPT](https://www.zerogpt.com) - Free 15,000 characters AI detection / AI text detection / Plagiarism checking / AI Chatbot - From $7.99/month
+-   [Pronounce AI](https://www.getpronounce.com) - Free plan / AI Speech Checker / AI Speaking Partners / AI Meeting Transcription - From $19.99/m
+-   [Diib](https://diib.com) - Free 1 RankGuard® scan / SEO Tool + Traffic & SEO Checker / Custom Growth Plan - From $14.99/month
+-   [Undetectable AI](https://undetectable.ai) - Free AI Detector / Detects AI content from multiple checkers / Humanizes AI text to be undetectable
+-   [MyDetector AI](https://mydetector.ai) - Free and Unlimited / Accurate AI Detection / AI Humanizer / No Login Required
+-   [Winston AI](https://gowinston.ai) - 2,000 credits / 14 day trial / AI Content Detection / Plagiarism Checker - From $12/month
+-   [RewriterPro](https://rewriterpro.ai) - 5 rewrites left for the day / Enhances flow and human-like content / Removes plagiarism
+-   [AI Detector Writer](https://aidetectorwriter.com) - Free / High precision model / Support for all languages
+-   [Katteb](https://katteb.com) - Fact-checked content with in-text citations / AI Chat with Internet Access / AI Image Generation - From $29/month
+-   [Katteb AI](https://katteb.com/en) - Fact Checked AI Writer / AI Image Generation / Built-in Plagiarism Checker - From $29/month
+-   [CiteTrue](https://citetrue.com) - Free / Verify Citations for Accuracy / Flag Fake or AI-Generated Citations / - Free
+-   [Ref Hub](https://www.refhub.com.au) - 3 FREE Credits / AI Powered Reference Checks / Fraud Detection - From $12 per check
+-   [AI or Not](https://www.aiornot.com) - 10 AI or Not Image checks monthly free / AI detection for images & audio / Fraud prevention - From $5/month
+-   [Cosmetic Batch Code Checker](https://cosr.ai) - Free / Cosmetic Batch Code Checker / Expiry Date Calculator / Ensure Product Freshness / No Registration Required
+-   [ThumbnailChecker](https://thumbnailchecker.com/en) - Free / Optimize YouTube Thumbnails & Titles / A/B Testing & Competitor Comparison
+-   [Detecting-AI](https://detecting-ai.com) - Free plan with 5,000 character limit & 100 detections/day / AI Detection / Plagiarism Checker / AI Humanizer / No Sign-Up Needed - From $7/month
+-   [EmailVerify](https://emailverify.ai) - 100+ free credits daily / 99.9% Accuracy / Real-time API / Bulk Email Verification - From $5/1,000 credits
+-   [AI Undetect](https://www.aiundetect.com) - 500 Free Rewrite Credits & 10 AI detector uses / Undetectable AI Rewriter / Integrated AI content detectors - From $5/mo
+-   [Verisquad](https://verisquad.com) - 10,000 Free Tokens / AI-powered multi-agent system / Comprehensive fact-checking / Claim optimization
+-   [ZeroGPT & StealthWriter](https://zerogpt.cc) - Accurate AI content detection / Supports multiple AI models / No Login required
+-   [ZeroGPT](https://zerogpt.tools) - Free / ChatGPT Detector & AI Content Checker / Detects Any AI Model / No Sign-Up
+-   [DocSpy](https://apps.apple.com/app/id6738056515) - AI-powered document analysis / Highlight key details - From $19.99/month
+-   [Leap AI](https://www.tryleap.ai/tools/ai-content-detector) - Free / Detect AI-generated content / Accurate AI content identification - From $99/month
+-   [aiCode.fail](https://aicode.fail) - Free 14-day Trial / Hallucination Detection / Security Check - From $9/mo
+-   [X Detector](https://www.xdetector.ai) - Free / AI Content Detector & Chatgpt Detector / Supports 20+ languages / No registration required
+-   [AI Community Notes](https://chromewebstore.google.com/detail/veritweets-fact-check-twe/dceeoediacfkkkkcpahbomjilgjingpn) - 5 tweets per day / AI-powered instant tweet fact-checking / Quick, reliable fact-check summary
+-   [Reddit Claim Validator](https://chromewebstore.google.com/detail/claimvalidator/clkakakhimoekhkimloikphebkmoinfe) - Free / Claim verification / Source substantiation
+-   [AI Checker](https://ai-checker.info) - Free up to 1000 characters / Detect AI-generated content / Identify and correct grammar, spelling, and punctuation errors
+-   [LinkedIn Profile Analyzer](https://li.hooktide.io) - Free / AI-powered LinkedIn profile insights / Actionable feedback / Headline rewrites
+-   [Pavis](https://pavis.app) - 2:00 remaining (Free trial) / Real-time call analysis / Detect manipulation / Fact-check claims
+-   [VULNWatch](https://vulnwatch.pro) - / AI-powered cybersecurity assessment / Detect vulnerabilities / Automated in-depth assessments / -
+-   [Critique AI Browser Companion](https://chromewebstore.google.com/detail/critique-realtime-autonom/dilehbkmjigbpdjlpaglemebmheoilnm) - Free Public Beta / Real-Time Fact-Checking / Autonomous Insights
+-   [CareSquad AI](https://chromewebstore.google.com/detail/caresquad-ai-free-scam-de/jppofikkghkpohnmipjpchemefaaadbe) - Instant Scam Detection / AI-Powered Analysis - From $3.99/month
+-   [Deal Protectors](https://www.dealprotectors.com) - Free / Transparent car deal evaluations / AI-powered deal comparison
+-   [Winston AI](https://chromewebstore.google.com/detail/ai-detector-for-chatgpt-m/cdbldfdikpkmfcnpidikieafacjkchbg) - Industry leading accuracy in detecting AI content / Detects AI writing from all known AI writing tools including ChatGPT / Scan content directly on the web page
+-   [Adversea](https://adversea.com) - One free report / Comprehensive background checks / Detailed risk analysis - From €9.99/report
+-   [Scite](https://scite.ai) - 7-day free trial / Discover and understand research articles / See supporting or contrasting evidence
+-   [GVA NDA Check](https://ai-con.lawyer) - Free & Unlimited NDA Checks / AI-powered risk visualization & revision suggestions / Clause review support with proposed revisions
+-   [AI-Detector](https://ai-detector.info) - 1200 words free / Detect AI percentage / 99% accuracy - From $9.99/month
+
+### AI Checker Essay
+
+-   [ZeroGPT](https://www.zerogpt.com) - Free 15,000 characters AI detection / AI text detection / Plagiarism checking / AI Chatbot - From $7.99/month
+-   [CoGrader](https://cograder.com) - 100 student submissions per month / AI Essay Grader / Save 80% of time grading - From $15/month (billed annually)
+-   [MarkMe](https://markme.ai) - One answer marked for free per week / Instant, accurate marking / Tailored feedback & mark breakdown
+-   [Essay Grader AI](https://essay-grader.ai) - 10 essays per month free / Grade essays using AI / Specific feedback / Magic AI tools / No credit card required - From $7.99/mo
+-   [IELTS Writing AI](https://ieltswriting.ai) - Unlimited Free IELTS Writing Practice / Instant Band-Accurate AI Essay Check / Personalized Step-by-Step Improvement - From $13.9/month
+-   [EasyMark.ai](https://www.easymark.ai) - 15 essays per month / Fast AI-powered Essay Grading / Personalized Feedback - From $9.99/month
+-   [EssayChecker.io](https://essaychecker.io) - Instant, accurate feedback / Customizable rubrics
+-   [UpScore.ai](https://upscore.ai) - 2 IELTS Essay Checks / Instant AI-powered feedback / Personalized improvement suggestions / No Registration - From $18 for 60 IELTS Essay Checks
+-   [Eduzen](https://eduzen.ai) - Free 3 uses per feature monthly / Flashcards / Quizzes / Mind Maps / No Sign-Up - From $7.00/month
+-   [TimelyGrader](https://www.timelygrader.ai) - Accurate AI Grader with Human-in-the-Loop / Scalable AI Feedback - From $12/month
+-   [Examly](https://examly.ai) - Free mock exams, first essay review & vocabulary builder / Mock & Practice Exams / AI Essay Reviewer / Vocabulary Building App
+-   [Advacheck](https://advacheck.com) - 14-day FREE trial / Text and image plagiarism detection / AI content detection / Cross-lingual text analysis
+-   [Study Fetch](https://studyfetch.com) - AI Flashcards / AI Quizzes / AI Tutor
+-   [TextGears](https://textgears.com) - 500 text checking requests/month / Grammar and spelling check / Readability analysis / No Sign-Up required - From $23.96/month
+-   [Essayly.ai](https://www.essayly.ai) - Free 3 pieces/month / Topic Analysis / Essay Evaluation - From $2.25/month
+-   [AI Detector - Text Validator](https://apps.apple.com/us/app/ai-detector-text-validator/id6447053881) - 10 free credits / Detect AI-generated content with over 99% accuracy / Scan text, documents, PDFs, or websites - From $2.99/month
+-   [AICheatCheck](https://www.aicheatcheck.com) - Detect AI in student writing / 99.7% accurate AI detection
+-   [SpeedAI](https://kuaipaper.com) - 500 points free trial / Lower AIGC Rate / Reduce Repetition Rate - From ¥19.99 for 10,000 characters
+-   [Humantext.pro](https://humantext.pro) - 500 words free / Convert AI Text to Human / Bypass AI Detection / No Login Required
+-   [Essay AI](https://www.essayai.ai) - Free plan available / Undetectable AI Essay Writing / Plagiarism-Free Generation - From $17.98/month
+-   [Essay Grader AI](https://essaygrader.ai) - 25 essays/mo free / Rubric-based AI essay grader / Detailed feedback reports - From $6.99/mo
+
+### AI Image Detector
+
+-   [AI Image Detector](https://www.aiimagedetector.com) - 100% Free / Detect AI-Generated Images Instantly / Highly Accurate / No Registration Required
+-   [T-Rex Label](https://trexlabel.com) - / Automatic labeling of similar objects with visual prompts / No installation or fine-tuning required / -
+-   [wedetect.ai](https://wedetect.ai) - Detect AI-generated images / Verify image authenticity
+-   [Storage AI Cleaner・Duplicatus](https://apps.apple.com/ua/app/duplicatus-storage-cleaner/id1510636798) - Free / Delete duplicate photos / Free up to 40% of space - From $6.99/month
+-   [ScentSnap - AI Perfume Scanner](https://apps.apple.com/us/app/scentsnap/id6737468636) - 3 days free trial / Identifies over 10,000+ fragrances with AI / Identify perfume by photo - From $3.99
+-   [Winston AI](https://gowinston.ai) - 2,000 credits / 14 day trial / AI Content Detection / Plagiarism Checker - From $12/month
+-   [Logo Identifier](https://apps.apple.com/us/app/logo-identifier-ai-scan/id6504678776) - Free / Instant Logo Recognition / Comprehensive Brand Information - From $2.99/week
+-   [PlantIdentify - Plant Detector](https://apps.apple.com/us/app/plantidentify-plant-detector/id6504149002) - Free / Instant Plant Identification / Multi-Language Support
+-   [Coin Identifier Coin Snap](https://apps.apple.com/US/app/id1664318416) - Free / AI-driven coin identification / Detailed numismatic specifications & pricing - From $3.99/week
+-   [PixPretty](https://pixpretty.tenorshare.ai) - Free background removal (no registration), 5 daily credits / AI Background Removal / Batch Photo Editing - From 12.99€/month
+-   [AI or Not](https://www.aiornot.com) - 10 AI or Not Image checks monthly free / AI detection for images & audio / Fraud prevention - From $5/month
+-   [Advacheck](https://advacheck.com) - 14-day FREE trial / Text and image plagiarism detection / AI content detection / Cross-lingual text analysis
+-   [Imagga](https://imagga.com) - 100 API requests / Image Tagging & Categorization / Visual Search - From $79/mo
+-   [Breed.dog](https://breed.dog) - Free / Identify dog breeds by photo / Checks over 360+ breeds
+-   [ContentMod](https://contentmod.io) - Text and Image Moderation / Multi-lingual Support / Instant Harmful Content Detection - From $20/month for 2,000 tokens
+-   [Video Watermark Remover​](https://watermarkremover.aiai.com) - 20 Credits upon registration / AI-Powered Watermark Removal / Original Quality Preservation / - From $5.00 (100 Credits)
+-   [Facia.ai](https://facia.ai) - Free demo / Liveness Detection / Deepfake Detection / Facial Recognition
+-   [Family Face Finder](https://chromewebstore.google.com/detail/family-photo-finder/fikdbpibhbgbedmnmlcfckckpohadebi) - Instantly find and highlight family members in photos on any webpage
+-   [Checkstep](https://checkstep.com) - Free trial on your dataset / Instantly remove harmful content / Reduce moderation costs by up to 90%
+-   [Hive AI Detector](https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi) - Free / Detect AI-generated images, videos, text, and audio / Predict generative engine / No login necessary
+-   [StendhalGPT](https://stendhalgpt.fr) - Free / AI-generated text detection / AI-generated image detection / Source verification
+-   [Fotify](https://fotify.app) - Free 50 photos, 20 digital invites / Real-time photo sharing / RSVP Management / No App Download Required - From $19/event
+-   [Mushroom Identifier - ShroomID](https://apps.apple.com/app/id6670497277) - 3-day free trial / Instant Mushroom Identification / Save Identification History - From $4.99/month
+-   [Rock Identifier: RockIdentify](https://apps.apple.com/us/app/rock-identifier-rockidentify/id6599858258) - Instant Rock Identification / Save Identification History
+-   [CopyrightShark](https://copyrightshark.com) - Free Leak Scan / DMCA Takedowns / Content Protection for OnlyFans & more / No Credit Card Required - From $79.99/month
+-   [PreCheck.ai](https://precheck.ai) - Free 3 searches / AI-Powered Facial Recognition / ID Verification
+-   [Noodle4](https://www.noodle4.com) - Reduce content review up to 70% / AI content watchdog / Analyse content against briefs and guidelines
+-   [Lasso Moderation](https://www.lassomoderation.com) - AI-powered Content Moderation / Moderation Dashboard - From $99/month for up to 10K items
+-   [StopScam](https://www.stopscam.ai) - AI-powered scam detection / scans documents, PDFs, text, images, links
+
+### AI Art Detector
+
+-   [StendhalGPT](https://stendhalgpt.fr) - Free / AI-generated text detection / AI-generated image detection / Source verification
+
+[⬆️ Back to README](./README.md)

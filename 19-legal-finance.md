@@ -1,0 +1,445 @@
+# Legal & Finance
+
+[⬆️ Back to README](./README.md)
+
+## Legal & Finance | I Love Free
+
+> Explore free AI tools for investing, trading, and legal assistance. Make smarter decisions with zero-cost AI finance solutions.
+
+### AI For Finance
+
+-   [XTransfer](https://www.xtransfer.com/hscode) - Free settlement for 200,000 RMB / Multi-currency business accounts / Secure, fast & low-cost global payments - From US$3/transaction
+-   [Origin](https://useorigin.com) - Budgeting / Investing / Financial Guidance - From $12.99/month
+-   [Syft Analytics](https://www.syftanalytics.com) - 14-day free trial & Basic Free Plan Forever / AI insights / Financial reporting - From $19/month
+-   [TradingFinder](https://tradingfinder.com) - Many tools free / Forex, Crypto & Stocks Education / Trading Tools & Indicators
+-   [insightsoftware](https://insightsoftware.com) - Automate planning and reporting / Integrates with 140+ ERPs & EPMs / Fast analytics dashboards
+-   [Jump | AI for Financial Advisors](https://jumpapp.com) - AI meeting notes / CRM updates / Smart, syncable tasks - From $75/month (billed annually) for 1 Full seat & 60 AI Outputs
+-   [Intellectia AI](https://intellectia.ai) - Trial for $1 for 7 Days / AI-driven guidance / AI Stock Picker / Real-time market data - From $11.96/month
+-   [CityFALCON](https://cityfalcon.ai) - Free Basic plan / AI-driven financial news & intelligence / Personalised financial & business due diligence - From $6/month
+-   [Moning](https://moning.co) - Track and manage your wealth / AI-powered investment insights / Find investment opportunities
+-   [Inven](https://inven.ai) - Free trial / Find M&A targets 10x faster with AI / Comprehensive company data
+-   [DocuClipper](https://www.docuclipper.com) - 14-day free trial, 200 free pages / Extract financial data from bank statements, invoices, and receipts / Automate & Integrate / Export to Excel, CSV, and accounting software - From $27/month
+-   [PortfolioPilot](https://portfoliopilot.com) - 14-day free trial / AI-powered insights / Tax optimization / Portfolio tracking - From $20/month (billed annually)
+-   [Pump](https://www.pump.co) - Free forever / AI to purchase most cost efficient commitments / Group buying / Automated cloud cost optimization - Free
+-   [Digitap](https://www.digitap.ai) - AI-powered API Platform / Digital Customer Onboarding / Credit Underwriting & Risk Management
+-   [PrometAI](https://prometai.app) - 25 AI requests per month, 1 Business Plan free / AI Business Plan Generation / Expert-Designed Business Valuation - From $55/month
+-   [Digits](https://digits.com) - 14-day free trial / AI Bookkeeping / AI Financials / AI Bill Pay & Invoicing - From $100/month
+-   [Mezzi](https://mezzi.com) - Tax-loss harvesting / AI-driven investment insights - $199/year
+-   [SimFin](https://simfin.com) - 500 High-Speed Credits / Stock Screening / Backtesting / Data API - From $15/month
+-   [Papermoney](https://www.papermoney.ai) - Free access to 5,000+ companies' data / Simplified Financial Statement Analysis / Comparative Insights & Visualizations
+-   [Inscribe](https://inscribe.ai) - / AI Risk Agents for advanced document fraud detection / Automates fraud, credit, and compliance tasks / -
+-   [Arta Finance](https://www.artafinance.com) - Digital Family Office / Access to Private Markets / Smart Investment Tools
+-   [Retalon](https://retalon.com) - Unified Retail Analytics / AI-Powered Optimization / Demand Forecasting
+-   [Skwad](https://skwad.app) - Free for 15 days / Budget without linking bank account / Automatic transaction categorization - From $22/year
+-   [Moveo.AI](https://moveo.ai) - 100 Meaningful Conversations/m / AI agent automation / Generative AI & NLP
+-   [Monexa AI](https://www.monexa.ai) - AI-Powered Analytics / Institutional-Grade Equity Research / Global Financial Data
+-   [FinanceGPT](https://financegpt.uk) - Generative AI for financial analysis / Data-driven insights / Expert knowledge & Quality Assurance
+-   [Granter.ai](https://granter.ai) - Free customized funding matches / AI-powered grant matching / AI-generated applications / Expert review - From €500/application
+-   [Greip](https://greip.io) - 15k monthly requests / AI-powered Fraud Prevention / Payment Fraud Analysis - From $14.99/month
+-   [TradingWizard AI](https://tradingwizard.ai) - 1 free analysis per day / AI-powered technical chart analysis / actionable trade setups - From $20/month (up to 20 analyses/day)
+-   [Cloudgov.ai](https://cloudgov.ai) - Free trial / Autonomous Multicloud Cost Optimization / AI-Driven Actionable Insights / Anomaly Detection
+-   [AlphaResearch](https://alpharesearch.io) - Limited free access / AI-powered search engine for text / Extract insights from unstructured texts and financial data - From $49.99/month
+-   [Kniru](https://kniru.com) - Free Forever Plan / AI-Powered Personal Finance / Manage All Finances in One Dashboard / Actionable Spend & Investment Insights
+-   [Zumma](https://zummafinancial.com) - Free 15 expenses/month / AI-powered financial decisions / Automated expense tracking & invoicing - From $49 MXN/month
+-   [Tendi](https://tendi.ai) - Free basic version / AI-powered Financial Advice / Personalized Financial Planning
+-   [TickerTrends](https://tickertrends.io) - Free tier available / Alternative data insights / Exploding trends discovery / Market intelligence platform - From $98.70/month
+-   [Moontower AI](https://moontower.ai) - Track and analyze options volatility metrics / 20+ proprietary charts / Options Trading AI Copilot - From $39/month billed annually
+-   [Trezy](https://www.trezy.io) - 7-day free trial / Real-time cash flow monitoring / Predictive forecasting - From €39/month
+-   [Raizer](https://raizer.app) - 6,000/q free exports / Database of 55,000+ Angels & 80,000+ VC investors / AI-powered email crafting / One-click outreach - From $99/month
+-   [Leeway](https://leeway.tech) - AI-powered stock analysis / Fundamental and Market Analysis / Portfolio Monitoring
+-   [Jinna.ai](https://jinna.ai) - Sign Up Free / AI-powered invoices / Admin, finances, and day-to-day tasks
+-   [StockGPT](https://www.askstockgpt.com) - 5 searches per day / AI-powered financial research assistant / No Hallucinations - From $7/month
+-   [Free upi ai](https://indianupi.com/free-upi-ai) - 100% Free Forever / Instant UPI Answers / Calculate UPI Fees / No Login Required - Free
+-   [BeeBee AI](https://www.beebee.ai) - / Analyzing earnings call transcripts / Financial analysis for single or multiple quarters / AI-driven insights for financial reports -
+-   [Aisance](https://aisance.io) - 7-day Premium trial / AI-driven personalized recommendations / achieve financial goals faster - From $4.92/month
+-   [Value My Car](https://www.valuemycar.co.uk) - Free / Accurate & quick car valuation / Valuation by registration number / No Email or Personal Info Required
+-   [WeFIRE](https://wefire.io) - Personalized AI Copilot / Comprehensive Financial Analysis - From $8.99/month
+-   [PropelRx](https://www.propelrx.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3414)- Freemium + From $99/month, No Refunds / AI-powered fundraising readiness platform for Series A and Series B founders
+
+### AI Investing
+
+-   [AInvest](https://www.ainvest.com) - AI Stock Screener / AI-Powered Stock Analysis / Real-Time Stock Data - From $9.90/month
+-   [Origin](https://useorigin.com) - Budgeting / Investing / Financial Guidance - From $12.99/month
+-   [Danelfin](https://danelfin.com) - AI Stock Picker to Find the Best Stocks / Optimize your portfolio with explainable AI insights / Make smarter, data-driven investment decisions
+-   [Edgen](https://www.edgen.tech) - AI-powered Crypto Trading & Market Intelligence / Real-time Trading Insights & Actionable Signals
+-   [Incite AI](https://inciteai.com) - Free / AI Stock Analysis / Real-time Insights / AI Stock Prediction
+-   [Composer](https://www.composer.trade) - Free 14-day trial / Build trading algorithms with AI / Customize with no-code editor - From $32/month
+-   [Intellectia AI](https://intellectia.ai) - Trial for $1 for 7 Days / AI-driven guidance / AI Stock Picker / Real-time market data - From $11.96/month
+-   [Cheddar Flow](https://cheddarflow.com) - Free 7 Day Trial / Real time options order flow / dark pool orders / AI power alerts - From $49/month
+-   [Moning](https://moning.co) - Track and manage your wealth / AI-powered investment insights / Find investment opportunities
+-   [AltIndex](https://altindex.com) - Free plan with 20 dashboard visits, 2 portfolio stocks, 1 AI stock pick / AI Stock Picks / Stock Alerts / Alternative Data Insights - From $29/month
+-   [PortfolioPilot](https://portfoliopilot.com) - 14-day free trial / AI-powered insights / Tax optimization / Portfolio tracking - From $20/month (billed annually)
+-   [Tradytics](https://tradytics.com) - Free Basic Access / Premium options flow data / AI-powered trading strategies - From $69/month
+-   [StockInsights AI](https://www.stockinsights.ai) - 10 AI-Summaries & 10 AI Searches/month / AI-powered deep dive into company filings & earnings transcripts / Generate Investment Ideas & Streamline Due Diligence - From $16.67/month
+-   [ValueSense](https://valuesense.io) - / Intrinsic Value Tools / Stock Screener with Backtesting / -
+-   [Parsers VC](https://parsers.vc) - 10 credits upon Sign Up / AI-based Predictive Investments / Venture Matching - From $27/month
+-   [Mezzi](https://mezzi.com) - Tax-loss harvesting / AI-driven investment insights - $199/year
+-   [Quantum AI](https://quantumaiplatform.com) - Free Account & Demo Mode / AI-Powered Automated Trading / Expert-Designed Strategies / Secure Platform
+-   [Arta Finance](https://www.artafinance.com) - Digital Family Office / Access to Private Markets / Smart Investment Tools
+-   [RAFA AI](https://rafa.ai) - Limited daily AI messages / Personalized insights / Portfolio monitoring / Options activity monitoring - From $14.99/month
+-   [BestStock](https://beststock.ai) - 3 Copilot Prompts/mo / AI-Powered Stock Analysis / Institutional-Grade Financial Data - From $24.9/month
+-   [Monexa AI](https://www.monexa.ai) - AI-Powered Analytics / Institutional-Grade Equity Research / Global Financial Data
+-   [Go Global World](https://www.goglobal.world) - Limited 10 connects/saves per day / AI matchmaking / Deal flow management - From $349/month
+-   [Insightfolio](https://insightfol.io) - First report free / Save costs / Control risks - From $2.49 per additional report
+-   [Prospero.ai](https://www.prospero.ai) - Free / AI-powered analysis / High-potential stock picks
+-   [iPick.ai](https://www.ipick.ai) - Agentic AI for Stock Research & Investments / Conversational Search
+-   [AlphaResearch](https://alpharesearch.io) - Limited free access / AI-powered search engine for text / Extract insights from unstructured texts and financial data - From $49.99/month
+-   [Horizon](https://horizon-trade.com) - 30-day Money-Back Guarantee / Build AI-Driven Trading Strategies / Backtest Strategies / Automate Trades - From $9 One time
+-   [Decode Investing](https://decodeinvesting.com) - Free 8 AI questions / AI-powered stock analysis / Comprehensive financial research tools - From $12.99/month
+-   [Sirius Investors](https://www.siriusinvestors.com) - 5 AI questions & 5 web searches per month / AI-powered investment analysis / Real-time insights for stocks, crypto, & ETFs - From $19/month
+-   [Zumma](https://zummafinancial.com) - Free 15 expenses/month / AI-powered financial decisions / Automated expense tracking & invoicing - From $49 MXN/month
+-   [TradeUI](https://tradeui.com) - 2WEEK TRIAL / AI data-driven tools / options flow / real-time alerts - From $45/month
+-   [TickerTrends](https://tickertrends.io) - Free tier available / Alternative data insights / Exploding trends discovery / Market intelligence platform - From $98.70/month
+-   [Moontower AI](https://moontower.ai) - Track and analyze options volatility metrics / 20+ proprietary charts / Options Trading AI Copilot - From $39/month billed annually
+-   [PortfolioGPT](https://www.portfoliogpt.xyz) - 5 Queries Per Day / AI-Powered Portfolio Generation / Personalized Risk Profiling - From $3/month
+-   [Alfie Invest](https://www.alfieinvest.com) - AI Investment Analyst / Real-time data & financial models / Instant stock & company analysis
+-   [Raizer](https://raizer.app) - 6,000/q free exports / Database of 55,000+ Angels & 80,000+ VC investors / AI-powered email crafting / One-click outreach - From $99/month
+-   [Stockbits](https://stockbits.ai) - 3 monthly TradeGPT trials / Stock & Crypto Tracking / Analysis / Trading Signals
+-   [Thunder.vc](https://web.thunder.vc) - Matches startups with compatible investors / Investment banking for capital raises & M&A
+-   [Optimum Vertex AI](https://www.optimumvertex.io) - 14-Day Free Trial / AI-Powered Trade Strategy & Analysis / Comprehensive Plan vs. Execution Analysis - From $149/mo
+-   [GoAI — Investing Analyst](https://goai.digital) - 1-week free trial / AI Stock Analysis / Trading Signals -
+-   [AI Takeaway](https://aitakeaway.net) - 0 credits per month / Curated video intelligence / AI-distilled summaries / Transcript chat - From $7.2/month
+-   [EasyFin](https://easyfin.ai) - Free 3 AI-powered financial insights per month / AI-powered Investment Research Automation / Comprehensive Data Analysis - From $24.9/month (100 AI-powered insights)
+-   [TheAnalystAI](https://theanalystai.com) - 40 Free Credits / AI-powered investment research reports / stock and crypto insights - From $15.00/month (205 Credits)
+-   [Brevoir](https://brevoir.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3390)- Free Trial + From $49/month, No Refunds / Decision-grade due diligence for startup investing.
+
+### AI Trading Bot
+
+-   [Pionex](https://www.pionex.com/en/signUp?r=7bYd5fOw) - Free Crypto Trading Bot / World’s 1st exchange with in-built crypto trading bots / 24/7 trading automatically in the cloud
+-   [LuxAlgo](https://www.luxalgo.com) - Free tools / AI trading indicators / AI backtesting - From $24.99/month
+-   [Surf](https://asksurf.ai) - Limited to 1 research per day, up to 2 per week / Crypto's Ultimate AI / Smarter crypto insights - From $19/month (billed annually)
+-   [ArbitrageScanner.io](https://arbitragescanner.io) - Free trial day / Crypto Arbitrage / Wallet Analysis - From $176/month
+-   [TradingFinder](https://tradingfinder.com) - Many tools free / Forex, Crypto & Stocks Education / Trading Tools & Indicators
+-   [OctoBot Cloud](https://www.octobot.cloud) - Free 3 AI assistant requests per day / Automate crypto investment strategy / Customize AI, DCA, Grid, Crypto Basket strategies - From $9.99/month
+-   [Rocket Scooter](https://rocketscooter.com) - Trial Access / Free Discord Community / AI Scanner / Automated Charting / Exposes Smart Money Positions
+-   [Composer](https://www.composer.trade) - Free 14-day trial / Build trading algorithms with AI / Customize with no-code editor - From $32/month
+-   [Quantle](https://quantle.net) - 14-day free trial / No-Code Strategy Builder / Backtest on 50+ markets / No Sign-Up required - From $29/month
+-   [Biyond](https://www.biyond.co) - Weekly Market Analysis & 7-Day Lagged Quantitative Indicators Free / Expert Analysis / Unique Trading Indicators / Investable Portfolios - From $39/month
+-   [Indicia Labs](https://www.indicia.io) - Daily Crypto Intelligence & Weekly Sophia's Thoughts free forever / AI-powered crypto intelligence / Crowdsourced sentiment
+-   [Quadency](https://quadency.com) - 10 Spot Trading Live Bots free / AI Trading Assistant / Multi-Exchange Smart Trading / Smart Order Routing - From $49/month
+-   [Quantum AI](https://quantumaiplatform.com) - Free Account & Demo Mode / AI-Powered Automated Trading / Expert-Designed Strategies / Secure Platform
+-   [Secret Energy](https://secretenergy.com) - 3 Sibyl AI questions/day / Metaphysical Copilot / Automated Crypto Trading / Ennealogy Self-Discovery - From $79/month
+-   [Bonsai](https://bonsai.trade) - Start free / Intelligent algorithms / 24/7 market monitoring - From $34.95/month
+-   [Trade Vector AI](https://tradevector-ai.com/base) - Advanced analytical tools / Comprehensive support system / High-level security
+-   [QUINETICS](https://quinetics.net) - Free / Build AI strategies for crypto, stocks, or ETFs / Analyze historical performance & trade strategies - From €0/month
+-   [Eosi Finance](https://eosifinance.org) - AI-powered crypto trading automation / Copy-trade Pro-Traders
+-   [Tiblio](https://tiblio.ai) - Free Explore plan, 7-day trial / Automated Investment System / Wheel Strategy Automation - From $30/month
+-   [Growlonix](https://www.growlonix.com) - 7 days Premium Subscription / AI Trading Bots / Advanced Trading Terminal / Signal Copy Trading - From $25/month
+-   [Horizon](https://horizon-trade.com) - 30-day Money-Back Guarantee / Build AI-Driven Trading Strategies / Backtest Strategies / Automate Trades - From $9 One time
+-   [TradeUI](https://tradeui.com) - 2WEEK TRIAL / AI data-driven tools / options flow / real-time alerts - From $45/month
+-   [Jiff Genius AI](https://jfgenius.com) - Free Trial / AI Broker Copilot / AI-Powered Knowledge Base
+-   [Auto Market Scanner](https://automarketscanner.com) - 7 Days FREE Trial / Automated market scanning / Live & Detailed Data - From $10/month
+-   [Themis For Crypto](https://themisforcrypto.com) - Unlimited Free Access / AI Trading Bots / AI Backtesting / AI Research and Analysis - Free per month
+-   [CryptoMatic Bot](https://cryptomatic.bot) - Try for Free / Automated Algorithmic Trading / Stop Losing Money in Crypto Trading
+-   [Tradepost.ai](https://tradepost.ai) - 14-day free trial / AI analysis of financial news and SEC filings / AI-powered Top 20 Index - From $10/month
+-   [AI Trading Predictor](https://aitradingpredictor.com) - Free / AI-powered financial forecasting / Accurate forecasts with dynamic visualizations
+-   [CryptoTradeMate](https://cryptotrademate.com) - Free plan / AI-powered crypto trading bots / Automated Risk & Portfolio Management / Real-time market insights - From $9.99/month
+-   [CoinSignal](https://www.coinsignal.app) - 3-day free trial / Actionable Insights / 24/7 Monitoring - From €9.99/month
+-   [Bobby](https://www.trybobby.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3177)- Free Trial + From $89/month, No Refunds / Tell Bobby your rules, watch it trade.
+
+### AI Legal Assistant
+
+-   [Thomson Reuters](https://www.thomsonreuters.com) - Cutting-edge technology solutions / Industry-leading content and expertise / Professional-grade GenAI assistant
+-   [Law Insider](https://www.lawinsider.com) - 7 Day Trial for $1 / AI-Powered Contract Drafting / Review & Redlining - From 27 SGD/user/month
+-   [Filevine](https://www.filevine.com) - Free trial / Legal Case Management / AI-powered Legal Solutions / Document Management & eSignatures
+-   [Spellbook](https://www.spellbook.legal) - 7-day free trial / Draft and review contracts 10x faster / Redline contracts and catch risks -
+-   [AI Lawyer](https://ailawyer.pro) - Expert legal advice / Document creation, summarizing & comparison / Rapid legal research
+-   [vLex](https://vlex.com.mx) - Free trial / Legal AI / Largest legal database / Precise AI answers with transparent references
+-   [Predictice](https://predictice.com) - 7-day free trial / Legal research and case law analysis / AI Assistant for legal questions
+-   [vLex](https://justis.com) - Free trial / Legal AI & Research / Largest legal database / Precise answers with transparent citations
+-   [Go Legal AI](https://go-legal.ai) - Free 3 downloads/month / AI-powered legal document generation / AI document reviews / Expert legal advice - From £70/month
+-   [LexWorkplace](https://lexworkplace.com) - Free 500 GB Storage / Document & Email Management / Powerful Search / Document AI - From $395/month (3 users)
+-   [AI.Law](https://www.ai.law) - Free 7-Day Trial / AI Legal Drafting / Reduce drafting time
+-   [Skala](https://skala.io) - Start for Free / Incorporate globally / Manage fundraising / Protect your brand - From $599 (Trademark Registration)
+-   [My-Legacy.ai](https://my-legacy.ai) - Free Legacy Score / AI-powered estate planning / Secure digital asset management / Comprehensive estate planning
+-   [BITE Data](https://bitedata.io) - 14-day free trial / Trade compliance screening / Supply chain risk mitigation - From $19/month
+-   [Quickfiling](https://quickfiling.us) - Get Started for Free / AI-powered workspace to organize, enrich, and draft immigration petitions / 90% faster, 80% cheaper
+-   [GitLaw](https://git.law) - $5 of included monthly credits / Draft contracts with AI / Review contracts with AI - From $20/month
+-   [OwchBuddy](https://owchbuddy.com) - Immediate accident help with AI lawyer app / Connect with top lawyers / Professional medical assistance
+-   [eAdvocate4You](https://eadvocate4you.com) - Free / Personalized Legal Document Creation / AI-driven Legal Research
+-   [SpeedLegal](https://speedlegal.io) - Free 3 contracts / Instantly spot risks / Understand legal jargon / Get tailored suggestions
+-   [Paralex AI](https://paralex.ai) - First month waived / AI-assisted legal support / Attorney-reviewed documents / Fixed-fee pricing - From $99/month
+-   [Legalese Decoder](https://legalesedecoder.com) - Free / Simplify Everyday Jargons & Legalese Instantly / Translate Legal Docs To Plain English / No Registration Req’d - From $9.95/month (5,000 words)
+-   [goHeather](https://www.goheather.io) - Free to try (limited insights) / AI-Powered Contract Reviews / Lawyer-Trained AI Insights / No credit card needed - From $29.99 USD/month billed annually
+-   [LegesAI](https://leges.ai) - 5 queries/day / AI legal assistant / Quick answers / Specialized on German law (Labor, Tenancy, Criminal)
+-   [Caseway AI](https://www.caseway.ai) - 7-day free trial / Legal Research AI / Review Contracts / Draft Documents - From CA$49.99/month
+-   [Layman Law](https://layman.law) - 5 Conversions a month / Simplifies legal language / Decodes legal jargon - From $19/mo
+-   [Platus](https://platus.com) - Free trial available / AI-first workspace for legal teams / Automate document signing & notarization / Simplify legal workflows
+-   [Aidejuridique.ai](https://aidejuridique.ai) - 14-day free trial / 24/7 instant legal assistance / Unlimited document drafting - From 14.92€/month (billed annually)
+-   [CookieChimp](https://cookiechimp.com) - Free 5,000 pageviews / month / AI-driven cookie management / Streamline user consent / Global Compliance - From $8/month
+-   [Advomate](https://advomate.cz) - Automate case law research / Document review / Legal document search - From 690 CZK/month for up to 30 researches and 5 document uploads
+-   [Dyspute.ai](https://dyspute.ai) - Free to try AI Mediation / AI-powered Demand Letters / AI-led Virtual Mediation - From $25
+-   [Legal Assist AI](https://legalassistai.com) - AI Legal Chat Assistants / Legal Research / Draft Agreements - From $50/month (350K words, 30 images)
+-   [LegalGraph AI](https://legalgraph.ai) - AI-powered legal assistant / Instant contract risk detection & redlining in Microsoft Word / Customizable playbooks
+-   [AI Lawyer Lab](https://ailawyerlab.com) - No-code AI innovation lab / Turn legal expertise into AI solutions / Develop expertise engineering skills
+-   [S32](https://s32.com.au) - 1 Document Free / Property Document Analysis / Risk Uncovering / AI-Powered Property Research - From $5 for 1 Document
+-   [Crux Legacy](https://www.cruxlegacy.com) - Free-for-Life 500 MB Storage, 1 Nominee / Online Will & Estate Planning / Secure Digital Vault - From £9.99/month
+-   [accessiBe](https://accessibe.com) - AI-Powered web accessibility / ADA & WCAG Compliance / Litigation support - From $59/month for up to 5,000 website visits/month
+-   [CaseGen](https://casegen.ai) - 14 days free trial / AI-powered communication platform / Handles intake calls / Manages medical updates & lead follow-ups
+-   [Yanna AI](https://www.yanna.pro) - Over 10,000 Free Legal Templates / AI-native document drafting / Professional AI Legal Assistant - From less than $0.50 per document
+-   [MonAvocat AI](https://www.monavocat.ai) - 5 messages per week / Accurate legal advice based on French law / Daily updated legal articles - From €8/month
+-   [Lexence](https://www.lexence.tech) - Free trial / Advanced Case Law Search / Comprehensive Document Review
+-   [Juris AI](https://www.propria.ai) - Trial access available / Legal research and document drafting / Access to Danish legislation and case law
+-   [Will Hero](https://www.willhero.com) - Free to draft Will / Visual Will Designer / Scenario testing - $99 for 1-year access
+-   [律己AI](https://lvji.tensorbounce.com) - 1 quick review free / Intelligent Contract Review / Contract Drafting - From 199
+
+### AI Real Estate
+
+-   [Hotel in Cloud](https://hotelincloud.com) - Free demo / AI-powered dynamic pricing / All-in-one hotel management / Automated daily operations
+-   [Archistar](https://archistar.ai) - 3D Generative Design / Property Research & Feasibility - From $95/month for sites 2000m2 or less
+-   [AI Virtual Staging](https://aihomedesign.com/virtual-staging) - / AI Virtual Staging / Object Removal / Unlimited Regenerations - From $19.00/month
+-   [AirROI](https://www.airroi.com) - Completely FREE / AI-driven analytics / Dynamic pricing / 20M+ properties & 15+ years of market data
+-   [Amplifiles](https://www.amplifiles.ai) - First video free / AI-Powered Real Estate Video Creation / Multilingual voice-overs and captions / No Sign-Up - From €1.5/image
+-   [Kreo Software](https://www.kreo.net) - 7-Day Free Trial / AI Takeoff / Estimating Capabilities - From $70/month
+-   [Homesage.ai](https://homesage.ai) - AI-powered Investment Property Lists / Full Property Reports / Real Estate APIs - From $200/month with 1,250 Credits
+-   [Collov AI](https://collov.ai) - 2 free uses / Upload photos for redesigns / Chat-to-image concepts / Effortless tweaking
+-   [Jurny](https://jurny.com) - Free / All-in-One Vacation Rental Property Management / AI & Automation
+-   [PropertySimple](https://propertysimple.com) - 7-Day Free Trial / Automate Social Media & Listing Ads / AI-Powered CRM & Follow-up - From $99/month
+-   [Revivoto](https://revivoto.com) - Virtual Staging / Item Removal / Image Enhancement - From $0.95/picture
+-   [Saleswise](https://saleswise.ai) - Free 7-day trial / AI-powered CMAs / Instant AI-remodels - From $39/mo
+-   [ZipSmart](https://www.zipsmart.ai) - One Zipcode Only Free / AI-Driven Forecasts & analytics / Macro and micro real estate trends - From $30/month
+-   [Colossis.io](https://colossis.io) - 7-day trial / AI-powered enhancements for real estate photos / Virtual Staging / - From $99.99/month
+-   [AI HomeDesign](https://aihomedesign.com) - Free tries / AI Virtual Staging / AI Photo Editing / AI Interior Design - From $19.00/mo for 30 Photos
+-   [Aidaptive](https://aidaptive.com) - 3 FREE Predictive Audiences Lists / AI-powered personalization / Increased CVR, AOV, and revenue
+-   [The Listly](https://thelistly.com) - 1 free listing generation / AI-powered real estate descriptions / Save time & money - From $7/month
+-   [Virtual Staging AI](https://www.virtualstagingai.app) - One-click staging / 10 sec turnaround / Highly realistic furnishings / No Sign-Up - $16/month for 6 images
+-   [RealAssist AI](https://realassist.ai) - 14-day free trial / AI-powered text messages / Automated voice agent / One-click contract sender - From $49/month
+-   [Spatial.ai](https://www.spatial.ai) - 100,000 contacts or 50 locations free / AI-Powered Segmentation / Identify and reach your best customers - From $500/mo
+-   [Deferred](https://www.deferred.com/real-estate-tax-chatbot) - 1031 Exchange Services / Earn Interest on Funds - No Fee
+-   [iPPi](https://ippi.io) - 14-day free trial / Property Valuation & Market Insights / Research Comparable Properties - From €49.50/month
+-   [CREaiD](https://creaid.ai) - 10 Verified Preferred Lenders free / AI-powered chatbot / Real-time debt financing insights - From $40/month
+-   [SofaBrain](https://sofabrain.com) - 3 free renders / AI Interior Design / Virtual Home Staging - From $12/month
+-   [Urbalytics](https://urbalytics.jp) - View Past Sales History: 20/Day / Sales History / Undervaluation Checker - From ¥4,167/month
+-   [Soho](https://homesales.com.au) - 5 free daily prompts / AI-powered property matching / Search & swipe property listings
+-   [Ailliot](https://ailliot.com) - 7-Day Free Trial, 1000 credits / Automates property listings / Unique Content Generation / AI Brand Voice Profile - From $29/month
+-   [Property AI](https://proptyai.com) - Maximize property rent yields / Accurate data analysis & actionable insights
+-   [SmartBids.ai](https://smartbids.ai) - 7-day free trial / 96% accurate AVM / AI-powered listing description writer / Photo enhancer tools
+-   [Edensign](https://edensign.io) - Upload Image for free / AI-Powered Virtual Staging / Instant Elevation of Real Estate Listings - From $20/month (600 photos/year)
+-   [ZenRent](https://zenrent.co.uk) - Extended 60 day free trial / Streamlined property management / AI powered optimisations - From £10/month
+-   [RealtyVerse](https://realtyverse.xyz) - List up to 5 Properties free / Property Management Tools / Online Payment Collection - From ₦50,000 (One-Time Payment) for 20 Properties
+-   [JekkyAI](https://jekky.ai) - Free trial / 24/7 AI property management / Automated guest communication & revenue optimization / Scale from one property to hundreds at no extra cost
+-   [Styldod](https://www.styldod.com) - Free trial for first image / Virtual Staging / Photo Editing / AI Marketing Hub - From $1.5
+-   [Folio Findr](https://foliofindr.com) - 7 Day Free Trial / Find Abandoned Websites / Conduct Due Dilligence - From $19/month
+-   [AgentMatch.AI](https://agentmatch.ai) - Free for consumers and agents / Connect with Top 1% real estate agents / Unbiased, data-driven recommendations / Sell your home for more, guaranteed
+-   [RentLateFee.com](https://www.rentlatefee.com) - Unlimited late fee calculations / State-specific rent late fee calculator / Multi-property management tools / No signup required - From $9/month
+-   [RoomX AI](https://roomxai.com) - 2 staging images/month / AI Virtual Staging / Cinematic Property Videos / 30 Second Transformation - From $29/month
+-   [Pollox.ai](https://pollox.ai) - Unlimited Offers / Make offers without an agent / AI-powered offer generation - From $39.99/Month
+-   [reAlpha](https://apps.apple.com/us/app/realpha/id6502771973) - AI-powered homebuying / Commission-free
+-   [PropLab](https://proplab.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3456)- Free Trial + From $19.95/month, No Refunds / AI-powered real estate deal underwriting in 60 seconds.
+
+### AI Accounting
+
+-   [Blahget](https://itunes.apple.com/app/id6473291180) - Voice-based AI Expense Tracking / Smart Categorization / Intelligent Queries - From $1.99
+-   [Accountable](https://accountable.de) - 14-day full feature trial, unlimited e-invoices & 5 expense scans free / Tax & bookkeeping management / Free business account / AI tax advisor - From 15.50€/month
+-   [Syft Analytics](https://www.syftanalytics.com) - 14-day free trial & Basic Free Plan Forever / AI insights / Financial reporting - From $19/month
+-   [AICosts.ai](https://www.aicosts.ai) - 7-day free trial / Manage All AI Costs / Optimize AI Spending / Cut Costs by 30+% - From $19.99/month
+-   [insightsoftware](https://insightsoftware.com) - Automate planning and reporting / Integrates with 140+ ERPs & EPMs / Fast analytics dashboards
+-   [Kick](https://kick.co) - Free to use / Self-driving bookkeeping / Automate your business life / Tax-ready financials
+-   [TaxGPT](https://taxgpt.com) - 14-day free trial / AI tax assistant / Tax research & memo drafting / Boosts productivity 10x
+-   [Tabby](https://usetabby.com) - Forever free / AI Bookkeeping / Automated Expense Tracking / Tax-ready Reports - From $0/month
+-   [Receiptor AI](https://receiptor.ai) - 14-days free trial / Automated receipt & invoice extraction / Integrates with expense management & accounting systems - From $19/month
+-   [DocuClipper](https://www.docuclipper.com) - 14-day free trial, 200 free pages / Extract financial data from bank statements, invoices, and receipts / Automate & Integrate / Export to Excel, CSV, and accounting software - From $27/month
+-   [Client Hub](https://clienthub.app) - 14-day free trial / Streamline workflows / Secure client communication / AI-powered tools - From $69/month per user
+-   [Quanta](https://www.usequanta.com) - 7-Day Trial for $0 / Real-time accounting / Full service accounting / Dedicated accounting expert in Slack - From $500/month
+-   [Bookeeping.ai](https://bookeeping.ai) - Automate 95% of Bookkeeping / Chat to Complete Financial Tasks
+-   [Digits](https://digits.com) - 14-day free trial / AI Bookkeeping / AI Financials / AI Bill Pay & Invoicing - From $100/month
+-   [Expense Sorted](https://www.expensesorted.com) - Free trial / AI-powered expense categorization / Integrates with Google Sheets, Lunch Money, Tiller
+-   [Clyr](https://getpersona.app) - Free Demo / Automated Expense Management / AI-driven Expense Tracking
+-   [Nuvio](https://www.nuvio.io) - 14-day free trial / AI-powered financial management / track income, expenses, and cash flow / real-time insights & trend prediction - From $19/month
+-   [MonAi](https://get-monai.app) - 20 transactions per month free / Voice message expense tracking / AI-powered categorization / No login required
+-   [Backdrop](https://www.joinbackdrop.com) - Free trial / Automate financial tracking / Scan receipts & approve expenses
+-   [Chargezoom](https://chargezoom.com) - AI-powered invoicing / Faster payments
+-   [Fortune App](https://www.fortune.app) - AI-powered accounting automation / Multi-bank financial analysis - From $10/month
+-   [Cranston AI](https://cranstonai.com) - 30-day free trial / AI-powered accounting automation / Expert CPA supervision
+-   [Skwad](https://skwad.app) - Free for 15 days / Budget without linking bank account / Automatic transaction categorization - From $22/year
+-   [Vuala](https://vualapp.com) - / Automatically extract invoices from emails and 7,000+ sources / Upload invoices to ERPs and accounting programs - From €23/month
+-   [Zapro AI](https://zapro.ai) - 14-day free trial / AP Automation / Automated Procurement - From $699/month
+-   [Harriet](https://www.harrietcfo.com) - Free / Flat-fee bookkeeping / Dedicated bookkeeper - From $325/month
+-   [Accounting Solver AI](https://accountingsolver.com) - Solve accounting problems / Automated bookkeeping
+-   [OLY.AI](https://www.oly.ai) - 2,500 monthly tokens / Natural language Answers / QuickBooks Online Integration / AI Financial Analysis - From $30/month billed yearly
+-   [Invoicemint](https://invoicemint.in) - 20 free documents per year / AI-powered Invoice Creation / Finance Management - From $9.99/month
+-   [Financial Fusion](https://financialfusion.io) - Free Trial / AI-Powered CFO / Comprehensive Financial Review / Seamless Integration
+-   [GetInvoice](https://www.get-invoice.com) - 10 invoices per month for free / Invoice processing automation with AI / Extract invoices and receipts from email and web portals - From $19/month (50 invoices)
+-   [WorkFusion](https://www.workfusionapp.com) - Free trial / AI-powered accounting dashboard / Automated bookkeeping / Real-time insights
+-   [ShowMeMoney](https://www.showmemoney.app) - 48-hour free trial / AI-powered expense tracking / Smart Add / Auto Sync - From $2/month
+-   [Received AI](https://received.ai) - B2B Billing & Revenue Management / Automated Invoicing & Billing / Complex Pricing & Contract Management - From $250/mo (Limited to 1 year)
+-   [Easygoing/Easydoing](https://easydo.ing) - Effortless Invoice Generation / Natural Language Processing
+-   [Simpla AI](https://www.simpla.ai) - 14-day free trial / AI-powered tax and accounting advice / Automated financial data processing / Business financial analysis - From $18.99/month
+-   [Billy AI](https://getbilly.co) - Pay-as-you-go pricing / Global payments / Revenue and finance automation - From C$10.00/month
+-   [Entendre Finance](https://entendre.finance) - 14-day free trial / Automated AI crypto accounting / Automate on-chain transactions - From $500/mo
+-   [TurboDoc](https://turbodoc.io) - 50 invoice processing per month free / Automate invoice processing / Eliminate manual data entry errors - From $6/month for 50 invoice processing
+-   [ExpenseBot](https://www.expensebot.ai/gmail-receipt.scanner?utm_source=ilovefree) [](https://free.ilovefree.com/link/3514)- 60 days free trial + From $10/month / AI Expense Tracking for Google
+
+### AI Stock Trading
+
+-   [AInvest](https://www.ainvest.com) - AI Stock Screener / AI-Powered Stock Analysis / Real-Time Stock Data - From $9.90/month
+-   [LuxAlgo](https://www.luxalgo.com) - Free tools / AI trading indicators / AI backtesting - From $24.99/month
+-   [Danelfin](https://danelfin.com) - AI Stock Picker to Find the Best Stocks / Optimize your portfolio with explainable AI insights / Make smarter, data-driven investment decisions
+-   [TradingFinder](https://tradingfinder.com) - Many tools free / Forex, Crypto & Stocks Education / Trading Tools & Indicators
+-   [Incite AI](https://inciteai.com) - Free / AI Stock Analysis / Real-time Insights / AI Stock Prediction
+-   [Rocket Scooter](https://rocketscooter.com) - Trial Access / Free Discord Community / AI Scanner / Automated Charting / Exposes Smart Money Positions
+-   [Composer](https://www.composer.trade) - Free 14-day trial / Build trading algorithms with AI / Customize with no-code editor - From $32/month
+-   [Stocknear](https://stocknear.com) - Free 1 Watchlist, 3 Price Alerts, 10 Bulk Downloads / AI Copilot for Stock Market / Real-time Insights & Analysis / Comprehensive Financial Data - From $10/month
+-   [AI-Signals](https://ai-signals.com) - Free BETA access / Real-time alerts / Auto risk management / AI-driven signals - From $78/month
+-   [Cheddar Flow](https://cheddarflow.com) - Free 7 Day Trial / Real time options order flow / dark pool orders / AI power alerts - From $49/month
+-   [TradesViz](https://www.tradesviz.com) - 3000 executions/month free / Trading Journal / Trading Simulation / Advanced Analytics - From $19.99/month
+-   [Capital Companion](https://capitalcompanion.ai) - 10 free AI requests monthly / AI-powered stock analysis / Real-time insights / Bloomberg Terminal alternative - From $9.99/month
+-   [Prosperse](https://prosperse.com) - Automated Stock Scanning / No-code Strategy Builder / Seamless Backtesting
+-   [Tradytics](https://tradytics.com) - Free Basic Access / Premium options flow data / AI-powered trading strategies - From $69/month
+-   [Optionsfy](https://optionsfy.com) - Free / AI Options Picker / Proven market-beating algorithm / Done-for-you trade recommendations - $497/year
+-   [RunStocks](https://www.runstocks.com) - Free access with limited historical data (4 months ticker, 7 days market analysis) / Historical gap and run analysis / Price action trends / Key performance insights - From $13.75/month (first year)
+-   [MarketAlerts](https://www.marketalerts.ai) - AI-Powered Stock Signals & Analytics / AI-Powered Watchlist / Custom Alerts
+-   [Sahmeto](https://chromewebstore.google.com/detail/%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D9%87%D9%85%D8%AA%D9%88-sahmeto/mnnkkdhkjbcnjljenmicbmlojmnpmaaf) - Free / Stock analysis from Telegram social data / Discover stock buy/sell signals
+-   [Fluid](https://withfluid.com) - Free / AI powered stock summaries / AI stock alerts / Analyze Sentiment
+-   [Bonsai](https://bonsai.trade) - Start free / Intelligent algorithms / 24/7 market monitoring - From $34.95/month
+-   [StockQuakes](https://stockquakes.com) - 7 Day Free Trial / AI Stock Analysis / Daily Newsletter - From $9/mo
+-   [AlgoVue](https://algovue.app) - Free Visual Strategy Editor/Backtesting / No-code algo editor / ChatGPT-powered trading ideas / Backtesting & visualization - From $30/month
+-   [BestStock](https://beststock.ai) - 3 Copilot Prompts/mo / AI-Powered Stock Analysis / Institutional-Grade Financial Data - From $24.9/month
+-   [Tiblio](https://tiblio.ai) - Free Explore plan, 7-day trial / Automated Investment System / Wheel Strategy Automation - From $30/month
+-   [Prospero.ai](https://www.prospero.ai) - Free / AI-powered analysis / High-potential stock picks
+-   [TradingWizard AI](https://tradingwizard.ai) - 1 free analysis per day / AI-powered technical chart analysis / actionable trade setups - From $20/month (up to 20 analyses/day)
+-   [iPick.ai](https://www.ipick.ai) - Agentic AI for Stock Research & Investments / Conversational Search
+-   [TradeUI](https://tradeui.com) - 2WEEK TRIAL / AI data-driven tools / options flow / real-time alerts - From $45/month
+-   [Jiff Genius AI](https://jfgenius.com) - Free Trial / AI Broker Copilot / AI-Powered Knowledge Base
+-   [Auto Market Scanner](https://automarketscanner.com) - 7 Days FREE Trial / Automated market scanning / Live & Detailed Data - From $10/month
+-   [StockKhata](https://stockkhata.in) - Stock Portfolio Management / Graphical Analysis / Community Blogs
+-   [Tradepost.ai](https://tradepost.ai) - 14-day free trial / AI analysis of financial news and SEC filings / AI-powered Top 20 Index - From $10/month
+-   [AI Trading Predictor](https://aitradingpredictor.com) - Free / AI-powered financial forecasting / Accurate forecasts with dynamic visualizations
+-   [Stockbits](https://stockbits.ai) - 3 monthly TradeGPT trials / Stock & Crypto Tracking / Analysis / Trading Signals
+-   [Aime](https://chromewebstore.google.com/detail/aime-the-chatgpt-in-finan/okahapggajdikpemgnlbmblihmphhnpo) - Analyze stocks / Summarize news / Provide sharable trading ideas
+
+### AI Contract Review
+
+-   [Law Insider](https://www.lawinsider.com) - 7 Day Trial for $1 / AI-Powered Contract Drafting / Review & Redlining - From 27 SGD/user/month
+-   [Gavel Exec](https://www.gavel.io/exec) - 25 runs free / AI legal assistant / Contract redlining / No credit card required - $160/month
+-   [Spellbook](https://www.spellbook.legal) - 7-day free trial / Draft and review contracts 10x faster / Redline contracts and catch risks -
+-   [VisibleThread](https://visiblethread.com) - Free Trial / RFP Software for Analyzing Solicitations and Contracts / Secure AI Writing Assistant for the Enterprise
+-   [BRYTER](https://bryter.com/extract) - AI Contract Review / AI Data Extraction / Workflows Automation
+-   [Zuva](https://zuva.ai) - 5 documents for free / Extract 1,400+ data points / Classify 200+ document types - From $10/document
+-   [ContractCrab](https://contractcrab.com) - 1 review free / Analyzes and summarizes contracts into one-page extracts / Warns about potential risks and improves them - From $30/month
+-   [Go Legal AI](https://go-legal.ai) - Free 3 downloads/month / AI-powered legal document generation / AI document reviews / Expert legal advice - From £70/month
+-   [Code Genie](https://www.code-genie.ai) - Free trial / Audits and fixes smart contracts / Fast & Affordable - From $99 per contract
+-   [BidSense AI](https://bidsense.ai) - Free 2 teaming partners & 2 AI Q&A consultations / AI contract analysis / Teaming partner matching - From $349/month
+-   [Skala](https://skala.io) - Start for Free / Incorporate globally / Manage fundraising / Protect your brand - From $599 (Trademark Registration)
+-   [LegalCheckPro](https://legalcheckpro.com) - Free 3 top risks highlight / Instant AI Contract Review / Risk Analysis & Improvement Reports - $6.99 per document
+-   [FoundersAgree](https://foundersagree.com) - Free 3 contract scans per month / Instant AI Contract Analysis / Save $1000s in Legal Fees - From $19/month
+-   [Erayaha AI](https://erayaha.ai) - 33 pages (100,000 chars) free / AI-Powered Document Analysis / Risk Analysis - From $49/month
+-   [GitLaw](https://git.law) - $5 of included monthly credits / Draft contracts with AI / Review contracts with AI - From $20/month
+-   [DocSpy](https://apps.apple.com/app/id6738056515) - AI-powered document analysis / Highlight key details - From $19.99/month
+-   [SpeedLegal](https://speedlegal.io) - Free 3 contracts / Instantly spot risks / Understand legal jargon / Get tailored suggestions
+-   [Paralex AI](https://paralex.ai) - First month waived / AI-assisted legal support / Attorney-reviewed documents / Fixed-fee pricing - From $99/month
+-   [Legalese Decoder](https://legalesedecoder.com) - Free / Simplify Everyday Jargons & Legalese Instantly / Translate Legal Docs To Plain English / No Registration Req’d - From $9.95/month (5,000 words)
+-   [goHeather](https://www.goheather.io) - Free to try (limited insights) / AI-Powered Contract Reviews / Lawyer-Trained AI Insights / No credit card needed - From $29.99 USD/month billed annually
+-   [Contractify](https://www.contractify.io) - AI-driven contract management / E-signing & automation / Never miss deadlines - From € 161/month
+-   [DraftCheck](https://www.draftcheck.io) - 30-Day Free Trial / AI proofreader for legal documents / Automated Review / SmartCompare & SmartMerge - From $20/month
+-   [Cloud Contracts 365](https://www.cloudcontracts365.com) - Free 30-day trial & unlimited basic contract reviews / Contract creation / AI-powered review / Lifecycle management - From £299/month (billed annually)
+-   [Layman Law](https://layman.law) - 5 Conversions a month / Simplifies legal language / Decodes legal jargon - From $19/mo
+-   [Legaliser](https://www.legaliser.com) - 10,000 words free / Contract Analysis / Risk Analysis / Contract Drafting - From $20/month
+-   [LegalGraph AI](https://legalgraph.ai) - AI-powered legal assistant / Instant contract risk detection & redlining in Microsoft Word / Customizable playbooks
+-   [AI Lawyer Lab](https://ailawyerlab.com) - No-code AI innovation lab / Turn legal expertise into AI solutions / Develop expertise engineering skills
+-   [S32](https://s32.com.au) - 1 Document Free / Property Document Analysis / Risk Uncovering / AI-Powered Property Research - From $5 for 1 Document
+-   [CyberSanctus](https://cybersanctus.com) - 2,000 Free Lines of Code / AI-Powered Smart Contract Audits / Trusted Vulnerability Detectors - From £19/month
+-   [Diaflow](https://www.diaflow.io) - 3 Automations, 3 Apps, 3 AI Agents free / Workflow Automation / AI Agents & Chatbot - From $49/month
+-   [GVA NDA Check](https://ai-con.lawyer) - Free & Unlimited NDA Checks / AI-powered risk visualization & revision suggestions / Clause review support with proposed revisions
+-   [Lexence](https://www.lexence.tech) - Free trial / Advanced Case Law Search / Comprehensive Document Review
+-   [Lawformer](https://lawformer.com) - Free trial / AI-powered contract deconstruction / Create personalized clause libraries / Find relevant contract clauses
+-   [GiveFlag](https://www.giveflag.com) - 10 AI team chat prompts free / Automated Document Analysis / Customer List Generation - From $988.99/month
+-   [RentLateFee.com](https://www.rentlatefee.com) - Unlimited late fee calculations / State-specific rent late fee calculator / Multi-property management tools / No signup required - From $9/month
+-   [律己AI](https://lvji.tensorbounce.com) - 1 quick review free / Intelligent Contract Review / Contract Drafting - From 199
+
+### AI Tax Assistant
+
+-   [TaxTim SA](https://taxtim.com) - Quick & Easy Tax Returns / Maximum Refund / SARS Integration - From R 315 / basic tax return
+-   [Accountable](https://accountable.de) - 14-day full feature trial, unlimited e-invoices & 5 expense scans free / Tax & bookkeeping management / Free business account / AI tax advisor - From 15.50€/month
+-   [Deferred](https://www.deferred.com) - Free AI Tax Assistant / No Fee 1031 Exchange / Earn Interest on Funds / Top-Tier Security of Funds - No Fee
+-   [CPA Pilot](https://www.cpapilot.com) - 7-Day Free Trial with 20 messages / Automates tax research / Client communication / Marketing content creation - From $19/month
+-   [TaxGPT](https://taxgpt.com) - 14-day free trial / AI tax assistant / Tax research & memo drafting / Boosts productivity 10x
+-   [Rally](https://rally.tax) - Free Tax Plan / Cut Your Taxes in 60 Seconds / AI Builds Tax Plan / Start Saving Thousands -
+-   [Tabby](https://usetabby.com) - Forever free / AI Bookkeeping / Automated Expense Tracking / Tax-ready Reports - From $0/month
+-   [CanTax.ai](https://cantax.ai) - 100% free for individuals / AI-powered Canadian personal income tax advisor / Personalized Tax advice / Comprehensive Knowledge
+-   [Receiptor AI](https://receiptor.ai) - 14-days free trial / Automated receipt & invoice extraction / Integrates with expense management & accounting systems - From $19/month
+-   [Zolltarifnummer.com](https://www.zolltarifnummer.com) - 1 free search / AI-powered customs tariff number search / 11-digit customs tariff number / No login required for first searches
+-   [PortfolioPilot](https://portfoliopilot.com) - 14-day free trial / AI-powered insights / Tax optimization / Portfolio tracking - From $20/month (billed annually)
+-   [Bookeeping.ai](https://bookeeping.ai) - Automate 95% of Bookkeeping / Chat to Complete Financial Tasks
+-   [Instafill.ai](https://instafill.ai) - / AI PDF Form Filler / Automated form completion / Batch form filling - From $19.99/month
+-   [Mezzi](https://mezzi.com) - Tax-loss harvesting / AI-driven investment insights - $199/year
+-   [Cranston AI](https://cranstonai.com) - 30-day free trial / AI-powered accounting automation / Expert CPA supervision
+-   [Convert Logistics](https://www.covonyx.com) - 14-day free trial / Estimated Shipping & Delivery Dates / Enhanced Location Detection / Estimated Tax Rates - From $14.99/month
+-   [Deferred](https://www.deferred.com/real-estate-tax-chatbot) - 1031 Exchange Services / Earn Interest on Funds - No Fee
+-   [Jinna.ai](https://jinna.ai) - Sign Up Free / AI-powered invoices / Admin, finances, and day-to-day tasks
+-   [Simpla AI](https://www.simpla.ai) - 14-day free trial / AI-powered tax and accounting advice / Automated financial data processing / Business financial analysis - From $18.99/month
+-   [RentLateFee.com](https://www.rentlatefee.com) - Unlimited late fee calculations / State-specific rent late fee calculator / Multi-property management tools / No signup required - From $9/month
+
+### AI Contract Management
+
+-   [Dropbox Sign](https://www.hellosign.com) - Unlimited signature requests / Legally binding eSignatures / Seamless integrations - From $15/month
+-   [Law Insider](https://www.lawinsider.com) - 7 Day Trial for $1 / AI-Powered Contract Drafting / Review & Redlining - From 27 SGD/user/month
+-   [Apps 365](https://www.apps365.com) - 14 days risk free trial / HR and Business Apps / AI-enabled apps - From $11.99/month
+-   [Filevine](https://www.filevine.com) - Free trial / Legal Case Management / AI-powered Legal Solutions / Document Management & eSignatures
+-   [Agree.com](https://agree.com) - No usage limits / Secure E-Signature / Integrated Invoicing / Payment Processing - From $0/month
+-   [Gavel Exec](https://www.gavel.io/exec) - 25 runs free / AI legal assistant / Contract redlining / No credit card required - $160/month
+-   [Zefort](https://zefort.com) - 14-day free trial / Effortless & Secure Contract Management / AI-powered platform / Automated Reminders - From €49/month
+-   [BRYTER](https://bryter.com/extract) - AI Contract Review / AI Data Extraction / Workflows Automation
+-   [Screens AI](https://www.screens.ai) - 5 contract uploads free / Review and redline contracts in Microsoft Word / Create customized screens - From $149/month
+-   [Zuva](https://zuva.ai) - 5 documents for free / Extract 1,400+ data points / Classify 200+ document types - From $10/document
+-   [ContractCrab](https://contractcrab.com) - 1 review free / Analyzes and summarizes contracts into one-page extracts / Warns about potential risks and improves them - From $30/month
+-   [Go Legal AI](https://go-legal.ai) - Free 3 downloads/month / AI-powered legal document generation / AI document reviews / Expert legal advice - From £70/month
+-   [ApaceForms](https://apaceforms.com) - Free 30-day trial / Automate & error-proof contract lifecycle / Auto-populate 80% of contract data / Legally binding digital signatures - From $10/month/user
+-   [BidSense AI](https://bidsense.ai) - Free 2 teaming partners & 2 AI Q&A consultations / AI contract analysis / Teaming partner matching - From $349/month
+-   [LegalCheckPro](https://legalcheckpro.com) - Free 3 top risks highlight / Instant AI Contract Review / Risk Analysis & Improvement Reports - $6.99 per document
+-   [FoundersAgree](https://foundersagree.com) - Free 3 contract scans per month / Instant AI Contract Analysis / Save $1000s in Legal Fees - From $19/month
+-   [GitLaw](https://git.law) - $5 of included monthly credits / Draft contracts with AI / Review contracts with AI - From $20/month
+-   [Affinda](https://affinda.com) - 500 pages for 30-day trial / Automate document processing workflows / Extract data from any document type / Seamless integration - From $0.20/page
+-   [SpeedLegal](https://speedlegal.io) - Free 3 contracts / Instantly spot risks / Understand legal jargon / Get tailored suggestions
+-   [goHeather](https://www.goheather.io) - Free to try (limited insights) / AI-Powered Contract Reviews / Lawyer-Trained AI Insights / No credit card needed - From $29.99 USD/month billed annually
+-   [Zapro AI](https://zapro.ai) - 14-day free trial / AP Automation / Automated Procurement - From $699/month
+-   [Contractify](https://www.contractify.io) - AI-driven contract management / E-signing & automation / Never miss deadlines - From € 161/month
+-   [Dawiso](https://www.dawiso.com) - Governed, Trusted Data Access / Time Savings / Simplicity - From €245/month
+-   [DraftCheck](https://www.draftcheck.io) - 30-Day Free Trial / AI proofreader for legal documents / Automated Review / SmartCompare & SmartMerge - From $20/month
+-   [Cloud Contracts 365](https://www.cloudcontracts365.com) - Free 30-day trial & unlimited basic contract reviews / Contract creation / AI-powered review / Lifecycle management - From £299/month (billed annually)
+-   [Invoicemint](https://invoicemint.in) - 20 free documents per year / AI-powered Invoice Creation / Finance Management - From $9.99/month
+-   [Bryckel](https://www.bryckel.ai) - Free Trial / AI-powered lease abstraction / Document analytics / Automate real estate workflows
+-   [Legaliser](https://www.legaliser.com) - 10,000 words free / Contract Analysis / Risk Analysis / Contract Drafting - From $20/month
+-   [Forescribe AI](https://www.forescribe.ai) - Free Forever / Digital Infrastructure Discovery / Spend Management / No card required - From $239/month
+-   [LegalGraph AI](https://legalgraph.ai) - AI-powered legal assistant / Instant contract risk detection & redlining in Microsoft Word / Customizable playbooks
+-   [Received AI](https://received.ai) - B2B Billing & Revenue Management / Automated Invoicing & Billing / Complex Pricing & Contract Management - From $250/mo (Limited to 1 year)
+-   [Lawformer](https://lawformer.com) - Free trial / AI-powered contract deconstruction / Create personalized clause libraries / Find relevant contract clauses
+-   [律己AI](https://lvji.tensorbounce.com) - 1 quick review free / Intelligent Contract Review / Contract Drafting - From 199
+
+### AI Contract Generator
+
+-   [Thomson Reuters](https://www.thomsonreuters.com) - Cutting-edge technology solutions / Industry-leading content and expertise / Professional-grade GenAI assistant
+-   [Law Insider](https://www.lawinsider.com) - 7 Day Trial for $1 / AI-Powered Contract Drafting / Review & Redlining - From 27 SGD/user/month
+-   [Agree.com](https://agree.com) - No usage limits / Secure E-Signature / Integrated Invoicing / Payment Processing - From $0/month
+-   [Gavel Exec](https://www.gavel.io/exec) - 25 runs free / AI legal assistant / Contract redlining / No credit card required - $160/month
+-   [Spellbook](https://www.spellbook.legal) - 7-day free trial / Draft and review contracts 10x faster / Redline contracts and catch risks -
+-   [Agreee.ai](https://agreee.ai) - 15 AI Chats free / AI-powered agreement builder / Create, edit, and export contracts / Curated Templates
+-   [Docuya.ai](https://www.docuya.ai) - 3 free documents / Generate legal documents / Personalize templates with AI - From $7/month
+-   [Go Legal AI](https://go-legal.ai) - Free 3 downloads/month / AI-powered legal document generation / AI document reviews / Expert legal advice - From £70/month
+-   [ApaceForms](https://apaceforms.com) - Free 30-day trial / Automate & error-proof contract lifecycle / Auto-populate 80% of contract data / Legally binding digital signatures - From $10/month/user
+-   [Skala](https://skala.io) - Start for Free / Incorporate globally / Manage fundraising / Protect your brand - From $599 (Trademark Registration)
+-   [GitLaw](https://git.law) - $5 of included monthly credits / Draft contracts with AI / Review contracts with AI - From $20/month
+-   [Lipana](https://lipana.app) - Free / Document Generation / Financial Tools / AI-powered tools
+-   [eAdvocate4You](https://eadvocate4you.com) - Free / Personalized Legal Document Creation / AI-driven Legal Research
+-   [Formzil](https://www.aidocumentmaker.com) - 5 forms, 100 submissions/month / Make & Publish Online Forms Instantly / Unlimited fields per form - From $29/month
+-   [Paralex AI](https://paralex.ai) - First month waived / AI-assisted legal support / Attorney-reviewed documents / Fixed-fee pricing - From $99/month
+-   [CryptoDo](https://cryptodo.app) - AI-powered, multichain, no-code builder of web3 solutions / Launch DApp in 5 minutes without programming skills
+-   [goHeather](https://www.goheather.io) - Free to try (limited insights) / AI-Powered Contract Reviews / Lawyer-Trained AI Insights / No credit card needed - From $29.99 USD/month billed annually
+-   [NextDocs](https://www.nextdocs.io) - 200 AI credits free / AI Document & Slide Creation / Automated Formatting & Design - From $20/month
+-   [RealAssist AI](https://realassist.ai) - 14-day free trial / AI-powered text messages / Automated voice agent / One-click contract sender - From $49/month
+-   [DraftCheck](https://www.draftcheck.io) - 30-Day Free Trial / AI proofreader for legal documents / Automated Review / SmartCompare & SmartMerge - From $20/month
+-   [Cloud Contracts 365](https://www.cloudcontracts365.com) - Free 30-day trial & unlimited basic contract reviews / Contract creation / AI-powered review / Lifecycle management - From £299/month (billed annually)
+-   [Platus](https://platus.com) - Free trial available / AI-first workspace for legal teams / Automate document signing & notarization / Simplify legal workflows
+-   [RamenLegal](https://ramen.legal) - 2500 free tokens / AI Legal Document Generators / AI Legal Research Assistant - From $19/month
+-   [Legaliser](https://www.legaliser.com) - 10,000 words free / Contract Analysis / Risk Analysis / Contract Drafting - From $20/month
+-   [Dyspute.ai](https://dyspute.ai) - Free to try AI Mediation / AI-powered Demand Letters / AI-led Virtual Mediation - From $25
+-   [Legal Assist AI](https://legalassistai.com) - AI Legal Chat Assistants / Legal Research / Draft Agreements - From $50/month (350K words, 30 images)
+-   [AI Lawyer Lab](https://ailawyerlab.com) - No-code AI innovation lab / Turn legal expertise into AI solutions / Develop expertise engineering skills
+-   [Spellmint](https://spellmint.com) - Free up to 100K words/month / Team Planning / Brainstorming to Brilliance - From $8/month for up to 500K words/month
+-   [Yanna AI](https://www.yanna.pro) - Over 10,000 Free Legal Templates / AI-native document drafting / Professional AI Legal Assistant - From less than $0.50 per document
+-   [Lexence](https://www.lexence.tech) - Free trial / Advanced Case Law Search / Comprehensive Document Review
+-   [Lawformer](https://lawformer.com) - Free trial / AI-powered contract deconstruction / Create personalized clause libraries / Find relevant contract clauses
+-   [律己AI](https://lvji.tensorbounce.com) - 1 quick review free / Intelligent Contract Review / Contract Drafting - From 199
+-   [Pollox.ai](https://pollox.ai) - Unlimited Offers / Make offers without an agent / AI-powered offer generation - From $39.99/Month
+
+[⬆️ Back to README](./README.md)

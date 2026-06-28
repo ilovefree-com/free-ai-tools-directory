@@ -1,0 +1,1591 @@
+# Office Productivity
+
+[⬆️ Back to README](./README.md)
+
+## Office Productivity | I Love Free
+
+> Explore free AI assistants, search engines, and productivity tools. Boost your efficiency with zero-cost AI workspace solutions.
+
+### AI Assistant
+
+-   [ChatGPT](https://chatgpt.com) - Free / Engaging conversations / Automate tasks / Real-time data from the web - From $20/month
+-   [Dr.Oracle](https://droracle.ai) - Free 7-day trial / Instant, precise & in-depth explanations / Backed by high-quality evidence & citations
+-   [Kome AI](https://kome.ai) - 5 summary credits / AI-Powered Summarizer / Bookmark Manager - From $5.99/Month
+-   [MagicSchool](https://www.magicschool.ai) - Free forever plan / 80+ AI teacher tools / saves up to 10 hours per week - From $99.96/year
+-   [Thomson Reuters](https://www.thomsonreuters.com) - Cutting-edge technology solutions / Industry-leading content and expertise / Professional-grade GenAI assistant
+-   [Streaks 66 - Habit Tracker AI](https://apple.co/3R1OYdR) - Free 3 messages to AI / Build lasting habits / AI-guided habit coaching - From $1.99/month
+-   [Notion](https://www.notion.so) - Unlimited for individuals / AI assistant / All-in-one workspace for wiki, docs & projects - From $10/month
+-   [Stripo](https://stripo.email/blog/introducing-stripos-ai-assistant-evolutionizing-editor-for-email-campaigns) - Free AI Assistant / AI-powered email creation / Automated content generation / Brand-aligned campaigns - From $20/month
+-   [Carepatron](https://www.carepatron.com) - Free forever / All-in-one EHR & Practice Management / AI-native platform - From $9.50/month
+-   [HakkoAI](https://www.hakko.ai) - Free / Real-time game assistance / Emotional companionship
+-   [Mindgrasp AI](https://mindgrasp.ai) - 4 day free trial / AI powered notes / flashcards & quizzes / AI tutor - From $9.99/month
+-   [Monica](https://monica.im) - 40 daily basic model accesses / AI Chat / Copywriting / Smart Reading - From US$8.3/month
+-   [NoteGPT](https://notegpt.io) - 15 quotas/month free / AI Summary for Long Videos, Articles and Text / Q&A and Chatting with AI Assistant / YouTube Video Timestamped Transcript - From $9.99/month
+-   [RevisionDojo](https://www.revisiondojo.com) - Practice questions, study notes & flashcards / AI feedback & explanations / Mock exam generator
+-   [Coda](https://coda.io) - Free plan / Collaborative docs / Integrated apps & data / AI assistance - From $10/month per Doc Maker
+-   [LabEx](https://labex.io) - 3 virtual machines per day / Hands-on labs / AI assistance - From $99.9/year
+-   [Ninja AI](https://myninja.ai) - 6 tasks per day / Research & Writing / Code Generation & Debugging / Image Generation & Editing - From $5/mo
+-   [The StoryGraph](https://thestorygraph.com) - Free / Simple tracking and insightful stats / Smart personalised recommendations / Discover books by mood
+-   [Airtable](https://airtable.com/ai) - Free plan with 250 AI credits/user / AI-powered app building / Data analysis & web research - From $24/seat/month
+-   [Chat & Ask AI](https://askaichat.app) - AI Chatbot / AI Image Generator / AI Chat PDF
+-   [Merlin AI](https://www.getmerlin.in) - 102 free queries daily / Research, Write, Summarize in 1-click / Summarize videos, articles, PDFs, and websites / Write emails and social media content - From $19/month billed annually
+-   [Tarotap](https://tarotap.com/en/tarot-reading) - 1 free reading/day / AI Tarot Reading / Online Card Drawing - From $12.99/month
+-   [Nova - AI Chatbot](https://novaapp.ai) - 3-day trial / AI Chatbot / AI Writing Assistant / Homework Helper
+-   [Study Fetch](https://studyfetch.com) - AI Flashcards / AI Quizzes / AI Tutor
+-   [Anthropic](https://www.anthropic.com/claude) - Free for everyone / Advanced reasoning / Code generation / Multilingual processing - From $17/month
+-   [Roxy - AI Voice companion](https://itunes.apple.com/app/id6737482921) - Hands-Free AI voice chat / Natural conversational interactions / Language practice & translation - From $9.99/month
+-   [Jenni AI](https://jenni.ai) - 200 AI autocompletes day / AI Autocomplete / Chat to Your Research - From $12/month
+-   [Craft](https://craft.do) - 10 documents + 2 weekly, 50 AI requests/month / Notes, Tasks, and Big Ideas / On-device AI - From $1.99/month
+-   [Kagi Search](https://kagi.com) - 100 searches & Standard AI free / No ads. No tracking. No compromise. / Deep, powerful search. - From $5/mo
+-   [Z.ai](https://chat.z.ai) - Free / AI for Presentations / Writing / Coding / No Login
+-   [LlamaIndex](https://www.llamaindex.ai) - Free 10K credits / Build Knowledge Assistants / GenAI-native document parsing - From $50/month (50K credits)
+-   [Sider](https://sider.ai) - 30 Basic Credits/Day / AI Chat, Reading & Writing Assistance, Image Generation - From US$ 8.3/month
+-   [Abacus.AI](https://abacus.ai) - Effortlessly Embed Cutting Edge AI / AI Engineer builds applied AI systems / Automate your enterprise with AI building AI
+-   [Motion](https://usemotion.com) - Free trial / AI Task Planner / AI Project Manager / AI Calendar - From $19/month
+-   [Lindy](https://lindy.ai) - 400 Credits / 400 Tasks / Build AI agents / Automate workflows / 3000+ integrations - From $49.99/month (5,000 Credits)
+-   [Fyxer AI](https://www.fyxer.com) - 7 Day Free Trial / Organizes your inbox / Drafts extraordinary emails / Writes better-than-human meeting notes - From $30/user/month
+-   [Canny](https://canny.io) - 25 tracked users free / Collect & Organize Feedback / AI Feedback Management - From $19/month
+-   [AI at Meta](https://www.meta.ai) - Free / AI assistant for tasks / AI-generated images / Personal AI via voice conversations
+-   [PawChamp](https://paw-champ.com) - 1 month FREE premium / Pawchie AI companion / 24/7 expert chat - From $99.99/year
+-   [Overchat AI](https://overchat.ai) - 4 Messages per Day / Access multiple AI models / Write, chat, and simplify tasks - From $4.99/month
+-   [PopAi](https://popai.pro) - 30 GPT-3.5 questions, 2 GPT-4 questions daily / Chat with documents/PDFs / Create AI presentations / Generate AI images
+-   [Cherry Studio AI](https://cherry-ai.com) - Free for individual users / Multi-model AI assistant / Local data storage for privacy / Personalized knowledge base
+-   [Voilà AI Assistant](https://www.getvoila.ai) - 250 free requests / AI Assistant & Chat / Content Creation & Writing - From $8/month
+-   [GitMind](https://gitmind.com/ai-chat) - Create 10 files / AI Chat / AI Mind Map - From $4.08/month
+-   [Raycast](https://www.raycast.com) - 50 Free AI Messages, 5 Free Notes / Extendable launcher / AI features / Productivity tools - From $8/month
+-   [Chatbox AI](https://chatboxai.app) - Chat with Documents & Images / Code Generation & Preview / Real-Time Web Search & Browsing - From $3.99/Month
+-   [Careerflow](https://careerflow.ai) - One FREE Resume / AI Resume Builder / Automated Job Tracking / LinkedIn Profile Optimization - From $14.41/month
+
+### AI Search Engine
+
+-   [秘塔AI搜索](https://metaso.cn) - No ads, direct results / Comprehensive search & workflow
+-   [Felo](https://felo.ai) - Multilingual AI Search Engine / AI Presentations & Mind Maps / Real-time Answers
+-   [Lenso.ai](https://lenso.ai) - 15 free searches / AI Reverse Image Search / Multi-category image search / Facial Recognition - From S$20.72/month
+-   [Consensus](https://consensus.app) - 10 Pro Analyses per month / AI-powered academic search / Instant insights & topic synthesis - From $11.99/month
+-   [FaceSeek - AI Face Search](https://faceseek.online) - 5 tokens replenished every day / Reverse Face Search / AI Video Tools - From $7.9 for 15 tokens
+-   [iAsk.Ai](https://iask.ai) - Precise, Factual, Unbiased Answers / Free ChatGPT-like Answer Engine
+-   [Helpjuice](https://helpjuice.com) - Free 14 Day Trial / AI-Powered Knowledge Base / Self-Service Portal / No Credit Card Required - From $200/mo for 16 Users
+-   [Predictice](https://predictice.com) - 7-day free trial / Legal research and case law analysis / AI Assistant for legal questions
+-   [SaveDay](https://save.day) - Fewer than 5 key point/Q&A credits per month / AI quick capture / AI Search / Article/YouTube summarizer / No register - From $3.91/month
+-   [Semantic Scholar](https://www.semanticscholar.org) - Free / AI-powered research tool / Discover relevant research / Augmented reader
+-   [Inven](https://inven.ai) - Free trial / Find M&A targets 10x faster with AI / Comprehensive company data
+-   [Keychain](https://www.keychain.com) - Free for brands, always / AI-Powered CPG supply chain management / Connect with vetted manufacturing partners / Create products instantly with AI
+-   [GoLinks](https://www.golinks.io) - Free up to 20 users / Secure, intuitive short links / AI-powered knowledge discovery - From $4/user/month
+-   [Juicebox (PeopleGPT)](https://juicebox.work) - Limited free searches / AI-powered natural language people search / Contact details & AI email outreach / AI-powered candidate review - From $79/month
+-   [Exa](https://exa.ai) - Free $10 in credits / Web search / LLM answers - From $1 per 1k pages
+-   [PromptHero](https://prompthero.com) - Search millions of AI art images / Search prompts for AI models
+-   [Pinecone](https://www.pinecone.io) - Free up to 2GB storage / Vector database for knowledgeable AI / Performance at scale - From $25/month
+-   [Flim](https://flim.ai) - 3 downloads/day (720p) / Search for images from Movies, TV Series, Ads and Music Videos / AI-powered search and recommendations - From €12.90/month
+-   [Prefixbox](https://prefixbox.com) - 14 day free trial / AI Search & Discovery / AI Recommend / AI Navigation - From € 1,250/month
+-   [Everypixel](https://www.everypixel.com) - AI-powered search across 50+ stock image websites / Search by image, color, orientation, and type / Compare image prices
+-   [Archive](https://archive.com) - / Automatic UGC Collection / AI-powered UGC Search -
+-   [Algolia](https://www.algolia.com) - 10k search requests / month & 1M records free / AI-powered Search / AI Recommendations / Crawler
+-   [Cyanite.ai](https://cyanite.ai) - Free testing available until Feb 28! / AI Music Tagging / Similarity Search / Free Text Search
+-   [Asseter.AI](https://asseter.ai/scout) - 10 searches per month free / AI-powered search for 3D assets by picture / Completely visual and artist-friendly search - From $5/month
+-   [Kagi Search](https://kagi.com) - 100 searches & Standard AI free / No ads. No tracking. No compromise. / Deep, powerful search. - From $5/mo
+-   [Meilisearch](https://www.meilisearch.com) - 14-day free trial / Lightning-fast search / AI-powered hybrid capabilities - From $30/month
+-   [CleverAI](https://www.cleverai.ai) - 7-day free trial / AI Chat / Image Generation / Smart Search - From $19.99/month
+-   [Qdrant](https://qdrant.io) - 1GB free forever cluster / High-Performance Vector Search / Cloud-Native Scalability - Starting at $0
+-   [PubCompare](https://pubcompare.ai) - Free 1 user / AI-Powered Protocol Comparator / Largest database of trusted experimental protocols - From 19.95 €/month
+-   [Jina AI](https://jina.ai) - 10 Million tokens free / Embeddings / Rerankers / Deep Search / No credit card or registration required - From $50 for 1 Billion tokens
+-   [LLMrefs](https://llmrefs.com) - 1 Keyword free / Track keyword rankings in AI search engines / Optimize AI SEO performance / No credit card required - From $79/month
+-   [Zilliz](https://zilliz.com) - Free 5 GB storage, 2.5M vCUs per month / Fully managed Milvus / Billion-scale vector search - From $0.3/GB per month
+-   [Devv AI](https://devv.ai) - Free tier / AI search engine for developers / Contextualized search with GitHub repos / Chat with AI for code/docs
+-   [Shaped](https://www.shaped.ai) - AI search, recommendations, and personalization / Real-time, configurable relevance engine
+-   [Jobtensor](https://jobtensor.com) - Free account / AI Smart Search / Job DNA
+-   [XX.AI](https://www.hixx.ai) - 100 credits daily / 15 Top AI Models All In One / AI Writing Assistant - From $9.99/month (billed annually)
+-   [Luigi's Box](https://www.luigisbox.com) - 30-day free trial / AI-powered Site Search / Personalized Recommendations / Product Listing
+-   [Bettermode](https://bettermode.com) - Free 100 Members, 20 Spaces / Customizable community platforms / AI-powered engagement / Tons of integrations - From $49/month
+-   [MyScale](https://myscale.com) - 5M vectors free / SQL Vector Database / High-Performance & Cost-Efficient - From $68/month
+-   [Curiosity AI](https://curiosity.ai) - Free plan (Up to 5 apps), 14-day free trial / AI search for everything / Integrates with all your apps - From €8/month
+-   [Picarta](https://picarta.ai) - Free 3 Searches / day / Photo Location Search using AI / Image Geolocalization using AI - From $59.99/month
+-   [Createthat.ai](https://www.createthat.ai) - 7-day free trial / AI-powered asset discovery / Unlimited Royalty-Free Assets - $19/month
+-   [Scite](https://scite.ai) - 7-day free trial / Discover and understand research articles / See supporting or contrasting evidence
+-   [SearchUnify](https://www.searchunify.com) - Unified Cognitive Platform / Enterprise Search / AI-powered Customer Support
+-   [Ragie](https://www.ragie.ai) - Free 30-day Pro Trial / Fully managed RAG-as-a-Service / Streamlined ingestion & multimodal indexing
+-   [Geneo](https://geneo.app) - 50 Credits, 3-Day Free Trial / Multi-Platform AI Monitoring / AI-Powered Sentiment Analysis - From $39.9/month
+
+### AI Productivity Tools
+
+-   [Brain.fm](https://www.brain.fm) - 14-Day Free Trial / Focus music for distraction-free work / Stimulates brain for sustained attention - From $9.99/month
+-   [Dooray!](https://gov-dooray.com) - Free plan for up to 25 users / All-in-one collaboration / Project management / Messenger & Mail - From ₩2,500/month per person
+-   [Nifty](https://nifty.ai) - 7-day free trial / Crosslisting / Automation / Analytics - From $25/month
+-   [Fabric](https://fabric.so) - AI-powered self-organizing workspace / AI search and thinking partner
+-   [Notion](https://www.notion.so) - Unlimited for individuals / AI assistant / All-in-one workspace for wiki, docs & projects - From $10/month
+-   [Whimsical](https://whimsical.com) - Free 3 team boards, 100 AI actions / Unite teams, tasks, and tools / Infinite canvas for diagrams, wireframes, whiteboards - From $10/Month/Editor
+-   [Apowersoft](https://apowersoft.com) - Record, Edit & Convert Multimedia / Screen Recording & Phone Mirroring - From $4.99/month
+-   [TinyWow](https://tinywow.com) - No Limits / PDF, video, image, AI write tools / No Sign-Up Required - From $5.99/month
+-   [Coda](https://coda.io) - Free plan / Collaborative docs / Integrated apps & data / AI assistance - From $10/month per Doc Maker
+-   [iWeaver](https://www.iweaver.ai) - Free 3 queries per day / AI Summarizer / AI Workflow Automation - From $9.9/month
+-   [Kroolo](https://kroolo.com) - Free Trial / AI-powered Productivity Management / Manage Projects, Tasks, Goals, Documents / 40+ Custom AI Agents
+-   [Atera IT Autopilot](https://www.atera.com/ai/autopilot) - Free trial / AI agents for Autonomous IT / Reduce IT workload by 40% - Contact for Pricing
+-   [Simplified](https://simplified.com) - Free Forever plan with 5000 AI words / AI Content Creation / Social Media Management - From $29/month
+-   [Studyflash](https://studyflash.ai) - Free for the first deck / AI creates scientifically optimized flashcards / Efficient study with best learning algorithms - From 5€/month (yearly subscription)
+-   [Rize](https://rize.io) - One day data retained free / AI-powered time tracking / Improves focus & work habits - From $9.99/month
+-   [1min.AI](https://1min.ai) - Free 450,000 credits/month / All-in-one AI App / Text, Image, Audio, Video AI tools - From $6.5/month for 1,000,000 credits
+-   [Reclaim.ai](https://reclaim.ai) - Free forever Lite plan / AI-powered auto-scheduling / Focus Time defense / Meeting optimization - From $10/month
+-   [AIPRM](https://www.aiprm.com) - High Quality AI Prompt Library / Private Prompts for You and Your Team / Live Crawling - From $20/month
+-   [Rayyan](https://www.rayyan.ai) - Free tier available / AI-Powered Screening / Deduplication / Collaborative Workbench
+-   [Unitlab](https://unitlab.ai) - Free forever (1K Auto-Labeling/month) / AI-powered Auto-Annotation / Real-time Collaborative Annotation - From $99/month
+-   [Leapsome](https://www.leapsome.com) - 14-day free trial / AI-powered HR software / unified HR processes / performance & engagement - From $199/month
+-   [PixieBrix](https://www.pixiebrix.com) - Free 100 Premium API credits, 5,000 PixieBrix database records / AI productivity tools / Web app customization - From $5/month per user
+-   [Kuse](https://kuse.ai) - Chat files, links & videos / Generate insights and actions / No Login
+-   [GPT Workspace](https://gpt.space) - GPT-4o and Gemini in Google Workspace / Transform data in Google Sheets / Perfect content in Google Docs / No Login or Sign Up required - From $19/month
+-   [Motion](https://usemotion.com) - Free trial / AI Task Planner / AI Project Manager / AI Calendar - From $19/month
+-   [Spike](https://www.spikenow.com) - 10 AI queries free / AI-powered email / Conversational email / Unified inbox - From $4/member/month
+-   [Bridge.audio](https://www.bridge.audio) - AI-powered autotagging / Collaborative audio workspace / Commission-free sync marketplace
+-   [Wondershare](https://wondershare.com) - Free PDF Reader & Online Tools / AI-powered video & content creation / Comprehensive PDF & diagramming tools - From $1.58/month
+-   [Anvsoft](https://anvsoft.com) - Free Video & PDF Tools / AI Video & Photo Enhancement / Video Conversion & Editing
+-   [Araby AI](https://www.araby.ai) - Cutting-edge AI tools in Arabic & English / AI-powered content creation / Code generation - From $8.99/month
+-   [Guideflow](https://guideflow.com) - 5 guideflows free / Create interactive demos / AI Demo Automation - From $35/month (unlimited guideflows)
+-   [200+ ChatGPT Mega-Prompts for Solopreneurs](https://godofprompt.ai/solopreneurs-mega-prompts) - 10 Free Mega-Prompts / 200+ ChatGPT Mega-Prompts for Solopreneurs / Run your one-person business on autopilot - From $37.00 for 200+ writing mega-prompts
+-   [Toolsmart YouTube to MP3 Converter](https://www.toolsmart.ai/feature-youtube-to-mp3) - Unlimited Downloads / Convert YouTube videos to MP3 / Fast Conversion / No Signup Required
+-   [Routine](https://routine.co) - Free plan with 5 data connectors & 7-day history / All-in-One Work Platform / Connects tasks, calendars, projects, notes, contacts - From $10/month
+-   [SoWork](https://www.sowork.com) - Up to 10 members free / AI-powered Office Assistant Sophia / HD video meetings / Team analytics - From $6.00/member/month
+-   [XX.AI](https://www.hixx.ai) - 100 credits daily / 15 Top AI Models All In One / AI Writing Assistant - From $9.99/month (billed annually)
+-   [Zemith.com](https://www.zemith.com) - 15 Credits Daily / Multi Model AI Chat / AI Powered Search / AI Enhanced Note Taking - From $5.99/month
+-   [Rube by Composio](https://rube.app) - / Actions across 600+ apps in AI chat / Seamless authentication & tool selection / Universal Intelligence -
+-   [AnyGen](https://www.anygen.io/home?invitation_code=NHWOEFOZ5XG99U9) - 200 daily credits / AI slides / AI document - From $23/month
+-   [Team-GPT](https://team-gpt.com) - Free trial / Collaborative AI workspace / Multiple AI models & prompt organization / Scale on-brand content - From $25/user/month
+-   [PopAi](https://popai.pro) - 30 GPT-3.5 questions, 2 GPT-4 questions daily / Chat with documents/PDFs / Create AI presentations / Generate AI images
+-   [Effy AI](https://www.effy.ai) - 5 persons free / AI-powered performance reviews / AI summarizing results - From $2.50/person/month
+-   [Ponder AI](https://ponder.ing) - Try for free / Build Structured knowledge / Think Together with AI
+-   [Landmark Labs](https://www.landmarklabs.co/notion-business-os) - Projects & Campaigns Management / Financial Tracking & KPI Charts - From $12/month for 100+ Notion templates
+-   [AppFlowy](https://www.appflowy.io) - AI collaborative workspace / Data ownership & privacy / Customizable & easy-to-use / No Sign-Up
+-   [Raycast](https://www.raycast.com) - 50 Free AI Messages, 5 Free Notes / Extendable launcher / AI features / Productivity tools - From $8/month
+-   [LINER AI](https://getliner.com) - 14-day free trial / AI-powered search / Web & PDF Highlighting - From $15.99/month
+-   [Docswrite](https://docswrite.com) - 10 exports free trial / Export Google Docs to WordPress / Automate Publishing / SEO Optimized Content - From $29/month
+-   [Aiqbee](https://www.aiqbee.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3381)- 30 days free trial + From $15/month / Give any AI tool persistent organizational context.
+-   [EVY - your AI co-creator](https://evy.so/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3252)- Freemium + From $19/month / Work feels easy, with EVY. (Voice OS for Mac)
+-   [Good Assistant](https://good-assistant.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3225)- 7 days free trial + From $29.99/month / Your AI companion for achieving what matters most.
+-   [Kin - Personal AI Advisors](https://mykin.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3108)- 100% Free / Privacy-first & designed your for mind, and life at work
+-   [Knowledge Plane](https://knowledgeplane.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3261)- Freemium + From $19/month, No Refunds / Shared memory for AI agents and teams.
+-   [ScreenJournal AI](https://screenjournal.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3372)- 14 days free trial + From $25/month, No Refunds / AI-powered employee monitoring that turns screen data into productivity insights
+-   [Affintv1.1.1](https://affint.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2759)- 14 days free trial + From $20/month, Users can request refunds only during the complimentary 2-week trial (before it ends) / The First AI-Native Workspace
+-   [NBot AI](https://nbot.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2898)- Freemium + From $9.99/month / Your personal AI radar that surfaces what matters
+-   [Norton Neo Browser](https://neobrowser.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2901)- 100% Free / The first safe AI-native browser.
+-   [PlanWiseNow](https://planwisenow.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2723)- Free Trial + From $5.99/month, Users can request a full refund within 30 days of the initial purchase if they’re a first-time subscriber / Productivity + Finance + AI in one app.
+-   [Recal](https://tryrecal.com?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2816)- Freemium + From $14/month, 14-day money-back guarantee for first-time subscribers / Your AI-powered second brain that captures everything important.
+-   [RiffOn](https://riffon.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2895)- 100% Free / Discover podcast insights that matter daily.
+
+### AI Agent
+
+-   [Apify](https://apify.com) - Free $5 credit / Web scraping / Data extraction / Automation - From $39/month
+-   [HARPA AI](https://harpa.ai) - Free up to 10 messages/day & 100 AI command runs / Automate online work / Summarize web pages & videos - From $13.2/month
+-   [HubSpot](https://hubspot.com) - Marketing, Sales, Service, and CRM software / AI-powered platform - From SGD 1,120/mo (includes 3 seats)
+-   [n8n](https://n8n.io) - / AI-powered workflow automation / Code & no-code flexibility / Self-host or cloud deployment - From $20/month
+-   [Clay](https://www.clay.com) - 1.2K credits/year free / 100+ data providers / web scraping / AI message drafting - From $149/month
+-   [LuxAlgo](https://www.luxalgo.com) - Free tools / AI trading indicators / AI backtesting - From $24.99/month
+-   [Replit](https://replit.com) - Replit Agent trial included / 3 development apps / AI-powered app development / Cloud IDE & Deployment - From $20/month
+-   [Writer](https://writer.com) - 14-day free trial / AI writing platform for teams / End-to-end agent builder platform / No credit card required - From $29/month
+-   [Zapier](https://zapier.com) - 100 tasks per month / AI Workflows / AI Agents / AI Chatbots - From $19.99/month
+-   [Attio](https://attio.com) - 14-day free trial / AI-native CRM / Adaptive data model / Powerful automations & reporting
+-   [Kiro](https://kiro.dev) - 50 interactions per month free / Spec-driven development / Agent hooks / Multimodal chat - From $19/mo. per user
+-   [LambdaTest](https://www.lambdatest.com/kane-ai) - 60 Min/Month Freemium Plan / GenAI-Native Test Agent / Natural Language Test Authoring - From $15/month
+-   [OpenPhone](https://www.openphone.com) - 7-day free trial / Customer calls, texts, and contacts in one app / AI-powered answering agent (Sona) / Team collaboration - From $15/user/month (billed annually)
+-   [Jotform AI Agents](https://www.jotform.com/try/ai-agents) - 5 AI Agents / 24/7 Customer Service / Automated Customer Service - From $34/month
+-   [Omakase Voice AI](https://www.omakase.ai) - Free / Voice-Powered Sales AI Agent / Drives Real Sales / Effortless Setup / No Credit Card Required
+-   [Tidio](https://www.tidio.com) - Free plan available with 7-day trial / AI Customer Service Chatbot / Live Chat / Flows / No credit card required - From $24.17/month for 100 Billable conversations (billed annually)
+-   [Google Antigravity](https://antigravity.google) - Individual plan $0/month / AI IDE Core / Agent-first development - From $0/month
+-   [Intercom](https://intercom.com) - Free 14 day trial / Human-quality AI Agent / AI-first Customer Service Platform - From $29/seat per month
+-   [Vidyard](https://vidyard.com) - 5 videos per month / Personalized Video Messages / AI-Powered Automation / Video Hosting & Analytics - From $59/month
+-   [Ninja AI](https://myninja.ai) - 6 tasks per day / Research & Writing / Code Generation & Debugging / Image Generation & Editing - From $5/mo
+-   [Triple Whale](https://www.triplewhale.com) - Free / AI-powered insights / One source of truth / Real-time data - From $149/month
+-   [Tunee AI](https://www.tunee.ai) - / Conversational AI music creation / AI music generation /
+-   [BLACKBOX.AI](https://www.blackbox.ai) - Autonomous Coding Agent / Access to all AI models / Web IDE & Integrations to All Local IDEs - From $14.99/month
+-   [Dify.AI](https://dify.ai) - 200 messages free / Orchestrate LLM apps / RAG engine - From $59/month
+-   [Gorgias](https://www.gorgias.com) - Automate support with AI Agent / Centralized Helpdesk / Drive more sales - From $10/month (includes 50 tickets)
+-   [Deepgram](https://deepgram.com) - Free $200 credit / Speech-to-Text / Text-to-Speech / Voice Agent APIs / No credit card required - From $4k/year
+-   [MachineTranslation.com](https://www.machinetranslation.com) - 100,000 free words monthly / World's most accurate AI translator with AI Translation Agent / Compare top LLM and AI translations / No fees or sign-ups required - From $12.75/month
+-   [Qoder](https://qoder.com) - Free Access During Preview, 2-week Pro Trial / Agentic Coding Platform / Enhanced Context Engineering - From $0/month
+-   [Augment Code](https://www.augmentcode.com) - Up to 50 user messages free / Context Engine / MCP & Native Tools / Unlimited Next Edits & Completions - From $50/month
+-   [Glasp](https://glasp.co) - Free 3 YouTube summaries/day / Web & PDF Highlighter / AI Summaries - From $10/month
+-   [JustCall](https://justcall.io) - 14-day free trial / AI-powered phone systems and SMS solutions / Human-like Voice Agent to Handle Incoming Calls - From $29/month
+-   [Pinecone](https://www.pinecone.io) - Free up to 2GB storage / Vector database for knowledgeable AI / Performance at scale - From $25/month
+-   [Chatbase](https://www.chatbase.co) - 100 message credits/month / AI Agents for magical customer experiences / Build & deploy AI Agents - From $40/month
+-   [Taskade](https://www.taskade.com) - Free 150 tasks/month / AI Agents & Workflow Automation / Unified Workspace - From $10/month (billed annually)
+-   [Relevance AI](https://relevanceai.com) - Build your AI Workforce / Automate processes / Deliver human-quality work
+-   [Voiceflow](https://voiceflow.com) - 100 credits free / Build and deploy AI Agents / Collaborative design and prototyping - From $60/month for 10k credits
+-   [Omnichat](https://www.omnichat.ai) - 14-day free trial / Omnichannel Chat Commerce / AI-powered conversational suite
+-   [CodeGPT](https://codegpt.co) - Up to 30 interactions free / AI Coding Assistant / Automate code reviews - From $15/month/Seat
+-   [SleekFlow](https://sleekflow.io) - AI-personalized workflows / Omnichannel Inbox / Automate customer interactions - From S$199/month
+-   [D-ID](https://www.d-id.com) - 14-day trial / Create AI-powered talking avatars / Translate videos into multiple languages - From $14.4/month
+-   [MuleRun](https://mulerun.com) - 50 trial credits refresh everyday / AI Agent Marketplace / Automate your tasks away - From $19.9/month
+-   [LlamaIndex](https://www.llamaindex.ai) - Free 10K credits / Build Knowledge Assistants / GenAI-native document parsing - From $50/month (50K credits)
+-   [Abacus.AI](https://abacus.ai) - Effortlessly Embed Cutting Edge AI / AI Engineer builds applied AI systems / Automate your enterprise with AI building AI
+-   [Motion](https://usemotion.com) - Free trial / AI Task Planner / AI Project Manager / AI Calendar - From $19/month
+-   [Lindy](https://lindy.ai) - 400 Credits / 400 Tasks / Build AI agents / Automate workflows / 3000+ integrations - From $49.99/month (5,000 Credits)
+-   [Toolhouse](https://toolhouse.ai) - Complete cloud infrastructure for LLMs / Built-in function calling & agentic setup / Deploy agents as APIs with RAG, evals, memory
+-   [Arena](https://arena.im) - Free plan / AI-powered Community / Live Blog / Group Chat - From $49/month
+-   [YourGPT AI](https://yourgpt.ai) - 7-day free trial / Build custom AI agents / Improve customer support & engagement - From $49/month
+-   [Browser Use](https://browser-use.com) - Unlimited API access / Make websites accessible for AI agents / Automate browser interactions - From $0/month
+-   [Atomic Bot](https://atomicbot.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3234)- Freemium + From $25/month, 7-day money-back. Cancel anytime. / Run OpenClaw/Clawdbot in one click
+-   [Mio – Your AI Phone Assistant](https://mio.gg/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3324)- Free Trial + From $5/unit, No Refunds / Never make a phone call again.
+-   [OsirisBrain](https://osirisbrain.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3489)- Freemium + From $99/year / An AI expert for everything you do.
+-   [Pamela](https://www.thisispamela.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3468)- Freemium + From $16/month, No Refunds / Take back control of your time.
+-   [Gobii](https://gobii.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2553)- Freemium + From $50/month, No Refunds / Create digital workers that automate web tasks 24/7.
+
+### AI Presentation Generator
+
+-   [MiriCanvas](https://www.miricanvas.com) - Free for 2 weeks / AI-powered design / Advanced photo editing tools
+-   [Pitch](https://pitch.com) - Free up to 5 members / Unlimited presentations / AI presentation creation - From $20/month for 2 editors
+-   [Felo](https://felo.ai) - Multilingual AI Search Engine / AI Presentations & Mind Maps / Real-time Answers
+-   [Prezi](https://prezi.com) - 14-day free trial / AI presentations / engage your audience - From $4/mo
+-   [Slidebean](https://slidebean.com) - Free unlimited presentations / AI Pitch Deck Creator / Pitch Deck Design Services - From $12/mo
+-   [MyMap](https://mymap.ai) - Turns text ideas into visuals / AI-powered chat interface
+-   [Presentations.AI](https://presentations.ai) - Free with limited AI credits / AI-powered presentation creation / Stunning decks - From $40/year for up to 10 members
+-   [Xavier AI](https://www.xavier.ai) - 50 AI slides/month / Generate consulting-style decks in seconds / Adapt to your firm’s branding and style - From $19/Month/user
+-   [Journey](https://journey.io) - Up to 2 Journeys free / AI-powered content generation / Interactive content blocks / Detailed insights - From $39/month
+-   [Gamma](https://gamma.app) - Free 400 AI credits at signup / Generate AI Presentations / Webpages & Docs / Effortless Design - From $16/user/month
+-   [PicDoc](https://www.picdoc.ai) - Free during beta / Turn text into stunning visual infographics / Generate charts, flowcharts, and mind maps
+-   [SlidesAI](https://www.slidesai.io) - 12 Presentations / year free / Create Presentation Slides with AI / Works with Google Slides / No Sign-Up - From S$6.48/month
+-   [Boardmix](https://boardmix.com) - Free 3 editable boards / AI-powered features / Integrates various digital tools - From $4.9/member/month
+-   [FunBlocks AI](https://funblocks.net) - 30 free AI accesses + 10 daily / AI-powered mind mapping / All-in-one AI Workspace
+-   [Plus AI](https://plusai.com) - 7-day free trial / Generate AI presentations / Edit slides with AI - From $10/month
+-   [Autoppt](https://autoppt.com) - 1 AI PPT generation / 5 GPT-3.5 uses per day / AI PowerPoint Generator / Document to AI slides conversion - From $12.49/month
+-   [SlidesGPT](https://slidesgpt.com) - 10 downloads/month free / Create presentations from prompt / Export to PowerPoint & Google Slides / No registration - From $9.99/month
+-   [MagicSlides.app](https://www.magicslides.app) - 3 Presentations / month / AI-powered presentation creation from various sources / Integrates with Google Slides, Figma, ChatGPT - From $6.7/month
+-   [AiPPT](https://www.aippt.com) - 6 total generations / AI-Powered One-click PowerPoint Generation / Generate from various inputs (text, documents, URL) - From US$ 5.0 /month
+-   [Presenti AI](https://presenti.ai) - AI presentation generation / Convert various file types to slides - From $10/month
+-   [Supademo](https://supademo.com) - 5 Supademos included, 14-day free trial / AI-powered interactive demos / Personalize at scale / No account required - From $27/month
+-   [Choladeck](https://choladeck.com) - 50 Free Slides, 50 Icons, 100 Stock Images / 9870+ Unique Slides & 159 Categories / Compatible with PowerPoint, Keynote, and Google Slides / No Sign-in or Credit Card Required - From $29/month
+-   [SlidesPilot](https://www.slidespilot.com) - AI Presentation Generator / AI Image & Copilot / PDF & Word to PPT
+-   [Layerpath](https://www.layerpath.com) - 3 Projects / Interactive Product Demo Creation / AI Demo Agent - From $0/month
+-   [Smallppt](https://www.smallppt.com) - 1 AI PPT generation, 5 GPT-3.5 uses/day / AI Presentation Maker / AI Writing / AI Summarizer - From $12.49/month
+-   [Arcade](https://www.arcade.software) - Free 1 user, 3 published Arcades / Create interactive demos in minutes / Tailored storytelling at scale - From $32/month
+-   [Tenorshare AI](https://ai.tenorshare.com) - AI Humanizer / AI PDF Summarizer / AI Writer
+-   [PPT AI](https://ppt.ai) - Free 3 presentations per month / AI Presentation Maker / Free Professional Templates - From $3.9/month
+-   [Z.ai](https://chat.z.ai) - Free / AI for Presentations / Writing / Coding / No Login
+-   [SketchBubble AI Presentation Maker](https://www.sketchbubble.com/en/ai-presentation-maker) - Free / Generate Slide Decks with AI / Export to PowerPoint and Google Slides
+-   [PageOn.ai](https://www.pageon.ai) - Create up to 1 file free / AI-driven dynamic visuals / Interactive charts, diagrams, 3D models - From $14.99/month
+-   [NextDocs](https://www.nextdocs.io) - 200 AI credits free / AI Document & Slide Creation / Automated Formatting & Design - From $20/month
+-   [Prezent](https://prezent.ai) - Free trial / AI-powered content creation / data transformation tools / expert services
+-   [Wonderslide](https://wonderslide.com) - 3 presentations to create and share free / Create great-looking slides in seconds / Thousands of professionally-designed templates - From $3.00/month
+-   [Plus AI](https://www.plusdocs.com) - 7-day free trial / AI presentation generation / AI editing in Google Slides & PowerPoint - From $10/month
+-   [PoweredTemplate](https://ai.poweredtemplate.com) - 400 credits for free registered users / AI-powered presentation creation / Customizable slides & multiple download formats
+-   [AnyGen](https://www.anygen.io/home?invitation_code=NHWOEFOZ5XG99U9) - 200 daily credits / AI slides / AI document - From $23/month
+-   [SlideAI](https://slideai.net) - Automatic Content Generation / Unique and Tailored Content
+-   [uPresenter](https://upresenter.ai) - 250 AI credits at signup / AI-powered presentations and quizzes / seamless sharing and engagement tracking - From $5/month
+-   [Pi-智能演示文档](https://pi.deepvinci.tech) - AI-powered PPT generation / Smart layout & design / Multi-format content integration
+-   [笔格AIPPT](https://bigesj.com/ai-ppt/?hmmd=toolify) - AI one-click PPT generation / AI one-click smart layout / Documents instantly turn into PPT
+-   [Beautiful.ai](https://www.beautiful.ai) - 14-day free trial / AI-powered presentation software / Automate presentation design - From $12/month
+-   [Fable](https://www.sharefable.com) - 1 published demo / AI-Powered Demos / Create demos in 5 minutes / Dynamic personalization - From $40/creator/month
+-   [FlashDocs](https://flashdocs.com) - Free 10,000 layouts & 20 templates / Generate Google Slides & PowerPoint decks via API / Supports Markdown, charts, images, tables
+-   [Twistly](https://twistly.ai) - Create presentations in PowerPoint / Convert content to slides / Enhance slides with AI
+-   [WorkPPT](https://ppt.softtooler.com) - 1 AI PPT generation, 1 AI summarizer usage free / AI Presentations / AI Summarizer - From $19.99/Month
+-   [AI PPT Maker](https://aipptmaker.ai) - 100 credits/month / Generate professional PowerPoint presentations / Convert various content types / No Sign-Up required - From $4.9/month
+-   [SlidesOrator](https://www.slidesorator.com) - 100 credits/day, 3 documents free / 3D Avatar AI presentation / AI Avatar Narration / Interactive Q&A - From $20/mo
+-   [ChatSlide](https://drlambda.ai) - Convert images, PDFs, or links into slides, videos, podcasts, or social posts / AI-powered content generation - From $9.9/month
+-   [Dokie: AI Presentation Maker](https://dokie.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3099)- Freemium + From $17/month, No Refunds / Your AI presentation agent for instant professional slides.
+
+### AI Notes Generator
+
+-   [Knowt](https://knowt.com) - Free / AI Study Tools for Notes, Flashcards & Summaries / Unlimited Free Study Modes
+-   [Heidi Health](https://www.heidihealth.com) - Free with 10 Pro actions / Transcribes visits & generates notes / Custom templates / Multilingual - From $99/month
+-   [Klangio](https://klang.io) - 20 seconds free / Transcribe Music into Notes / Create Sheet Music, TABs, MIDI and MusicXML
+-   [Upheal](https://upheal.io) - Unlimited notes free / AI progress notes / Treatment plans with SMART goals - From $39/month
+-   [Freed](https://getfreed.ai) - 7 day free trial / AI medical scribe / Instant clinical documentation - From $99/month
+-   [HandtextAI](https://handtextai.com) - 5 generated pages free / Transform digital text into authentic-looking handwritten notes / 90 handwritten fonts - From $5.99/month
+-   [NoteGPT](https://notegpt.io) - 15 quotas/month free / AI Summary for Long Videos, Articles and Text / Q&A and Chatting with AI Assistant / YouTube Video Timestamped Transcript - From $9.99/month
+-   [Saner.AI](https://saner.ai) - 30 AI messages & requests/month / AI-powered capture & organization / Generate insights / Designed for ADHDers - From $8/month
+-   [Eduzen](https://eduzen.ai) - Free 3 uses per feature monthly / Flashcards / Quizzes / Mind Maps / No Sign-Up - From $7.00/month
+-   [mdhub](https://www.mdhub.ai) - Automated Clinical Notes / AI Intake Coordinator
+-   [Mem](https://mem.ai) - AI-powered note organization / AI Chat for answers & content drafting / Instantly searchable knowledge base
+-   [MemoMaru](https://apps.apple.com/jp/app/memomaru-speak-memo-emojify/id6474889979) - Unlimited memo creation / Swift voice recordings / AI-generated titles, emojis, emotions, categories - From $4.67/month
+-   [Minutes AI](https://myminutes.ai) - Automate meeting audio notes with AI / Instantly create formatted notes and transcriptions / Chat with your audio
+-   [HoverNotes](https://hovernotes.io) - 20 minutes of AI Video Notes included / AI-powered notes / Obsidian integration - From $9.99/mo
+-   [LoveStudy.ai](https://lovestudy.ai) - 30 Free Credits / AI Flashcards / Quiz & Notes / No Login required for 15 credits - From $4.9/month
+-   [Pixno](https://photes.io) - 30 credits per month (about 3 images) / Generate notes from images, docs, audio / AI-powered note enhancement - From $3/month
+-   [Scribeberry](https://scribeberry.com) - 20 uses per month / Ambient AI scribing and dictations / Automatic form filling - From $99/month
+-   [Talknotes](https://talknotes.io) - 7-day free trial / AI voice transcription & structuring / Generate various content formats (transcripts, summaries, emails, etc.) - From $19.97/month
+-   [AutoNotes](https://autonotes.ai) - 30 notes/month free / AI Progress Notes / Automated Treatment Plans - From $25/month for 125 notes/month
+-   [Study Fetch](https://studyfetch.com) - AI Flashcards / AI Quizzes / AI Tutor
+-   [EasyNoteAI](https://easynoteai.com) - Free 3 PDF Upload Per Month / Generate notes from audio, online videos, and PDFs / Automatically create AI note outlines, summaries, and Q&A - From $8.39/month
+-   [VetRec](https://vetrec.io) - 2-week free trial / AI Scribe exclusively for Veterinarians / Save 2 hours - Every. Day. - From $125/month
+-   [TurboLearn AI](https://www.turbolearn.ai) - Free / Instant notes / Interactive flashcards / Personalized quizzes
+-   [SceneSnap](https://scenesnap.co) - Automatic Notes / Smart Summaries / AI Tutor
+-   [Thetawave AI](https://thetawave.ai) - Converts audio, text, files, and YouTube videos into formatted notes / Generates quizzes, flashcards, and mindmaps
+-   [ScribVet](https://scribvet.com) - AI veterinarian scribe creates detailed records / Saves hours on medical records - From $41/month (billed annually)
+-   [Released](https://released.so) - Free 30-Day Trial & Free plan (Up to 10 users, 2,000 AI tokens/user) / Share Jira roadmaps / Publish release notes with AI copywriter - From $0.90/user/month
+-   [Study Potion AI](https://studypotion.ai) - Generates personalized flashcards, notes, quizzes / Chat with Documents
+-   [Scribe AI Notes](https://www.scribenotes.io) - 10 notes & 3 minutes per note free / AI Voice-to-Text Notes / AI Summarization / Automatic Emails - From $4.99/month
+-   [AiSOAP](https://aisoap.com) - 3 days free trial / Accurate, HIPAA-compliant SOAP notes / Automated medical documentation / Customizable SOAP note templates - From $1 for the first month
+-   [Podcast Show Notes Generator](https://www.shownotesgenerator.com) - 1 hour of audio / month free trial / Podcast Show Notes Generation / Social Media Content - From $9/month
+-   [Revix AI](https://revix.ai) - 1 study set, 5 messages with Xara+ free / Smart notes & flashcards / AI Chatbot - From $7.99/month
+-   [SOAPME.AI](https://soapme.ai) - 10 Visits free / Automatic SOAP Notes From The Patient Conversations / Accurate SOAPs - From $99/month
+-   [Text2Note](https://text2note.com) - / Convert text to interactive, color-coded notes / Extract key insights
+-   [ThinkerNotes](https://thinkernotes.com) - 1000 notes / Capture notes & ideas / Extract insights / Create original content - From $12.99/mo
+-   [AI Notes](https://ai-notez.fun) - Unlimited Notes / AI Summary & Analysis / Smart Organization - From ₹100/month
+-   [Opennote](https://opennote.me) - 3 DeepTutor Uses Daily, 5 File Uploads Daily / AI-powered deep research / interactive canvases / video generation - From $15/month
+-   [Dorascribe](https://www.dorascribe.ai) - Free 20 Transcripts/Month / Convert clinical consultations into EMR text / Real-Time Charting for Doctors - From $39/month
+-   [MemoJournal](https://apps.apple.com/de/app/memojournal/id6502835696) - / Voice-to-text journaling / AI-powered text conversion - From 4.29 EUR/month
+
+### AI Jobs
+
+-   [Outlier AI](https://outlier.ai) - Sample task available / Refine Next-Gen AI / Flexible Schedule / Competitive Pay
+-   [Simplify](https://simplify.jobs) - Free / Job Matches / Autofill Applications / AI Resume Builder
+-   [Arc](https://arc.dev) - 2-week risk-free trial / AI recruiter for instant matches / Access vetted global talent / Save up to 58% on hiring - $0 until you hire
+-   [Jobright](https://jobright.ai) - Free trial / AI Job Match / Tailored Resumes / Insider Connections
+-   [6figr](https://6figr.com) - Search Salaries & Benchmark Compensation / Analyze Offer Letters with AI / Auto Apply to Jobs with AI - From $23.99/month
+-   [Loopcv](https://www.loopcv.pro) - Up to 10 applications or emails per month / Automate job searches / Optimize CV with AI / Track applications - From €8.99/month
+-   [Sonara](https://www.sonara.ai) - AI-powered job search automation / Automatically applies for jobs
+-   [Wonsulting](https://wonsulting.com) - Free AI Job Search Tools / Career Coaching / Resume & LinkedIn Revision / No Credit Card Required - From $17/month
+-   [Jobo AI](https://jobo.world) - 5 automated job applications free / AI Agent auto-applies / Deep Job Search - From $9.99 for 30 successful job applications
+-   [LifeShack](https://lifeshack.com) - 14 days free / AI Job Matching / Automatic Applications / Tailored Cover Letters - From $19/month (50 applications)
+-   [Placed App](https://placed.today) - Free Basic Plan / Automated AI Job Search Platform / Tailored Applications & Cover Letters / AI-powered Mock Interviews - From $29.99/month
+-   [Plump](https://plump.ai) - Free plan / AI hiring agent / AI-powered referral network / Advanced job recommendations - From $0/month
+-   [RoboApply](https://roboapply.ai) - 20 applications free / Automate job applications / AI Resume Builder - $10.00 for 50 applications
+-   [Jobsolv](https://www.jobsolv.com) - 5 Free Instant Resume Per Month / AI Resume Tailoring / Job Tracker / Remote Job Listings - From $29/month
+-   [Bulk Apply](https://bulkapply.ai) - Free 1-day trial / Automate Job Applications / AI-powered Job Matching - From $15.99/month
+-   [Ezyapply](https://ezyapply.ai) - Free forever (5 Tailored CVs & 5 Instant Cover Letters) / Cross-Board Job Matches / Tailored Resumes & Cover Letters - From £19.99/Month
+-   [InJob.AI](https://injob.ai) - Free 10 Exclusive Opportunities / Automate Job Search / Personalized Cover Letters - From $1.00 / 1 Cover Letter Credit + 15 Exclusive Job Opportunities
+-   [Reaidy.io](https://www.reaidy.io) - 30 job applies per month / AI Job Matching / AI Interview - From ₹119/month
+-   [WizApply](https://wizapply.app) - AI-Powered Job Matches / Optimize your CV with AI - From $4.95/One-time payment (2,000 AI Credits)
+-   [AIApply](https://aiapply.com) - Free version available / Custom Cover Letters / Resume Rewriting / Auto apply - From $12/month
+-   [Sckian](https://sckian.com) - Free resume analysis / Automate job search with AI / Customize applications to stand out / No credit card required - From $99 one-time for 100 applications
+-   [PathPair](https://www.pathpair.co) - Free self-help tools / Tailored Job Matches / Optimized Resume / Optimized Cover Letter - From $7
+-   [Remotebase](https://remotebase.com) - 2-week free trial / Matches startups with top 1% software engineering talent / Engineers matched within 24 hours / Thoroughly vetted software developers
+-   [Match That Role AI](https://matchthatroleai.com) - AI-powered job matching / Resume optimization / 5-year career action plan
+-   [EarnBetter](https://chromewebstore.google.com/detail/earnbetter-ai-job-search/dipmddknpfmlbdladkhofaimddikfdmc) - Unlimited / AI job search management / Unlimited AI documents / Job tracking & Interview prep
+-   [Jobtensor](https://jobtensor.com) - Free account / AI Smart Search / Job DNA
+-   [LiftmyCV](https://www.liftmycv.com) - 3 CV submissions / Automate Job Search & Auto-Apply / ATS-Friendly Profile Builder - From $14.99 for 200 CV submissions
+-   [Justmatch](https://www.justmatch.wtf) - Completely free for talents / AI-powered skill analysis & data-driven recommendations / Perfect job matches / AI Career Chat - Free for talents
+-   [JobShinobi](https://www.jobshinobi.com) - 14-day free trial / AI-powered email extraction / Efficient job application tracking / Real-time notifications - From $1.99/weekly
+-   [Nxtjob.ai](https://chromewebstore.google.com/detail/nxtjob-ai-linkedin-optimi/oedechpcnjolalnpghbibmadgfjgaopm) - Most features free / AI-powered job change platform / Job Aggregator / LinkedIn Profile Optimizer
+-   [OmniJobs](https://omnijobs.co) - See recent jobs for free, few AI cover letter credits / Find hidden jobs not on LinkedIn / Speed up job search with AI - From SGD 13/month
+-   [OpenTaskAI](https://opentaskai.com) - Sign up for Free / Global AI Talent Marketplace / Connects AI freelancers with business needs - From $5
+-   [JobGPTv1.1](https://6figr.com/auto-apply?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2747)- Free Trial + From $23.99/month / Apply to jobs automatically with AI - land interviews while you sleep.
+
+### AI Meeting Assistant
+
+-   [Otter.ai](https://otter.ai) - 300 monthly transcription minutes / AI meeting assistant records, transcribes and summarizes in real time / Otter AI Chat - From $16.99/month
+-   [Krisp](https://krisp.ai) - Free 60 min/day Noise Cancellation & 2 AI notes/day / Noise Cancellation / AI Note Taker - From $16/month
+-   [Tactiq](https://tactiq.io) - 10 transcripts / mo & 5 AI credits / mo / Bot-free real-time transcripts / AI summaries & action items / Actionable workflows - From $8/month
+-   [Fireflies.ai](https://fireflies.ai) - 800 mins storage/seat & limited AI summaries free / Meeting Transcription / AI Summaries / AI Powered Search - From $10/month, billed annually
+-   [LockedIn AI](https://www.lockedinai.com) - 10 minutes free daily / AI Interview & Meeting Copilot / Coding Copilot
+-   [Read AI](https://www.read.ai) - 5 free meetings per month / Personalized Speaker Coach / AI Summaries & Search - From $15/month
+-   [ScreenApp](https://screenapp.io) - Free 3 AI Credits / AI Notetaker / Transcription / Summarizer - From $14/month
+-   [Fathom](https://fathom.video) - First 5 advanced AI calls/month / Records, transcribes, and summarizes meetings / Automates post-call data entry into CRM - From $15/month
+-   [Yoodli](https://www.yoodli.ai) - Up to 5 Yoodlis / Private, realtime AI speech coaching / Reduce filler words & track progress - From $8 USD / month
+-   [Jump | AI for Financial Advisors](https://jumpapp.com) - AI meeting notes / CRM updates / Smart, syncable tasks - From $75/month (billed annually) for 1 Full seat & 60 AI Outputs
+-   [MeetGeek](https://meetgeek.ai) - Free 3 hours of transcription / mo / records & transcribes meetings / AI summaries - From $15/month
+-   [Speak AI](https://speakai.co) - 7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant - From $15/month
+-   [Noota](https://www.noota.io) - Free 300 min & 10 AI credits / AI-powered meeting assistant / Automates note-taking & custom reports - From $19/month/user
+-   [Bluedot](https://www.bluedothq.com) - 5 meetings lifetime / Record, transcribe & summarize meetings / Automate CRM updates - From $18/member/month
+-   [Avoma](https://www.avoma.com) - 14-day free trial / AI Meeting Assistant / Scheduling & Lead Router / Conversation Intelligence - From $19/user/month (billed annually)
+-   [Mymeet.ai](https://mymeet.ai) - 180 minutes for free, 10 prompts to chat / Transcribe audio and video to text / Automated summary of online meetings with tasks - From $8/month
+-   [Poised](https://poised.com) - Real-Time Feedback / Analyze Trends / Personalized Plan
+-   [Grain](https://grain.com) - 1 notetaker seat / AI Meeting Notes / AI Coaching - From $19/month
+-   [Supernormal](https://supernormal.com) - Free / 1K minutes of storage per member / AI-powered meeting notes / AI-powered summaries - From $10/month billed annually
+-   [Thunai](https://www.thunai.ai) - 100 AI Credits/Month / Automate Support, Sales & Marketing / Smart Knowledge Management - From $9/month
+-   [Sembly AI](https://www.sembly.ai) - 60 mins/month online recording, 60 mins/month upload free / AI-generated meeting minutes and summaries / AI Tasks - From $10/month
+-   [Fellow.app](https://fellow.app) - 5 AI meeting notes & 5 AI recordings per user / AI meeting notes / AI meeting insights / CRM automation / No credit card required - From $7/month
+-   [JotMe](https://www.jotme.io) - 20 minutes of monthly translation / Real-time translation & transcription / AI meeting notes & document generation - From $9/month
+-   [Spinach AI](https://www.spinach.ai) - Unlimited meeting recording, transcription & basic AI free / AI meeting assistant / Records & Transcribes / Automates post-meeting tasks - From $19/user per month
+-   [Circleback](https://circleback.ai) - 7-day free trial / AI-powered meeting notes / AI-powered search - From $20.83/month
+-   [Motion](https://usemotion.com) - Free trial / AI Task Planner / AI Project Manager / AI Calendar - From $19/month
+-   [TwinMind](https://twinmind.com) - Unlimited hours of transcription and AI chats for free / AI Second Brain for capturing and summarizing / Perfect notes and memory recall - From $10/month
+-   [SpatialChat](https://spatial.chat) - 14-day free trial / Free plan (up to 12 users, 2 hrs/day) / AI-Powered Events & Webinars / Immersive Spatial Audio - From $5/month
+-   [Meeting.ai](https://meeting.ai) - 5 hours free credit / Capture, transcribe, and organize meetings / Get organized notes and action items automatically - From USD 19.99/month
+-   [timeOS](https://www.timeos.ai) - Up to 10 AI Meetings / Automated meeting notes / AI scheduling - From $19/month
+-   [DailyBot](https://dailybot.com) - 14-day free trial with unlimited users / Automate daily standups & async check-ins / AI reports & team analytics - From $3/month per user
+-   [Fyxer AI](https://www.fyxer.com) - 7 Day Free Trial / Organizes your inbox / Drafts extraordinary emails / Writes better-than-human meeting notes - From $30/user/month
+-   [Hedy AI](https://www.hedy.ai) - 5 Hours per Month / Real-Time Insights & Recommendations / Multilingual Understanding of 30+ Languages - From $9.99/month
+-   [SoWork](https://www.sowork.com) - Up to 10 members free / AI-powered Office Assistant Sophia / HD video meetings / Team analytics - From $6.00/member/month
+-   [Hyprnote](https://hyprnote.com) - AI note-taking / smart meeting summaries / local AI models for data privacy
+-   [Noty.ai](https://noty.ai) - 7-day free trial / Real-time transcription / AI summaries / Automated Follow-up - From $10/month
+-   [MinutesLink](https://minuteslink.com) - 10 AI-powered call processings per month / Human-accurate meeting minutes / Transcribe 100+ languages - From $9/month
+-   [Vocol AI](https://www.vocol.ai) - Free 200 V-points / AI-powered transcription & summarization / Multilingual support - From $11/month
+-   [Standuply](http://standuply.com) - Free for 3 users / Asynchronous Stand-up & Retrospective Meetings / Automates Agile Processes - From $2/month
+-   [Shadow AI](https://www.shadow.do) - Automates meeting notes & follow-ups / Transforms discussions into actionable results
+-   [BrieflyAI](https://brieflyai.com) - 5 AI Summaries, 5 follow up emails, Unlimited transcribed meetings / AI meeting summaries / action items & follow up emails / real-time meeting transcription - From US$15/month
+-   [AiGenda](https://aigenda.tech) - 150 minutes free / Automatic meeting summaries / Automated transcription - From 990₽/mo (540 minutes)
+-   [Teameet](https://www.teameet.cc) - Free unlimited video meetings / Real-time AI translation / AI meeting summaries & transcription / No Sign-Up
+-   [Landmark Labs](https://www.landmarklabs.co/notion-business-os) - Projects & Campaigns Management / Financial Tracking & KPI Charts - From $12/month for 100+ Notion templates
+-   [Laxis](https://www.laxis.com) - 300 minutes transcription per month / AI Meeting Assistant / AI SDR / Automated Lead Generation - From $9.99/month
+-   [Sonnet AI](https://www.sonnetai.com) - 5 monthly recordings / No-bot audio recording / AI-generated notes - From $15/month for 40 monthly recordings
+-   [Dicte.ai](https://dicte.ai) - 120 min/month free / AI-Powered Voice Recording and Transcription / Smart Standard Meeting Analysis - From €9.92/month
+-   [Eyre](https://eyre.ai) - 10 encrypted video calls, 5 encrypted video meetings, 5 AI meeting summaries free / AI-powered summaries, tasks and transcripts / Private, encrypted EU-based meetings - From $9.95/month
+
+### AI Copilot
+
+-   [Aura](https://aura.com) - 14-day free trial / Identity Theft Protection / Parental Controls - From $10/mo for unlimited kids & devices
+-   [Cursor - The AI Code Editor](https://cursor.sh) - Free 2-week Pro trial, 2000 completions, 50 slow premium requests / AI-powered code completion / Codebase Q&A / Natural language editing - From $20/month
+-   [ParakeetAI](https://www.parakeet-ai.com) - Real-time AI Interview Assistant / Full Coding Interview Support / Multilingual 52 Languages - $29.50 for 3 Interview Credits
+-   [ChatPRD](https://www.chatprd.ai) - AI Copilot for Product Managers / Draft & improve product docs / Coaching on PM skills - From $5/month
+-   [Final Round AI](https://www.finalroundai.com) - Trial up to 5 mins / Real-time Interview AI Copilot / End-to-end Interview Preparation - From $49/MON
+-   [Simplify](https://simplify.jobs) - Free / Job Matches / Autofill Applications / AI Resume Builder
+-   [HIX.AI](https://hix.ai) - 3,000 words (GPT-3.5) / Generate high-quality copies / 120+ AI writing tools / Support 50+ languages - From $19.99/month
+-   [Jobright](https://jobright.ai) - Free trial / AI Job Match / Tailored Resumes / Insider Connections
+-   [LockedIn AI](https://www.lockedinai.com) - 10 minutes free daily / AI Interview & Meeting Copilot / Coding Copilot
+-   [Chat2DB](https://chat2db.ai) - 200 OpenAI calls free trial / AI-powered SQL generation / Multi-database management - From $9.9/month
+-   [Verve AI](https://www.vervecopilot.com) - 15-min Copilot Session x 3 / AI Mock Interviews x 5 / AI Resume Builder / Live Chat Support / Real-time Interview Assistance / AI Mock Interview - From $14.45/month
+-   [MindMap AI](https://mindmapai.app) - 100 free monthly AI credits / AI-powered mind maps / Multi-format input - From $3.74/month
+-   [VidIQ](https://vidiq.com) - Free 3 video ideas, 3 thumbnail generation, 3 keyword research / AI-powered topic & keyword research / Personalized video ideas & view prediction - From $19/month
+-   [Monica](https://monica.im) - 40 daily basic model accesses / AI Chat / Copywriting / Smart Reading - From US$8.3/month
+-   [Interviews Chat](https://www.interviews.chat) - 30 free credits / Real-time AI Interview Copilot / Tailored Interview Practice & Feedback - From $19/month
+-   [Whoz](https://whoz.com) - Free demo / AI-powered project staffing / Talent deployment
+-   [Kami Home](https://kamihome.com) - 3-Day Free Trial / AI-powered Home Safety / 24/7 Emergency Response / Fall Detection - From S$3.33/mo
+-   [LyricStudio](https://lyricstudio.net) - Unlimited suggestions / Rhyme assistance / Writer's block solution - From $3.99/month
+-   [Eraser](https://www.eraser.io) - 5 files, 20 AI diagrams free / AI diagrams / Codebase diagrams that update themselves / Diagram-as-code - From $12/month
+-   [Firebase Studio](https://firebase.studio) - 3 workspaces free / AI-powered full-stack development / End-to-end testing
+-   [BarRaiser](https://barraiser.com) - 5 Interviews free / AI-powered video interview intelligence / Unbiased interviews / Automated feedback & note-taking - From $75/interviewer/month
+-   [Hex](https://hex.tech) - 14 days free trial / Collaborative AI-powered workspace / Notebook-based data exploration / Interactive data apps - From $36 per Editor/month
+-   [Bardeen AI](https://www.bardeen.ai) - Free 100 credits per month / AI-powered workflow automation / 200+ Integrations - From $99/month
+-   [Sourcegraph](https://sourcegraph.com/cody) - 200 chats and commands per month / AI Editor Assistant / Code Search - From $9/month
+-   [Gojiberry AI](https://www.gojiberry.ai) - 7 days free trial / AI Meeting Notes & Summaries / AI Deals Follow-ups / CRM Updates - From $29/month
+-   [Amplemarket](https://amplemarket.com) - Free trial / AI Sales Copilot / Intent Signals / AI-driven research - $600/mo for 2 users and 30,000 contacts
+-   [Banani](https://www.banani.co) - AI-powered UI design tool / Generate UI from Text / Create wireframes and high-fidelity designs fast
+-   [Bind AI](https://www.getbind.co) - 3 Days Free Trial / AI Assistant for Code Generation & Technical Content / GitHub Integration & Online IDE
+-   [Leapsome](https://www.leapsome.com) - 14-day free trial / AI-powered HR software / unified HR processes / performance & engagement - From $199/month
+-   [Sybill](https://www.sybill.ai) - 14 days free trial / Accurate AI sales call summaries / Automates CRM updates / Crafts follow-up emails - From $19/month/user
+-   [TutorOcean](https://tutorocean.com) - Free to join / Affordable Private Online Tutors / Homework Help & Test Prep
+-   [GPT Workspace](https://gpt.space) - GPT-4o and Gemini in Google Workspace / Transform data in Google Sheets / Perfect content in Google Docs / No Login or Sign Up required - From $19/month
+-   [Trellus](https://trellus.ai) - / Real-time AI coaching / Parallel dialer / Automates post-call work - From $34.99/month
+-   [BoldDesk](https://www.bolddesk.com) - 15-day free trial / AI-powered automations / Efficient ticketing / Live chat & knowledge base / No credit card required - From $18/agent/month
+-   [Pieces for Developers](https://pieces.app) - Free 9 months of individual context / AI-powered code snippet manager / Long-Term Memory technology
+-   [Spike](https://www.spikenow.com) - 10 AI queries free / AI-powered email / Conversational email / Unified inbox - From $4/member/month
+-   [Gleap](https://gleap.io) - 14-day free trial / AI-powered customer support / visual bug reporting / public roadmaps
+-   [Jarvis AI](https://jarvis.cx) - 50 free queries per day / Unlimited queries / Multiple AI Chat Models / Copilot Assistants - From $6.67/month
+-   [Interview Solver](https://interviewsolver.com) - Solves all Leetcode style problems / Invisible to screensharing / Transcribe from audio - From $39/month
+-   [VOC AI](https://www.voc.ai/tools/chatgpt-copilot) - AI assistance for Amazon & Shopify sellers / Amazon review analysis / Listing optimization - From $99/month (AI Assist 1500/mo)
+-   [GrackerAI](https://gracker.ai) - Free trial / Real-time news monitoring / AI-assisted content creation / SEO-optimized blogs - From $4k/month
+-   [XX.AI](https://www.hixx.ai) - 100 credits daily / 15 Top AI Models All In One / AI Writing Assistant - From $9.99/month (billed annually)
+-   [VWO](https://vwo.com) - Free 50K MTU / Web Experimentation / AI-powered Optimization - From $393/month
+-   [PureCode AI](https://purecode.ai) - 50 chat messages per month / Generate UI Using AI / Human-Like Codebase Understanding - From $20/per month
+-   [Tess AI](https://pareto.io) - 7-Day Free Trial / Access the world’s largest AIs in one place / Safe, Affordable, and Fast AI Adoption - From $9.8/month
+-   [Cosine AI](https://www.cosine.sh) - Autonomous software engineer / Fully Autonomous Task Execution / Real-time Collaborative Coding
+-   [Chatbox AI](https://chatboxai.app) - Chat with Documents & Images / Code Generation & Preview / Real-Time Web Search & Browsing - From $3.99/Month
+-   [CoWriter AI](https://cowriter.ai) - 20 Completion Suggestions per Day / Smart Autocompletion / Versatile Citation Support / AI Detection Proof - From $11.99/month
+-   [Careerflow](https://careerflow.ai) - One FREE Resume / AI Resume Builder / Automated Job Tracking / LinkedIn Profile Optimization - From $14.41/month
+
+### AI Note Taker
+
+-   [Otter.ai](https://otter.ai) - 300 monthly transcription minutes / AI meeting assistant records, transcribes and summarizes in real time / Otter AI Chat - From $16.99/month
+-   [Goodnotes](https://goodnotes.com) - Free 3 notebooks / AI note-taking / Cross-device sync - From $6.99/year
+-   [Krisp](https://krisp.ai) - Free 60 min/day Noise Cancellation & 2 AI notes/day / Noise Cancellation / AI Note Taker - From $16/month
+-   [Fireflies.ai](https://fireflies.ai) - 800 mins storage/seat & limited AI summaries free / Meeting Transcription / AI Summaries / AI Powered Search - From $10/month, billed annually
+-   [Read AI](https://www.read.ai) - 5 free meetings per month / Personalized Speaker Coach / AI Summaries & Search - From $15/month
+-   [tl;dv](https://tldv.io) - Free forever / AI Notetaker for meetings / CRM updates & follow-up drafting / AI-powered Sales Coaching & Insights
+-   [ScreenApp](https://screenapp.io) - Free 3 AI Credits / AI Notetaker / Transcription / Summarizer - From $14/month
+-   [Fathom](https://fathom.video) - First 5 advanced AI calls/month / Records, transcribes, and summarizes meetings / Automates post-call data entry into CRM - From $15/month
+-   [Heptabase](https://heptabase.com) - 7-day free trial / Powerful visualizations / Multi-format learning / Collaborative whiteboards - From $8.99/month
+-   [Noteey](https://www.noteey.com) - Free up to 3 projects, 100 cards, 3 PDFs, 3 videos/audios / Visual Note-taking / Infinite Canvas / PDF & Video Annotation / No account or signup required - From $10/month
+-   [Clinicminds](https://clinicminds.com) - Free live demo & trial / AI-driven Medical Record System / Comprehensive Clinic Management - From €160/month
+-   [MeetGeek](https://meetgeek.ai) - Free 3 hours of transcription / mo / records & transcribes meetings / AI summaries - From $15/month
+-   [Speak AI](https://speakai.co) - 7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant - From $15/month
+-   [Mem](https://mem.ai) - AI-powered note organization / AI Chat for answers & content drafting / Instantly searchable knowledge base
+-   [remio](https://www.remio.ai) - Free / AI Note Taker / Personal Knowledge Management / Knowledge Blending - From $8.25/month
+-   [Minutes AI](https://myminutes.ai) - Automate meeting audio notes with AI / Instantly create formatted notes and transcriptions / Chat with your audio
+-   [Noota](https://www.noota.io) - Free 300 min & 10 AI credits / AI-powered meeting assistant / Automates note-taking & custom reports - From $19/month/user
+-   [Bluedot](https://www.bluedothq.com) - 5 meetings lifetime / Record, transcribe & summarize meetings / Automate CRM updates - From $18/member/month
+-   [Capacities](https://capacities.io) - Free with 5 GB total media, 100 MB/month uploads / Networked note-taking / AI Assistant - From SGD 12.99/month
+-   [Avoma](https://www.avoma.com) - 14-day free trial / AI Meeting Assistant / Scheduling & Lead Router / Conversation Intelligence - From $19/user/month (billed annually)
+-   [Dictanote](https://dictanote.co) - Ten 3-minute voice notes (AudioScribe) / Voice typing notes / Multi-lingual support / AI summarization - From $5/month (billed yearly)
+-   [Pixno](https://photes.io) - 30 credits per month (about 3 images) / Generate notes from images, docs, audio / AI-powered note enhancement - From $3/month
+-   [Metaview](https://www.metaview.ai) - 25 conversations per month / Automatically write interview notes / Save time and reduce manual work / Purpose-built for recruiting - From $50/month
+-   [Talknotes](https://talknotes.io) - 7-day free trial / AI voice transcription & structuring / Generate various content formats (transcripts, summaries, emails, etc.) - From $19.97/month
+-   [Bubbles](https://www.usebubbles.com) - Free with 30 min/recording, 5 meetings/week / AI Meeting Note Taker / AI action items and summaries - From $22/month
+-   [Grain](https://grain.com) - 1 notetaker seat / AI Meeting Notes / AI Coaching - From $19/month
+-   [AutoNotes](https://autonotes.ai) - 30 notes/month free / AI Progress Notes / Automated Treatment Plans - From $25/month for 125 notes/month
+-   [Study Fetch](https://studyfetch.com) - AI Flashcards / AI Quizzes / AI Tutor
+-   [Supernormal](https://supernormal.com) - Free / 1K minutes of storage per member / AI-powered meeting notes / AI-powered summaries - From $10/month billed annually
+-   [Craft](https://craft.do) - 10 documents + 2 weekly, 50 AI requests/month / Notes, Tasks, and Big Ideas / On-device AI - From $1.99/month
+-   [Reflect Notes](https://reflect.app) - 14-day trial / Networked notes with backlinks / AI integration for note-taking and writing - From $10/month
+-   [Sembly AI](https://www.sembly.ai) - 60 mins/month online recording, 60 mins/month upload free / AI-generated meeting minutes and summaries / AI Tasks - From $10/month
+-   [Fellow.app](https://fellow.app) - 5 AI meeting notes & 5 AI recordings per user / AI meeting notes / AI meeting insights / CRM automation / No credit card required - From $7/month
+-   [TurboLearn AI](https://www.turbolearn.ai) - Free / Instant notes / Interactive flashcards / Personalized quizzes
+-   [Spinach AI](https://www.spinach.ai) - Unlimited meeting recording, transcription & basic AI free / AI meeting assistant / Records & Transcribes / Automates post-meeting tasks - From $19/user per month
+-   [Circleback](https://circleback.ai) - 7-day free trial / AI-powered meeting notes / AI-powered search - From $20.83/month
+-   [Motion](https://usemotion.com) - Free trial / AI Task Planner / AI Project Manager / AI Calendar - From $19/month
+-   [Thetawave AI](https://thetawave.ai) - Converts audio, text, files, and YouTube videos into formatted notes / Generates quizzes, flashcards, and mindmaps
+-   [TwinMind](https://twinmind.com) - Unlimited hours of transcription and AI chats for free / AI Second Brain for capturing and summarizing / Perfect notes and memory recall - From $10/month
+-   [Audionotes.app](https://audionotes.app) - Voice notes to structured text / Capture from various sources & generate structured notes / Summarize & chat with notes - From $69.99/year
+-   [Meeting.ai](https://meeting.ai) - 5 hours free credit / Capture, transcribe, and organize meetings / Get organized notes and action items automatically - From USD 19.99/month
+-   [Snipd](https://www.snipd.com) - 2 AI-processed episodes per week / Save insights instantly / Chat with episodes / AI-generated transcripts & chapters - From $6.99/month
+-   [Hyprnote](https://hyprnote.com) - AI note-taking / smart meeting summaries / local AI models for data privacy
+-   [NoteX](https://notexapp.com) - Free 1 AI Transcription per day / AI Note Taking / Smart Study Material Generation - From $12.99/month
+-   [MinutesLink](https://minuteslink.com) - 10 AI-powered call processings per month / Human-accurate meeting minutes / Transcribe 100+ languages - From $9/month
+-   [Duetoday](https://www.duetoday.ai) - Free 3 Notes / Month / AI Lecture Notetaker / Interactive Quizzes / Flashcards - From $15/month
+-   [Snipo](https://snipo.io) - Timestamped Notes to Notion / AI Flashcards maker / Screenshots
+-   [Looppanel](https://www.looppanel.com) - 15 Days Free Trial / AI-powered notes / Transcription / Centralized Research Data - From $30/month
+-   [Notis](https://notis.ai) - 30 days free trial / Voice to Notion integration / Automated content creation & organization - From $20/month
+-   [Audio Diary](https://audiodiary.ai) - AI-powered voice journaling / Intelligent transcription & analysis / Goal setting & insights
+
+### AI Charting
+
+-   [Mermaid Chart](https://www.mermaidchart.com) - AI-powered Diagramming / Text-based Diagramming - From $6.67/month
+-   [Quadratic](https://www.quadratichq.com) - Free plan / AI-powered Spreadsheet / Code Integration / Database Connections - From $18/month
+-   [Julius AI](https://julius.ai) - / AI Data Analysis / Data Visualization / Data Manipulation / -
+-   [Ultimaps](https://ultimaps.com) - Unlimited Maps / Create stunning maps and charts / Add interactivity with no line of code / No sign up required - From €49/month
+-   [AskNova Astrocartography](https://www.astrocartography.io) - Free unlimited maps / Personalized Astrocartography Map / Relocation Chart Analysis - From $15.9 for 30 days
+-   [Diagrimo](https://www.tenorshare.ai/diagrimo.html) - 100 AI credits/day / Turn Text into Visuals / Customize & Collaborate - From $6.99/month
+-   [Graphy](https://graphy.app) - Unlimited charts, limited AI use / Simplifies data presentation / AI-powered chart creation - From $12/user/month
+-   [Rocket Scooter](https://rocketscooter.com) - Trial Access / Free Discord Community / AI Scanner / Automated Charting / Exposes Smart Money Positions
+-   [vizGPT](https://vizgpt.ai) - 7 days Free Trial / AI-Powered Data Visualization / Contextual Understanding / No Code GUI - From $10/month
+-   [Diagramming AI](https://diagrammingai.com) - 10 credits free / AI-Powered Automated Diagram Creation / AI Chat - From $3/month
+-   [Edraw.AI](https://www.edraw.ai) - Free 500 AI Tokens / AI Flowchart / AI Mind Map - From $6.58/month
+-   [Plus AI](https://plusai.com) - 7-day free trial / Generate AI presentations / Edit slides with AI - From $10/month
+-   [TradesViz](https://www.tradesviz.com) - 3000 executions/month free / Trading Journal / Trading Simulation / Advanced Analytics - From $19.99/month
+-   [Basedash](https://basedash.com) - 14 day free trial / Generate beautiful charts and dashboards using natural language / Chat with your data without needing to know SQL - From $80/month
+-   [Hex](https://hex.tech) - 14 days free trial / Collaborative AI-powered workspace / Notebook-based data exploration / Interactive data apps - From $36 per Editor/month
+-   [ChartAI](https://chartai.io) - 100 free credits / AI-driven diagramming / create diagrams and charts in 2 seconds with AI
+-   [GanttChart AI](https://www.ganttchart.ai) - 2 Credits / Create Gantt charts using natural language / Work with Google Sheets - $3 for 30 Credits
+-   [ChartPixel](https://www.chartpixel.com) - Free up to 5 projects / AI-assisted data analysis / Interactive charts / Chat with data - From US$7.19/month
+-   [AI Graph Maker](https://aigraphmaker.net) - 10 free credits daily / AI-powered chart generation / Multiple chart types - From $4/month (500 credits)
+-   [AutoNotes](https://autonotes.ai) - 30 notes/month free / AI Progress Notes / Automated Treatment Plans - From $25/month for 125 notes/month
+-   [Chat2CSV](https://chat2csv.com) - Free: 15 queries/hr, 1 CSV, 5 AI prompts / Natural Language CSV to Chart / AI-powered Chart Suggestions - From $15/month
+-   [Shen Shu](https://shen-shu.com) - Free / Instantly generate BaZi chart / AI-powered interpretations / -
+-   [ChartGen.ai](https://chartgen.ai) - 50 free charts/month / AI-powered chart generation / Natural language chart creation / No signup required
+-   [VDraw AI](https://vdraw.ai) - Limited AI credits / AI Infographic Generator / AI Chart Generator
+-   [PageOn.ai](https://www.pageon.ai) - Create up to 1 file free / AI-driven dynamic visuals / Interactive charts, diagrams, 3D models - From $14.99/month
+-   [BotPhrase](https://botphrase.com) - 3 Free BotPhrases / Easy AI-generated dot phrases / Intelligent Automation - From $9.99 for 20 BotPhrases
+-   [Onvo AI](https://www.onvo.ai) - AI data visualization / Embedded Dashboards - From $169/month
+-   [Analytics Model](https://www.analytics-model.com) - Chat with Your Data / Generate expert-level insights in seconds - From $15/month
+-   [TradingWizard AI](https://tradingwizard.ai) - 1 free analysis per day / AI-powered technical chart analysis / actionable trade setups - From $20/month (up to 20 analyses/day)
+-   [AskCSV](https://www.askcsv.com) - Free 5 asks / Day / AI-powered Q&A for CSV / Secure, in-browser data processing - $2.99 for 1-Day Pass (200 asks / Day)
+-   [Physician UX](https://physicianux.com) - 14-day trial (5 min recording per session) / Smart SOAP Notes / Adaptive Clinical Pearls - From $59.99/month
+-   [DropCSV](https://dropcsv.com) - Up to 10 CSV files daily / AI-Powered Analysis / Interactive Visualizations - From $5.99/month
+-   [Julius AI](https://chromewebstore.google.com/detail/julius-ai-analyze-google/adbappheegjjlocbcadjandgobfadelm) - Free / Visualize and Analyze Google Sheets / Dynamic Graph Maker
+-   [ChatViz](https://chatviz.io) - / SQL translator / Chart suggestion / -
+-   [Napkin AI](https://www.napkin.ai) - 500 AI credits per week / Transform text into insightful visuals / Generate editable visuals - From $12/month
+-   [Dorascribe](https://www.dorascribe.ai) - Free 20 Transcripts/Month / Convert clinical consultations into EMR text / Real-Time Charting for Doctors - From $39/month
+-   [Excelmatic](https://excelmatic.ai) - 10 chat messages / month, 20 image to excel / month / AI-Powered Excel Data Analysis / AI Data Visualization / Excel Automation - From $9.9/month
+-   [Formula Bot](https://formulabot.com) - 10 chat messages / month, 15 enrichments / month / AI Excel formula generation / AI data analysis / SQL query generation - From $15/month
+
+### AI PDF Summarizer
+
+-   [Kome AI](https://kome.ai) - 5 summary credits / AI-Powered Summarizer / Bookmark Manager - From $5.99/Month
+-   [PDF Guru](https://pdfguru.com/ai-pdf-summarizer) - First summary free / Summarize PDFs / Chat with PDF
+-   [Lilys AI](https://lilys.ai) - Summarize Videos, Audio, PDF & Websites / Perfect summaries for English papers and foreign language videos
+-   [LightPDF](https://lightpdf.com) - 3 files/day / PDF Editor / PDF Converter / AI Chat - From $2.77/month
+-   [Noiz](https://noiz.io/free-ai-tools/ai-pdf-summarizer) - Unlimited summaries / Summarize Any PDF Size / Choose summary length and format / No Registration
+-   [PDF.ai](https://pdf.ai) - 1 PDF upload & 100 questions free / Chat with PDF documents / Ask questions, get summaries - From $10/mo
+-   [SciSpace](https://typeset.io) - Decode any research paper / Explain confusing text, math, and tables
+-   [AI Drive](https://myaidrive.com) - 2,000 credits per month / summarize, chat with, and organize files / AI-powered storage - From $39.00/month
+-   [ReadPartner](https://readpartner.com) - 5 summaries per week / Summarize Websites, Documents, Videos & Text / Create Custom AI News Digests - From $8/month
+-   [AI Summary Generator](https://summarygenerator.io) - 800 words free / Summarize Text in One Click / Extract Important Information / Customize Summary Length & Style / No Sign-Up required - From $3.95/weekly
+-   [Sharly AI](https://www.sharly.ai) - Free 5 document uploads / day / Chat with documents and PDFs / Summarize content / Cross-document analysis - From $15/month
+-   [PDF Summarizer](https://pdfsummarizer.pro) - 2 documents each day / Summarize PDFs / Multi-File Chats / No Sign-Up
+-   [FilePower AI](https://filepower.ai) - / Chat with documents / Summarize files / Translate documents
+-   [AI PDF Summarizer](https://3pattilucky.org/ai-pdf-summarizer) - Free / Instant Summaries / Chat with Documents / -
+-   [ChatPDF](https://www.chatpdf.com) - Chat with any PDF / Instantly answer questions and understand research with AI / Cited Sources
+-   [v0 Report](https://v0.report) - Automated Report Generation / AI Document Generator / AI PDF Summarizer - From $7/month
+-   [FGenEds](https://fgeneds.com) - 2 free cheat sheets / Turn Lecture Slides to Cheat Sheets / Upload PDF of lecture slides
+-   [Free AI PDF Reader](https://aipdfreader.net) - Analyze, translate & summarize documents / Ask follow-up questions in the chat
+-   [EaseMate ChatPDF AI](https://ai.easeus.com) - 200,000 tokens per day / Chat with PDF / Summarize PDF / No Login
+-   [Tenorshare AI](https://ai.tenorshare.com) - AI Humanizer / AI PDF Summarizer / AI Writer
+-   [Honeybear.ai](https://www.honeybear.ai) - Chat with PDFs / Chat with multiple PDFs / Chat with videos
+-   [pdf → gpt](https://pdf2gpt.com) - Automatically breaks PDFs into chunks / Summarize or ask questions about PDF content / No Account Needed
+-   [Clasely](https://www.clasely.com) - 2 AI Characters / Limited PDF Processing / PDFs into interactive learning experiences / Character-guided summaries, quizzes, games - $5.99 one-time for 30 days
+-   [Smart PDFs](https://www.smartpdfs.ai) - Summarize PDFs with AI / Generated cover images
+-   [Narralize](https://www.narralize.com) - 3 free credits / Transform PDFs into Multilingual Audio Summaries / AI-Powered Summarization / No Sign Up required - $30.00/month
+-   [PDFGuru](https://pdfflex.com/ai-chat-with-pdf) - First summary + a few questions free / Summarize Long PDF Files / Ask questions & interact with PDF
+-   [GenForge](https://www.genforge.ai) - 5 Messages per Month / Summarize documents / Ask detailed questions / AI chat support and image generation - From $19/month
+-   [aiPDF](https://aipdf.ai) - Free / Chat with documents / Summarize documents / Works with any file type - From $9/month
+-   [Bard PDF](https://aibardpdf.com) - AI-powered summarization / Chat with your PDF documents
+-   [File AI](https://fileai.pro) - 100 Words in chat / 1 File / 10MB File Limit / Automate document analysis / Multi-File Reading - From $9.90/month
+-   [Glarity](https://chromewebstore.google.com/detail/glarity-chatgpt-summary-t/cmnlolelipjlhfkhpohphpedmkfbobjc) - Free / Cross-language summaries / Side-by-side translations / AI chat with content / No account required
+-   [PDF GPT](https://www.pdfgpt.chat) - Summarize PDFs / Chat with PDF
+-   [BLUF](https://bluf.ai) - 25 prompts / month / Summarize content / Explain content - From $4/month
+-   [Gist AI](https://www.gistai.tech) - Unlimited Free / Summarize Websites, PDFs & YouTube videos / No length restrictions
+-   [Solace](https://www.mysolace.in) - Up to 200 pages, 500 chat messages free / Summarize key points / Create mind maps / Chat with documents - From ₹199/month
+-   [Chatsheet AI](https://usefind.ai) - Free 500 credits / AI PDF Processing / AI Web Scraping - From $19/month
+-   [Docudive](https://docudiveai.com) - 50 credits per month / Advanced document understanding / Automated information extraction / AI chat capabilities - From $10/month
+-   [rapidwork](https://rapidwork.ai) - 15 Datafetch queries & 10 PDFs/mo / AI-Powered Datafetch / PDF Assimilation / Graphic Design - From $10/mo
+-   [TalkingPDF.io](https://www.talkingpdf.io) - Chat with any PDF / Get answers quickly - From $8/month
+-   [ChatWithPDF.AI | Paperguide](https://chatwithpdf.ai) - 10 AI Generations / day / Chat with PDF / AI Summaries / AI Writer - From $9/month
+-   [GiveFlag](https://www.giveflag.com) - 10 AI team chat prompts free / Automated Document Analysis / Customer List Generation - From $988.99/month
+-   [Socrates](https://asksocrates.app) - Unlimited open source model use on Win/Mac / Summarize and explain any PDF or DOCX / Secure & Private Local AI processing - From $9/month
+-   [PDFSeek](https://www.pdfseek.com) - Free 50 pages/month / Translate PDF / PDF Chat / Summarize PDFs / No sign-up required - From $3.50/month
+
+### AI PDF
+
+-   [PDFgear](https://www.pdfgear.com) - Completely Free / AI-powered PDF Editor / Convert & Manage PDFs / No Sign Up
+-   [Immersive Translate](https://immersivetranslate.com/en) - 3-Day Free Trial / Bilingual Webpage Translation / Video Subtitle and PDF Translation - From $7.00/Month
+-   [LightPDF](https://lightpdf.com) - 3 files/day / PDF Editor / PDF Converter / AI Chat - From $2.77/month
+-   [EaseUS](https://www.easeus.com) - Data Recovery / Backup / Partition Management - From $9.95
+-   [PDNob PDF Editor](https://www.tenorshare.com/products/pdf-editor-software-free-download.html) - 50 AI credits / AI Read & Summarize PDF / Convert PDFs - From $14.99/month
+-   [PDF.ai](https://pdf.ai) - 1 PDF upload & 100 questions free / Chat with PDF documents / Ask questions, get summaries - From $10/mo
+-   [Mathpix](https://mathpix.com) - 10 PDF pages, 10 images free / AI-powered document conversion / OCR for math and chemistry - From $4.99/month
+-   [AI Drive](https://myaidrive.com) - 2,000 credits per month / summarize, chat with, and organize files / AI-powered storage - From $39.00/month
+-   [AskYourPDF](https://www.askyourpdf.com) - Free 50 questions per day / Chat with PDFs / Summarize Documents / Chat with Multiple Documents / No Sign-Up - From $11.99/month
+-   [Humata AI](https://www.humata.ai) - Up to 60 pages, 10 answers free / Upload a PDF and get answers / Analyze documents 100X faster - From $1.99/month
+-   [Sharly AI](https://www.sharly.ai) - Free 5 document uploads / day / Chat with documents and PDFs / Summarize content / Cross-document analysis - From $15/month
+-   [FilePower AI](https://filepower.ai) - / Chat with documents / Summarize files / Translate documents
+-   [PDF.co](https://pdf.co) - 1-Month free trial, 10,000 free credits / PDF conversion / PDF editing / PDF extraction - From $8.99/month
+-   [ChatPDF](https://www.chatpdf.com) - Chat with any PDF / Instantly answer questions and understand research with AI / Cited Sources
+-   [Format Magic](https://formatmagic.ai) - Free 100,000 tokens monthly (Approx 40 pages) / Transform plain text into polished documents / AI intelligently applies headings and styles - From USD$4.95/month
+-   [Instafill.ai](https://instafill.ai) - / AI PDF Form Filler / Automated form completion / Batch form filling - From $19.99/month
+-   [Precise AI Document Translator](https://otranslator.com) - AI-powered translations / Layout preservation / Supports 30+ formats - From $1 for up to 20,000 words
+-   [GoPDF](https://gopdf.io) - 10 PDF conversions, 10 PDF edits, 1 AI project free / Edit, Convert, AI Chat with PDF - From $9.99/monthly
+-   [Honeybear.ai](https://www.honeybear.ai) - Chat with PDFs / Chat with multiple PDFs / Chat with videos
+-   [StatementSheet](https://statementsheet.com) - 10 free credits / Convert PDF bank statements to Excel and CSV / Supports over 1000s worldwide banks - From $20/month for 400 pages
+-   [Monkt](https://monkt.com) - Try with up to 3 files / Convert PDFs, Word, Excel, PowerPoint, web pages to Markdown or JSON / Preserving semantic structure - From $4.99/month for 50 transformations
+-   [Wondershare](https://wondershare.com) - Free PDF Reader & Online Tools / AI-powered video & content creation / Comprehensive PDF & diagramming tools - From $1.58/month
+-   [Side Reader](https://www.side-reader.com) - Free 3 PDF uploads per day / Read and chat with PDFs in sidebar / AI-powered PDF interaction - From $9.80/month
+-   [PDFToQuiz](https://www.pdftoquiz.com) - Free 1 PDF upload (20 page limit) / Turn PDFs, URLs, or text into quizzes / Multiple Choice, Fill in the Blank, or True/False questions - From $8.99/month
+-   [Formix](https://formix.ai) - Free trial available / AI-powered form filling / Fill online forms & PDF documents / No login required - From $5/month
+-   [pdfy.ai](https://pdfy.ai) - 5 sources, 50 questions free per month / Extract answers from PDFs, audio, websites, YouTube / Chat with extracted information - From €8.99/month
+-   [aiPDF](https://aipdf.ai) - Free / Chat with documents / Summarize documents / Works with any file type - From $9/month
+-   [OdysseyGPT](https://odysseygpt.ai) - 50 Documents/month, 250 Questions/month free / Truly Understand Documents / Chat with Documents / Extract Data & Answers - From $20/month
+-   [Readable](https://readable.jp) - 1-week free trial / Instant PDF translation / Layout retention / One-click translation - From ¥800/month (annual payment)
+-   [Bard PDF](https://aibardpdf.com) - AI-powered summarization / Chat with your PDF documents
+-   [PaperChat](https://paperchat.io) - Chat with documents using AI / Search in PDF - From $3.99/month (7 documents)
+-   [翻译基地 (TranslateBase)](https://www.translatebase.net) - Free 50 scanned PDF pages/month / Bilingual PDF Translation / AI Smart Translation / Document AI Q&A - From ¥59.00/month
+-   [ChatPDF](https://www.chatpdf.ae) - Free 2 PDFs/daily / Chat with any PDF / Summarize & extract insights - From $5/month
+-   [BrainyPDF](https://brainypdf.com) - Free 120 pages/PDF, 10 MB/PDF, 2 PDFs/day, 50 questions/day / Summarize and answer questions for your documents / Chat with any PDF - From $10/month
+-   [goPDF](https://gopdf.pro) - Chat with PDF / AI Document Generator / AI Blog Writer
+-   [PDF.beauty](https://pdf.beauty) - 3 pages/day / High-fidelity PDF to PPTX conversion / Banana Pro Optimized - From $2/ 20 pages
+-   [PDF GLAMZN AI](https://pdf-glamzn.com) - 5 PDF per month / Transform PDFs into interactive content / Intelligent chat with documents - From $14.99/month
+-   [Molku](https://molku.ai) - 50 credits one-time / Automatic Data Transfer from PDF, PPT, WORD to PDF / Autofill PDFs by transferring data - From $19/month
+-   [PDF Converter](https://pdf-converter.ai) - Limited free uses / Convert to/from PDF / Edit PDF
+-   [ChatWithPDF.AI | Paperguide](https://chatwithpdf.ai) - 10 AI Generations / day / Chat with PDF / AI Summaries / AI Writer - From $9/month
+-   [UsePdfAi](https://usepdfai.com) - 2 PDFs/mo / AI-driven chat for PDFs / Discover insights effortlessly - From $5/month
+-   [Convert PDF to JSON](https://convertpdftojson.com) - AI-driven PDF to JSON conversion / Flexible Schemas - From $19/month
+-   [PDFSeek](https://www.pdfseek.com) - Free 50 pages/month / Translate PDF / PDF Chat / Summarize PDFs / No sign-up required - From $3.50/month
+-   [PDF BFF](https://pdfbff.ai) - 5 file uploads, 10 chats, 150 questions per month / Chat with PDF documents / Summarize & extract insights - From $9/month (billed yearly)
+
+### AI Resume Builder
+
+-   [CVwizard](https://www.cvwizard.com) - Unlimited resume creation / Professional cover letter generation / Job application tracking - From US$14.99/month
+-   [Rezi](https://www.rezi.ai) - 1 Resume, 1 Interview, 3 Downloads free / AI Resume Builder / AI Keyword Targeting / ATS Resume Checker - From $29/month
+-   [Simplify](https://simplify.jobs) - Free / Job Matches / Autofill Applications / AI Resume Builder
+-   [Kickresume](https://www.kickresume.com) - Unlimited downloads / AI Resume Builder / AI Cover Letter Writer - From $7/month
+-   [LockedIn AI](https://www.lockedinai.com) - 10 minutes free daily / AI Interview & Meeting Copilot / Coding Copilot
+-   [ResumeBuilder.com](https://resumebuilder.com) - Free TXT resume download / AI-powered suggestions / 30+ professional templates / Expert tips and guidance
+-   [Resume Worded](https://resumeworded.com) - AI-powered tailored feedback on resume & LinkedIn / Land 5x more interviews & job offers / - From $19/month
+-   [Huntr](https://huntr.co) - Track up to 100 jobs free / AI Resume Builder / AI Cover Letters / Job Application Autofill - From $26.66/month
+-   [Loopcv](https://www.loopcv.pro) - Up to 10 applications or emails per month / Automate job searches / Optimize CV with AI / Track applications - From €8.99/month
+-   [CV.fr](https://www.cv.fr) - 14-day trial for 0.99 US$ / Create unlimited CVs / Generate cover letters / Job offer alerts - From 14.99 US$/month
+-   [MyCVCreator](https://mycvcreator.com) - Free / AI-Enhanced CV creation / ATS-Compliant / Professional templates - From $199 (Entry-Level Resume Writing Service)
+-   [Wonsulting](https://wonsulting.com) - Free AI Job Search Tools / Career Coaching / Resume & LinkedIn Revision / No Credit Card Required - From $17/month
+-   [OnlineLebenslauf](https://www.onlinelebenslauf.com) - One resume & cover letter creation / AI-powered resume creation / ATS-optimized templates / PDF/TXT download & online sharing - From $29.95/4 weeks
+-   [WonsultingAI](https://www.wonsulting.ai) - Free resume & cover letter tailoring / Free job tracking / Free interview practice / AI-powered job search tools - From $19.99/mo
+-   [Swooped](https://swooped.co) - One free AI resume, one free cover letter, one free ATS resume grade / AI Resume Builder / AI Cover Letter Writer / Networking AI - From $12/month
+-   [Resume Trick](https://resumetrick.com) - 1 free resume / AI Resume and Cover Letter Builders / Customizable Templates
+-   [OnlineCV](https://www.onlinecv.es) - Create 1 CV & 1 cover letter, download in TXT format / AI assistant / Professional & ATS-optimized templates - From $1.95 for 14 days
+-   [Wobo AI](https://www.wobo.ai) - 10 Personal Job Searches, 2 AI Cover Letters free / Automated Applications / AI Resume Builder / AI Cover Letter Generator - From $24.99/month
+-   [Hiration](https://hiration.com) - / ChatGPT Powered Career Platform / AI-powered Resume Builder / AI-powered Resume Review / -
+-   [Jobsolv](https://www.jobsolv.com) - 5 Free Instant Resume Per Month / AI Resume Tailoring / Job Tracker / Remote Job Listings - From $29/month
+-   [Remote People](https://remotepeople.com/tools/resume-generator) - AI-powered Resume Generation / Build ATS-Friendly Resumes Instantly / No Signup Required - From $99/month
+-   [Sheets Resume](https://sheetsresume.com) - Free Resume Template & Cover Letter Maker / AI Resume Builder / Cover Letter Builder - $99 one time for Lifetime Access
+-   [EarnBetter](https://earnbetter.com) - Free Unlimited / AI Resume / AI Cover Letters / Personalized Job Matches
+-   [ResumeCoach](https://www.resumecoach.com) - Free plan for one resume and cover letter / AI tools for resume and cover letter / ATS-Friendly Resume Templates - From $1.95 for 14 days
+-   [InterviewPal](https://www.interviewpal.com) - 3 credits daily / AI interview prep / Real interview questions from top companies - From $1.99/week
+-   [Resumatic](https://resumatic.ai) - Free 10 AI Generations / AI resume writer / ATS optimized templates - From $29/month
+-   [Wonderin AI](https://wonderin.ai) - Free Trial / Tailor resumes & cover letters / AI-powered resume upgrades / Stock recommendations & insights - From $9.99/month
+-   [Resumod.co](https://resumod.co) - Free resume creation / AI Resume Builder / ATS & Job Match Scoring
+-   [Jobbie](https://jobbie.io) - Free / ATS Resume Checker and Fixer / Resume Templates / Manual Resume Review / No Sign-Up
+-   [ResuFit](https://www.resufit.com) - Free Basic plan / AI-Powered Resumes / Tailored Job Applications / AI Interview Training - From $9.99/month
+-   [Resumly](https://www.resumly.ai) - 10 Free Resumes, 100 Credits / AI Resume Builder / Auto-Apply - From $15/month
+-   [ATSFriendly.com](https://www.atsfriendly.com) - 2 Free Scans per week & 5 AI Credits / AI Powered Resume Scanning / AI Resume Writer - From $7.99/month
+-   [ResumeGiants](https://www.resumegiants.com) - 14-day free trial / AI-powered suggestions / Recruiter-approved templates / Multi-device editing - From $9.99/28 days
+-   [UseResume.ai](https://useresume.ai) - Free 1 AI Credit, 5 Branded Document Downloads / AI-powered resume and cover letter builder / ATS-optimized templates / Unlimited edits - From $19/month
+-   [Resume Matcher](https://www.resumematcher.fyi) - Tailor resumes to job descriptions / NLP-powered matching
+-   [Applyindex](https://applyindex.com) - 50 positions free / a-index (PhD) calculation / Funding chance (PhD) estimation - From $19/year
+-   [Woberry](https://www.woberry.com) - / Create ATS-optimized resumes & cover letters / Auto-apply to jobs / Prepare for interviews & negotiate offers
+-   [ResumeFromSpace](https://resumefromspace.com) - Store, style & download for free / AI-powered resume builder / ATS matching score / Resume Scanner - From $4.99/month
+-   [Flavored Resume](https://flavoredresume.com) - 5 Resume Rewrites / AI-powered resume rewriting / Boost ATS Rankings - From $8.99 for 50 Resume Rewrites
+-   [UPCV](https://upcv.io/?invite=INV9KAQKBCH) - Free / AI-Powered Content / Professional Templates
+-   [1Template](https://www.1template.io) - 20 free credits / AI-powered resume builder / ATS-friendly CVs - From $5 / 10 credits
+-   [ProRes.ai](https://prores.ai) - 1 free resume & 1 free cover letter / AI enhanced resume & cover letter generation / Tailored resumes & cover letters - One-time payment of $19.99 for Lifetime Access
+-   [RiseON Suite](https://happypeopleai.com) - 100 Hours Premium, 75 AI Coins, 200 Profile IQ Coins free / Interactive Resume Website / AI-powered mock interviews - From USD 7/month
+-   [Careerflow](https://careerflow.ai) - One FREE Resume / AI Resume Builder / Automated Job Tracking / LinkedIn Profile Optimization - From $14.41/month
+-   [CareerSwift](https://careerswift.ai) - Resume Optimization / Smart Job Applications / Interview Preparation
+-   [Seekario](https://seekario.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3084)- Freemium + From $12/month / Land your dream job faster with AI.
+-   [Joobee](https://www.joobee.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2919)- Freemium + From $14.99/month, No Refunds / AI-powered job application tracker and resume optimizer.
+
+### AI Forms
+
+-   [Fillout](https://fillout.com) - 1000 responses/mo free / Create forms in minutes / Customizable branding / Powerful conditional logic - From $15/month
+-   [forms.app](https://forms.app) - 5 forms, 100 responses/month, unlimited views / Online Forms, Surveys & Quizzes / AI Form Generation / 500+ Integrations - From $25/month
+-   [Weavely](https://www.weavely.ai) - Unlimited forms & responses for free / AI form generation & styling / Smart content creation - From €180/year
+-   [Yay! Forms](https://yayforms.com) - 7 days free trial / AI-powered insights / Create high-converting forms - From $9/month billed yearly for 200 responses
+-   [Formless by Typeform](https://formless.ai) - AI forms that ask and answer questions / Train AI on your data / Speaks in 120+ languages
+-   [Makeform](https://makeform.ai) - Unlimited Forms and Submissions Free / AI Form Builder / Turn Text Into Forms / No signup required - From $24/month
+-   [OpnForm](https://opnform.com) - Unlimited free plan / AI form builder / Open-source platform / Unlimited forms & submissions / No Login required - From $16/month
+-   [Deformity](https://deformity.ai) - 100 AI conversations free / AI-driven forms / Ridiculously Fast to Build - From $29/month
+-   [AI Power](https://aipower.org) - Free / Content, image & form generation / Smart Chatbots - From $9.99/month
+-   [Instafill.ai](https://instafill.ai) - / AI PDF Form Filler / Automated form completion / Batch form filling - From $19.99/month
+-   [Opinion Stage](https://www.opinionstage.com/ai) - Interactive visual quizzes, forms & surveys / AI-powered creation in seconds / Fully customizable & brandable
+-   [Voiceform](https://www.voiceform.com) - Free trial / Voice, Video & Text Surveys / AI-powered Insights / Qualitative Data at Scale
+-   [WebFill](https://webfill.co) - 1K Words Per Month / Automated Form Filling / AI Screenshot Analysis - From $7.99/month
+-   [Formshare](https://formshare.ai) - Unlimited forms & responses free / AI-driven conversational forms / Build forms in natural language - $0/month
+-   [FormStory](https://formstory.io) - Free / 1 Form / 100 Partial Entries / 100 Form Submissions / Recover lost leads / Instant broken form alerts - From $9/month
+-   [Nuraform](https://www.nuraform.com) - 5 Forms free / AI-powered form builder / Built-in tracking & AI summaries - From $20/month
+-   [FormToExcel](https://formtoexcel.com) - Convert Forms to Excel / AI-powered Data Extraction / Extract from PDFs & Scanned Images
+-   [BlockSurvey](https://blocksurvey.io) - Free 3 AI survey creations/yr / Privacy-First Surveys / AI-powered surveys / End-to-End Encryption - From $29/month
+-   [Filliny](https://filliny.io) - Unlimited mock form fills / AI-powered form filling / Intelligent Context Recognition - From $4.5 (100,000 Tokens)
+-   [Signmeup.ai](https://www.signmeup.ai) - 50 Signups / Month / Effortless Signup Form Creation / Simplifies email collection - From $19.99/Month
+-   [CAPTR](https://captr.com) - No-code video forms / AI-generated video content
+-   [ZapForm](https://www.zapform.ai) - Unlimited forms, 500 responses/month / AI-powered forms / Real-time lead qualification - From $0/month
+-   [Peakforms](https://peakforms.app) - 100 free submissions/month / AI Conversational Forms / Knowledge Base Integration - From $15/month
+-   [Grasshopper Signup](https://grasshoppersignup.com) - Free / AI-powered forms / Ad-free / Mobile-friendly
+-   [ZINQ](https://zinq.ai) - 100 Form Submissions/month / AI-driven design / Conversational forms - From $29/month
+-   [Form Ji](https://formji.com) - Up to 3 forms free / AI-powered form builder / Effortlessly create forms in seconds - From $19.99/month
+-   [FormVox](https://www.formvox.com) - Automate Forms and Surveys with a Voice Chatbot / Direct Dial or Transfer to Voice Chatbot / Speak Answers, No More Forms
+-   [Formisoft](https://formisoft.com) - Free 10 active forms, 1,000 monthly submissions / AI-Powered Form Generation / Secure Client Intake Forms - From $49.99/month
+-   [AutoFyl](https://autofyl.com) - Unlimited Dynamic Generation / Day free / Auto Form Filling / Reduce errors - From £6.99/month
+-   [Formaloo](https://www.formaloo.com/en) - 100 monthly form submissions / No-code forms, web apps, and membership portals / AI-powered forms & analytics - From $12/month
+-   [Cognicio](https://www.cognicio.com) - Free trial / Project & asset management / Facility maintenance / Customizable inspection forms
+-   [EasyFill.ai](https://easyfill.ai) - 14 days free trial, 3 Forms Allowed, 200 Responses / AI-powered form generation / PDF to fillable form conversion / Real-time data analysis - From $19/month
+-   [Survia](https://survia.io) - 7 day trial / AI survey builder / Share Everywhere - From $19/month
+-   [Formcraft](https://www.formcraft.cloud) - 14-day free trial / AI Form Generation / Speech-to-Text Responses - From $12/month
+-   [PollPebble](https://pollpebble.com) - Free 3 surveys, 100 responses per month / AI-Powered Sentiment Analysis / Intuitive Survey Creation - From $24/month
+-   [BuildForm](https://buildform.ai) - Unlimited Forms & Submissions Free Forever / AI-Powered Forms / AI-driven insights & drop-off tracking - From $23/month
+-   [Trove AI](https://gettrove.co) - Start for free / Forms / Surveys / ChatGPT-like conversations
+-   [GoZen](https://gozen.io) - 250 Views per month, 5 AI questions/month / AI-powered marketing and sales automation / Unified suite for customer support and lead generation - $0/month
+-   [Applyish](https://applyish.com) - 20 Free requests / Complete job application forms 11.3x faster / no need for rewriting CVs or Resumes - From £4/month
+-   [empirio.ai](https://www.empirio.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3156)- Free Trial + From $19/month / AI-powered survey builder. Create & edit surveys in seconds.
+-   [Quizify AI Form Builder](https://quizify.io/ai-form-builder?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2907)- Free Trial + From $7/month / The AI form builder that works like magic.
+
+### AI Diagram Generator
+
+-   [Mermaid Chart](https://www.mermaidchart.com) - AI-powered Diagramming / Text-based Diagramming - From $6.67/month
+-   [Whimsical](https://whimsical.com) - Free 3 team boards, 100 AI actions / Unite teams, tasks, and tools / Infinite canvas for diagrams, wireframes, whiteboards - From $10/Month/Editor
+-   [Diagrimo](https://www.tenorshare.ai/diagrimo.html) - 100 AI credits/day / Turn Text into Visuals / Customize & Collaborate - From $6.99/month
+-   [MindMap AI](https://mindmapai.app) - 100 free monthly AI credits / AI-powered mind maps / Multi-format input - From $3.74/month
+-   [NDeck](https://ndeck.io) - Personalized video proposals / Automatic technical diagrams / Stunning presentations - From 1,499/month
+-   [Diagramming AI](https://diagrammingai.com) - 10 credits free / AI-Powered Automated Diagram Creation / AI Chat - From $3/month
+-   [EdrawMax Online](https://edrawmax.com) - High-quality diagramming and charting software / Unlimited community templates / AI features - From $69/semi-annual
+-   [PicDoc](https://www.picdoc.ai) - Free during beta / Turn text into stunning visual infographics / Generate charts, flowcharts, and mind maps
+-   [Boardmix](https://boardmix.com) - Free 3 editable boards / AI-powered features / Integrates various digital tools - From $4.9/member/month
+-   [Edraw.AI](https://www.edraw.ai) - Free 500 AI Tokens / AI Flowchart / AI Mind Map - From $6.58/month
+-   [Eraser](https://www.eraser.io) - 5 files, 20 AI diagrams free / AI diagrams / Codebase diagrams that update themselves / Diagram-as-code - From $12/month
+-   [ChatUML](https://chatuml.com) - 10 free credits / AI-assisted diagram generation / Generate diagrams from website content / Convert sketches to diagrams
+-   [ChartAI](https://chartai.io) - 100 free credits / AI-driven diagramming / create diagrams and charts in 2 seconds with AI
+-   [ConceptMap AI](https://www.conceptmap.ai) - Completely Free / Chat-Based Creation / Instant Visualization / No signup required
+-   [TreeMind](https://shutu.cn) - Free / AI-powered Mind Map Generation / Multi-format & Collaborative Editing
+-   [AI Graph Maker](https://aigraphmaker.net) - 10 free credits daily / AI-powered chart generation / Multiple chart types - From $4/month (500 credits)
+-   [RapidChart](https://www.rapidcharts.ai) - AI-Powered diagram generation / UML & ER diagrams / C4 Architecture
+-   [Draft1.ai](https://draft1.ai) - Generate ER, UML, Kubernetes & Network Diagrams / Compatible with Draw.io and Visio - From $24/month
+-   [Edraw Software](https://www.edrawsoft.com) - Free Download / Create 210+ types of diagrams / AI-powered diagram generation
+-   [Image to Drawio](https://imagetodrawio.com) - 3 free conversions / Convert images to editable Draw.io diagrams / AI-powered accuracy / No login required - From $4.99 for 20 credits
+-   [Splotch](https://splotch.ink) - 1 project & 10 diagrams free / Turn written workflows into live diagrams / AI flowchart generation - From $14/mo
+-   [Docugram](https://docugram.app) - 5 free document-to-diagram generations / AI-powered flowchart maker / Effortless text to flowchart conversion - From $7.50/month
+-   [PageOn.ai](https://www.pageon.ai) - Create up to 1 file free / AI-driven dynamic visuals / Interactive charts, diagrams, 3D models - From $14.99/month
+-   [Bhava - AI-Powered Diagram Editor](https://bhava.app) - Unlimited diagrams free / AI-powered diagram generation / Collaborate with AI - From $9.99/month
+-   [MyLens.AI](https://mylens.ai) - Free / Generates timelines from any topic / Transforms content into interactive visuals (mindmaps, tables, etc.)
+-   [ConceptViz](https://conceptviz.app) - 3 diagram credit included / Accurate scientific diagrams / Projector-ready 4K export - From $10/month
+-   [MockFlow](https://mockflow.com) - 1 wireframe project & 100 AI credits / Online Wireframing / AI-powered Design / Real-time Collaboration - From $3/month
+-   [Research Studio](https://researchstudio.ai) - 2 Researches free / Summaries / Sentiment Analysis / AI Chat - From $8.99/month
+-   [AI Diagram Maker](https://aidiagrammaker.com) - 10 AI credits/month / Generate Software Architecture & Flow Diagrams with AI / Just type your idea in plain English no drag-and-drop required - From $5/month
+-   [MyLens](https://datamotto.com) - Visualize anything fast with AI / mindmap generator / PDF to visuals
+-   [Dezyn](https://www.dezyn.io) - 100 Documents, 20 AI Diagrams, 50 Custom Components free / AI Powered Diagrams / Rich Data Integration - From $9.99/month
+-   [Miro](https://miro.com) - Free 3 editable boards / Online collaborative whiteboard / AI-powered collaboration - From $10/month per member
+-   [SnapDiagram](https://snapdiagram.xyz) - 1 diagram conversion per month free / Convert hand-drawn sketches to digital diagrams / Download in various image formats or editable files - From $1 for 10 conversions
+-   [Napkin AI](https://www.napkin.ai) - 500 AI credits per week / Transform text into insightful visuals / Generate editable visuals - From $12/month
+-   [Docuopia](https://www.docuopia.com) - 150 AI Credit/user / Craft product requirements, help docs, and wikis / AI-Generated Diagrams / No Sign-Up - From $10/month
+-   [Cloudairy](https://cloudairy.com) - 25 AI credits/month / Animated architecture diagrams / Mindmap / Project planning - From $8/month per member
+-   [Vison.ai](https://vison.ai) - 2K Words free / Content Creation / AI Marketer (Mark) / Train your own writing style - From $9.77/month
+-   [ChartDB](https://chartdb.io) - Free / Database diagram editor / Visualize database with a single query / AI-powered DDL script generation
+-   [Cruderra](https://cruderra.com) - 14-day free trial / Automated Design Doc with AI / Code scanning and automated technical documentation updates - From $28/user/month (billed annually)
+-   [rapidwork](https://rapidwork.ai) - 15 Datafetch queries & 10 PDFs/mo / AI-Powered Datafetch / PDF Assimilation / Graphic Design - From $10/mo
+-   [Frame0](https://frame0.app) - Unlimited free trial with watermarks / Hand-drawn wireframes / Interactive prototypes / AI integration - From $99 (one-time payment)
+
+### AI PDF Editor
+
+-   [PDF Guru](https://pdfguru.com/ai-pdf-summarizer) - First summary free / Summarize PDFs / Chat with PDF
+-   [PDFgear](https://www.pdfgear.com) - Completely Free / AI-powered PDF Editor / Convert & Manage PDFs / No Sign Up
+-   [LightPDF](https://lightpdf.com) - 3 files/day / PDF Editor / PDF Converter / AI Chat - From $2.77/month
+-   [Apowersoft](https://apowersoft.com) - Record, Edit & Convert Multimedia / Screen Recording & Phone Mirroring - From $4.99/month
+-   [TinyWow](https://tinywow.com) - No Limits / PDF, video, image, AI write tools / No Sign-Up Required - From $5.99/month
+-   [PDNob Online](https://www.tenorshare.ai/free-online-pdf) - 100% Free / OCR / Convert / Sign / No Sign-Up
+-   [PDNob PDF Editor](https://www.tenorshare.com/products/pdf-editor-software-free-download.html) - 50 AI credits / AI Read & Summarize PDF / Convert PDFs - From $14.99/month
+-   [AI-Redact](https://ai-redact.com) - AI-Powered Redaction / Automatic Sensitive Information Removal / Secure & Automatic Deletion - $0.10 per document for 1 document
+-   [LightPDF](https://chromewebstore.google.com/detail/lightpdf-ai-chat-summary/bbdefjbkdegboapdmjgehondplmfinek) - Chat with PDFs & Documents / Convert & OCR PDFs
+-   [Docsumo](https://www.docsumo.com) - Free 14-day trial, 100 pages / Automate data extraction / 99% accuracy - From $269/month
+-   [FilePower AI](https://filepower.ai) - / Chat with documents / Summarize files / Translate documents
+-   [PDF.co](https://pdf.co) - 1-Month free trial, 10,000 free credits / PDF conversion / PDF editing / PDF extraction - From $8.99/month
+-   [Redactable](https://www.redactable.com) - The #1 Automated Redaction Software / Save 98% of time on PDF Redaction / Ensure foolproof security with permanent, untraceable redactions - From $19/month for 15 documents
+-   [Doclingo](https://doclingo.ai) - Free 3 translations/day / AI-Powered Document Translation / Format Restoration / No Registration Required - From $49.99/year
+-   [Frankenfile](https://www.frankenfile.com) - 20 free credits / AI-powered file productivity / Image, video, PDF manipulation / File sorting & renaming - Free
+-   [GoPDF](https://gopdf.io) - 10 PDF conversions, 10 PDF edits, 1 AI project free / Edit, Convert, AI Chat with PDF - From $9.99/monthly
+-   [PDF.co](https://streamdocs.ai) - 1-Month free trial / PDF conversion / PDF editing / PDF extraction
+-   [Wondershare](https://wondershare.com) - Free PDF Reader & Online Tools / AI-powered video & content creation / Comprehensive PDF & diagramming tools - From $1.58/month
+-   [PDF Converter](https://pdf-converter.ai) - Limited free uses / Convert to/from PDF / Edit PDF
+
+### AI Email Assistant
+
+-   [Spark Mail](https://sparkmailapp.com) - 7-day Premium trial / AI-powered email writing assistant / Smart Inbox / Team Collaboration - From $4.99/month
+-   [Stripo](https://stripo.email/blog/introducing-stripos-ai-assistant-evolutionizing-editor-for-email-campaigns) - Free AI Assistant / AI-powered email creation / Automated content generation / Brand-aligned campaigns - From $20/month
+-   [BlueMail](https://bluemail.me) - Free / Unified Inbox / GemAI Generative Email -
+-   [Mailbutler](https://mailbutler.io) - 14-day free trial / AI-powered email assistant / Email Tracking / Smart Send Later - From $3.95/month
+-   [Robly Email Marketing](https://robly.com) - 14 day free trial / Get 50% More Opens / List Growth - From $15/mo for up to 500 contacts
+-   [Mailmodo AI](https://mailmodo.com) - 21 days free trial / Send interactive emails / Drag & Drop Editor / Email Automation - From $39/month for 2,500 contacts
+-   [Shortwave](https://www.shortwave.com) - 14 day free trial / AI email assistant / Organize & write emails with AI - From $14/month
+-   [Snoooz AI](https://snoooz.ai) - 14-day free trial / Personalized email auto-replies / Automated email routing and categorization - From $9/month
+-   [Serif](https://www.serif.ai) - Free trial / Save hours on email / Inbox organization & drafting - From $20/month (up to 2,000 emails)
+-   [GMPlus](https://gmplus.io) - Free forever / AI Email Generation / 100+ AI-Generated Prompts / Multilingual Support
+-   [MailMaestro](https://www.maestrolabs.com/ph) - AI email writing / Email summarization / Instant email responses
+-   [InboxPro](https://inboxpro.io) - Free 250 Monthly Emails / AI Email Assistant / Calendar Scheduling / Automated Follow-up Sequences - From $10/month (5000 Monthly Emails)
+-   [Client Hub](https://clienthub.app) - 14-day free trial / Streamline workflows / Secure client communication / AI-powered tools - From $69/month per user
+-   [Inbox Zero](https://www.getinboxzero.com) - 7-day free trial / AI personal assistant / Bulk unsubscriber / Cold email blocker - From $16/month for 1 email account
+-   [Friday: AI E-mail Writer](https://friday-email.ai) - Instantly create professional emails / Real-time grammar check
+-   [AI Perfect Assistant](https://perfectassistant.ai) - Generate PowerPoint slides / Reply to messages in Outlook & Teams / Craft documents in Word - From $99.99/annually
+-   [Kerlig AI](https://www.kerlig.com) - Trial available / Write emails, Slack replies, Jira tickets / Proofread & correct grammar / - From $47/once (1 Mac)
+-   [Thunai](https://www.thunai.ai) - 100 AI Credits/Month / Automate Support, Sales & Marketing / Smart Knowledge Management - From $9/month
+-   [Scaloom](https://scaloom.com) - 10 Free Credits / AI-Powered Website Analysis / Boost Cold Email Conversions - From $29/month
+-   [Lutra AI](https://lutra.ai) - 15 messages/day, 200 credits/month free / Automate repetitive work processes / Data enrichment - From $23/month
+-   [EmailTree.ai](https://emailtree.ai) - 14-DAYS FREE TRIAL / AI Email Automation / Smart Reply / AI Knowledge Base - From 15€/month
+-   [Spike](https://www.spikenow.com) - 10 AI queries free / AI-powered email / Conversational email / Unified inbox - From $4/member/month
+-   [Autobound.ai](https://autobound.ai) - 150 shared credits/month / AI Email Writer / AI Powered Sequencing - From $29/month
+-   [Spamdrain](https://spamdrain.com) - 14-day free trial / Great spam filtering / Newsletter and marketing filter - From €1.83/month for 1 email
+-   [Lavender](https://www.lavender.ai) - Write better emails faster / Get more positive replies / Boost pipeline from your inbox
+-   [Auto Gmail](https://autogmail.com) - AI writes draft responses / Pre-written drafts before you open your inbox - From $47/month (30 emails answered per day)
+-   [ChatGPT for Outlook](https://www.chatgptoutlookaddin.com) - Free Add-in / Run ChatGPT on emails / Configure custom prompts
+-   [VoiceType](https://voicetype.io) - Free trial access / Write Your Entire Email From Short Voice Prompt / Speaking, not Dictating
+-   [Fyxer AI](https://www.fyxer.com) - 7 Day Free Trial / Organizes your inbox / Drafts extraordinary emails / Writes better-than-human meeting notes - From $30/user/month
+-   [TraceMail](https://tracemail.io) - Forever free / Real-time email tracking / Email open and click tracking / Document Tracking - From $2.92/month
+-   [Clean Inbox for Gmail™](https://cleaninboxforgmail.com) - Free 5 categories / GPT powered filters to avoid unwanted email, spam and marketing email / Create custom filter categories, powered by chatGPT - From SGD 4.08/month
+-   [Superinbox](https://superinbox.com) - 7 days trial / AI drafts email replies / auto-organizes your inbox - From $25/month
+-   [Mailr](https://mailr-ai.com) - 2,000 Word Limit free / Write Emails 10x Faster / 10+ Custom Tones - From $4.99/m
+-   [Ellie AI](https://tryellie.com) - 3 simple replies a day / Professional, bespoke emails / Save hours every day - From $19/month
+-   [Taurin](https://taurin.io) - Free plan available / AI Summarization / Auto-segmentation / Built-in CRM - Free
+-   [Zuni](https://zuni.app) - 10 message credits per day / Access to latest AI models / Gmail Integration - From $20/month
+-   [MagicSet](https://www.magicset.ai) - 1:1 Personalized Email Outreach / Ringless Voicemail Drop - From $10/month per sender inbox
+-   [Inboxly](https://inboxly.me) - 10-day free trial / Organizes, prioritizes, and responds to messages / AI automated responses - From $4.99/month
+-   [MailBuddy](https://mailbuddy.ai) - Free for use / No usage limits / GPT-powered email replies / Understands context & tone / Works directly in Gmail / No Login required
+-   [Duet Mail](https://duetmail.com) - 14-day free trial / Automatically summarize emails / draft emails and replies / organize your inbox - From $15/month
+-   [OwlU](https://owlu.site) - AI-driven email processing / Fast email processing / Multi-email integration
+-   [Draftr](https://draftr.co) - 10 free drafts/per month / pre-drafts every response / perfectly learns your voice - From $4.99/month (100 messages)
+-   [Otron](https://www.otron.io) - Free Forever Platform / AI-Powered Email Management / Email Ticketing System / Visual Workflow Builder
+-   [Qex AI](https://qexai.com) - Free Trial With $25 Usage Credit / Smart Email-Capable AI Assistants / Customer Support & Email Marketing / No Card Needed To Sign Up - From $79/month
+-   [AI Mail Assistant](https://www.chatgptservices.app) - 10 requests per month / Auto-responder / Email summarizer / 13-language translator - From €4.99/month
+-   [Supamail](https://www.supamail.co) - 7-Days Free Trial / Smart Summaries / AI Categorization - From $4.99/month
+-   [Pullsy](https://pullsy.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3267)- Free Trial + From $15/month, No Refunds / Your inbox, organized. Your replies drafted.
+-   [Tame My Inbox](https://www.tamemyinbox.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3378)- Freemium + From $9.60/month, No Refunds / AI email assistant that solves Gmail overload effortlessly.
+-   [iGPT](https://www.igpt.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2532)- Freemium + From $20/month / Turn email into actionable data.
+
+### AI PPT Maker
+
+-   [Pi（Presentation Intelligence）](https://www.pi.inc) - AI presentation generator / Intelligent generation and design from content to layout / Integrate notes, PDFs, websites, images, videos, and data
+-   [Presentations.AI](https://presentations.ai) - Free with limited AI credits / AI-powered presentation creation / Stunning decks - From $40/year for up to 10 members
+-   [SlideSpeak](https://slidespeak.co) - Up to 1 file/presentation free / Chat with your PowerPoint files / Summarize PowerPoint slides with AI - From $29/month
+-   [Xavier AI](https://www.xavier.ai) - 50 AI slides/month / Generate consulting-style decks in seconds / Adapt to your firm’s branding and style - From $19/Month/user
+-   [SlidesAI](https://www.slidesai.io) - 12 Presentations / year free / Create Presentation Slides with AI / Works with Google Slides / No Sign-Up - From S$6.48/month
+-   [Plus AI](https://plusai.com) - 7-day free trial / Generate AI presentations / Edit slides with AI - From $10/month
+-   [Autoppt](https://autoppt.com) - 1 AI PPT generation / 5 GPT-3.5 uses per day / AI PowerPoint Generator / Document to AI slides conversion - From $12.49/month
+-   [Aidocmaker.com](https://aidocmaker.com) - 10 Documents, Presentations, Spreadsheets per month free / AI Document Creation / AI Presentations / No Signup - From CNY ¥66/month
+-   [SlidesGPT](https://slidesgpt.com) - 10 downloads/month free / Create presentations from prompt / Export to PowerPoint & Google Slides / No registration - From $9.99/month
+-   [MagicSlides.app](https://www.magicslides.app) - 3 Presentations / month / AI-powered presentation creation from various sources / Integrates with Google Slides, Figma, ChatGPT - From $6.7/month
+-   [AiPPT](https://www.aippt.com) - 6 total generations / AI-Powered One-click PowerPoint Generation / Generate from various inputs (text, documents, URL) - From US$ 5.0 /month
+-   [AI Perfect Assistant](https://perfectassistant.ai) - Generate PowerPoint slides / Reply to messages in Outlook & Teams / Craft documents in Word - From $99.99/annually
+-   [Presenti AI](https://presenti.ai) - AI presentation generation / Convert various file types to slides - From $10/month
+-   [iSlide](https://www.islide.cc) - 30 AI conversation points/month free / AI PPT Generation / 100,000+ PPT Templates / PPT Design Tools - From 7.86/month
+-   [Choladeck](https://choladeck.com) - 50 Free Slides, 50 Icons, 100 Stock Images / 9870+ Unique Slides & 159 Categories / Compatible with PowerPoint, Keynote, and Google Slides / No Sign-in or Credit Card Required - From $29/month
+-   [SlidesPilot](https://www.slidespilot.com) - AI Presentation Generator / AI Image & Copilot / PDF & Word to PPT
+-   [Neo AI Presentation Maker](https://slideuplift.com/ai-presentation-maker) - Free to create and edit / AI-powered templates / Smart content generation - From $24.99/month
+-   [Smallppt](https://www.smallppt.com) - 1 AI PPT generation, 5 GPT-3.5 uses/day / AI Presentation Maker / AI Writing / AI Summarizer - From $12.49/month
+-   [Edraw Software](https://www.edrawsoft.com) - Free Download / Create 210+ types of diagrams / AI-powered diagram generation
+-   [PPT AI](https://ppt.ai) - Free 3 presentations per month / AI Presentation Maker / Free Professional Templates - From $3.9/month
+-   [PageOn.ai](https://www.pageon.ai) - Create up to 1 file free / AI-driven dynamic visuals / Interactive charts, diagrams, 3D models - From $14.99/month
+-   [NextDocs](https://www.nextdocs.io) - 200 AI credits free / AI Document & Slide Creation / Automated Formatting & Design - From $20/month
+-   [Prezent](https://prezent.ai) - Free trial / AI-powered content creation / data transformation tools / expert services
+-   [SlidesWizard](https://slideswizard.io) - AI presentation generation with images & speaker notes / Export to PowerPoint, Google Slides, PDF - From $2.50 per presentation
+-   [AI Slide Studio](https://www.aislidestudio.com) - Unlimited presentation creation / Create professional presentations in seconds / Fully customizable - From $9.99/month
+-   [AI Teacha](https://aiteacha.com) - Lesson Plan Generator / Assessment Generator / Curriculum Design - From $5/month
+-   [Plus AI](https://www.plusdocs.com) - 7-day free trial / AI presentation generation / AI editing in Google Slides & PowerPoint - From $10/month
+-   [Shufflrr](https://shufflrr.com) - Free up to 4 users / PowerPoint Presentation Management / Find slides in seconds, Create decks in minutes / Ensure compliant, branded, beautiful presentations - From $10/user/month
+-   [PoweredTemplate](https://ai.poweredtemplate.com) - 400 credits for free registered users / AI-powered presentation creation / Customizable slides & multiple download formats
+-   [Presentify.ai](https://presentify.ai) - 50 Credits/day / AI Slide Generator / Contextual Icons - From $3.99/month
+-   [PPTAI](https://pptai.pro) - Free / AI-powered presentation creation / Smart Content Generation
+-   [SlideAI](https://slideai.net) - Automatic Content Generation / Unique and Tailored Content
+-   [Better Powerpoints](https://www.betterpowerpoints.com) - 3 generations/month / AI-Powered Presentations / Real-time Collaboration / Export to PPTX - From $9.99/month
+-   [彩漩PPT](https://caixuan.cc) - AI creation / Team collaboration / Secure sharing - From ¥99/year
+-   [Pi-智能演示文档](https://pi.deepvinci.tech) - AI-powered PPT generation / Smart layout & design / Multi-format content integration
+-   [笔格AIPPT](https://bigesj.com/ai-ppt/?hmmd=toolify) - AI one-click PPT generation / AI one-click smart layout / Documents instantly turn into PPT
+-   [Beautiful.ai](https://www.beautiful.ai) - 14-day free trial / AI-powered presentation software / Automate presentation design - From $12/month
+-   [Xpptx](https://xpptx.com) - Try free / Create Presentations with One Click / AI converts PDF/Word/Mind Map to PPT instantly
+-   [PresentationGPT](https://www.presentationgpt.com) - Unlimited free creation & sharing / AI-generated presentations / PowerPoint & Google Slides compatibility / No registration - From $12/mo
+-   [Slider AI](https://sliderai.com) - Free Presentation Generation / AI-Powered Storytelling / Visualize Your Ideas Instantly / Multiple Languages - From $8/month
+-   [Revent.ai](https://www.revent.ai) - Automated presentation design from documents / Seamless branding integration / No Sign-Up
+-   [CoursePro.AI](https://coursepro.ai) - 14 Day Free Trial / AI Content Generation / Multiple Choice Question Generator / Integrated LMS - From $39/month
+-   [FlashDocs](https://flashdocs.com) - Free 10,000 layouts & 20 templates / Generate Google Slides & PowerPoint decks via API / Supports Markdown, charts, images, tables
+-   [WorkPPT](https://ppt.softtooler.com) - 1 AI PPT generation, 1 AI summarizer usage free / AI Presentations / AI Summarizer - From $19.99/Month
+-   [AI PPT Maker](https://aipptmaker.ai) - 100 credits/month / Generate professional PowerPoint presentations / Convert various content types / No Sign-Up required - From $4.9/month
+-   [PPTX.ai](https://pptx.ai) - Produce presentation slides from PDF, Word, or text docs / AI-generated speaker notes - From $5 for 18 Slides
+-   [SlideFlow AI](https://slideflow.io) - 1 free presentation / Create AI presentations in seconds / Content-aware backgrounds & Magic Editor - From $1.49/presentation
+-   [ChandlerAi](https://chandler.bet) - Free 5 advanced queries / Chat with AI models / Image Generation / PDF Reading - From $3.99/month
+-   [GenPPT AI](https://genppt.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3312)- Free Trial + From $15.90/month, No Refunds / Transform ideas into polished presentations with AI.
+
+### AI Documents Generator
+
+-   [ChatPRD](https://www.chatprd.ai) - AI Copilot for Product Managers / Draft & improve product docs / Coaching on PM skills - From $5/month
+-   [guidde](https://guidde.com) - Free Extension / AI-powered video documentation / Step-by-step guides
+-   [Mintlify](https://mintlify.com) - 14-day free trial / Beautiful out of the box / AI-native / Web Editor - From $150/month
+-   [AI Lawyer](https://ailawyer.pro) - Expert legal advice / Document creation, summarizing & comparison / Rapid legal research
+-   [Gamma](https://gamma.app) - Free 400 AI credits at signup / Generate AI Presentations / Webpages & Docs / Effortless Design - From $16/user/month
+-   [Mathpix](https://mathpix.com) - 10 PDF pages, 10 images free / AI-powered document conversion / OCR for math and chemistry - From $4.99/month
+-   [Docuya.ai](https://www.docuya.ai) - 3 free documents / Generate legal documents / Personalize templates with AI - From $7/month
+-   [Go Legal AI](https://go-legal.ai) - Free 3 downloads/month / AI-powered legal document generation / AI document reviews / Expert legal advice - From £70/month
+-   [Aidocmaker.com](https://aidocmaker.com) - 10 Documents, Presentations, Spreadsheets per month free / AI Document Creation / AI Presentations / No Signup - From CNY ¥66/month
+-   [Redesignr Ai - landing page builder and website redesign](https://redesignr.ai) - 15 AI credits / AI Landing Page Builder / Website Redesigner / GitHub Docs Generator - From $50/month
+-   [PrometAI](https://prometai.app) - 25 AI requests per month, 1 Business Plan free / AI Business Plan Generation / Expert-Designed Business Valuation - From $55/month
+-   [Theneo](https://theneo.io) - Free Starter Package (up to 1 public, 2 private projects) / AI-Powered API Documentation / Automated Changelogs / Interactive API Testing - From $120/month/workspace
+-   [Format Magic](https://formatmagic.ai) - Free 100,000 tokens monthly (Approx 40 pages) / Transform plain text into polished documents / AI intelligently applies headings and styles - From USD$4.95/month
+-   [v0 Report](https://v0.report) - Automated Report Generation / AI Document Generator / AI PDF Summarizer - From $7/month
+-   [eAdvocate4You](https://eadvocate4you.com) - Free / Personalized Legal Document Creation / AI-driven Legal Research
+-   [Startuptools.ai](https://www.startuptools.ai) - Free / Generate a business plan in 3 minutes / Streamline planning, marketing, and growth - From $11.99/month
+-   [Capitol AI](https://www.capitol.ai) - 7-day free trial / AI-powered document creation / integrates top AI models - From $10/month
+-   [Userdoc](https://userdoc.fyi) - 14-day free trial / AI assistance / Documentation from code / Collaboration & Integrations - From $19 USD per seat/month (Up to 3 Seats)
+-   [Dispute Panda](https://disputepanda.com) - 14-day trial for $1 / AI-Powered Credit Repair / Process clients up to 70% faster - From $197/month
+-   [NextDocs](https://www.nextdocs.io) - 200 AI credits free / AI Document & Slide Creation / Automated Formatting & Design - From $20/month
+-   [Trupeer](https://www.trupeer.ai) - 3 AI credits for 10 days / AI generated product videos / AI generated user guides - From $15/month
+-   [Documentation.AI](https://documentation.ai) - 1 editor seat, 50 AI credits free / AI-optimized documentation / AI agent / No credit card needed - From $0/forever
+-   [Formly](https://www.formly.ai) - Free trial / AI powered documentation / Expert regulatory guidance
+-   [SWMS AI](https://www.swms.ai) - Unlimited free trial / Automate Safety Risk Assessments / Generate Safe Work Method Statements / AI Safety Co-pilot - From $14.99/mth
+-   [Clueso](https://www.clueso.io) - 7-day free trial (15 mins video, 15 articles) / AI-powered product videos / step-by-step documentation / No credit card required - From $120/month
+-   [Inkwise](https://inkwise.ai) - Free Trial / Craft Expert Documents From Your Files with AI / Smart Content Extraction / AI Chat with Files
+-   [Kopyst](https://kopyst.com) - Free 10 Documents, 10 Videos, 10 Pages / Record any process into video & detailed guide / AI-powered documentation - From $15/month
+-   [PatentPal](https://patentpal.com) - Free trial / Automate mechanical writing in your patent applications / Generate spec and figures with one click
+-   [RamenLegal](https://ramen.legal) - 2500 free tokens / AI Legal Document Generators / AI Legal Research Assistant - From $19/month
+-   [WriteMyPrd](https://writemyprd.com) - Generate PRD first draft / ChatGPT powered
+-   [AiAssistWorks](https://www.aiassistworks.com) - 300 execution credits per month / Automate Google Sheets, Docs, & Slides / 100+ AI models - From $4/month
+-   [Plannit AI](https://plannit.ai) - AI business plan generator / Financial projections
+-   [Stenography](https://stenography.dev) - 250 Free Monthly Invocations / Automatic Documentation / Document entire codebases / Powerful API - From $10/month
+-   [Writegenic AI](https://writegenic.ai) - Full-length industrial-grade documents / SEO Optimized Generations / 300+ AI tools - From $6.25/month
+-   [ReportGPT](https://reportgpt.app) - 3 Reports for free / AI-Powered Writing Assistance / Customizable Document Structures - From $3/one-time for 1 AI-Report
+-   [DocsHound](https://docshound.com) - 1 guide free / Demo to Docs / AI Chatbots - From $150/mo
+-   [Our Party Wall](https://ourpartywall.co.uk) - Generate all required documents / Save up to £1000 / AI powered chat service - From £44 / all required documents
+-   [goPDF](https://gopdf.pro) - Chat with PDF / AI Document Generator / AI Blog Writer
+-   [Docuopia](https://www.docuopia.com) - 150 AI Credit/user / Craft product requirements, help docs, and wikis / AI-Generated Diagrams / No Sign-Up - From $10/month
+-   [Cloudairy](https://cloudairy.com) - 25 AI credits/month / Animated architecture diagrams / Mindmap / Project planning - From $8/month per member
+-   [NoDocs](https://nodocs.io) - Single project, 5 pages per project free / No-Code Docs Builder / Notion-Like Editor / One-Click Publishing - From $9.9/month
+-   [DocGen](https://www.docgen.dev) - Free 500 files limit / Automatically creates comprehensive documentation / Keeps documentation in sync with code changes - From $69/month
+-   [GitBook](https://gitbook.com) - Free plan (one user) / AI-powered search and insights / Effortlessly create, surface and improve documentation / Collaborate and build in a git-based workflow - From $65/month
+-   [Releaso](https://releaso.com) - Free Trial / Automated product updates / Customizable branding / Engaging communication - From $15/month
+-   [Invoce.ai](https://www.invoce.ai) - 5 invoices & 5 quotes free / Chat with AI to create invoices fast / Zero transaction fees - From $49/one-time (Unlimited use)
+-   [Peedief](https://peedief.com) - 5 free PDF generations / Structured Document Generation for AI Agents / Intelligent Templates - From $10/month (500 PDFs)
+-   [video2docs](https://video2docs.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2957)- Free Trial + From $5/unit, No Refunds / Transform screen recordings into well-written how-to guides using AI.
+
+### AI Calendar
+
+-   [Dooray!](https://gov-dooray.com) - Free plan for up to 25 users / All-in-one collaboration / Project management / Messenger & Mail - From ₩2,500/month per person
+-   [Akiflow](https://www.akiflow.com) - 7 days free trial / Unified Tasks & Calendars / AI-powered Time Blocking - From $19/month
+-   [Notion](https://www.notion.so) - Unlimited for individuals / AI assistant / All-in-one workspace for wiki, docs & projects - From $10/month
+-   [Clockwise](https://getclockwise.com) - Free plan available / AI Powered Time Management Calendar / Flexible Meetings / Focus Time - From $6.75/month (billed annually)
+-   [Toki](http://yestoki.com) - AI calendar assistant / Turns voice, texts, pictures into schedules / Syncs with Google/Apple calendars
+-   [Morgen](https://www.morgen.so) - Free trial / Merge calendars, tasks & apps / AI daily planning - From USD 6.50/month
+-   [Shortwave](https://www.shortwave.com) - 14 day free trial / AI email assistant / Organize & write emails with AI - From $14/month
+-   [SkedPal](https://skedpal.com) - 14-day free trial / Intelligent Time Blocking / Automated Scheduling of To-Do's / No Email Required - From $9.95/month
+-   [FlowSavvy](https://flowsavvy.app) - Free (2-week auto-scheduling, 2 calendar syncs) / Intelligent auto-scheduling / Automatic rescheduling - From $7/month
+-   [Mayday](https://mayday.am) - / AI-assisted calendar / Organize & schedule priorities / Protect your day from overbooking / -
+-   [InboxPro](https://inboxpro.io) - Free 250 Monthly Emails / AI Email Assistant / Calendar Scheduling / Automated Follow-up Sequences - From $10/month (5000 Monthly Emails)
+-   [Text to Calendar](https://www.text-to-cal.com) - First 5 calendar events free / Highlight text to create calendar events / Create multiple and recurring events / Auto-populate event details - From $2.99/year
+-   [Whimsey Scheduler](https://whimsey.ai) - 6 months free premium for first 500 users / Email-based scheduling / Polite, Conversational AI Scheduling / Google Workspace integration
+-   [KIN](https://www.kincalendar.com) - Free for the first 100 adopters / Voice-first AI-powered Calendar Assistant / Create events from photos
+-   [fwd2cal](https://fwd2cal.com) - Free / AI adds events from emails / Google Calendar integration
+-   [Nittei-san](https://c.repsona.com) - Free indefinitely / Collaborative Scheduling / Google Calendar Integration / No account registration or login required
+-   [Reclaim.ai](https://reclaim.ai) - Free forever Lite plan / AI-powered auto-scheduling / Focus Time defense / Meeting optimization - From $10/month
+-   [Vanta - AI Todo Event Calendar](https://apps.apple.com/us/app/vanta-ai-todo-event-calendar/id6743377027) - Free / AI-powered scheduling / Natural language processing / Auto Checklist Creation - From $3.99
+-   [Alova: AI News, Updates & Tips](https://apps.apple.com/us/app/alova-ai-news-updates-tips/id6575347612) - Real-time AI news updates / AI event calendar / Free AI resources & PDFs - From $1.99
+-   [Convert Chat GPT to-do Calendar Tasks](https://chromewebstore.google.com/detail/gptodo/kfchhmbdllpcidblmkijbpjdmhfhidne) - Free / Convert Chat GPT responses into to-do calendar tasks / Quickly drag and drop into a monthly calendar to send to your own calendar
+-   [Syllaby.io](https://syllaby.io) - 7 day free trial / AI Avatars / Faceless Videos - From $25/Month
+-   [Healee](https://healee.com) - Free / up to 10 providers / Patient intake / Care triage & Scheduling / Care coordination & Patient communication - From $199/month
+-   [Reflect Notes](https://reflect.app) - 14-day trial / Networked notes with backlinks / AI integration for note-taking and writing - From $10/month
+-   [Kali - AI Calendar Scheduler](https://apps.apple.com/us/app/kali-ai-calendar-scheduler/id6460134539) - Free / AI chatbot schedules events / Outsource scheduling decisions - From $4.99
+-   [Coco AI](https://textcoco.com) - Unlimited messages, limited one-time reminders, 50 Voice Notes/Month, 5 Images/Month free / Calendar management / Reminders / List management / No signup required - From $4/month
+-   [CalendarApp](https://calendar-app.de) - 14-day free trial, 50 messages / Schedule appointments on Social Media / Automate conversations - From $29/month
+-   [Motion](https://usemotion.com) - Free trial / AI Task Planner / AI Project Manager / AI Calendar - From $19/month
+-   [Keysha](https://keysha.ai) - Free Trial / Smart assistant that thinks ahead / Smart Calendar / Email Control
+-   [Free Blocks](https://freeblocksapp.com) - One calendar booking page free / Share calendar availability / Seamless integrations with Google Calendar and Gmail - From $7/month
+-   [Actimate](https://www.actimate.io) - AI Calendar Management / Daily Interactive Check-ins / Simplified Goal Tracking
+-   [Greetigo](https://greetigo.com) - Free 3 events / AI-Powered Reminders / Personalized Greetings - $9.99/month
+-   [Routine](https://routine.co) - Free plan with 5 data connectors & 7-day history / All-in-One Work Platform / Connects tasks, calendars, projects, notes, contacts - From $10/month
+-   [Trevor AI](https://trevorai.com) - Free tier for personal use / AI Planner for tasks and calendars / AI time blocking - From $5/month
+-   [Voiset](https://www.voiset.io) - Free trial with 30 min voice tasks and notes / AI scheduling / AI task manager / Voice dictation - From €8/month
+-   [TimeTuna](https://timetuna.com) - Up to 3 booking pages free / Beautiful Branded Scheduling Pages / Custom video backgrounds - From €5/month
+-   [KaraboAI](https://karabo.ai) - 1 Chatbot, 100 Messages Free / Custom AI Chatbots / 24/7 Business Support - From $29.00/month
+-   [Elephouse](https://elephouse.de) - Free forever / Natural language input / Tasks & Calendar management / Smart organization
+-   [ProgressMade](https://progressmade.ai) - Track up to 2 health areas & 2 goals / AI Health Coach / Personalized Goal & Routine Management / Progress Tracking & Visualization - From €6.49/month (billed yearly)
+-   [David One](https://heydavid.ai) - Join Beta For Free / Video understanding / Web search / Productivity tools - Contact for Pricing
+-   [Planby Now](https://www.planbynow.app) - Explore for Free / Build smart schedules / Drag & drop / - From $39/month
+-   [EasyToDo: Daily Planer](https://apps.apple.com/us/app/easytodo-daily-planer/id6504800291) - Intelligent Voice Input / Repeating Task Setting / Smart Reminders - From $2.99
+
+### AI Resume Checker
+
+-   [Resume Worded](https://resumeworded.com) - AI-powered tailored feedback on resume & LinkedIn / Land 5x more interviews & job offers / - From $19/month
+-   [Huntr](https://huntr.co) - Track up to 100 jobs free / AI Resume Builder / AI Cover Letters / Job Application Autofill - From $26.66/month
+-   [PyjamaHR](https://pyjamahr.com) - 7-day free trial / AI-powered ATS / Simplify candidate tracking - From $15 per user/month
+-   [Helio.AI](https://www.helio-ai.com) - No Starting Costs / End-to-end automated recruiting / AI-powered ATS / Gamified personality test & candidate profiling
+-   [HireFlow.net](https://www.hireflow.net) - AI-powered resume and cover letter optimization / Personalized feedback - From $2.99 for 6 templates
+-   [Loopcv](https://www.loopcv.pro) - Up to 10 applications or emails per month / Automate job searches / Optimize CV with AI / Track applications - From €8.99/month
+-   [CVScoring.com](https://cvscoring.com) - 1 Credit / Job Matching Score / Cover Letter Generator / ATS Resume Checker - From $6/month (25 Credits)
+-   [MiGuru](https://miguru.ai) - Free CV analysis / Consolidated job portals / AI-powered application autofill / No Login required
+-   [ResumeCheck.net](https://resumecheck.net) - 4 text corrections / AI Resume Analysis / Full Grammar Corrections / AI Cover Letter & Email Writer - 3.90€ for 2 Resume Checks
+-   [Jobalytics](https://jobalytics.app) - ATS resume checker / Keyword Analysis - From $9.99/month
+-   [Hiration](https://hiration.com) - / ChatGPT Powered Career Platform / AI-powered Resume Builder / AI-powered Resume Review / -
+-   [Resumes Ranker](https://resumesranker.com) - Free 5 fixed jobs, 50 resumes per job / Rank and Score Bulk Resumes with GenAI / Unbiased, Data-Driven Candidate Rankings - From $20/month
+-   [Lemmi](https://lemmi.io) - 2 free resume reviews monthly / AI Resume Checker: Instant Score & Review / ATS Optimization - From $19.99/month
+-   [WizApply](https://wizapply.app) - AI-Powered Job Matches / Optimize your CV with AI - From $4.95/One-time payment (2,000 AI Credits)
+-   [Resumes Ranked](https://resumesranked.com) - 3 Day Free Trial / Quickly analyze, score and summarize Resumes / Identify top candidates in minutes - From CA$29.00/month
+-   [Jobbie](https://jobbie.io) - Free / ATS Resume Checker and Fixer / Resume Templates / Manual Resume Review / No Sign-Up
+-   [JobAutopilot](https://chromewebstore.google.com/detail/jobautopilot-ai-resume-se/pceedigolbgaoblpnekfeodfcpohhamn) - Automated Job Application & Resume Matching / Job Application Tracking / AI Resume Checker
+-   [ATSFriendly.com](https://www.atsfriendly.com) - 2 Free Scans per week & 5 AI Credits / AI Powered Resume Scanning / AI Resume Writer - From $7.99/month
+-   [InstantApply](https://instantapply.co) - 5 Credits / Resume Keyword Analyzer / AI Cover letter generation / Job Autofill - From $21 for 50 credits
+-   [AI Powered Resume Checker](https://resumechecker.ai) - Free review / AI-powered resume checker / ATS optimization - From $6.99
+-   [CVGrader](https://cvgrader.com) - 10 resume analysis free / AI CV assessment / Automated multi language support / Reuse existing CVs for new positions - From $49/month
+-   [Resume Matcher](https://www.resumematcher.fyi) - Tailor resumes to job descriptions / NLP-powered matching
+-   [NextSprints](https://nextsprints.com/resume-review) - AI-powered resume analysis / 32,000+ PM Questions - From S$25.00/month
+-   [Recrew AI](https://www.recrew.ai) - Advanced resume parsing / Bias-free screening / Intelligent talent matching
+-   [GradAI](https://gradai.in) - AI Resume Enhancer / ATS Calculator / Resume Maker
+-   [AyeHigh](https://ayehigh.com) - Free / AI Resume Shortlister / Resume Rewriters / Resume Judge
+-   [Brainner](https://www.brainner.ai) - 25 candidates free trial / AI-driven resume screening / ATS integration - From $79/month
+-   [MTestHub](https://mtesthub.com) - AI-powered screening / One-click skill assessments / Smart interview scheduling
+-   [AutoApply](https://autoapply.us) - Job application automation / AI-driven job matching / AI resume review
+-   [Sourcio](https://sourcio.co) - Find top candidates / Rank resumes & manage applications / Automate personalized outreach
+-   [Careerflow](https://careerflow.ai) - One FREE Resume / AI Resume Builder / Automated Job Tracking / LinkedIn Profile Optimization - From $14.41/month
+-   [ResumeMatch360](https://www.resumematch360.com) - Free trial / AI Resume Scoring / Skills Gap Analysis / Tailored Recommendations
+
+### AI Scanner
+
+-   [Catzy](https://apps.apple.com/in/app/cat-identifier-scanner-catzy/id6743759800) - / AI Cat Breed Identifier / Food Analysis / AI Portraits - From $0.83/month
+-   [Ludex](https://ludex.com) - Unlimited scans, 60 collection adds, 5 eBay listings/month / Sports and TCG Card Scanner / Instant Card Valuation / Easy Card Listing - From $4.99/month
+-   [Popl](https://popl.co) - Free plan available / AI-powered lead capture / Digital business cards / CRM integrations - From $6.49/month
+-   [ArbitrageScanner.io](https://arbitragescanner.io) - Free trial day / Crypto Arbitrage / Wallet Analysis - From $176/month
+-   [Reach Cards](https://www.reach.app) - Digital Business Cards / Multiple Sharing Options / Real-Time Analytics
+-   [Card Scanner](https://www.cardscanner.co) - Scan & convert business cards to vCard / AI-powered OCR data extraction - From $4.99/month (15,000 images per month)
+-   [HoundDog.ai](https://hounddog.ai) - PII Leak Detection / Automated Data Mapping / Privacy Compliance Automation - From $100/year per developer
+-   [hub.cards](https://hub.cards) - Free / Digital Business Card Creation / Contact Management / Paper Card Digitization
+-   [PDNob Online](https://www.tenorshare.ai/free-online-pdf) - 100% Free / OCR / Convert / Sign / No Sign-Up
+-   [Rocket Scooter](https://rocketscooter.com) - Trial Access / Free Discord Community / AI Scanner / Automated Charting / Exposes Smart Money Positions
+-   [InvoiceClip](https://invoiceclip.com) - Free Trial / AI OCR scans invoices / Automated data extraction -
+-   [FoodCoach - AI Food Scanner](https://apps.apple.com/us/app/foodcoach-ai-food-scanner/id6746601642) - AI food scanner / Instant insights / Find foods that fit your dietary needs - From $9.99
+-   [Math AI](https://math-gpt.ai) - 150 credits/month / AI Math Solver / Step-by-step solutions / Photo Math Solver - From $3.9/month
+-   [Zero: AI Healthy Food Scanner](https://apps.apple.com/in/app/ai-calories-tracker-scanner/id6739006039) - Free Trial / AI Healthy Food Scanner / Nutritional Insights & Healthy Alternatives - From ₹999
+-   [Food AI Toxic Product Scanner](https://apps.apple.com/us/app/food-check-gluten-free-scan/id6505026757) - AI-powered food and label scanner / Instant nutrition facts, allergens & dietary info / Barcode & Meal Scanning - From $1.99/week
+-   [Calorie Scanner AI](https://apps.apple.com/tr/app/calorie-scanner-meal-analyzer/id6535683072) - Scan food photos for calories & macros / Track & visualize intake - From ₺199,99
+-   [Ingredient Scanner & Analyzer](https://apps.apple.com/ua/app/ingredient-scanner-analyzer/id6473748132) - / AI-Powered Ingredient Analysis / Quality Rating System / No account needed - From $6.99 for Unlimited Scans
+-   [QR Code Reader · AI Scanner](https://apps.apple.com/us/app/id6460180958) - / AI QR art generation / QR & Barcode scanning - $7.99
+-   [MagiScan](https://magiscan.app) - 3 models / 1,000 views / AI-driven 3D scanning / Real-world objects to 3D models / Multiple export formats - From $95
+-   [ARC Reactor](https://www.arc.ai) - Limited Queries / day / Voice Prompting across devices / Lowest carbon footprint in the industry - From $10/month
+-   [ZeroThreat](https://zerothreat.ai) - Free for All / Identify critical vulnerabilities at 5x speed / Automated Pentesting / Zero Configuration
+-   [Rock Identifier: RockIdentify](https://apps.apple.com/us/app/rock-identifier-rockidentify/id6599858258) - Instant Rock Identification / Save Identification History
+-   [FodApp AI](https://apps.apple.com/us/app/low-fodmap-diet-food-fodapp-ai/id6736398924) - Scan food items / Assess low FODMAP diet fit / Instant trigger feedback - From $6.99/week
+-   [GearChain](https://gearchain.io) - 14-day free trial / Track Assets Faster & Cut Costs / No-Code Inventory & Asset Tracking
+-   [Wellbot](https://wellbotapp.com) - 10 product scans per month free / Instant Food Label Scanner / Analyze Nutrition & Detect Additives / No apps needed, No accounts needed - From $2.99/month
+-   [Auto Market Scanner](https://automarketscanner.com) - 7 Days FREE Trial / Automated market scanning / Live & Detailed Data - From $10/month
+-   [WP Safe AI](https://wpsafe.ai) - Free scan / AI-powered precision / Guaranteed cleanup within 24 hours - From $49
+-   [Studyy - Instant Flashcards](https://apps.apple.com/us/app/studyy-instant-flashcards/id6475736635) - Free to download / Scan to Flashcards / AI-powered Summaries / Efficient Note-Taking - Unlimited Flashcards $2.99 (one-time purchase)
+-   [OH, a potato!](https://ohapotato.app) - Try for free / Meal plan with existing ingredients / Reduce food waste
+-   [VibeSec](https://www.vibesec.app) - AI-powered code security copilot / Instantly scan GitHub repos for vulnerabilities
+-   [Somme](https://apps.apple.com/app/id6737838466) - Personalized Wine Recommendations / Scan Wine Labels & Menus / Detailed Wine Profiles - From $4.99
+-   [Doggo Eats](https://apps.apple.com/us/app/doggo-food-scanner-recipes/id6743200192) - Free trial / AI-powered food scanner / Custom Recipes - From $4.99/month
+-   [SnapMeasureAI](https://snapmeasureai.com) - Free demo / 99% accurate body measurements from photos/video / Perfect fit every time, reduce returns
+-   [Open Tutor App](https://opentutor.app) - Scan and solve any problem / Get instant answers for textbook homework
+-   [StorageIQ](https://www.storageiq.io) - AI-Generated Home Inventory / Automatically generate an itemized list / Easily Find your items - From $1.99/month
+
+### AI Monitor
+
+-   [Aura](https://aura.com) - 14-day free trial / Identity Theft Protection / Parental Controls - From $10/mo for unlimited kids & devices
+-   [Middleware](https://middleware.io) - Up to 100GB Data / 1k RUM Sessions / 20K Synthetic Checks / Full-Stack Cloud Observability / AI-driven issue detection / Ingestion Control - From $0.3/GB
+-   [Bark](https://bark.us) - 7-day free trial / Advanced content monitoring / AI-powered safety alerts / Manage screen time - From $5/month
+-   [Canopy](https://canopy.us) - One-week free trial / AI-Powered Content Filtering / Sexting Prevention / Screen Time Management - From $7.99/month
+-   [Fiddler AI](https://www.fiddler.ai) - AI Observability / Model Monitoring / LLM Monitoring
+-   [Raindrop AI](https://www.raindrop.ai) - 1 MONTH FREE TRIAL / Issue Detection / Track AI behavior with natural language - From $65/mo
+-   [Folderly](https://folderly.com) - 2 tests per month / Email placement insights / Sender IPs & Blacklists insights - From $79/month
+-   [We360.ai](https://we360.ai) - Free 3 Seats / Employee Monitoring / Productivity Management / Workforce Planning - From $5/month
+-   [Keywords AI](https://keywordsai.co) - LLM monitoring platform / Easy 2-line integration / Unified LLM interface
+-   [Truescope](https://truescope.com) - Free Trial / Real-time Media Monitoring & Social Listening / AI-Powered Media Intelligence / Unlimited Searches & Users
+-   [RivalSense](https://rivalsense.co) - 2 week free trial / AI-curated company insights / Weekly updates on competitor moves - From $44.99/month
+-   [Waikay](https://waikay.io) - Gain transparency into AI's brand knowledge / Manage reputation risks / Optimize strategic positioning & benchmark against competitors - From $19.95/month for 8 reports
+-   [Metaplane](https://www.metaplane.dev) - Free plan with 10 monitored tables and 4 users / Monitoring and anomaly detection / Column-level Lineage / Data CI/CD - From $0/month
+-   [LangWatch](https://www.langwatch.ai) - Free Developer plan with 1000 traces/month / Monitor / Evaluate / Optimize / No credit card required - From €59/month
+-   [HubbleIQ](http://hubbleiq.com) - 7-Day Free Trial for up to 10 users / Conquer End-User Tech Issues with AI / Instant AI-Troubleshooting - From $25/month for up to 10 users
+-   [Binah.ai](https://binah.ai) - Video-based Vital Signs Monitoring / Measure a wide range of health indicators / No wearables or equipment needed
+-   [SEORCE](https://www.seorce.com) - 14-day free trial / Track AI search visibility / Real-time AI monitoring - From $99/month
+-   [Getgud.io](https://getgud.io) - AI-powered cheat & toxicity detection / Data-driven player engagement & retention - From $50/month (5 GB streamed data)
+-   [BrandJet AI](https://brandjet.ai) - Try free for 7 days / Real-Time AI Brand Intelligence / Multi-Channel Outreach - From $60/month
+-   [Maxim](https://www.getmaxim.ai) - AI evaluation & observability / Simulate, evaluate, and observe AI agents
+-   [Promptmonitor](https://www.promptmonitor.io) - 50 credits per month / Track AI visibility / Get mentioned by AI / No Sign-Up - From $99/month
+-   [Phare](https://phare.io) - Free 100,000 monitoring events & 10 AI summaries / Uptime monitoring / Incident management / Status pages - From 5€/month
+-   [ViolationWatch](https://violationwatch.nyc) - 1 property, 311-only alerts / Real-Time NYC Violation Alerts / AI-Powered Monitoring / Avoid Costly Fines - From $9.99/month per address
+-   [Devi AI](https://ddevi.com) - 10-day trial / Social media leads monitoring / AI-powered outreach / AI content creation & scheduling - From SGD 6.5/month
+-   [Octolens](https://octolens.com) - 7-day free trial, 1,000 mentions / AI-powered social listening / Real-time alerts & AI relevance scoring - From $49/month
+-   [LPagery AI Rank Tracker](https://lpagery.io/tools/ai-rank-tracker) - Free 7-Day Trial / Track AI chatbot mentions / Get actionable ranking steps - From $59/month
+-   [Otterly.AI](https://otterly.ai) - 14 Days Free Trial / AI Search Monitoring for AI Overviews, ChatGPT & Perplexity / Brand & Content Monitoring - From $29/month for 10 search prompts
+-   [IamIP](https://iamip.com) - Patent search / Patent monitoring / Collaborative platforms
+-   [Openlayer](https://www.openlayer.com) - 20k inferences / mo / AI evaluation / observability & governance
+-   [Nimt.ai](https://www.nimt.ai) - 7-day free trial / Track AI visibility / Analyze AI ranking - From $79/month (20 prompts)
+-   [Relyable](https://relyable.ai) - 25k Free Credits / Automated Testing / Monitoring / Evaluation - From $500/month
+-   [KWatch.io](https://kwatch.io) - Free 2 keyword alerts on Reddit & Hacker News / Monitor social media conversations / Real-time keyword alerts - From $19/month
+-   [WhyLabs](https://whylabs.ai) - Free 1 Project / AI Observability / LLM Security / Model Monitoring - From $125/month
+-   [Athina AI](https://athina.ai) - 10k logs/mo / Monitor and evaluate LLM applications / 50+ preset eval metrics - Free
+-   [Spectate](https://spectate.net) - 5 monitors/servers, 1 status page free / Full-stack monitoring / AI-powered incident management / Branded status pages - From $12/month
+-   [Competitors App](https://competitors.app) - 15-day free trial / Monitor Competitors' Marketing Strategy with AI / Monitor competitors' lead generation and conversion funnels - From $9.95/competitor/month
+-   [Lucidly](https://lucidlyapp.com) - 7-day free trial / AI-powered REM sleep detection / Haptic alerts for lucid dreaming / No registration required - From $3.33/month
+-   [CloudVerse.ai](https://www.cloudverse.ai) - 30-day trial / Multicloud Cost Management / Cloud Spending Optimization
+-   [Omnara](https://omnara.com) - Monitor & Manage AI Agents / Launch & Control Claude Code
+-   [LatenceTech](https://www.latencetech.com) - / AI-based real-time network monitoring / Predictive analytics for low latency networks
+-   [WebTotem](https://wtotem.com) - real-time monitoring / automated vulnerability scanning / protective modules against attacks - From $8/month for 1 site
+-   [AI Monitor](https://getaimonitor.com) - Free Trial / Real-time insights for AI-driven platforms / Generative Engine Optimization (GEO)
+-   [AI Spend](https://aispend.io) - Free 7-day trial / Cost tracking & insights / Notifications for billing surprises - From SGD 14.52/month
+-   [Helicone](https://www.helicone.ai) - 10,000 free requests / LLM observability / cost tracking / agent tracing - From $20/seat per month
+-   [wAnywhere](https://wanywhere.com) - Free 14-day trial / AI-powered employee monitoring / Real-time productivity & security - From $6/month
+
+### AI Document Extraction
+
+-   [Pestle: Recipe Manager](https://apple.co/3sWeyWl) - Save recipes from Instagram with AI / Guided cooking & meal planning / Digitize physical recipes - From $2.99/month
+-   [jpgtotext.com](https://www.jpgtotext.com) - Free 3 images / Extract Text from Images / Accurate OCR / Multi-Language Support / No Sign-Up required - $3.5 for 50 images
+-   [Landing AI](https://landing.ai) - 1,000 credits per month / Visual AI Platform / Build and Deploy Computer Vision Models
+-   [BRYTER](https://bryter.com/extract) - AI Contract Review / AI Data Extraction / Workflows Automation
+-   [imagetotext.cc](https://www.imagetotext.cc) - Free 3 images per task / Convert photo to text accurately / Extract text from image, scanned document or screenshot - From $4.99/month
+-   [Picturetotext](https://picturetotext.info) - Free 3 images at once / Convert images to editable text / Fast and accurate text extraction / No Registration - From $2.99/weekly
+-   [Receiptor AI](https://receiptor.ai) - 14-days free trial / Automated receipt & invoice extraction / Integrates with expense management & accounting systems - From $19/month
+-   [DocuClipper](https://www.docuclipper.com) - 14-day free trial, 200 free pages / Extract financial data from bank statements, invoices, and receipts / Automate & Integrate / Export to Excel, CSV, and accounting software - From $27/month
+-   [Parseur](https://parseur.com) - 20 pages free / AI data extraction / Automate text extraction from documents / Integrations -
+-   [Veryfi](https://veryfi.com) - Process up to 100 docs/mo free / AI-powered OCR + ML API extraction / Real-time data extraction - From $500/mo
+-   [Docsumo](https://www.docsumo.com) - Free 14-day trial, 100 pages / Automate data extraction / 99% accuracy - From $269/month
+-   [Upstage AI](https://www.upstage.ai) - Free API access until July 15 / Powerful large language models / Document processing engines
+-   [FormX.ai](https://www.formx.ai) - 100 free pages / Automate Data Extraction / Structured Data Output - From $299/month for 3,000 pages
+-   [Affinda](https://affinda.com) - 500 pages for 30-day trial / Automate document processing workflows / Extract data from any document type / Seamless integration - From $0.20/page
+-   [Extracta.ai](https://www.extracta.ai) - Free 50 pages / AI Data Extraction from Documents and Images / Automated Document Data Extraction - From $19.00/month
+-   [Nanonets](https://nanonets.com) - $200 worth of credits / Automate Manual Data Entry Using AI / Intelligent Document Processing & Workflow Automation
+-   [Airparser](https://airparser.com) - 30 credits free / Extract structured data from PDFs, emails, and documents / Export parsed data to 7000+ apps - From $33/month
+-   [Deepseek OCR](https://deepseek-ocr.io) - Open-source (MIT license) / Context Optical Compression / Multilingual Document Intelligence / No Login required for local deployment - From $0.028 per 1M input tokens
+-   [Beam AI](https://www.ibeam.ai) - First AI takeoff free / Save 90% time / Bid 30% more jobs / 100% done-for-you quantity takeoffs
+-   [iDox.ai](https://www.idox.ai) - 7-day free trial / AI-powered redaction / Scan over 47 different file formats - From $290/year for 3,000 pages
+-   [Lutra AI](https://lutra.ai) - 15 messages/day, 200 credits/month free / Automate repetitive work processes / Data enrichment - From $23/month
+-   [V7](https://www.v7labs.com) - Document workflow automation / Multi-modal data extraction - From $249/month
+-   [Monkt](https://monkt.com) - Try with up to 3 files / Convert PDFs, Word, Excel, PowerPoint, web pages to Markdown or JSON / Preserving semantic structure - From $4.99/month for 50 transformations
+-   [Rocket Statements](https://www.rocketstatements.com) - 200 free pages / Instantly Convert Bank Statements from PDF to Excel, JSON & CSV / Automatic Data Extraction & Transformation - From $8/month
+-   [DocsLoop](https://docsloop.com) - 300 credits free / AI-powered automation / PDF to Excel conversion - From $19 USD for 300 credits
+-   [AlgoDocs](https://www.algodocs.com) - Up to 50 pages/month free / AI-Powered Data Extraction from PDF & Scanned Documents / Extract specific fields or tables - From $23/month
+-   [ImageToText.info](https://www.imagetotext.info) - Free 3 images per submission, 15 requests per day / Extract text from images / Accurate conversion with AI technology / No Login or Sign Up required - From $4.16/month
+-   [Bryckel](https://www.bryckel.ai) - Free Trial / AI-powered lease abstraction / Document analytics / Automate real estate workflows
+-   [Image to Text converter](https://www.imagetotext.io) - / Extract text from images / Accurately convert picture to text / Supports multiple languages / No Sign-Up - From $3.49/weekly
+-   [Indico Data](https://indicodata.ai) - Self-guided interactive demo / Decision Automation Platform / Intelligent Intake & Insights / AI for Insurance
+-   [Cradl AI](https://www.cradl.ai) - 14-day free trial / AI-Powered Document Processing / No coding required - From $50/month
+-   [Procys](https://procys.com) - Automated document processing / AI-powered data extraction - From 9,99€/month (Up to 50 documents)
+-   [Img2Sheet](https://img2sheet.com) - 50 Free Extractions / AI-Powered Data Extraction / Real-time Sync to Google Sheets - From $10 for 100 extractions
+-   [elDoc](https://eldoc.online) - 14-Days Free Trial / eSignatures / Document Workflow Automation / Secure File Management - From $4/month
+-   [Skcript](https://skcript.com) - Enterprise AI Products / Document Data Extraction / Customer Feedback Management
+-   [Alphamoon](https://alphamoon.ai) - AI-based Intelligent Document Automation / Automated document reading and classification / Data extraction
+-   [ASSIST.biz](https://www.assist.biz) - Free 30 Pages / Automate data entry / E-invoice Compliant - From $8/month
+-   [Doctly.ai](https://doctly.ai) - 50 free pages / Accurately extracts text, tables, figures, and charts / Converts PDFs to structured markdown / Preserves original formatting - From $0.02/page
+-   [Intics](https://www.intics.ai) - Free Trial available / Speed up document processing to transform data into insights / Process 100% of any document format (printed, handwritten, structured, unstructured)
+-   [Rossum](https://rossum.ai) - 14-Day Trial / AI Document Processing / Automate Transactional Workflows / Increase Accuracy - From $18,000 per year
+-   [Leader Menu](https://leadermenu.com) - AI Menu Conversion / Easy Management - From $8.34/month
+-   [Invoice Data Extraction](https://invoicedataextraction.com) - 50 pages monthly free / 99%+ accuracy / extract any data from invoices to Excel - From $19 for 200 pages
+-   [AI Textraction](https://www.textraction.ai) - 100 requests per month free / Extract custom user-defined entities / Powered by SOTA AI - From $5.00/month for 500 requests
+-   [Bank Statement Converter](https://bankstatementconverter.org) - 10 free conversions (pages) per month / Convert PDF to CSV / Extract transaction data from tables - From $29/month
+-   [TableBits](https://www.tablebitsonline.com) - 5 pages or less Free / Automatically extract table data from PDF to CSV / Extract tabular data from financial documents - From $AUD 0.10/page
+-   [TurboDoc](https://turbodoc.io) - 50 invoice processing per month free / Automate invoice processing / Eliminate manual data entry errors - From $6/month for 50 invoice processing
+
+### AI Schedule Maker
+
+-   [Tiimo](https://www.tiimoapp.com) - 7-day free trial / Visual Planner for ADHD and Executive Functioning / AI task breakdown
+-   [Planfit](https://planfit.ai) - AI-powered personalized workout plans / AI trainer for real-time coaching / Detailed exercise guides
+-   [ticketbro](https://www.ticketbro.com) - Free system / Mobile first booking system / Streamline operations / Team and customer management - From Free
+-   [BeforeSunset AI](https://www.beforesunset.ai) - AI-powered schedule planning / Personal & Team Analytics - From $8/month
+-   [Morgen](https://www.morgen.so) - Free trial / Merge calendars, tasks & apps / AI daily planning - From USD 6.50/month
+-   [Timely](https://trytimely.com) - Try for free / Employee scheduling & tracking / Smart alert notifications / Streamlined communication - From $39/month
+-   [Koobert](https://www.koobert.com) - 7-day free trial / AI-powered workout plans / Smart progression system - From $12.99/month
+-   [SkedPal](https://skedpal.com) - 14-day free trial / Intelligent Time Blocking / Automated Scheduling of To-Do's / No Email Required - From $9.95/month
+-   [FlowSavvy](https://flowsavvy.app) - Free (2-week auto-scheduling, 2 calendar syncs) / Intelligent auto-scheduling / Automatic rescheduling - From $7/month
+-   [FoodiePrep](https://www.foodieprep.ai) - 5 AI-powered recipes per month free / Personalised Recipes / Meal Planning - From $4.99/month
+-   [Mayday](https://mayday.am) - / AI-assisted calendar / Organize & schedule priorities / Protect your day from overbooking / -
+-   [Supreme Plans](https://www.supremeplans.com) - AI-generated detailed, personalized plans / various categories (business, lesson, meal, travel, etc.)
+-   [Weeklee.ai](https://chromewebstore.google.com/detail/weeklee/kooaceddfbdfmajbiooeckgfllmdlhkc) - Simplify and optimize schedule / Balance school and work life / Sync school apps & get notifications
+-   [HCP Dispatcher](https://chromewebstore.google.com/detail/hcp-house-dispatcher-pro/ofcjbcdndlcfkhjjjpbjdppbagocjkkn) - 14 days free / Optimizes field tech schedules / Uses real-time GPS / Reduces drive/wait time
+-   [TEAMCAL AI](https://chromewebstore.google.com/detail/teamcal-ai/eblkaeoeggnleapmhaeaibjipjhencbc) - Free for individuals / Scheduling Meetings right from your inbox / Team Scheduling
+-   [Study Plannr](https://studyplannr.com) - Free unlimited plans during beta phase / AI Powered Study Plans / Optimizes revision / Download as PDF
+-   [Easytrip.ai](https://easytrip.ai) - Free up to 4 days / Personalized itineraries / Real-time updates - From $3.99/month
+-   [GanttChart AI](https://www.ganttchart.ai) - 2 Credits / Create Gantt charts using natural language / Work with Google Sheets - $3 for 30 Credits
+-   [Vanta - AI Todo Event Calendar](https://apps.apple.com/us/app/vanta-ai-todo-event-calendar/id6743377027) - Free / AI-powered scheduling / Natural language processing / Auto Checklist Creation - From $3.99
+-   [Study Fetch](https://studyfetch.com) - AI Flashcards / AI Quizzes / AI Tutor
+-   [Floutwork](https://www.floutwork.com) - 10,000 free AI token credits / Split views / Browser with AI / No credit card required - From $7/month
+-   [NolanAI](https://www.nolanai.app) - 100 one time AI requests / AI-driven script writing / AI Budgeting - From $40/month
+-   [Retime](https://retime.so) - Free version forever / Streamlined scheduling / Agendas & meeting notes / Calendar sync
+-   [Stryde Workout Planner](https://apps.apple.com/app/stryde-workout-planner/id1640276342) - AI Workout Generation / Flexible Custom Workouts - From $0.99/workout
+-   [Coco AI](https://textcoco.com) - Unlimited messages, limited one-time reminders, 50 Voice Notes/Month, 5 Images/Month free / Calendar management / Reminders / List management / No signup required - From $4/month
+-   [Creatosaurus](https://www.creatosaurus.io) - 5k AI words, 20 AI images, 1GB storage free / AI Content Creation / Social Media Marketing & Management - From $30/month
+-   [Free Blocks](https://freeblocksapp.com) - One calendar booking page free / Share calendar availability / Seamless integrations with Google Calendar and Gmail - From $7/month
+-   [Actimate](https://www.actimate.io) - AI Calendar Management / Daily Interactive Check-ins / Simplified Goal Tracking
+-   [Nural: Schedule, Plan, Achieve](https://apps.apple.com/us/app/nural-calendar-goals-tasks/id6444511055) - Achieve goals / Task prioritization - From $2.99/month
+-   [Mind Your Now](https://www.mindyournow.com) - Free / AI-driven task management / Automated scheduling
+-   [SpotBOI](https://spotboi.ai) - Up to 3 posts per day / AI-powered social media posts / Smart content calendar planning - Contact for Pricing
+-   [Trevor AI](https://trevorai.com) - Free tier for personal use / AI Planner for tasks and calendars / AI time blocking - From $5/month
+-   [Voiset](https://www.voiset.io) - Free trial with 30 min voice tasks and notes / AI scheduling / AI task manager / Voice dictation - From €8/month
+-   [Planby Now](https://www.planbynow.app) - Explore for Free / Build smart schedules / Drag & drop / - From $39/month
+-   [ViralPulseAI](https://viralpulse.ai) - AI-powered social media post generator / Content based on real industry trends / Saves hours of content creation - From $30/month for 40 posts
+-   [Zivy](https://zivy.app) - Free / Intelligent message prioritization / Contextual message categorization
+-   [Brandblast](https://brandblast.ai) - 7-Day free trial / AI-Powered Content Creation / Automated Social Media Posting - From $27/Month
+-   [EasyToDo: Daily Planer](https://apps.apple.com/us/app/easytodo-daily-planer/id6504800291) - Intelligent Voice Input / Repeating Task Setting / Smart Reminders - From $2.99
+
+### AI Spreadsheet
+
+-   [GPTExcel](https://gptexcel.uk) - 4 requests per day / Generate & Explain Excel/Sheets Formulas / Automate with Scripts & SQL - From $6.99/month
+-   [Numerous.ai](https://numerous.ai) - First 7 days free / Reformat and categorize cells / Generate formulas - From $8/mo
+-   [Quadratic](https://www.quadratichq.com) - Free plan / AI-powered Spreadsheet / Code Integration / Database Connections - From $18/month
+-   [Sourcetable](https://sourcetable.com) - 14-day free trial / AI Spreadsheet Assistant / AI Data Analysis / AI Data Cleaning - From $20/User/Month
+-   [Ajelix](https://ajelix.com) - 5 AI Tool Requests free / Generate Excel formula / explain formulas / write VBA scripts - From $5.95/month
+-   [Spreadsheet Daddy](https://spreadsheetdaddy.com) - Free API Calls / Excel & Google Sheets tutorials / Productivity software & tools / AI Prompt & Formula Generators
+-   [Wren AI Cloud](http://getwren.ai) - 14-day free trial / Chat with your databases in plain English / Unify data from multiple sources / AI-powered spreadsheets & dashboards - From $60/month
+-   [GRID](https://grid.is) - Turn spreadsheets into fast, scalable RESTful APIs / Integrate Excel and Google Sheets business logic into AI applications
+-   [Sparkco AI Spreadsheet Agent](https://sparkco.ai) - Free forever (3 workbooks, 5 data sources) / Natural-language formulas / Automated data sync / No credit card for Free - From $19/month
+-   [Databar](https://databar.ai) - 100 free trial credits / Access any data API in under 3 clicks / Automate data collection without code - From $39/month with 1,000 credits
+-   [Hex](https://hex.tech) - 14 days free trial / Collaborative AI-powered workspace / Notebook-based data exploration / Interactive data apps - From $36 per Editor/month
+-   [Prompting Sheets](https://promptingsheets.com) - Free / AI-powered spreadsheets / Automated AI prompts / Create project plans and to-do lists
+-   [Simple Metrics](http://simplemetrics.xyz) - 50 usages free / AI formulas for Google Sheets / Automate text, images, web searches & PDF extraction - From $15/month
+-   [Expense Sorted](https://www.expensesorted.com) - Free trial / AI-powered expense categorization / Integrates with Google Sheets, Lunch Money, Tiller
+-   [Pane](https://paneapp.com) - Start for Free / AI edits cells and formulas / Talk to your spreadsheet / Auto-Generate Dashboards -
+-   [Sum Buddy](https://www.sumbuddy.net) - 3 free files & Guest Mode full AI access / AI Spreadsheet / Formula Help / Guest Mode available - From $4.99/month
+-   [GPTSheets](https://chromewebstore.google.com/detail/gptsheets/mfbjpeonalpkgghaejlfaoifejjojkcj) - Free trial / Turn plain English into spreadsheet formulas/functions / Explain spreadsheet formulas/functions in plain English
+-   [SheetSavvy AI](https://sheetsavvyai.com) - 10 formula generators & 100 AI formula requests free / Automate repetitive tasks / Generate formulas - From $4.99/month
+-   [Goodlookup](https://www.goodlookup.com) - 1 day free / AI language models for spreadsheets / Semantic text matching - US $15 per year
+-   [Flowshot](https://flowshot.ai) - 100K free characters / AI in Google Sheets / Custom Model Training / No setup or credit card required - From $9/month
+-   [CapGo.AI](https://capgo.ai) - / Spreadsheet That Fills Itself / Programmatic SEO -
+-   [Sheet0](https://sheet0.com) - Free tier / Data collection automation / Data analysis automation / Interactive spreadsheets
+-   [Spreadsite](https://www.spreadsite.ai) - 7-day free trial / AI-generated dashboards / Transform spreadsheets into interactive dashboards - From $20/month
+-   [AI Spreadsheet Formula Generator](https://chromewebstore.google.com/detail/gpt-formula/kcleeabpbbmbcfgfdhobcincoeliffba) - Free to sign up / AI write complex Excel/Google Sheet formulas / Get formula explanations
+-   [Img2Sheet](https://img2sheet.com) - 50 Free Extractions / AI-Powered Data Extraction / Real-time Sync to Google Sheets - From $10 for 100 extractions
+-   [AiAssistWorks](https://www.aiassistworks.com) - 300 execution credits per month / Automate Google Sheets, Docs, & Slides / 100+ AI models - From $4/month
+-   [GearChain](https://gearchain.io) - 14-day free trial / Track Assets Faster & Cut Costs / No-Code Inventory & Asset Tracking
+-   [GPT for Sheets™ and Docs™](https://workspace.google.com/marketplace/app/gpt_for_sheets/677318054654) - AI for Google Sheets & Docs / Data cleaning & classification / Content generation & translation
+-   [Mito](https://trymito.io) - 50 AI Completions per month / Python Spreadsheet Automation / AI Code Generation / No Sign-Up - From $20/user per month
+-   [Arcwise AI](https://arcwise.app) - AI copilot for Google Sheets / Explore, understand, and visualize data
+-   [Bika.ai](https://bika.ai) - Free / Up to 5 seats / AI Automation Database hybrid / All-in-one AI Workspace - From $9.99/month
+-   [Chatsheet AI](https://usefind.ai) - Free 500 credits / AI PDF Processing / AI Web Scraping - From $19/month
+-   [Formulas HQ](https://www.formulashq.com) - 5 generation per month / AI-Powered Formula Generator / Regex, VBA, & Apps Script Generation - From $433/month
+-   [Scoop Analytics](https://www.scoopanalytics.com) - / AI-powered data analysis / Real machine learning insights / AI-generated reports & live dashboards
+-   [FormulaGenerator](https://formulagenerator.app) - Generate Excel Formulas, VBA, Regex, and SQL queries / Debug Formulas and Code / Get Instant Answers with Answer Bot
+-   [Goless](https://goless.com) - 5,000 credits per month / Browser Automation / Integrated ChatGPT automations - From $9.99/month
+-   [Capalyze](https://capalyze.ai) - Free 3 Advanced model analyses/day / Data Analysis with Natural Language / Web Data Capture & Sentiment Analysis - From $33/month
+-   [Assisty](https://assisty.ai) - 3 Custom Reports, 1 Custom Dashboard free / Inventory Replenishment Optimization / Inventory Tracking / Accurate Demand Forecasting - From $19/month
+-   [Excelmatic](https://excelmatic.ai) - 10 chat messages / month, 20 image to excel / month / AI-Powered Excel Data Analysis / AI Data Visualization / Excel Automation - From $9.9/month
+-   [GiveFlag](https://www.giveflag.com) - 10 AI team chat prompts free / Automated Document Analysis / Customer List Generation - From $988.99/month
+-   [MotionExcel](https://www.motionexcel.co) - / AI-Powered Spreadsheet / Python & SQL editor / No login required -
+-   [ExcelFormulaGPT](https://www.excelformulagpt.com) - Free 3 requests per day / Generate Excel formulas from plain language / Save time and avoid formula errors / No Login Required
+-   [Formula Bot](https://formulabot.com) - 10 chat messages / month, 15 enrichments / month / AI Excel formula generation / AI data analysis / SQL query generation - From $15/month
+
+### Whiteboard AI
+
+-   [Mermaid Chart](https://www.mermaidchart.com) - AI-powered Diagramming / Text-based Diagramming - From $6.67/month
+-   [codeflying](https://www.codeflying.app/?s=toolify) - / Full-stack app creation / Chatting with AI / -
+-   [Whimsical](https://whimsical.com) - Free 3 team boards, 100 AI actions / Unite teams, tasks, and tools / Infinite canvas for diagrams, wireframes, whiteboards - From $10/Month/Editor
+-   [Golpo](https://video.golpoai.com) - 2 credits / AI video generator / Document to video / Whiteboard animation - From $39.99/month
+-   [Heptabase](https://heptabase.com) - 7-day free trial / Powerful visualizations / Multi-format learning / Collaborative whiteboards - From $8.99/month
+-   [illumi](https://illumi.one) - Free trial / Context-aware AI Whiteboard / Integrates ChatGPT, Claude, Grok and beyond
+-   [BloxGPT](https://bloxgpt.com) - AI-powered chats / Collaborative Whiteboard - 7000 coins for $7
+-   [Boardmix](https://boardmix.com) - Free 3 editable boards / AI-powered features / Integrates various digital tools - From $4.9/member/month
+-   [lxi.ai](https://lxi.ai) - Collaborate with AI on a canvas / Generate AI content in context / Real-time team collaboration
+-   [Swift Board](https://www.swiftboard.io) - Free / AI-powered real-time brainstorming & sprint retrospectives / Anonymous collaboration / No Sign-Up required
+-   [Graphis](https://graphis.ai) - Free trial / Infinity canvas for AI content projects / Generate, edit, enhance images, videos, and text - From $10/month
+-   [MagiCan](https://magican.lovable.app) - 150 free AI credits / Generate structured flow maps / Create images from text / Turn any idea into voice - From $9/month
+-   [DrawingPics](https://drawing.pics) - Free trial / Offline AI Art Generator / Sketch to image / No Login or Sign Up required - From $9.9 (one-time purchase)
+-   [scraps](https://joinscraps.com) - Use for free / AI-native sketchbook / Multi-modal ideation / Smart canvas
+-   [BookWatch](https://bookwatch.com) - 7-day free trial / Animated book summary videos / For visual learners
+-   [Image to Drawio](https://imagetodrawio.com) - 3 free conversions / Convert images to editable Draw.io diagrams / AI-powered accuracy / No login required - From $4.99 for 20 credits
+-   [OCer - Your All-in-One AI OC Maker](https://ocmaker.pro) - / AI Original Character Creator / One-Click Style Transfer / - From $2.99/month
+-   [Fabrie](https://www.fabrie.com) - 300 AI credits for free / AI-powered whiteboard / Online collaboration - From $9/seat/month
+-   [Queso](https://usequeso.com) - 5 sessions per month / Interactive Learning / AI Co-Pilot - From $14.99/mo
+-   [Miro](https://miro.com) - Free 3 editable boards / Online collaborative whiteboard / AI-powered collaboration - From $10/month per member
+-   [Jeda.ai](https://www.jeda.ai) - 3K Daily AI Tokens free / Visual Intelligence / AI Data Intelligence - From $8.5/month
+-   [Opennote](https://opennote.me) - 3 DeepTutor Uses Daily, 5 File Uploads Daily / AI-powered deep research / interactive canvases / video generation - From $15/month
+-   [Cloudairy](https://cloudairy.com) - 25 AI credits/month / Animated architecture diagrams / Mindmap / Project planning - From $8/month per member
+-   [BloomNote](https://www.bloomnote.me) - Upload up to 2 sources, 5 AI chat messages free / Notes, flashcards, quizzes, podcasts / Summarizes resources / AI chat - From $12/month
+
+### AI Excel Formula Generator
+
+-   [GPTExcel](https://gptexcel.uk) - 4 requests per day / Generate & Explain Excel/Sheets Formulas / Automate with Scripts & SQL - From $6.99/month
+-   [Numerous.ai](https://numerous.ai) - First 7 days free / Reformat and categorize cells / Generate formulas - From $8/mo
+-   [Sourcetable](https://sourcetable.com) - 14-day free trial / AI Spreadsheet Assistant / AI Data Analysis / AI Data Cleaning - From $20/User/Month
+-   [AI Excel Bot](https://aiexcelbot.com) - 5 Formula, Code or Task generation and explanation per month / Generate Excel and Google Sheets formulas / Understand Complex Formulas - From $5.99/month
+-   [Ajelix](https://ajelix.com) - 5 AI Tool Requests free / Generate Excel formula / explain formulas / write VBA scripts - From $5.95/month
+-   [ExcelMaster.ai](https://excelmaster.ai) - Understands real-world Excel structure / Generates formulas, VBA, Python code / Automates data processing tasks - From $6.9/month for 2000 responses
+-   [Spreadsheet Daddy](https://spreadsheetdaddy.com) - Free API Calls / Excel & Google Sheets tutorials / Productivity software & tools / AI Prompt & Formula Generators
+-   [FormulAI](https://www.formulai.xyz) - 10 requests per month free / Explain formulas / Generate formulas - From $3.99/month
+-   [Sparkco AI Spreadsheet Agent](https://sparkco.ai) - Free forever (3 workbooks, 5 data sources) / Natural-language formulas / Automated data sync / No credit card for Free - From $19/month
+-   [BoloForms SheetGod](https://chromewebstore.google.com/detail/spreadsheet-formula-gener/jkihpeicdbekdpckdodcboefplmicdde) - AI-powered Excel & Google Sheets Formula Generator / Formula Explainer / VBA & Regex Tools
+-   [CodePal](https://codepal.ai) - text-to-code generation / code review / bug detection
+-   [Sum Buddy](https://www.sumbuddy.net) - 3 free files & Guest Mode full AI access / AI Spreadsheet / Formula Help / Guest Mode available - From $4.99/month
+-   [Formularizer](https://formularizer.com) - Formula generation & explanation / Scripting & Regex
+-   [GPTSheets](https://chromewebstore.google.com/detail/gptsheets/mfbjpeonalpkgghaejlfaoifejjojkcj) - Free trial / Turn plain English into spreadsheet formulas/functions / Explain spreadsheet formulas/functions in plain English
+-   [SheetSavvy AI](https://sheetsavvyai.com) - 10 formula generators & 100 AI formula requests free / Automate repetitive tasks / Generate formulas - From $4.99/month
+-   [Flowshot](https://flowshot.ai) - 100K free characters / AI in Google Sheets / Custom Model Training / No setup or credit card required - From $9/month
+-   [Array Assistant](https://arrayassistant.ai) - 200 Requests per Month / Create Formulas / Clean Data / Summarize Text - $14.99/Monthly
+-   [AI2sql](https://www.ai2sql.io) - 5 queries/month free / Text to SQL conversion / SQL Error Fixing / SQL Optimization - From $9/month for 100 SQL queries/mo
+-   [AI Spreadsheet Formula Generator](https://chromewebstore.google.com/detail/gpt-formula/kcleeabpbbmbcfgfdhobcincoeliffba) - Free to sign up / AI write complex Excel/Google Sheet formulas / Get formula explanations
+-   [Graphite Note](https://graphite-note.com) - 14-day free trial / No-code machine learning for predictive analytics / GenAI Actionable Insights / No card required - From $295/mo
+-   [WebCopilot.ai](https://www.webcopilot.co) - 10 AI Queries / month / AI on any web page / Streamline Content Creation - From $19/month
+-   [Jeeves AI](https://jeeves.ai) - FREE PRO Trial / AI writing assistant / 150+ templates / Powered by GPT3 and GPT4
+-   [Formulas HQ](https://www.formulashq.com) - 5 generation per month / AI-Powered Formula Generator / Regex, VBA, & Apps Script Generation - From $433/month
+-   [nele.ai](https://nele.ai) - 1000 credits for 7 days / Secure AI for companies / Centralized prompt management / Company knowledge databases - From €10/month
+-   [FormulaGenerator](https://formulagenerator.app) - Generate Excel Formulas, VBA, Regex, and SQL queries / Debug Formulas and Code / Get Instant Answers with Answer Bot
+-   [Excelmatic](https://excelmatic.ai) - 10 chat messages / month, 20 image to excel / month / AI-Powered Excel Data Analysis / AI Data Visualization / Excel Automation - From $9.9/month
+-   [ExcelFormulaGPT](https://www.excelformulagpt.com) - Free 3 requests per day / Generate Excel formulas from plain language / Save time and avoid formula errors / No Login Required
+-   [Formula Bot](https://formulabot.com) - 10 chat messages / month, 15 enrichments / month / AI Excel formula generation / AI data analysis / SQL query generation - From $15/month
+
+### AI Report Generator
+
+-   [Vizologi](https://vizologi.com) - FREE 7 days trial - 8k credits / Generate limitless business ideas / Automate business plan creation - From $9/month (billed yearly)
+-   [Bizplanr](https://bizplanr.ai) - Free business plan generation / AI-powered business plan generation / Financial projections - From $7/month
+-   [Stratup.ai](https://stratup.ai) - 10 ideas, 10 solutions, 1 report free / AI-powered startup idea generation / Detailed business reports - From $15/month
+-   [Venturekit](https://venturekit.ai) - Free 3 full business plans per month / AI-generated business plans / Financial forecasts & Pitch deck - From $8/month
+-   [VenturusAI](https://venturusai.com) - 2 Standard Reports/Month free / AI-Powered Business Analysis / AI Business Assistant (Vera) - From $10.00/month
+-   [Explo](https://explo.co) - Unlimited internal dashboards / Embedded customer-facing dashboards / AI-powered analytics / Data sharing - From $795+/month
+-   [Fabi.ai](https://www.fabi.ai) - Free forever with 15 AI requests/day / AI-powered data analysis / SQL + Python automation / Collaborative platform - From $39/month
+-   [Gitmore](https://gitmore.io) - 1 repository, 50 Credits per month free / AI-powered Git reporting / GitHub & Bitbucket integration - From $9.99/month
+-   [June AI](https://june.so) - Free trial / Company-level Analytics / Custom insights with SQL & AI
+-   [Kompas AI](https://kompas.ai) - Deep research / Report generation
+-   [TOPY AI](https://www.topy.ai) - 10 FREE CREDITS / AI Business Plan Generation / Startup Valuation & Market Research
+-   [Osum](https://osum.com) - 3 reports free trial / Detailed competitive research / SWOT analysis - From $119.99/month (15 reports/mo)
+-   [Format Magic](https://formatmagic.ai) - Free 100,000 tokens monthly (Approx 40 pages) / Transform plain text into polished documents / AI intelligently applies headings and styles - From USD$4.95/month
+-   [Stepsize AI](https://stepsize.com) - First AI-generated report free, 2-week free trial / AI-generated reports / Actionable metrics with AI commentary - From $29/month per Jira board or Linear team
+-   [Breadcrumb.ai](https://www.breadcrumb.ai) - Up to 100 magic actions per month / AI-powered customer reporting / Turn raw data into embed-ready reports / No code or data skills needed - From $30/month
+-   [Psynth AI](https://www.psynth.ai) - Free for a limited time / Write Psychological Reports in Minutes / Diagnose with confidence - Contact for Pricing
+-   [Openkoda](https://openkoda.com) - Free open-source version / 60% faster development / Full customization / No vendor lock-in
+-   [TeamFeedback](https://teamfeedback.co) - Free for up to 10 people / 360-degree feedback / AI-generated reports - From $6.95/month
+-   [Lazy Admin](https://lazyadmin.httpeak.com) - AI-Powered Quick Reporting Tool / Saves staff-hours / Overcomes Salesforce governor limits
+-   [Rooftops AI](https://rooftops.ai) - Free 3 requests per month / Access to all AI tools - From $3.99/month
+-   [PlanPros](https://planpros.ai) - AI business plan generator / Optimize business strategy / Secure funding / No email or credit card required
+-   [DailyBot](https://dailybot.com) - 14-day free trial with unlimited users / Automate daily standups & async check-ins / AI reports & team analytics - From $3/month per user
+-   [CaseGenius](https://casegenius.io) - 7-day free trial / Generate complete business plans in minutes / AI-powered market analysis / Ready-to-present slides - From $19/month for 5 AI business plans
+-   [Product XYZ](https://product.xyz) - Generate new product buying guides on-demand / Search thousands of unbiased guides with zero ads
+-   [Inspecti](https://apps.apple.com/cn/app/inspecti/id6503628321) - Free / AI-driven automated inventory reports / Time-Saving / Cost-Effective
+-   [Graffer](https://chromewebstore.google.com/detail/comments-analyzer-for-you/jcpckoiiaefokklfkbiajgeiigpncnoa) - Analyzes video comments by sentiment / Produces readable sentiment reports / No Login or Sign Up required
+-   [Ignition](https://www.haveignition.com/sales-battlecard-template) - Free battlecard generator & Freemium plan / AI-Generated Sales Battlecards / Up-to-date Competitive Intelligence / Automated Sales Enablement - From $99/editor/mo
+-   [Reporfy](https://www.reporfy.com) - 14-day free trial / AI-Powered Reports / Visual Data Storytelling / Collaborative Reporting - From €12/month
+-   [Adversea](https://adversea.com) - One free report / Comprehensive background checks / Detailed risk analysis - From €9.99/report
+-   [Sheshi FR](https://sheshi.ai) - Automated Financial Reporting / Print-Ready Financials
+-   [Fiddi AI](https://fiddi.ai) - Free / Deep insights for digital transformation / Personalized business improvement reports - From €50/report
+-   [simbly.ai](https://www.simbly.ai) - Free business plan / AI-powered business plan creation / Integrated financial planning without Excel / Bank & funding compliant - From €249/one-time
+-   [InstantPersonas](https://swotanalysis.dev) - 3-day free trial / AI-powered User Persona & SWOT Analysis / Deep Target Market Insights - From $6.20/month
+-   [Assisty](https://assisty.ai) - 3 Custom Reports, 1 Custom Dashboard free / Inventory Replenishment Optimization / Inventory Tracking / Accurate Demand Forecasting - From $19/month
+-   [Credibl ESG](https://www.crediblesg.com) - Free Trial / AI-powered Sustainability & ESG data management / Comprehensive ESG Reporting / End-to-End Product Traceability
+-   [MyReport](https://myreport.alaba.ai) - 3 reports free trial / Automated data collection / Plagiarism-free reports with citations - From $6.99/month
+-   [AI Automatic Translation Rosetta](https://rozetta.jp) - Free trial / High-precision AI translation for specialized fields / Automatic speech-to-text & translation / Generative AI for DX promotion
+-   [Conduit](https://www.getconduit.app) - AI-powered business intelligence / Automate data analytics and ETL / Centralize multi-account data
+
+### Excel AI
+
+-   [Numerous.ai](https://numerous.ai) - First 7 days free / Reformat and categorize cells / Generate formulas - From $8/mo
+-   [AI Excel Bot](https://aiexcelbot.com) - 5 Formula, Code or Task generation and explanation per month / Generate Excel and Google Sheets formulas / Understand Complex Formulas - From $5.99/month
+-   [Ajelix](https://ajelix.com) - 5 AI Tool Requests free / Generate Excel formula / explain formulas / write VBA scripts - From $5.95/month
+-   [ExcelMaster.ai](https://excelmaster.ai) - Understands real-world Excel structure / Generates formulas, VBA, Python code / Automates data processing tasks - From $6.9/month for 2000 responses
+-   [Spreadsheet Daddy](https://spreadsheetdaddy.com) - Free API Calls / Excel & Google Sheets tutorials / Productivity software & tools / AI Prompt & Formula Generators
+-   [ExcelDashboard Ai](https://www.exceldashboard.ai) - 250 AI credits & 1 file upload free / Transform Excel to Dashboards & Reports / Chat with data in plain English - From $7.43/month (600 AI credits)
+-   [GRID](https://grid.is) - Turn spreadsheets into fast, scalable RESTful APIs / Integrate Excel and Google Sheets business logic into AI applications
+-   [FormulAI](https://www.formulai.xyz) - 10 requests per month free / Explain formulas / Generate formulas - From $3.99/month
+-   [AskExcel](https://askexcel.cc) - AI data analysis tools / Conversational interface / Fast & easy to use
+-   [BoloForms SheetGod](https://chromewebstore.google.com/detail/spreadsheet-formula-gener/jkihpeicdbekdpckdodcboefplmicdde) - AI-powered Excel & Google Sheets Formula Generator / Formula Explainer / VBA & Regex Tools
+-   [Formularizer](https://formularizer.com) - Formula generation & explanation / Scripting & Regex
+-   [GPTSheets](https://chromewebstore.google.com/detail/gptsheets/mfbjpeonalpkgghaejlfaoifejjojkcj) - Free trial / Turn plain English into spreadsheet formulas/functions / Explain spreadsheet formulas/functions in plain English
+-   [Offset](https://offset.app) - 7-day free trial / AI-native financial modeling / Real-time data enrichment - From $30/month
+-   [SheetSavvy AI](https://sheetsavvyai.com) - 10 formula generators & 100 AI formula requests free / Automate repetitive tasks / Generate formulas - From $4.99/month
+-   [FormToExcel](https://formtoexcel.com) - Convert Forms to Excel / AI-powered Data Extraction / Extract from PDFs & Scanned Images
+-   [StatementSheet](https://statementsheet.com) - 10 free credits / Convert PDF bank statements to Excel and CSV / Supports over 1000s worldwide banks - From $20/month for 400 pages
+-   [Array Assistant](https://arrayassistant.ai) - 200 Requests per Month / Create Formulas / Clean Data / Summarize Text - $14.99/Monthly
+-   [AI Spreadsheet Formula Generator](https://chromewebstore.google.com/detail/gpt-formula/kcleeabpbbmbcfgfdhobcincoeliffba) - Free to sign up / AI write complex Excel/Google Sheet formulas / Get formula explanations
+-   [Image to Excel](https://imagetoexcel.app) - Free up to 5 pages/day / Extract Excel from Images / 99% Accuracy Guaranteed - $10 for 100 image conversions
+-   [Mito](https://trymito.io) - 50 AI Completions per month / Python Spreadsheet Automation / AI Code Generation / No Sign-Up - From $20/user per month
+-   [ChatGPT Batch Tasks Excel](https://chromewebstore.google.com/detail/chatgpt-batch-tasks-sprea/oodahnkoklimneclpoebhlkknoaogeln) - Free unlimited tasks / Run unlimited ChatGPT tasks in bulk / Export results in multiple formats
+-   [Formulas HQ](https://www.formulashq.com) - 5 generation per month / AI-Powered Formula Generator / Regex, VBA, & Apps Script Generation - From $433/month
+-   [Scoop Analytics](https://www.scoopanalytics.com) - / AI-powered data analysis / Real machine learning insights / AI-generated reports & live dashboards
+-   [Theee AI](https://theee.ai) - Free / Access to over 50,000 AI tools / One-stop platform for AI tools
+-   [VoiceGen](https://www.voice-gen.ai) - Welcome credits / Unified Platform for Voice, Images and Videos / Voice Cloning - From 10€ package
+-   [Excelmatic](https://excelmatic.ai) - 10 chat messages / month, 20 image to excel / month / AI-Powered Excel Data Analysis / AI Data Visualization / Excel Automation - From $9.9/month
+-   [GiveFlag](https://www.giveflag.com) - 10 AI team chat prompts free / Automated Document Analysis / Customer List Generation - From $988.99/month
+-   [Invoice Data Extraction](https://invoicedataextraction.com) - 50 pages monthly free / 99%+ accuracy / extract any data from invoices to Excel - From $19 for 200 pages
+-   [MotionExcel](https://www.motionexcel.co) - / AI-Powered Spreadsheet / Python & SQL editor / No login required -
+-   [ExcelFormulaGPT](https://www.excelformulagpt.com) - Free 3 requests per day / Generate Excel formulas from plain language / Save time and avoid formula errors / No Login Required
+-   [Formula Bot](https://formulabot.com) - 10 chat messages / month, 15 enrichments / month / AI Excel formula generation / AI data analysis / SQL query generation - From $15/month
+
+### AI Files
+
+-   [Fabric](https://fabric.so) - AI-powered self-organizing workspace / AI search and thinking partner
+-   [Riffo](https://riffo.ai) - AI Bulk file rename / Auto Foldering
+-   [FileZen (FileNeatAI)](https://filezen.top) - 15 files free / AI-powered content-based file categorization / Organize text files and desktop shortcuts
+-   [Ninja AI](https://myninja.ai) - 6 tasks per day / Research & Writing / Code Generation & Debugging / Image Generation & Editing - From $5/mo
+-   [Dynbox](https://dynbox.app) - 50 credits per month / AI File Organizer / Edit, Search, Clean, Organize - From $20/month
+-   [AI Drive](https://myaidrive.com) - 2,000 credits per month / summarize, chat with, and organize files / AI-powered storage - From $39.00/month
+-   [File Concat Tool](https://fileconcat.com) - Free / Combine and format multiple files for AI / 100% Offline Processing
+-   [AI Renamer](https://airenamer.app) - 10 free credits / Automatically rename files based on content / Organize images and documents with meaningful names - From $5/100 credits
+-   [Humata AI](https://www.humata.ai) - Up to 60 pages, 10 answers free / Upload a PDF and get answers / Analyze documents 100X faster - From $1.99/month
+-   [Keep It Shot](https://keepitshot.com) - 15 credits/month free / AI-powered descriptive names for screenshots / Offline, private, and fast search index - From $8/month
+-   [Zenpai Assistant](https://zenpai.pro) - 30 runs per hour, Select upto 50 file / Automates routine tasks / AI file operations - From $8 USD/month
+-   [Kapsul](https://kapsul.ai) - First 10,000 API requests free / Programmable Storage / Adaptive Privacy and Security - From $0.01/GB/month
+-   [Sloneek](https://www.sloneek.com) - 14 days free / AI-first HR system / All-in-one HR system / People Analytics
+-   [Frankenfile](https://www.frankenfile.com) - 20 free credits / AI-powered file productivity / Image, video, PDF manipulation / File sorting & renaming - Free
+-   [Peony](https://peony.ink) - Free 3 projects, 2GB storage, 100 files / AI-Powered File Management / Secure Document Sharing & Analytics - From $20/month
+-   [OpenCraft AI](https://opencraftai.com) - 15-day free trial / AI-powered workspace / Document & SQL querying / Internet-connected intelligence - From $14/month
+-   [AI Formatter](https://aiformatter.net) - Free / AI-powered formatting / Professional Templates / ATS-optimized resume templates - From $16.67/month (100 credits)
+-   [Mixflow.AI](https://mixflow.ai) - Limited Free AI Credits / AI-first infinite canvas / Work with audios, images, videos, texts - From $4.99/month
+-   [i18n Web](https://i18nweb.com) - Free 2 files, 2 language versions / Translates JSON and Markdown files / Ensures high accuracy and structure preservation - From $7.9/month
+-   [AI Cleaner Guru](https://apps.apple.com/us/app/ai-cleaner-guru-clean-storage/id6743733851) - 3-day free trial / Clean up unnecessary files / Free up storage space / Improve device performance - From $7.99/week
+-   [Albus AI](https://albus.org) - 10 files free / Automated file organization / Semantic search across diverse file types - From ¥150/month
+-   [Brayden.ai](https://brayden.ai) - Answer questions about files / Supports various file types
+-   [ChattyDocs](https://chattydocs.com) - Free trial with 20 queries & 900KB upload / Create AI experts from documents/websites / Chat with your data using Telegram - From $9/month
+-   [aiPDF](https://aipdf.ai) - Free / Chat with documents / Summarize documents / Works with any file type - From $9/month
+-   [The Drive AI](https://thedrive.ai) - 5 queries per day / Manage files efficiently / Ask questions to files / Write new content - From $9.99/month
+-   [FileGPT](https://filegpt.app) - Free access (approx. 200 questions/month) / Chat with multiple file types / OCR for scanned docs / Cross-source querying - From $18/month
+-   [StructiFi](https://structifi.com) - Free 1 file with 3 MB size / AI-Powered OCR & Data Extraction / Transform Images, PDFs, Word to structured data (Json, Table, Markdown)
+-   [David One](https://heydavid.ai) - Join Beta For Free / Video understanding / Web search / Productivity tools - Contact for Pricing
+-   [Cogent](https://joincogent.com) - 3 AI flashcards, 2 AI Exams, 5 file chats free per month / AI Flashcards / AI Exams / File Chat - From $2.99/month
+
+### AI Scheduling
+
+-   [PostSyncer](https://postsyncer.com) - 7-day free trial / Unlimited AI Video Generation / Unlimited Team Collaboration - From $15/month
+-   [ticketbro](https://www.ticketbro.com) - Free system / Mobile first booking system / Streamline operations / Team and customer management - From Free
+-   [Carepatron](https://www.carepatron.com) - Free forever / All-in-one EHR & Practice Management / AI-native platform - From $9.50/month
+-   [Clockwise](https://getclockwise.com) - Free plan available / AI Powered Time Management Calendar / Flexible Meetings / Focus Time - From $6.75/month (billed annually)
+-   [Tweet Hunter](https://tweethunter.io) - 7-day free trial / AI-powered Content Creation / Scheduling & Automations - From $49/month
+-   [Toki](http://yestoki.com) - AI calendar assistant / Turns voice, texts, pictures into schedules / Syncs with Google/Apple calendars
+-   [Hypefury](https://hypefury.com) - Multi-platform scheduling / Audience growth & monetization
+-   [SocialRails](https://socialrails.com) - 3-day trial / Schedule posts to 9 social media platforms / Generate short-form content - From $16/month
+-   [SkedPal](https://skedpal.com) - 14-day free trial / Intelligent Time Blocking / Automated Scheduling of To-Do's / No Email Required - From $9.95/month
+-   [FlowSavvy](https://flowsavvy.app) - Free (2-week auto-scheduling, 2 calendar syncs) / Intelligent auto-scheduling / Automatic rescheduling - From $7/month
+-   [Postiz](https://postiz.com) - 7-day trial / Seamless scheduling / AI Content assistant / Comprehensive analytics - From $29/month
+-   [Frontdesk | AI Phone Receptionist](https://myaifrontdesk.com) - 7-day free trial / Automate calls / Schedule appointments / 24/7 AI phone receptionist - From $65/month
+-   [Avoma](https://www.avoma.com) - 14-day free trial / AI Meeting Assistant / Scheduling & Lead Router / Conversation Intelligence - From $19/user/month (billed annually)
+-   [Reclaim.ai](https://reclaim.ai) - Free forever Lite plan / AI-powered auto-scheduling / Focus Time defense / Meeting optimization - From $10/month
+-   [Robopost AI](https://robopost.app/en/features/robopost-ai) - Free 10 Post Scheduling /month / AI Posts Generator / Effortless Post Scheduling
+-   [Healee](https://healee.com) - Free / up to 10 providers / Patient intake / Care triage & Scheduling / Care coordination & Patient communication - From $199/month
+-   [XBeast](https://xbeast.io) - Fully automatic AI tweet generation / Automatic scheduling / Account growth automations
+-   [Hookle](https://hookle.net) - Free 5 AI-powered posts per month / Create content in seconds / Schedule posts - From $4.99/month
+-   [Retime](https://retime.so) - Free version forever / Streamlined scheduling / Agendas & meeting notes / Calendar sync
+-   [SkyPlanner APS](https://skyplanner.ai) - AI-powered production optimization / Finite capacity scheduling / Seamless ERP integration
+-   [Planly](https://planly.com) - 14-day Free trial / Auto publishing / Advanced Analytics / Unified Engagement - From $15/month
+-   [ViralDashboard](https://viraldashboard.io) - Free 20 posts / Social Media Automation / AI-Powered Content Curation / No credit card required - From $9/month
+-   [CalendarApp](https://calendar-app.de) - 14-day free trial, 50 messages / Schedule appointments on Social Media / Automate conversations - From $29/month
+-   [ReachifyMe](https://reachifyme.com) - Free / AI-Driven Content Generation / LinkedIn Post Scheduling / Personal Brand Building
+-   [Dottypost](https://www.dottypost.com) - 30 AI Credits / AI-powered LinkedIn content creation / Carousel generation / 1-click scheduling - From $15/month
+-   [BookingBee.ai](https://bookingbee.ai) - Free 100 calls / Conversational AI for seamless appointment scheduling / Automated 24/7 virtual receptionist / Minimize no-shows and late arrivals - From $99/month
+-   [timeOS](https://www.timeos.ai) - Up to 10 AI Meetings / Automated meeting notes / AI scheduling - From $19/month
+-   [Lineup.ai](https://lineup.ai) - AI-powered sales forecasting / Automated shift scheduling / Labor planning - From $79/mo per location
+-   [Cal.com](https://cal.ai) - Free for 1 user / AI scheduling assistant / Unlimited calendars & event types / AI Phone Agents - From $15/month/user
+-   [Meet-Ting](https://meet-ting.com) - Free / AI assistant for email scheduling / Books meetings in email / No links, no apps, no learning curve - FREE
+-   [Perks](https://perks.lk) - Reward-based appointment scheduling / Earn redeemable points by rating & reviewing / Manage appointments online - From $99/month
+-   [VibeTrack](https://vibetrack.co) - 30-day Free Trial / Schedule more in-person meetings / AI-Powered Meeting Prep & Collaboration / No Account Required - From $3/month
+-   [runCLAUDErun](https://runclauderun.com) - Free / Automate Claude CLI commands / Native macOS app / No Sign-Up or Login required - Free
+-   [Etaprise](https://www.etaprise.com) - Free trial / AI-powered Field Service Management / AI Based Scheduling and Dispatch / AR Based Remote Assistance
+-   [Trevor AI](https://trevorai.com) - Free tier for personal use / AI Planner for tasks and calendars / AI time blocking - From $5/month
+-   [BookingHub.AI](https://www.mybookinghub.co.uk) - Automate 99% of customer bookings / Get an extra appointment per employee per day / Reduce travel costs by 20%
+-   [SchedFlow](https://schedflow.net) - Free forever, 14-day free trial / Smart Appointment Scheduling / Automated Task Flows / Seamless Calendar Sync
+-   [Voiset](https://www.voiset.io) - Free trial with 30 min voice tasks and notes / AI scheduling / AI task manager / Voice dictation - From €8/month
+-   [TimeTuna](https://timetuna.com) - Up to 3 booking pages free / Beautiful Branded Scheduling Pages / Custom video backgrounds - From €5/month
+-   [Confirmed](https://chromewebstore.google.com/detail/confirmed-meeting-schedul/dcmkjplipmeeldkgiapmffpoecjcebhe) - Free 30-day trial / Schedule meetings / Reclaim time & reduce travel
+-   [Wattle](https://hellowattle.com) - 30-day free trial / Online bookings / AI dispatch / Instant payments - From $79/month
+-   [Pin Generator](https://pingenerator.com) - 12 free generations per month / Generate Pinterest pins FAST / AI text writer / Bulk scheduler - From $16.99/month
+-   [Verlynk](https://verlynk.com) - Free / Manage, schedule, and analyze social media / AI-Powered Content Generation / Unified Smart Inbox
+
+### Graph AI
+
+-   [GitHub](https://cleora.ai) - Free / Efficient, scalable entity embeddings / Heterogeneous relational data / No expensive hardware needed
+-   [Minicule](https://minicule.com) - 1 Million Tokens per month / Build scientific knowledge graphs / Visualize complex research data - From $49.00/month
+-   [Graphy](https://graphy.app) - Unlimited charts, limited AI use / Simplifies data presentation / AI-powered chart creation - From $12/user/month
+-   [illumi](https://illumi.one) - Free trial / Context-aware AI Whiteboard / Integrates ChatGPT, Claude, Grok and beyond
+-   [Anara](https://www.unriddle.ai) - Clear, actionable and accurate explanations / Cite, write, and edit faster with AI / Get your research team closer together
+-   [MealSnap: AI meal log journal](https://apps.apple.com/us/app/mealsnap-ai-meal-log-journal/id6475162854) - Free / AI-Powered Meal Scanning / Nutritional Information at a Glance - From $1.99
+-   [ChartAI](https://chartai.io) - 100 free credits / AI-driven diagramming / create diagrams and charts in 2 seconds with AI
+-   [AI Graph Maker](https://aigraphmaker.net) - 10 free credits daily / AI-powered chart generation / Multiple chart types - From $4/month (500 credits)
+-   [Opennote](https://opennote.me) - 3 DeepTutor Uses Daily, 5 File Uploads Daily / AI-powered deep research / interactive canvases / video generation - From $15/month
+-   [Scoop Analytics](https://www.scoopanalytics.com) - / AI-powered data analysis / Real machine learning insights / AI-generated reports & live dashboards
+-   [David One](https://heydavid.ai) - Join Beta For Free / Video understanding / Web search / Productivity tools - Contact for Pricing
+
+### AI Life
+
+-   [One Perfect Day](https://oneperfectday.app) - 7-day Free Trial / AI-generated future diaries / Personalized micro-habits - From $12.99/month
+-   [Y-Pod](https://apps.apple.com/app/y-pod/id6451288906) - Life Goals Planning / AI-powered insights / Life Areas & Calendar tracking - From $4.99/month
+-   [Fix My Life AI](https://fixmylife.ai) - 60,000 tokens per year / Solve almost any problem in your life / Get personalized ideas and solutions
+-   [My Glow Up AI](https://myglowup.ai) - AI-powered personalized recommendations / Holistic transformation plans / Progress tracking
+-   [EpicTopia](https://www.epictopia.com) - Free download / AI-driven pursuit system / Personalized action plans
+-   [Lifelight](https://apps.apple.com/us/app/moolight-smart-diary/id1631169735) - AI-powered journaling & insights / Private memory bank & mood mapping - From $3.99/month
+-   [Attract AI・Manifest Dream Life](https://apps.apple.com/us/app/attract-ai-manifest-dream-life/id6686394253) - Personalized Dream Stories / Daily Affirmations / Progress Tracking - From $9.99/month
+-   [Macaron AI](https://macaron.im) - 10 almonds for feedback / Personal AI agent / Personalized mini-apps / Deep Memory
+-   [DreamAI](https://dreamai.info) - AI-powered dream decoding / Numerological insights / Life balance revelation
+-   [Stellar Fate](https://stellarfate.com) - AI numerology expert / Personalized Predictions / Real-Time Insights
+-   [Eternity.ac](https://eternity.ac) - Free tier with limited topics and messages / Create your digital clone to live forever / Chat with AI twins of public figures / Boost Sales & Marketing with AI clones - From $10/month
+-   [Death Clock AI](https://deathclockai.net) - Free / AI-powered Life Expectancy Calculator / Personalized Insights & Recommendations / No Sign-up
+-   [Destiny Matrix](https://destiny-matrix.cc) - 100% Free Analysis / Personal Destiny Matrix Chart / Karmic Tail Calculator / No Registration Required
+-   [Motiv8](https://motiv8.pro) - 7-day Free Trial / AI-powered task generation / Ready-to-use lifestyle lists
+-   [MissionMapper](https://missionmapper.com) - 100% Free / AI-assisted Personal Mission Statement Creation / Define life's purpose and direction / No Login
+-   [AchieveMe](https://apps.apple.com/us/app/achieve-me-life-goals/id1373022918) - AI-powered motivational coach / Set & track goals - From $1.99/month
+-   [Me.bot](https://apps.apple.com/app/apple-store/id6475769640) - Personal AI assistant / Organizes thoughts & info / Provides AI-powered insights - From $10.00/month
+-   [VedVaani](https://vedvaani.in) - First 2 Questions & Unlimited Tarot Chats / AI Astrology & Spiritual Guide / Accurate Predictions / Multiple AI Avatars - From ₹18 for 2 Questions
+-   [Astara](https://apps.apple.com/us/app/astara/id1620808183) - Free / Personal AI Astrologer that reads people / Intelligent Decision Support / Social Dynamics Insights - From $0.99 for 10 Astara Tokens
+-   [Cosmica AI Astrology & Tarot](https://www.iyiai.com) - Up to 10 free consultations daily / Personalized Horoscopes / Birth Chart Analysis / Tarot Readings
+-   [Lebenmaster](https://lebenmaster.com) - 5-day free trial / BrainLevels™ optimization / Stop Procrastination / Optimal daily plan creation - From $9.99/month (up to 9 recurring tasks)
+-   [AstrolGuru](https://astrolguru.com) - Free Personality Analysis / AI-powered astrology guide / Personalized insights & birth chart analyses - From 7.49 EUR for 5 questions
+-   [Yes/No Tarot](https://yesornotarot.net/yes-no-tarot-ai) - Free / Instant Accurate Answers / AI-powered Yes/No Tarot Readings / No Sign-Up
+-   [BlissBot.AI](https://blissbot.ai) - Free for mental and emotional support / Personal AI chatbot / Mental and emotional support / Spiritual well-being & empowerment - From $8.99/month
+-   [Longist](https://www.longist.io) - Free Plan / Snap photo to see lifespan impact / AI Longevity Coach / Menu scanner & dish analysis - From $9.99/month
+
+### AI SOP
+
+-   [guidde](https://guidde.com) - Free Extension / AI-powered video documentation / Step-by-step guides
+-   [Manifestly Checklists](https://manifest.ly) - Free 14 day trial / Automate recurring workflows / AI and richer integrations - From $8/user/month
+-   [checklist.gg](https://checklist.gg) - 3 AI-driven checklist creation / AI-driven checklist creation / Team Collaboration - From $8/month
+-   [Dubble](https://dubble.so) - Unlimited guides free / Step-by-step guides / Videos and screenshots - From $18/month
+-   [Komodo](https://komododecks.com) - Unlimited Free / Screen Recorder / SOP Generator / AI Meeting Notes / No Sign-Up
+-   [Document360](https://document360.com) - 14-Day Free Trial / AI-Powered Knowledge Base / Public + Private Knowledge Base / Multilingual Content Support - Starting from $149/month
+-   [Policy Pro](https://www.policypro.app) - First month is free / Extracts policy info from SOPs / Provides real-time answers
+-   [Castofly](https://chromewebstore.google.com/detail/castofly/fgknpneanajjbnpbfboibfjigffgched) - Turn processes into step-by-step guides, interactive demos, and product videos / Automate documentation & SOPs 20x faster
+-   [Tootler.ai](https://tootler.ai) - AI-driven SOPs & LORs / Plagiarism Checker / In-built Editor - From $14.99/Month (Upto 3 SOPs)
+-   [Wizlink](https://ai.wiz.link) - 5 queries per day / AI-powered Mobile Landing Pages / Game-changing Link-in-Bio Tool / Interactive Widgets
+-   [Clueso](https://www.clueso.io) - 7-day free trial (15 mins video, 15 articles) / AI-powered product videos / step-by-step documentation / No credit card required - From $120/month
+-   [DeepHow](https://deephow.com) - 14 day unlimited free trial / Capture expertise 90% faster / Deliver know-how right where work happens / Improve knowledge retention
+-   [Aethera AI](https://aethera.ai) - Free 125 Questions / month / Analyze, create, organize documents / Smart Summaries - From $12.5/month
+-   [Kopyst](https://kopyst.com) - Free 10 Documents, 10 Videos, 10 Pages / Record any process into video & detailed guide / AI-powered documentation - From $15/month
+-   [Aident AI](https://aident.ai) - 300 refresh credits every month / AI automation / Consistent workflows - From $12/month
+-   [viAct](https://www.viact.ai/solutions/job-hazard-analysis-software) - 14 Days FREE Trail / Streamline JSA Workflows / Real-Time Collaborative Safety
+
+### AI WORD
+
+-   [Online Word Editor](https://onlinewordeditor.com) - AI content generation, rewriting & translation / Online Google Docs & Word editing / One-click HTML conversion
+-   [Spellbook](https://www.spellbook.legal) - 7-day free trial / Draft and review contracts 10x faster / Redline contracts and catch risks -
+-   [Screens AI](https://www.screens.ai) - 5 contract uploads free / Review and redline contracts in Microsoft Word / Create customized screens - From $149/month
+-   [AI TranslateDocs](https://aitranslatedocs.com) - Free 10000 characters / AI-driven OCR & layout preservation / Supports multiple document formats - From $9.99 for 100,000 characters
+-   [Muses AI](https://www.muses.my) - Free credits to start / AI-powered writing assistance / Multi-AI model choice -
+-   [LogoAI](https://www.logoai.com) - Free logo design / AI powered logo maker / create professional logos / design matching identities - From $29
+-   [Presenti AI](https://presenti.ai) - AI presentation generation / Convert various file types to slides - From $10/month
+-   [AI Formatter](https://aiformatter.net) - Free / AI-powered formatting / Professional Templates / ATS-optimized resume templates - From $16.67/month (100 credits)
+-   [LegalGraph AI](https://legalgraph.ai) - AI-powered legal assistant / Instant contract risk detection & redlining in Microsoft Word / Customizable playbooks
+
+### AI Task Management
+
+-   [Tiimo](https://www.tiimoapp.com) - 7-day free trial / Visual Planner for ADHD and Executive Functioning / AI task breakdown
+-   [Akiflow](https://www.akiflow.com) - 7 days free trial / Unified Tasks & Calendars / AI-powered Time Blocking - From $19/month
+-   [Apps 365](https://www.apps365.com) - 14 days risk free trial / HR and Business Apps / AI-enabled apps - From $11.99/month
+-   [checklist.gg](https://checklist.gg) - 3 AI-driven checklist creation / AI-driven checklist creation / Team Collaboration - From $8/month
+-   [BeforeSunset AI](https://www.beforesunset.ai) - AI-powered schedule planning / Personal & Team Analytics - From $8/month
+-   [Nifty](https://niftypm.com) - Free forever plan with 2 projects & 100MB storage / All-in-one project management / Task & workflow automation - From $39/month for 10 members (billed annually)
+-   [Kroolo](https://kroolo.com) - Free Trial / AI-powered Productivity Management / Manage Projects, Tasks, Goals, Documents / 40+ Custom AI Agents
+-   [Saner.AI](https://saner.ai) - 30 AI messages & requests/month / AI-powered capture & organization / Generate insights / Designed for ADHDers - From $8/month
+-   [Hoop](https://hoop.app) - Free 7-day trial / Automated task capture from Slack, meetings, and email / Consolidated task list - From $39/month
+-   [GanttChart AI](https://www.ganttchart.ai) - 2 Credits / Create Gantt charts using natural language / Work with Google Sheets - $3 for 30 Credits
+-   [Tendem AI](https://tendem.ai) - Start free / AI + Human Agent to get tasks done / Skip the freelancer admin. / No setup or credit card needed - Pay-as-you-go from ~$28
+-   [Flowtica](https://flowtica.ai) - AI voice assistant / Natural Voice Input / Automate Your Organization
+-   [Saga](https://saga.so) - Free for up to 3 members with 5,000 AI words/month / AI workspace for notes, docs, and tasks / AI content generation & summarization - From $6/member/month (billed annually)
+-   [2-b.ai](https://2-b.ai) - Limited access to basic AI model (50 calls) / Highlight-to-Capture Task Creation / AI Goal Planning - From $5.99/month
+-   [workstreams.ai](https://www.workstreams.ai) - Free for up to 3 team members / Automate Workflows / Manage Tasks / Time Allocation - From $7.99/user/month
+-   [Quila](https://www.quila.ai) - 1 project, 1 team member, Basic AI-powered features / AI-powered planning / Intelligent Task Management / Collaborative Workspace - From $7/month
+-   [Cirql](https://www.cirql.ai) - Up to 30 blog posts free / Automate routine tasks using AI / Smart Email Categorization / No Credit Card Required - From $4900/month
+-   [Swatle](https://swatle.ai) - 14 days free trial / AI-Powered Project Management / Seamless Collaboration - From $8/month
+-   [3 Things - AI Tasks Tracker](https://apps.apple.com/us/app/3-things-ai-tasks-tracker/id6745344343) - Free basic functionality / Focus on 3 meaningful tasks daily / AI-powered habit learning & suggestions - From $1.99/month
+-   [Actavivo](https://apps.apple.com/in/app/actavivo/id1611252168) - Free / Team & Group Management / Safe Communication & Event Scheduling
+-   [Motion](https://usemotion.com) - Free trial / AI Task Planner / AI Project Manager / AI Calendar - From $19/month
+-   [Peaches: AI To-Do List](https://apps.apple.com/us/app/peaches-ai-to-do-list/id6677005583) - Free / Voice task management / AI task organization - From $4.99/month
+-   [Whisprlist](https://whisprlist.com) - 20 Voice Tasks / Voice-Activated Tasks / AI Daily Summary - From $4.99/month
+-   [Todo AI](https://apps.apple.com/us/app/todo-ai-convert-idea-to-tasks/id6478566943) - Voice-to-Task Conversion / AI-Powered Insights - From $4.99/month
+-   [Plan Quest](https://plans.quest) - Up to 3 plans created from scratch / AI-assisted goal planning / Smart task management / Progress tracking - From US$9.99/month
+-   [Routine](https://routine.co) - Free plan with 5 data connectors & 7-day history / All-in-One Work Platform / Connects tasks, calendars, projects, notes, contacts - From $10/month
+-   [LiveMinder](https://liveminder.vibin.llc) - Reminders on Lock Screen & Dynamic Island / ChatGPT Integration / Syncs with Apple Reminders
+-   [Stepseed: AI Goal Tracker](https://apps.apple.com/us/app/stepseed-ai-goal-tracker/id6467240661) - Free 15 credits / AI Goal Tracking / AI Life Coach / Personal Journal - From $4.99 for 200 Seedy Advice Tokens
+-   [Papper](https://papper.co) - Free / Sync Handwritten & Digital To-Dos / Create Stylish Printouts
+-   [Effy AI](https://www.effy.ai) - 5 persons free / AI-powered performance reviews / AI summarizing results - From $2.50/person/month
+-   [Nekton](https://nekton.ai) - 300 flows/month / Automate your daily tasks with AI / Integrates with thousands of services - From $9/month
+-   [Voiset](https://www.voiset.io) - Free trial with 30 min voice tasks and notes / AI scheduling / AI task manager / Voice dictation - From €8/month
+-   [TaskAGI](https://taskagi.net) - HyperVoice - 10 Minutes, HyperVideo - 10 Videos / Deploy AI agents / Visual workflow builder - From $20 per user/month
+-   [Jigso](https://jigso.io) - / AI-powered research & monitoring across apps / Automatic action item detection & reminders / Unified search & answers -
+-   [Sparky](https://www.sparkylife.co) - AI Journal / Habits Tracker / To-do List
+-   [socra](https://socra.com) - Limited daily AI usage free / AI-native collaboration / Automates documentation & tasks / Eliminates context switching & meetings - From $8/month
+-   [Eyre](https://eyre.ai) - 10 encrypted video calls, 5 encrypted video meetings, 5 AI meeting summaries free / AI-powered summaries, tasks and transcripts / Private, encrypted EU-based meetings - From $9.95/month
+-   [taskmelt](https://www.taskmelt.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3171)- Freemium + From $4.99/month / Transform mental chaos into organized tasks with AI.
+-   [NoteitHub](https://noteithub.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2804)- Free Trial + From $4/unit, No Refunds / Turn GPT chats into to-dos, journals, and reminders
+-   [Tudo](https://blynkai.app/tudo/) - Free / AI voice-first task manager for iPhone / Capture tasks from voice, screenshots, shared content / AI goal-to-subtask breakdown
+
+[⬆️ Back to README](./README.md)

@@ -1,0 +1,1053 @@
+# Education & Translation
+
+[⬆️ Back to README](./README.md)
+
+## Education & Translation | I Love Free
+
+> Discover free AI translation, homework help, and online learning tools. Study smarter with no-cost AI education apps.
+
+### AI Translate
+
+-   [漫画翻译器](https://ichigoreader.com) - AI-driven Japanese, Chinese, and Korean translation / Supports all platforms
+-   [DeepL](https://deepl.com) - 3 non-editable file translations per month / Accurate machine translation / Text & document translation - From $8.74/month
+-   [Immersive Translate](https://immersivetranslate.com/en) - 3-Day Free Trial / Bilingual Webpage Translation / Video Subtitle and PDF Translation - From $7.00/Month
+-   [OpenL Translate](https://openl.io) - 40 Fast Credits/day / Accurate AI Translation in 100+ Languages / AI Grammar Tools & Writing Refinement / No Login required - From $7.9/month
+-   [Lara Translate](https://laratranslate.com) - Free up to 5,000 characters/day / Text & Document Translation / Interpreter - From €9/month
+-   [Deeptranslate](https://deeptranslate.ai) - One-click bilingual page generation for news, papers, and social media / Supports 142 languages and major translation APIs (Google, ChatGPT, Microsoft)
+-   [Monica](https://monica.im) - 40 daily basic model accesses / AI Chat / Copywriting / Smart Reading - From US$8.3/month
+-   [Maestra AI](https://maestra.ai) - 10 minutes free trial / AI Transcription / Subtitles / Multilingual Voiceovers / No account required - From $23/month
+-   [VMEG](https://www.vmeg.ai/tools/video-translator) - 60 free credits / Translate & dub videos in 170+ languages / 7000+ AI Voices & Lip Sync - From $9.6 for 240 credits
+-   [Linnk.AI](https://www.linnk.ai) - Free use quotas for summarization & translation preview / AI Summarizer / Translator / Research Assistant
+-   [Speak AI](https://speakai.co) - 7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant - From $15/month
+-   [MachineTranslation.com](https://www.machinetranslation.com) - 100,000 free words monthly / World's most accurate AI translator with AI Translation Agent / Compare top LLM and AI translations / No fees or sign-ups required - From $12.75/month
+-   [SubEasy](https://www.subeasy.ai) - 3 x 30 mins Free Transcribe Daily / AI Subtitle & Transcription / AI Translation / Subtitle Reflow - From $7.42/month
+-   [WAPlus CRM](https://waplus.io) - 3,000 characters/month AI Translation / Message Scheduler / Automatic Reply - From $7.99/user/mo
+-   [Phrase Localization Platform](https://phrase.com) - 14-day free trial / Document and software localization / AI-powered translation / Automated workflows - From $27/month
+-   [Trancy](https://www.trancy.org) - Free 50 PDF pages/month / Personalized study materials from YouTube/Netflix / Build vocabulary & grammar / Improve listening & speaking - From $3.49/month
+-   [Transmonkey AI Translator Suite](https://www.transmonkey.ai) - Free trial credits / Document, Image, Video Translation / Preserves Original Layout / Dubbing & Subtitle Translation - From $8.3/month
+-   [Missive](https://missiveapp.com) - 30-day free trial / Email, group chat & tasks / AI-powered drafting & translation - From $14/user/month
+-   [Mirai Translate](https://miraitranslate.com) - High-accuracy AI translation / High-security cloud translation / Domain-specific models
+-   [GTranslate](https://gtranslate.io) - 15 day free trial / Translate your website / Search engine indexing - From $9.99/month
+-   [Voiceform](https://www.voiceform.com) - Free trial / Voice, Video & Text Surveys / AI-powered Insights / Qualitative Data at Scale
+-   [Precise AI Document Translator](https://otranslator.com) - AI-powered translations / Layout preservation / Supports 30+ formats - From $1 for up to 20,000 words
+-   [AudioPod AI](https://www.audiopod.ai) - Free 10000 credits per month / Voice cloning / Noise reduction / Audio translation - From $2.50/month
+-   [DocTranslator](https://doctranslator.com) - Free plan (up to 20 pages/document) / Instant document translations / Accurate AI translation - From $14.99/month
+-   [Doclingo](https://doclingo.ai) - Free 3 translations/day / AI-Powered Document Translation / Format Restoration / No Registration Required - From $49.99/year
+-   [JotMe](https://www.jotme.io) - 20 minutes of monthly translation / Real-time translation & transcription / AI meeting notes & document generation - From $9/month
+-   [ImageTranslate.AI](https://imagetranslate.ai) - 30 free credits per day / Translate image text across 70+ languages / Layout Preservation - From $9.9/month
+-   [Easygenerator](https://www.easygenerator.com) - 14-day trial / EasyAI / PowerPoint import / Auto-translation - From $116/month
+-   [Lufe AI Translator](https://www.lufe.ai) - Unlimited Machine Translation / Bilingual Web Reading / Image Translation / PDF Translation - From $9.99/month
+-   [PDFT.AI: Online PDF Translator](https://pdft.ai) - Free translation for several pages / AI-powered document translation / Layout preservation - From $14.99/month
+-   [AI Subtitle Translator](https://aisubtitletranslator.com) - Free credits upon registration / AI Subtitle Translation in 50+ languages / Supports 7 subtitle formats & Batch Processing - From $10/month
+-   [Readable](https://readable.jp) - 1-week free trial / Instant PDF translation / Layout retention / One-click translation - From ¥800/month (annual payment)
+-   [Exemplary AI](https://exemplary.ai) - 60 upload minutes, 20 content generations free / Transcription & Subtitles / AI Clips & Content Generation - From S$12/month
+-   [XX.AI](https://www.hixx.ai) - 100 credits daily / 15 Top AI Models All In One / AI Writing Assistant - From $9.99/month (billed annually)
+-   [Behnevis](https://behnevis.com) - Free 45-day trial / Pinglish to Persian Transliteration / Persian Speech-to-Text - From $3.5/month
+-   [AITranslator.com](https://www.aitranslator.com) - 500 free credits per month / Real-time translation / 240+ languages / AI-Assisted Translation Insights - From $12.75/month
+-   [AI Phone](https://www.aiphone.ai) - / Live Call Translation / Live Call Transcription / Smart Phone Number
+-   [Localazy](https://localazy.com) - 14-days free trial / Software localization on autopilot / Automated human professional translations
+-   [X-doc AI](https://x-doc.ai) - Large-Scale Technical Document Translation / Uncompromising Data Security & Audit-Ready Quality / Reduce Translation Costs & Accelerate Time-to-Market
+-   [Pangeanic](https://pangeanic.com) - AI Translation for Multilingual Content Delivery / AI Virtual Assistants
+-   [Tolgee](https://tolgee.io/features/autonomous-translation) - Free 500 keys / AI translation / Context-aware translations - From €49/mo
+-   [GPT Subtitler](https://gptsubtitler.com) - Daily 10,000 tokens + 100,000 bonus tokens / AI Subtitle Translation / Audio Transcription - From $5/month
+-   [Texts](https://texts.com) - Free for 10 accounts / All social messengers in one inbox / AI-assisted productivity - From $15/month
+-   [InterSub](https://intersub.cc) - 14-day Premium trial, 15 word lookups/month (or unlimited with ads) / Interactive Dual Subtitles / Instant Translation & Wordbook - From $1.5
+-   [Akkadu](https://akkadu.ai) - 10 minutes free / Real-time AI Subtitles in 90+ languages / Compatible with any platform - From $5 / hour
+-   [Transor](https://transor.ai) - Unlimited Web Page Translation, 100 PDF pages/month / AI Translator / Bilingual Subtitles / Google Translate (no registration) - From $5.00/month
+-   [TextPixie](https://textpixie.com) - Free 20,000 text tokens, 5 image, 5 min audio per day / Translate text, images, audio, documents, web articles into 100+ languages / Fast, accurate, context-aware - From $7.9/month
+-   [AI Manga Translator](https://aimangatranslator.com) - 10 free translations / AI-powered instant manga translation / Preserves original artwork / Supports multiple translation models (GPT-4o, Papago, Google Translate) - From $8/week
+-   [AI Automatic Translation Rosetta](https://rozetta.jp) - Free trial / High-precision AI translation for specialized fields / Automatic speech-to-text & translation / Generative AI for DX promotion
+
+### AI Homework Helper
+
+-   [Gauth](https://gauthmath.com) - AI Homework Helper / Real Live Tutors / Step-by-step Solutions
+-   [Solvely](https://solvely.ai) - Free to start / Take a picture and get step-by-step solutions / All subjects, all levels
+-   [ReadTheory](https://readtheory.org) - Free Basic plan / Adaptive reading comprehension / Personalized learning / Automatic grading - From $14/month
+-   [Thea](https://www.theastudy.com) - Free access until January 1st, 2026 / AI Study Tools / Unlimited Questions / Mobile Apps
+-   [RevisionDojo](https://www.revisiondojo.com) - Practice questions, study notes & flashcards / AI feedback & explanations / Mock exam generator
+-   [Raena AI](https://raena.ai) - Up to 2 quizzes per week / Interactive quizzes / Personal AI Tutor - From $6.99/month
+-   [Mathos AI](https://www.mathgptpro.com) - AI Math Solver / Step-by-step math solver / AI Tutor - From $4.99/week
+-   [Thetawise](https://thetawise.ai) - 50 free messages per day / AI Math Tutor & Step-by-Step solutions / Advanced solver & Practice sessions - From $15/month (billed annually)
+-   [Astra AI](https://astra-ai.co) - Step-by-step guidance / Photo scan for math problems / Covers 4 subjects - From 40€/month
+-   [Math AI](https://math-gpt.ai) - 150 credits/month / AI Math Solver / Step-by-step solutions / Photo Math Solver - From $3.9/month
+-   [Examly](https://examly.ai) - Free mock exams, first essay review & vocabulary builder / Mock & Practice Exams / AI Essay Reviewer / Vocabulary Building App
+-   [Hỏi đáp AI Hay](https://ai-hay.vn) - 8 requests / Academic support / Image recognition / Content explanation
+-   [SchoolAI](https://schoolai.com) - 75 student Space sessions / day / Personalized AI experiences for students / Real-time insights for teachers / Student Data Privacy - $1,270 / Year
+-   [EduBrain.ai](https://edubrain.ai) - AI Homework Helper / Picture Solver / Step-by-step solutions / No Signup
+-   [Unstuck AI](https://unstuckstudy.com) - Chat with all of your Course Materials / Analyze graphs and visual data
+-   [Studyable](https://studyable.app) - Free / Instant step-by-step homework help / AI tutors for math & images / Instant essay feedback
+-   [Asksia](https://www.asksia.ai) - Personal AI Tutor & Homework Helper / Lecture Transcription & Note Organization / Smart Highlights & Summaries
+-   [Khanmigo](https://khanmigo.ai) - Free for teachers / AI-powered teaching assistant & tutor / personalized tutoring & homework help
+-   [Study Fetch](https://studyfetch.com) - AI Flashcards / AI Quizzes / AI Tutor
+-   [Answer.AI](https://answerai.pro) - Free 3 daily requests / AI Tutor & Counselor / Question Scanner - From $8.33/month
+-   [TutorOcean](https://tutorocean.com) - Free to join / Affordable Private Online Tutors / Homework Help & Test Prep
+-   [LearnFast AI](https://learnfast.ai) - Free daily usage / Instant, Accurate Math & Physics Solutions / Powered by GPT-4o AI / No Login Required
+-   [Tutor AI](https://www.tutorai.me) - Free plan available / Create a custom learning pathway / Unlimited chat interactions - From $16.00/Month
+-   [Desklib](https://desklib.com) - Free 20 AI Answer questions, 12 Plagiarism Checker scans / AI-Powered Study Tools / Study Documents / Plagiarism Checker - From $4.50/month
+-   [Question AI](https://questionai.io) - AI Homework Helper / Summarizer / Paraphraser
+-   [Student AI](https://studentai.app) - 7 Day Free Trial / Essay Writing / AI Image Generator / AI Teacher
+-   [Question AI](https://www.questionai.ai) - Solve any homework questions / Detailed step-by-step solutions - From $4.90/month
+-   [AssignmentGPT AI](https://assignmentgpt.ai) - Free 800 words/day / Assignment Answers / Math Problem Solving / Image to Answer - From $5.99/month
+-   [HomeworkAI](https://www.homeworkai.ai) - Free trial available / Instant, step-by-step solutions / Covers all subjects / Solve problems from images - From $4.90/month (billed annually)
+-   [FotoExamen](https://www.fotoexamen.com) - 3-day free trial / Solve exams & tasks with photos / Get explained answers / Chat with AI Tutors - From 9€/month
+-   [QuizSolver](https://quizsolverai.com) - 10 free answers per month / AI-Powered Quiz Solving / Instant Answers & Explanations - From $5.42/month
+-   [Tutorly.ai](https://tutorly.ai) - Daily Credits / Answer any questions / Write essays / Paraphrase - From $9.99/month
+-   [GeniusTutor](https://www.geniustutor.ai) - AI Homework Help & Solver / Step-by-step solutions - From $4.90/month
+-   [Inkey AI](https://www.inkey.ai) - 1000 words/month free / AI Tutor / Essay Writer / Math Word Problem Solver - From $4.99/month
+-   [Knowee AI](https://knowee.ai) - 20 Credits per day / Homework Helper / Scholar Search - From $10.00/month
+-   [Homeworkify.im](https://homeworkify.im) - AI-powered solutions / Accurate and instant homework help / Versatile input methods (text, images, files)
+-   [KnoWhiz](https://knowhiz.us) - 1 instant course per month / AI-powered personalized learning / Auto-generate structured learning, quizzes & flashcards - From $0/month (1 instant course)
+-   [Aceify.ai](https://aceify.ai) - Instant, accurate study help / Snap & Solve (screenshot tool) - From $9.99/mo
+-   [Alevels.ai](https://www.alevels.ai) - Free / AI chat, feedback, and analytics / AI Marking & Chat
+-   [GradesAI](https://gradesai.com) - Free access / Predictive Exam Generator™ / AI-driven Study Tools
+-   [AHelp](https://ahelp.com) - Free 3 credits / day / Check plagiarism / Improve grammar / Generate ideas - From $4.17/month
+-   [College Tools](https://collegetools.io) - 3 days FREE / Accurate quiz solutions / Step-by-step explanations - From $19.99/month
+-   [Ace It](https://aceit.works) - Transform notes into flashcards and quizzes / AI-powered study materials
+-   [GradeCalculator.AI](https://gradecalculator.ai) - Free / Calculate Grade Percentage & Average / Determine Required Final Grade / Supports Multiple Grading Systems
+-   [AI Homework Helper](https://aipictureanswer.com) - 3 free solves daily / AI Picture Answer / Step-by-step solutions - $10 for 1000 credits
+-   [QWiser](https://qwiser.io) - Analyze up to 5 courses, 10 questions per exam free / Transform content into engaging study materials / Personalized AI study tools - From $14.95/month
+-   [Cogent](https://joincogent.com) - 3 AI flashcards, 2 AI Exams, 5 file chats free per month / AI Flashcards / AI Exams / File Chat - From $2.99/month
+-   [StudyFox](https://studyfox.pro) - 3-day free trial / Quiz Solver / Flashcards / Mind Mapping - From $3.99/week
+
+### AI Course
+
+-   [CodeSignal](https://codesignal.com) - Free tier available / AI-powered learning and hiring solutions / Skills assessments / AI Tutoring with Cosmo - From $24.99/month
+-   [The AI Exchange](https://theaiexchange.com) - Free weekly newsletter / Expert-led courses / Private AI community / Professional AI matchmaking
+-   [Brilliant](https://brilliant.org) - Intro lessons free / Interactive problem solving / Bite-sized lessons - From SGD 17.25/month
+-   [OpenAI Academy](https://academy.openai.com) - Free enrollment / AI knowledge & skills / Expert & Community-Led Learning / Connections & Collaboration
+-   [Up Learn](https://uplearn.co.uk) - Free 3-day trial / AI & cognitive science for A\*/A A Level grades / 97% A\*-A attainment rate / Money-back guarantee - From £64.99 (Access until July 2025)
+-   [Lecturio](https://www.lecturio.com) - Try now for free / Online medical courses / Question banks / Smart quizzes
+-   [LANDR](https://www.landr.com) - Free account / AI mastering / Music distribution / Pro-grade plugins & samples - From $8.25/month
+-   [Achievable](https://achievable.me) - Get started for free / Personalized learning / Flexible studying / Guaranteed success
+-   [Atheros Learning](https://atheros.ai) - Learn from industry experts / Video lectures & personalized mentoring / Lifetime access - From $29.00 (E-book)
+-   [Panda Video](https://pandavideo.com.br) - 30-day free trial / Secure Video Hosting / AI-powered content creation / Sales & Engagement tools - From R$87.90/month
+-   [Smartick](https://smartick.es) - Free 7 days / Personalized online method / Math, reading, coding, critical thinking programs / Daily 15-min sessions - From $79/month/program
+-   [NexLev](https://nexlev.io) - AI-Powered YouTube Niche Finder / Faceless Channel Tools - From €9/month (billed yearly)
+-   [DataCamp](https://datacamp.com) - Every first chapter free / Interactive video tutorials & coding challenges / Hands-on learning in browser - From $14/month
+-   [Learn Prompting](https://learnprompting.org) - Access to free courses / Master AI and prompt engineering / Get Certified in AI - From $21/month
+-   [AcademyOcean](https://academyocean.com/ai-course-creator) - 3 free attempts / AI-Powered Course Creation / Interactive Online Courses / No Sign-Up
+-   [Teachfloor](https://www.teachfloor.com) - Social learning platform / Collaborative learning experiences / White Label & Customization
+-   [Mini Course Generator](https://minicoursegenerator.com) - 3 mini-courses free / AI Course Creator / Easy Sharing & Embedding / No Learner Login Required - From $49/month
+-   [Heights Platform](https://www.heightsplatform.com) - 30-day free trial / AI-powered course creation / Community building / Zero transaction fees - From $29/month
+-   [Weet](https://weet.co) - Up to 10 weets free / Record AI-powered video tutorials / Create interactive training videos - From $34/creator/month
+-   [Mindsmith](https://www.mindsmith.ai) - 450 AI credits at signup / AI-assisted design tools / Convert documents to eLearning / Real-time collaboration - From $39/month
+-   [Periplus](https://periplus.app) - 10 documents total free / AI-generated courses & documents / AI flashcards for memory - From $14/month
+-   [30DaysOfAI](https://www.100school.com/ai-challenge) - Free AI Audit / Become an AI-First professional / Fast-track your team's AI skills - From $5k for 30 participants
+-   [100DaysOfNoCode](https://www.100school.com/atomic-challenges/14daysofai) - Free 14-day AI learning program / Daily 30-minute bitesized lessons / Practical AI skills
+-   [Augmental](https://augmental.education) - / Personalized learning / In-depth real-time analytics / AI-powered tools -
+-   [The Full Stack](https://fullstackdeeplearning.com) - Free courses / Building AI-powered products / LLM Bootcamp
+-   [Easygenerator](https://www.easygenerator.com) - 14-day trial / EasyAI / PowerPoint import / Auto-translation - From $116/month
+-   [StudyRaid](https://app.studyraid.com) - AI-generated courses / Interactive AI teacher
+-   [Build Club](https://www.buildclub.ai) - 100% Free / Get paid to build AI projects / Learn & get certified in AI / Build with a community of AI experts
+-   [Nolej](https://nolej.io) - Get started for free / Transform content into diverse learning activities / Export to any platform / Secure and accurate content generation
+-   [Eurekaa](https://eurekaa.io) - Validate and create online courses / AI-powered content creation / Market research and idea validation - From $7.99/month
+-   [SAT Sphere](https://www.satsphere.com) - 1 course module free / Comprehensive lessons & practice tests / AI-powered personalized study plan / SAT AI companion & Power-ups - From $10/month
+-   [Unschooler](https://unschooler.me) - 30-day free trial / AI-powered personalized video courses / AI Assistant for sales teams
+-   [Instancy](https://instancy.com) - Free Trial Available / AI-powered learning platform / blended learning content creation / performance support
+-   [Wonda VR](https://wondavr.com) - Free 1 WorkSpace with up to 3 Experiences, Max 5 messages / session / AI-powered Learning Simulations / Immersive Learning Journeys
+-   [eSkilled AI Course Creator](https://aicoursecreator.eskilled.io) - Generates course outlines & lesson plans / Builds interactive online courses / SCORM e-Learning Authoring
+-   [We Are Learning](https://www.wearelearning.io) - 3D animated videos / Interactive simulations - From 89 EUR/mo
+-   [Elements of AI](https://elementsofai.de) - Free online course / Learn AI basics / No math or programming required
+-   [KwaKwa](https://piggy.to/magic) - Free with no upfront costs / Turn expertise into income / Mobile-first content creation / Automated payments - Free
+-   [StudyWithGPT](https://www.studywithgpt.com) - Tailored tutorials & lesson plans / Breaks down every knowledge point / 24/7 AI full-stack tutor
+-   [ai LaMo](https://www.ailamo.com) - Free / Bite-sized lessons / Practical AI skills / Game-like features
+-   [RapiLearn AI](https://rapilearn.com) - Free 2 courses & core learning tools / AI-Powered Course Creation / AI Study Assistant - From $9/month (600 credits)
+-   [100 Vibe Coding](https://www.100vibecoding.com) - 10 Free Challenges / Build projects fast with AI / 100 vibe coding challenges -
+-   [Mexty](https://mexty.ai) - 10 credits (one time) / AI-powered SCORM-compliant authoring tool / Build interactive courses and quizzes - From €9/month
+-   [WisdomPlan](https://wisdomplan.ai) - AI-powered personalized learning plans / AI Tutor / Supportive learning community - From $7.99/month
+-   [Review My eLearning](https://www.reviewmyelearning.com) - Free Month / AI-Powered Course Analysis / Seamless Integration with Major Authoring Tools
+-   [Learn Earth](https://www.learn.earth) - One week free Premium / AI-First Adaptive Learning / Personalized Learning Paths / Interactive Practice Sessions - From $6/month
+-   [QuikAuthor](https://www.quikauthor.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3309)- Freemium + From $69/month / Build impactful e-learning 10x faster with AI.
+-   [SmartLearn](https://smartlearnapp.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3498)- Freemium + From $3.99/month / Turn any topic into a visual roadmap.
+-   [Learn Place Verified Experience](https://learnplace.ai/ai-internships?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2886)- Freemium + From $10/month / AI-Verified Experience
+
+### AI Knowledge Base
+
+-   [Grokipedia](https://grokipedia.com) - AI-generated articles / AI fact-checked content
+-   [The AI Exchange](https://theaiexchange.com) - Free weekly newsletter / Expert-led courses / Private AI community / Professional AI matchmaking
+-   [Notion](https://www.notion.so) - Unlimited for individuals / AI assistant / All-in-one workspace for wiki, docs & projects - From $10/month
+-   [Crisp](https://crisp.chat) - Free plan with 2 seats / Omnichannel Team Inbox / AI Chatbot - From $45/month
+-   [Helpjuice](https://helpjuice.com) - Free 14 Day Trial / AI-Powered Knowledge Base / Self-Service Portal / No Credit Card Required - From $200/mo for 16 Users
+-   [Slite](https://www.slite.com) - 14-day free trial / AI-powered knowledge base / AI answers & Editor assistant - From $8/member/month
+-   [Recall](https://www.getrecall.ai) - 10 free content summaries & chats / Summarize content / Organize into a knowledge graph / Enhance memory - From $7/month
+-   [Document360](https://document360.com) - 14-Day Free Trial / AI-Powered Knowledge Base / Public + Private Knowledge Base / Multilingual Content Support - Starting from $149/month
+-   [Elephas](https://elephas.app) - AI-Powered Knowledge Assistant / Personal ChatGPT from your own data / Works across applications - From $8.99/month
+-   [Cody AI](https://www.meetcody.ai) - 100 credits & 100 documents free / Train AI on your business / Instant answers to business questions - From $29/mo
+-   [Tettra](https://tettra.com) - Free 30-day trial / AI-powered knowledge base / Instant answers in Slack with AI bot - From $4/user/month (billed annually, min 10 users)
+-   [MindsDB](https://mindsdb.com) - Apply AI models to database text data via SQL / Unify petabyte-scale enterprise data for real-time AI - Free
+-   [Briefy](https://briefy.ai) - 30 credits / month free / Structured, easy-to-digest summaries / Summarize various content types / Knowledge Base for management - From $7.49/month
+-   [PixieBrix](https://www.pixiebrix.com) - Free 100 Premium API credits, 5,000 PixieBrix database records / AI productivity tools / Web app customization - From $5/month per user
+-   [HelpLook](https://www.helplook.com) - Free 80 AI Credits/Mo / AI-Powered Knowledge Base & Help Desk Software / Create content without coding - From $19/month
+-   [Myreader AI](https://myreader.ai) - 5 queries per day / AI reads books, documents, papers / Chat with a book or entire library - From $4.5/month
+-   [TextCortex](https://textcortex.com) - 100 free creations + 20 daily recurring creations / Automate everyday tasks & workflows with AI / Search information and find answers from your data
+-   [Day.ai](https://day.ai) - 30-day Free Trial / Meeting Assistant / CRM / Knowledge Base - From $0 per user, per month
+-   [Petal](https://www.petal.org) - 400 AI credits / Chat with documents / Summarize, translate, explain / Collaborate & share documents - From $4.25/month
+-   [Flot.ai](https://flot.ai) - Free 3 credits per day / AI Copilot for All Apps and Websites / Write, Read, Memorize with AI - From $15/month
+-   [Intercom](https://intercom.help) - Free 14-day trial / AI-powered customer service / Fin AI Agent / Integrated Knowledge Base - From $29/mo
+-   [PubCompare](https://pubcompare.ai) - Free 1 user / AI-Powered Protocol Comparator / Largest database of trusted experimental protocols - From 19.95 €/month
+-   [Documentation.AI](https://documentation.ai) - 1 editor seat, 50 AI credits free / AI-optimized documentation / AI agent / No credit card needed - From $0/forever
+-   [Albus AI](https://albus.org) - 10 files free / Automated file organization / Semantic search across diverse file types - From ¥150/month
+-   [Gleap](https://gleap.io) - 14-day free trial / AI-powered customer support / visual bug reporting / public roadmaps
+-   [Help.center](https://help.center) - Free 50 AI answers/month / AI-powered Knowledge Base & Chatbot / Reduce customer support tickets - From $19 per seat/month
+-   [Tettra](https://tettra.co) - Free 30-day trial / AI Internal Knowledge Base / Instant AI Answers - From $4/user/month (min 10 users)
+-   [Zilliz](https://zilliz.com) - Free 5 GB storage, 2.5M vCUs per month / Fully managed Milvus / Billion-scale vector search - From $0.3/GB per month
+-   [Elium](https://elium.com) - 14-day free trial / AI-powered Knowledge Management / Verified & reliable content - From 15€/month per user
+-   [The Drive AI](https://thedrive.ai) - 5 queries per day / Manage files efficiently / Ask questions to files / Write new content - From $9.99/month
+-   [Haxiom](https://haxiom.io) - Up to 3 team members free / AI-powered collaborative Markdown workspace / Semantic AI to organize docs / Real-time Markdown collaboration - From $4/user/month
+-   [Morphik](https://www.morphik.ai) - 200 pages, 3 Research-Agent calls/mo free / AI-native knowledge base for complex data / Visual-first Retrieval & Deep Research - From $35/month
+-   [FileGPT](https://filegpt.app) - Free access (approx. 200 questions/month) / Chat with multiple file types / OCR for scanned docs / Cross-source querying - From $18/month
+-   [Discute](https://www.discute.co) - 5 chats maximum / Chat with PDF, DOCX, TXT documents / Chat with CSV files - From €9.99/month
+-   [Perfect Wiki](https://perfectwiki.com) - 14 Days Free Trial / AI-powered help center in Microsoft Teams / AI Knowledge Bot answers questions / AI-generated weekly reports - From $390 annually
+-   [HelloDay.ai](https://www.helloday.ai) - Free Trial / AI Orientation Assistant / Multilingual Experiences - From $9.9/Month
+-   [Synced.so](https://synced.so) - 14-day free trial / Transform Notion docs into Help Center / Embeddable Help Center & Widget - From $39/month
+-   [CrawlChat](https://crawlchat.app) - 100 page scrapes, 40 message credits free / AI Chatbot for documentation / Support Ticket System - From $45/month
+-   [nele.ai](https://nele.ai) - 1000 credits for 7 days / Secure AI for companies / Centralized prompt management / Company knowledge databases - From €10/month
+-   [SigmaNote](https://sigmanote.app) - 20 files/links, 15 chats free / Turn files/links into editable notes / Search and chat with notes - From $4.99/month
+-   [SophistAI](https://sophistai.app) - Turns syllabus into interactive knowledge map / Instant Topic Explanations - From $0/month
+-   [GitBook](https://gitbook.com) - Free plan (one user) / AI-powered search and insights / Effortlessly create, surface and improve documentation / Collaborate and build in a git-based workflow - From $65/month
+-   [Ncurator](https://ncurator.com) - Personal AI assistant for knowledge management / Build knowledge base from various sources / Local data storage for security / No Sign-Up
+-   [Wois](https://wois.io) - Ask experts via AI / Connect 1:1 with real experts
+-   [eesel AI](https://eesel.ai) - 50 replies/mo 50 indexed pages free / ChatGPT over company knowledge / Instantly answer any question - From $49/month (500 interactions/mo)
+-   [Supaclips](https://supaclip.pro) - Summarize, transcripts, timestamps & AI assistant for your videos - From $17
+-   [China University Admissions Assistance](https://www.crosslineedu.com/pages/csca-ai-assistant?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3153)- 100% Free / Instant access to Chinese university admissions data.
+-   [FindTube.ai](https://findtube.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3210)- 100% Free / AI-powered YouTube search for learners.
+
+### AI Flashcard Maker
+
+-   [Knowt](https://knowt.com) - Free / AI Study Tools for Notes, Flashcards & Summaries / Unlimited Free Study Modes
+-   [Algor Education](https://algoreducation.com) - 30 free credits / AI-powered concept & mind maps / Flashcards, quizzes & summaries - From $5.99/month
+-   [Jungle AI](https://jungleai.com) - 10 generations per month free / AI flashcards & multiple choice questions / Generate from lecture slides, YouTube videos, and more - From $4/month (billed yearly)
+-   [Thea](https://www.theastudy.com) - Free access until January 1st, 2026 / AI Study Tools / Unlimited Questions / Mobile Apps
+-   [Mindgrasp AI](https://mindgrasp.ai) - 4 day free trial / AI powered notes / flashcards & quizzes / AI tutor - From $9.99/month
+-   [Flashka](https://www.flashka.ai) - Free / AI Flashcards / AI-generated Quizzes / Spaced Repetition
+-   [AnkiDecks](https://anki-decks.com) - 4 deck generations per month / Generate Anki Flashcards from any File or Text / Automatic Image Occlusion - From $5/month
+-   [OmniSets](https://www.omnisets.com) - Free / AI-powered flashcard generation / AI-based learning & spaced repetition / Multiple study modes & AI assistance
+-   [Eduzen](https://eduzen.ai) - Free 3 uses per feature monthly / Flashcards / Quizzes / Mind Maps / No Sign-Up - From $7.00/month
+-   [LanguaTalk](https://languatalk.com) - Limited free usage / Human-like AI conversation / Instant feedback on mistakes - From 29.90 SGD/month
+-   [Studyflash](https://studyflash.ai) - Free for the first deck / AI creates scientifically optimized flashcards / Efficient study with best learning algorithms - From 5€/month (yearly subscription)
+-   [Scholarcy](https://www.scholarcy.com) - 1 summary per day / Summarize anything / Understand complex research - From SGD 13.99/month
+-   [LoveStudy.ai](https://lovestudy.ai) - 30 Free Credits / AI Flashcards / Quiz & Notes / No Login required for 15 credits - From $4.9/month
+-   [Quizgecko](https://quizgecko.com) - 1 AI Lesson monthly / AI Quiz Maker / AI Flashcard Generator - From $16/month
+-   [Studyable](https://studyable.app) - Free / Instant step-by-step homework help / AI tutors for math & images / Instant essay feedback
+-   [Memrizz](https://www.memrizz.com) - AI Flashcard Maker / AI Patient Simulator / AI Medical Scribe
+-   [dende](https://dende.ai) - AI Quiz Maker / AI Flashcards Maker / AI Study Guide
+-   [Study Fetch](https://studyfetch.com) - AI Flashcards / AI Quizzes / AI Tutor
+-   [Answer.AI](https://answerai.pro) - Free 3 daily requests / AI Tutor & Counselor / Question Scanner - From $8.33/month
+-   [Studygenie](https://studygenie.io) - Free 3 rounds/mo / AI Quizzes & Flashcards / AI answer explanations - From $13.99/mo
+-   [Limbiks](https://limbiks.com) - 10 Uploads / month, 5 pages/slides per upload free / AI Flashcard Generator / Powerful study tools - From $5/month
+-   [Periplus](https://periplus.app) - 10 documents total free / AI-generated courses & documents / AI flashcards for memory - From $14/month
+-   [QuizRise](https://www.quizrise.com) - Free 3 quizzes per month / AI-Powered Quiz Generation / Flashcard Creation / Multiple question types - From $7.99/month
+-   [KardsAI](https://www.kardsai.app) - Free 3 pages of PDF or 2000 words / Generate flashcards from PDF, Text, or Prompt / Spaced Repetition Algorithm
+-   [TurboLearn AI](https://www.turbolearn.ai) - Free / Instant notes / Interactive flashcards / Personalized quizzes
+-   [Language Atlas](https://languageatlas.com) - Free A0/A1 course and lessons / AI-powered language learning / Structured CEFR-based courses / Adaptive Flashcards with Spaced Repetition
+-   [Thetawave AI](https://thetawave.ai) - Converts audio, text, files, and YouTube videos into formatted notes / Generates quizzes, flashcards, and mindmaps
+-   [Keepmind](https://keepmind.ai) - Free version: up to 10 decks, 1 quiz per deck, 5M per file upload / AI-powered flashcards, mind maps & quizzes / Spaced repetition - From $10/month
+-   [StudyRaid](https://app.studyraid.com) - AI-generated courses / Interactive AI teacher
+-   [Study Potion AI](https://studypotion.ai) - Generates personalized flashcards, notes, quizzes / Chat with Documents
+-   [NoteKnight](https://www.noteknight.com) - Modern flashcards / AI-powered study tools / AutoScribe AI flashcard generation - From $1.99/month
+-   [TurinQ.com](https://turinq.com) - 14-day free trial with 10 AI Credits / AI Question and Quiz Maker / Generate questions from various materials / No Sign-Up required - From $4.20/month
+-   [Slay School](https://slayschool.com) - Free / Turn Your Notes Into Flashcards, Quizzes & Essays – Instantly! / Record lectures, turn your pdfs and videos into multiple choice questions
+-   [Studydrive](https://www.studydrive.net) - Access study documents / AI Flashcards / Study Lists
+-   [Memozora](https://memozora.com) - Free 15 quizzes per day / Spaced Repetition / Multi-language dictionary & AI Text-to-speech - From $3/month
+-   [NoteX](https://notexapp.com) - Free 1 AI Transcription per day / AI Note Taking / Smart Study Material Generation - From $12.99/month
+-   [Memo AI](https://pdf2-anki.com) - 2 Deep Dives & 20 mins Voice Tutor per month / AI flashcard generator / AI study assistant - From $7.17/month
+-   [Duetoday](https://www.duetoday.ai) - Free 3 Notes / Month / AI Lecture Notetaker / Interactive Quizzes / Flashcards - From $15/month
+-   [Snipo](https://snipo.io) - Timestamped Notes to Notion / AI Flashcards maker / Screenshots
+-   [ExamUp](https://www.examup.com) - Free / Flashcards AI / Quizzes AI / Notes AI
+-   [AIFlash.Cards](https://aiflash.cards) - 10 generations free (then 1/hour) / Create personalized flashcards from any text or PDF / Spaced Repetition - From $6.99/month
+-   [Cramd](https://trycramd.com) - AI-powered flashcards / Spaced repetition - From $6.99/month
+-   [Personalized Vocab Flashcards](https://vocabgenerator.com) - Free / Create flashcards from images, subtitles, topics, PDFs / Automated translation and flashcard generation / No Sign Up required
+-   [Knowt](https://knowt.io) - Unlimited free study modes & flashcards / AI Study Tools / Notes & Flashcards - From $4.99/month
+-   [BloomNote](https://www.bloomnote.me) - Upload up to 2 sources, 5 AI chat messages free / Notes, flashcards, quizzes, podcasts / Summarizes resources / AI chat - From $12/month
+-   [Jungle](https://wisdolia.com) - Free 10 times per month / Generate AI flashcards & multiple choice questions / Export cards to Anki - From $4/month
+-   [BrainDeck](https://apps.apple.com/app/id6476791990) - AI-powered flashcard creation / Gamified study sessions / Smart scheduling - From $2.99/week
+
+### AI Language Learning
+
+-   [ELSA Speak](https://elsaspeak.com) - 3 free scenarios / Improve English pronunciation / AI-powered English speaking coach / Real-world conversations - From $13.33/month
+-   [PTE APEUni](https://apeuni.com) - Free / AI Scorings / PTE Study Tools
+-   [AlfaPTE](https://alfapte.com) - 2 free mock tests & 5 daily AI score checks / AI Scoring / Real Exam Simulation / Comprehensive Mock Tests - From $10.95/10 days
+-   [BoldVoice](https://www.boldvoice.com) - 1 week free trial / Hollywood accent coaches / Instant A.I. feedback
+-   [Pronounce AI](https://www.getpronounce.com) - Free plan / AI Speech Checker / AI Speaking Partners / AI Meeting Transcription - From $19.99/m
+-   [Gurully](https://www.gurully.com) - One Free Mock Test / AI-Scored Mock Tests / Practice for PTE, IELTS, DUOLINGO, CELPIP - From USD 10 for 7 Days
+-   [Talkpal](https://talkpal.ai) - 14 days free trial / Chat about unlimited topics / Instant feedback / Realistic voice messages - From $6.25/month
+-   [AnkiDecks](https://anki-decks.com) - 4 deck generations per month / Generate Anki Flashcards from any File or Text / Automatic Image Occlusion - From $5/month
+-   [Tarteel AI](https://tarteel.ai) - Free plan / AI-powered Quran recitation feedback / Memorization tools - From $7.50/month
+-   [Hallo AI](https://hallo.ai) - Free trial available / AI-driven language assessments / 60+ languages - From $19 per test
+-   [Fluently](https://getfluently.app) - 4-minute call for free English score / Personalized feedback on real speech / AI tutor for speaking practice / Real-life call feedback
+-   [LanguaTalk](https://languatalk.com) - Limited free usage / Human-like AI conversation / Instant feedback on mistakes - From 29.90 SGD/month
+-   [SmallTalk2Me](https://smalltalk2.me) - Free Trial / AI-powered English Speaking & Writing Assessment / Accurate CEFR Level & Detailed Reports
+-   [Trancy](https://www.trancy.org) - Free 50 PDF pages/month / Personalized study materials from YouTube/Netflix / Build vocabulary & grammar / Improve listening & speaking - From $3.49/month
+-   [SpeakPal](https://www.speakpal.ai) - Limited chat & learning / Interactive chat with AI language tutor / Learn 30+ languages / No Sign-Up Required - From $9.80/month
+-   [Twee](https://twee.com) - 5 trial runs / Generate lesson materials / AI assessment / - From $6.50/month
+-   [Deep English](https://deepenglish.com) - Free 14-Day Trial / Story-Based Lessons / Live Speaking Practice / AI Conversation Partner - From $18/month
+-   [Gliglish](https://gliglish.com) - Free 10 minutes/day, 50 messages / Learn languages by speaking with AI / Improve speaking & listening with AI tutor / No signup required - From $29/month
+-   [Talkio AI](https://talkio.ai) - 7-day free trial / AI-powered oral language training / 400+ unique AI tutors / Pronunciation & instant feedback - From $9/month
+-   [DET Practice](https://www.detpractice.com) - 300 Practice Questions & 50 Daily AI Tutor requests / Largest Test Bank (18,000+ Questions) / AI Correction Service - From $7.9/month
+-   [Justlearn](https://www.justlearn.com) - 24/7 AI Tutors / In-depth Language Learning Articles
+-   [Language Atlas](https://languageatlas.com) - Free A0/A1 course and lessons / AI-powered language learning / Structured CEFR-based courses / Adaptive Flashcards with Spaced Repetition
+-   [Speak](https://www.usespeak.com) - 7 day free trial / Real conversational practice with AI / Instant feedback / Personalized curriculum
+-   [Think in Italian](https://www.thinkinitalian.com/ai-tutor) - 30 free courses / 100 chats with AI tutor / Speak faster without translating in your mind / Unlimited chats with AI tutor / No credit card needed - From $9.80/mo
+-   [Think in Italian](https://www.thinkinitalian.com) - 7-day free trial / Structured audio lessons / Quick reads / AI tutor conversations - From $9.80/month
+-   [Lufe AI Translator](https://www.lufe.ai) - Unlimited Machine Translation / Bilingual Web Reading / Image Translation / PDF Translation - From $9.99/month
+-   [LingoLeap](https://lingoleap.ai) - 500 credit free / AI-Powered Instant Feedback / 1,000+ practice questions / Personalized AI Evaluation - From $20/month
+-   [Teacher AI](https://yourteacher.ai) - 7-day FREE TRIAL / Unlimited Foreign Language Conversation Practice / Personalized speaking practice - From $12.25/month
+-   [Langotalk](https://www.langotalk.org) - Learn Languages 6x Faster with AI Tutors / Practice speaking with AI tutors / AI-Powered Personalization with smart feedback
+-   [LingoLooper](https://lingolooper.com) - 7-day free trial / Immersive conversations with AI avatars in a 3D world / Personalized feedback on vocabulary, grammar, and style
+-   [buddy.ai](https://buddy.ai) - 7-day free trial / AI teacher for kids / Voice-based learning games / Game-based lessons - From $4.17/month
+-   [lingly.ai](https://lingly.ai) - Free pilot / Language Screening / Conversation Helper / Language Training
+-   [Toefl Practice](https://toeflpractice.io) - Free Practice Test / 50+ Online Tests / Instant AI-Powered Feedback / Realistic Mock Tests
+-   [Avatalks](https://avatalks.com) - AI-driven 3D avatar teachers / Structured Learn & Chat Sections - From $9.99/month
+-   [Ello](https://www.ello.com) - 7-day free trial / AI-powered reading coach / Proprietary speech recognition / Decodable e-books - From $14.99/month
+-   [Language Reactor](https://www.languagereactor.com) - Learn from native materials (Netflix, YouTube) / Bilingual subtitles / AI Dictionary - From SGD 7.88/month
+-   [Lingotrack](https://www.lingotrack.com) - Automated progress tracking / Crowdsourced media database / Connect with learners - From $3/month
+-   [WorkbookPDF](https://workbookpdf.com) - / Personalized AI-powered workbooks / Practice any language with your favorite topics / - From $19 (7-Day Pass)
+-   [Lingo Champion](https://lingochampion.com) - Free 50 total word lookups & 10 total AI content / Learn from native content / AI explanations & chat - From $5.99/month
+-   [Univerbal](https://www.univerbal.app) - Natural unscripted conversations with AI Tutor / Instant feedback & non-judgmental practice
+-   [IELTS CHAMP](https://ieltschamp.com) - Free practices / AI mock exams / Real-time grading and tailored feedback - From $16/m
+-   [Talkface](https://talkface.ai) - Immersive English Speaking Courses / Free AI English Assistant for Work & Study / Expert IELTS, TOEIC, and TOEFL Mock Tests
+-   [FLOW Speak](https://www.flowspeak.io) - AI-powered feedback / Unlimited repetition - From $7.50/month
+-   [BiRead](https://www.biread.com) - Translate any website into bilingual / AI-powered translation - From $2.9 USD (one-time payment)
+-   [InterSub](https://intersub.cc) - 14-day Premium trial, 15 word lookups/month (or unlimited with ads) / Interactive Dual Subtitles / Instant Translation & Wordbook - From $1.5
+-   [Jolii AI](https://www.jolii.ai) - 7 Days FREE Trial / AI-powered personalization / Learn with Netflix & YouTube / -
+-   [EasyDictation.app](https://easydictation.app) - Free (5 speaking sentences/day) / 10x more effective English learning / Learn from any YouTube video without rewinding / AI-powered speaking practice / No Login - From $6 Lifetime Use
+-   [BiRead](https://www.biread.com/home) - Webpage Translation / Language Learning - From $2.9 USD
+-   [NeonLingo](https://www.neonlingo.com) - Free 200 words & 200 interpretations/month / Automatic word highlighting / AI-powered contextual translation - From $5.00/month
+-   [Vocabrain](https://vocabrain.com) - Free account / AI-Powered English Practice / AI Chat / Sentence Building Practice - From ₺100/month
+-   [SonicCaption](https://soniccaption.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3300)- Freemium + From $10/month, No Refunds / Real-time bilingual subtitles on any tab.
+
+### AI Teachers
+
+-   [MagicSchool](https://www.magicschool.ai) - Free forever plan / 80+ AI teacher tools / saves up to 10 hours per week - From $99.96/year
+-   [CoGrader](https://cograder.com) - 100 student submissions per month / AI Essay Grader / Save 80% of time grading - From $15/month (billed annually)
+-   [YouLearn AI](https://youlearn.ai) - Free 10 uploads/day, 5 AI chats/day / AI tutor for PDFs, videos & lectures / Generates notes, quizzes, flashcards & exams / Interactive AI chat & voice mode - From S$16/month (billed annually)
+-   [ReadTheory](https://readtheory.org) - Free Basic plan / Adaptive reading comprehension / Personalized learning / Automatic grading - From $14/month
+-   [RevisionDojo](https://www.revisiondojo.com) - Practice questions, study notes & flashcards / AI feedback & explanations / Mock exam generator
+-   [Talkpal](https://talkpal.ai) - 14 days free trial / Chat about unlimited topics / Instant feedback / Realistic voice messages - From $6.25/month
+-   [To Teach](https://www.to-teach.ai) - Free 5 Exercises, 3 Worksheets, 2 Lesson Plans/month / Create personalized learning experiences / Plan lessons, exercises, and worksheets - From $6/month
+-   [LanguaTalk](https://languatalk.com) - Limited free usage / Human-like AI conversation / Instant feedback on mistakes - From 29.90 SGD/month
+-   [Synthesis Tutor](https://synthesis.com) - 7-day free trial / Superhuman AI math tutor / Adapts to your child's needs / Builds deep understanding - From $8.25/mo for up to 7 kids
+-   [Redmenta](https://redmenta.com) - Create interactive worksheets / Assess student assignments / Adjust activities
+-   [SchoolAI](https://schoolai.com) - 75 student Space sessions / day / Personalized AI experiences for students / Real-time insights for teachers / Student Data Privacy - $1,270 / Year
+-   [SpeakPal](https://www.speakpal.ai) - Limited chat & learning / Interactive chat with AI language tutor / Learn 30+ languages / No Sign-Up Required - From $9.80/month
+-   [Curipod](https://curipod.com) - Unlimited lessons / Interactive lessons / AI lesson generation
+-   [Maths-Whizz](https://whizz.com) - Free Trial / AI-enabled virtual math tutor / individualized learning journey / improves math age by 18 months
+-   [Twee](https://twee.com) - 5 trial runs / Generate lesson materials / AI assessment / - From $6.50/month
+-   [Asksia](https://www.asksia.ai) - Personal AI Tutor & Homework Helper / Lecture Transcription & Note Organization / Smart Highlights & Summaries
+-   [Khanmigo](https://khanmigo.ai) - Free for teachers / AI-powered teaching assistant & tutor / personalized tutoring & homework help
+-   [Talkio AI](https://talkio.ai) - 7-day free trial / AI-powered oral language training / 400+ unique AI tutors / Pronunciation & instant feedback - From $9/month
+-   [Aidemia](https://aidemia.co) - 7-day trial / Unique educational content & ideas / Powered by ChatGPT & 30+ AI tools - From $19.99/month
+-   [Tutor AI](https://www.tutorai.me) - Free plan available / Create a custom learning pathway / Unlimited chat interactions - From $16.00/Month
+-   [LearnQ.ai](https://learnq.ai) - 10 Ask Mia - AI Tutor Chats, 5 Topic-wise Tests, 1 Digital SAT Diagnostic Test free / AI-powered Digital SAT Prep / Personalized Learning / AI Tutor Assistance - From $59/year
+-   [Student AI](https://studentai.app) - 7 Day Free Trial / Essay Writing / AI Image Generator / AI Teacher
+-   [Learnt.ai](https://learnt.ai) - Free trial / AI tools for lesson plans, course materials, and assessments / Over 110 Tools & AI Sidekicks
+-   [Teacher AI](https://yourteacher.ai) - 7-day FREE TRIAL / Unlimited Foreign Language Conversation Practice / Personalized speaking practice - From $12.25/month
+-   [Langotalk](https://www.langotalk.org) - Learn Languages 6x Faster with AI Tutors / Practice speaking with AI tutors / AI-Powered Personalization with smart feedback
+-   [Learnrithm AI](https://learnrithm.com) - 14 days free trial / AI-powered teaching / Interactive Quizzes / Personalized Learning Path - From ~$30/month
+-   [AI Teacha](https://aiteacha.com) - Lesson Plan Generator / Assessment Generator / Curriculum Design - From $5/month
+-   [buddy.ai](https://buddy.ai) - 7-day free trial / AI teacher for kids / Voice-based learning games / Game-based lessons - From $4.17/month
+-   [Super Teacher](https://getsuperteacher.com) - Try it for free / Unlimited tutoring / Conversational & Adaptive - $10/month
+-   [Avatalks](https://avatalks.com) - AI-driven 3D avatar teachers / Structured Learn & Chat Sections - From $9.99/month
+-   [TeacherDashboard.ai](https://teacherdashboard.ai) - 3-day free trial / Rubric Generator / Report Card Comments - From $4.99/month
+-   [HelpMeTeach](https://helpmeteach.ai) - Free 5 generations / Lesson Plans / Assessments / Reports - From $11.95/month
+-   [Lingo Champion](https://lingochampion.com) - Free 50 total word lookups & 10 total AI content / Learn from native content / AI explanations & chat - From $5.99/month
+-   [MyThinkingCap](https://www.mythinkingcap.ai) - Limited access / Create images / Write stories / Learn to code - From £2 Monthly
+-   [Yeti Confetti Kids](https://www.yeticonfettikids.com) - FREE for Classrooms / AI enabled, dynamically generated learning experience / Unique to your child’s English, Math and Social Emotional skills - From $6.66/month
+-   [Learn Place AI-Powered Personalized Learning Assistant](https://learnplace.ai) - Free plan / 30-day free trial / Personalized Learning / Custom Syllabus - From $9/month
+-   [Tutorly](https://tutorly.us) - 10 messages/day / Personalized AI Tutor / Upload notes & generate personalized quiz questions - From $2/month
+-   [Vertech Academy](https://www.vertechacademy.ca) - Free demo / AI prompts for students and teachers / Understand hard subjects / Create lessons and quizzes - From $49 CAD
+-   [Humy.ai](https://humy.ai) - / Interactive lessons with AI historical figures / AI-generated & graded assignments / No login required for students
+-   [ZenseAI](https://www.zenseai.io) - Free 20 points / AI platform for schools in HK / Top AI models (ChatGPT-4o, Claude 3.5 Sonnet) with RAG - From $99/month per teacher
+-   [Essay Grader AI](https://essaygrader.ai) - 25 essays/mo free / Rubric-based AI essay grader / Detailed feedback reports - From $6.99/mo
+-   [BrimInk](https://brimink.com) - 5 mins daily AI-guided learning / AI-Powered Learning Platform / Real-Time Collaborative Learning / Context-Aware AI Tutor - From $19.99/month
+-   [Porosheets](https://porosheets.com) - Free trial with 5 AI generations / Worksheet Generation / Rubric Generation / Lesson Plan Generation
+-   [GradingPal](https://www.gradingpal.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3288)- Freemium + From $15/month, No Refunds / AI-powered grading for all K-12 subjects.
+
+### AI Video Translator
+
+-   [Vidnoz AI](https://www.vidnoz.com/video-translate.html?insur=en_md_toolify2) - Free 3 min/day / Video translation to 140+ languages / Natural voice clone & lip-sync - From $19.99/mo
+-   [Immersive Translate](https://immersivetranslate.com/en) - 3-Day Free Trial / Bilingual Webpage Translation / Video Subtitle and PDF Translation - From $7.00/Month
+-   [Clideo](https://clideo.com) - Video editor / Compress video / Add subtitles - From $6/month
+-   [Rask AI](https://www.rask.ai) - 1 free minute / AI Video Localization / Dubbing / Perfect Lip-Syncing / No Credit Card Required - From $50/month
+-   [RecCloud](https://reccloud.com) - Free 1 minute for AI features / AI Video Chat / AI Subtitles / AI Speech-to-Text - From $4/month
+-   [BlipCut AI Video Translator](https://videotranslator.blipcut.com) - AI Video Translation to 130+ languages / Voice Cloning / Lip Sync / No Sign Up required - From $25/month
+-   [VMEG](https://www.vmeg.ai/tools/video-translator) - 60 free credits / Translate & dub videos in 170+ languages / 7000+ AI Voices & Lip Sync - From $9.6 for 240 credits
+-   [Vozo](https://www.vozo.ai) - Free 30 points / Rewrite, Redub, Edit Voice, Lip-sync Videos / Translate Talking Videos - From $15/mo
+-   [PERSO.ai](https://perso.ai) - Free 7-day trial & 3 AI Studio credits / AI Dubbing / Voice Cloning & Lip Sync / Video Localization - From $29/month
+-   [vidby](https://vidby.com) - Free 3 minutes of dubbing / AI-powered video translation and dubbing / 70+ languages - From $9.95/month
+-   [Checksub](https://checksub.com) - Free 1 hour of video translation / Subtitle Generation / AI Dubbing / Video Translation - From $12/month
+-   [Transmonkey AI Translator Suite](https://www.transmonkey.ai) - Free trial credits / Document, Image, Video Translation / Preserves Original Layout / Dubbing & Subtitle Translation - From $8.3/month
+-   [Translate.Video](https://www.translate.video) - Video Translation 5 Mins/mo / Video Translation / AI Voice-over & Voice Cloning - From $29/month
+-   [Hey Watcher](https://heywatcher.com) - Free 60-Minute Trial / Convert YouTube videos to your language / Natural Voice Options - From $6.99/month
+-   [Sieve](https://www.sievedata.com) - Free $20 credit & 3 concurrent requests / Understand, edit, and search video / Dubbing - From $0/month + usage
+-   [YouTube Dubbing](https://www.youtube-dubbing.com) - Free to use / AI Dubbing & Translation / Multi-Platform & Site Support / Rich Voices & Advanced Features
+-   [Verbalate](https://verbalate.ai) - 1st minute free / Video translation / Voice clone / Multi-language audio tracks - From $9/month for 10 mins
+-   [VoiceCheap](https://www.voicecheap.ai) - 30k tokens free / AI-powered video dubbing & translation / auto-subtitles & lipsync - From 29€/month
+-   [AI Dubbing](https://aidubbing.io) - Free / AI Video Dubbing / Multilingual Support / Voice Cloning / No Sign-Up - Free
+-   [D-ID](https://www.d-id.com) - 14-day trial / Create AI-powered talking avatars / Translate videos into multiple languages - From $14.4/month
+-   [Targum Video](https://targum.video) - Super Fast AI Video Translation / Translate to 99+ languages / Download translated MP4s - From $6/month
+-   [SubtitlesDog](https://subtitlesdog.com) - 20,000 free translation credits / AI-powered subtitle translation / Unrivaled AI accuracy - From $9.9 for 200,000 characters
+-   [JimakuAI](https://jimaku.ai) - 30 minutes free monthly / English-Japanese subtitle translation / Context-aware translations / Netflix-standard subtitle timings - From $10/month
+-   [DubVid](https://dubvid.io) - 30 seconds free translation / AI Video Translation / Voice Cloning / Lip-Syncing
+-   [Translate This Video](https://www.translatethisvideo.com) - 5 minutes free / Video Translation & Dubbing / Voice Cloning - From $79/month
+-   [AI Video Translator](https://aivideotranslator.ai) - Free Tool / Translate Videos Instantly / Perfect Lip Sync / No Sign-Up
+-   [TranslateVideos.io](https://translatevideos.io) - 5-day free trial / Effortless Video Translation / Lip Sync / Voice Cloning - From $19.99/month
+-   [AI Subtitle Translator](https://aisubtitletranslator.com) - Free credits upon registration / AI Subtitle Translation in 50+ languages / Supports 7 subtitle formats & Batch Processing - From $10/month
+-   [Speax](https://speax.ai) - / AI-powered video dubbing / perfect lip-sync / multilingual accuracy / -
+-   [TransDub](https://transdub.xyz) - 1 minute free / Automatically translate and dub YouTube videos with AI / Translate to 29+ languages - From $49/month
+-   [Hello8](https://www.hello8.ai) - Free 3 minutes of translation credits / Translate videos into 29+ languages / Accurate AI video dubbing - From €49/month
+-   [Hello8](https://www.hellohola.app) - 3 minutes of translation credits / Accurate video translation / Lip-sync dubbing - From €49/month
+-   [Langswap](https://langswap.app) - / Translate video with your voice / Save original voice and intonation / Save time and money
+-   [RecCloud](https://reccloud.cn) - Free 2GB cloud storage, 5 files, 1-min AI feature trial / AI Speech-to-Text / AI Video Translation / AI Text-to-Speech - From ¥15/month
+-   [GhostCut](https://ghostcut.jollytoday.com) - Free 15-second video / AI Video Translation & Dubbing / Smart Text & Subtitle Removal - From $10 / 70 Credits
+-   [Braiv](https://www.braiv.co) - 15min hosted video & 300 AI Credits / Automate captions, translations & AI video dubbing / AI voice cloning - From $5/mo
+-   [Akkadu](https://akkadu.ai) - 10 minutes free / Real-time AI Subtitles in 90+ languages / Compatible with any platform - From $5 / hour
+-   [FalcoCut](https://falcocut.com) - 10 Credits monthly / Face Swap / Subtitle Translation / - From $33/month (2400 credits annually)
+-   [Deepshot](https://www.deepshot.ai) - 1000 Credits/month / Fully customizable dialogue generation & replacement / AI Lip-Sync for Video Translation & Correction
+-   [Crayo AI Video Clips Generator](https://crayoclips.com) - / AI Viral Video Clips / Video Downloader / AI Video Translation & Dubbing - From $19.99/month
+-   [Supertranslate](https://www.supertranslate.ai) - 1 hour processing free / Accurate English subtitles / 125+ languages supported - From $20/month
+
+### AI Math
+
+-   [Gauth](https://gauthmath.com) - AI Homework Helper / Real Live Tutors / Step-by-step Solutions
+-   [Solvely](https://solvely.ai) - Free to start / Take a picture and get step-by-step solutions / All subjects, all levels
+-   [Mathos AI](https://www.mathgptpro.com) - AI Math Solver / Step-by-step math solver / AI Tutor - From $4.99/week
+-   [Thetawise](https://thetawise.ai) - 50 free messages per day / AI Math Tutor & Step-by-Step solutions / Advanced solver & Practice sessions - From $15/month (billed annually)
+-   [Astra AI](https://astra-ai.co) - Step-by-step guidance / Photo scan for math problems / Covers 4 subjects - From 40€/month
+-   [Smartick](https://smartick.es) - Free 7 days / Personalized online method / Math, reading, coding, critical thinking programs / Daily 15-min sessions - From $79/month/program
+-   [Math AI](https://math-gpt.ai) - 150 credits/month / AI Math Solver / Step-by-step solutions / Photo Math Solver - From $3.9/month
+-   [Synthesis Tutor](https://synthesis.com) - 7-day free trial / Superhuman AI math tutor / Adapts to your child's needs / Builds deep understanding - From $8.25/mo for up to 7 kids
+-   [Mathful](https://www.mathful.com) - Photo Math Solver / Calculator with Steps - From $4.90/month
+-   [AI Math Solver](https://www.aimathsolve.com) - 20 free credits / AI Math Solver / Step-by-step explanations / Image Recognition - $1 for 50 credits
+-   [Maths-Whizz](https://whizz.com) - Free Trial / AI-enabled virtual math tutor / individualized learning journey / improves math age by 18 months
+-   [Studyable](https://studyable.app) - Free / Instant step-by-step homework help / AI tutors for math & images / Instant essay feedback
+-   [Asksia](https://www.asksia.ai) - Personal AI Tutor & Homework Helper / Lecture Transcription & Note Organization / Smart Highlights & Summaries
+-   [AI Math](https://www.aimath.com) - Free trial available / AI Math Solver / Photo Math Solver / Step-by-step solutions - From $4.90/month (unlimited questions & uploads)
+-   [Answer.AI](https://answerai.pro) - Free 3 daily requests / AI Tutor & Counselor / Question Scanner - From $8.33/month
+-   [MathVoyager](https://www.mathsolver.top) - Unlimited Free Use / Solve Math Problem at 95%+ Accuracy / Personalized AI Tutor
+-   [LearnFast AI](https://learnfast.ai) - Free daily usage / Instant, Accurate Math & Physics Solutions / Powered by GPT-4o AI / No Login Required
+-   [Synthesis Tutor](https://synthesis.is) - 7-day free trial / Superhuman AI math tutor / Master elementary math - From $8.25/month
+-   [Maths.ai](https://maths.ai) - Free trial / AI-powered math and science tutor / Instant personalized help - From $3/user/month
+-   [MyMathSolver.ai](https://mymathsolver.ai) - 10 credits per day / Solve complex math equations and math word problems / Detailed, step-by-step solutions - From $6.9/month
+-   [Study Point AI](https://studypointai.com) - Free 7-Day Trial / AI-driven homework help / AI math solver / writing assistance - From $6.99/month
+-   [GoMim Math AI](https://gomim.com) - 10 credits per day / AI Math Solver / Step-by-step explanations - From $6.99/Mo
+-   [Question AI](https://www.questionai.ai) - Solve any homework questions / Detailed step-by-step solutions - From $4.90/month
+-   [Times-Table.com](https://times-table.com) - Free printable multiplication tables & worksheets / AI multiplication Q&A tool / Interactive multiplication charts
+-   [Addition Tables](https://additiontables.com) - Free / AI addition learning helper / Extensive printable & interactive addition charts
+-   [AssignmentGPT AI](https://assignmentgpt.ai) - Free 800 words/day / Assignment Answers / Math Problem Solving / Image to Answer - From $5.99/month
+-   [HomeworkAI](https://www.homeworkai.ai) - Free trial available / Instant, step-by-step solutions / Covers all subjects / Solve problems from images - From $4.90/month (billed annually)
+-   [VoiceCalc](https://voicecalculator.app) - AI-powered voice calculations / Natural language understanding / Price & Unit conversions - One-time purchase $7.99
+-   [Math.now](https://math.now) - 5 credits per day / Step-by-step solutions / Math picture solver - From $6.9/month
+-   [AI MathGPT](https://aimathgpt.forit.ai) - 30 free experiences with Llama3 model / AI-powered math tutor / Step-by-step explanations - From $15.99/month
+-   [Math.bot](https://math.bot) - Solve by photo, upload, or text / Step-by-step solutions / Powered by GPT-4o
+-   [Subtraction Tables](https://subtractiontables.com) - Free / AI subtraction Q&A helper / Interactive & printable subtraction resources
+-   [Inkey AI](https://www.inkey.ai) - 1000 words/month free / AI Tutor / Essay Writer / Math Word Problem Solver - From $4.99/month
+-   [MathSolverAI](https://apps.apple.com/us/app/mathsolverai/id6504369911) - Free / Solve various math problems / Handwriting detection - $0.99
+-   [MathGPT](https://chromewebstore.google.com/detail/free-math-ai-tutor-mathgp/jnmbmhjdadpmokmhminndcfennnadblm) - Free / Solve math problems using AI / Step by step, clear explanations
+-   [ExamUp](https://www.examup.com) - Free / Flashcards AI / Quizzes AI / Notes AI
+-   [Calculator Air - Math Solver](https://apps.apple.com/st/app/calculator-air/id1173365557) - Solve any math problem / Step-by-step explanations - From $4.99
+-   [AI Homework Helper](https://aipictureanswer.com) - 3 free solves daily / AI Picture Answer / Step-by-step solutions - $10 for 1000 credits
+
+### AI Answer
+
+-   [Felo](https://felo.ai) - Multilingual AI Search Engine / AI Presentations & Mind Maps / Real-time Answers
+-   [LockedIn AI](https://www.lockedinai.com) - 10 minutes free daily / AI Interview & Meeting Copilot / Coding Copilot
+-   [iAsk.Ai](https://iask.ai) - Precise, Factual, Unbiased Answers / Free ChatGPT-like Answer Engine
+-   [Ithy](https://ithy.com) - 10+ free articles / Combine the world's best AIs / Article-quality responses - From $10/mo
+-   [TradesViz](https://www.tradesviz.com) - 3000 executions/month free / Trading Journal / Trading Simulation / Advanced Analytics - From $19.99/month
+-   [Hỏi đáp AI Hay](https://ai-hay.vn) - 8 requests / Academic support / Image recognition / Content explanation
+-   [EduBrain.ai](https://edubrain.ai) - AI Homework Helper / Picture Solver / Step-by-step solutions / No Signup
+-   [Yes No Tarot](https://yesnotarot.org) - Free / Instant Yes or No answers / AI-powered traditional tarot insights
+-   [TarotQA](https://tarotqa.com/en) - 3 Free Basic Readings / AI Tarot Readings / Daily & Love Readings / Horoscope Predictions - From $9.9/month
+-   [Answer.AI](https://answerai.pro) - Free 3 daily requests / AI Tutor & Counselor / Question Scanner - From $8.33/month
+-   [Tarotia](https://tarotia.app) - 3 free Tarot readings / Accurate and personalized readings / 24/7 attention
+-   [AnswerWriting](https://answerwriting.com) - 1 answer evaluation every month / AI-powered answer evaluation / Instant feedback - From ₹199/month (billed annually)
+-   [Internet.io](https://internet.io) - Compare answers from multiple AI models / Create & share custom agents
+-   [Myreader AI](https://myreader.ai) - 5 queries per day / AI reads books, documents, papers / Chat with a book or entire library - From $4.5/month
+-   [Desklib](https://desklib.com) - Free 20 AI Answer questions, 12 Plagiarism Checker scans / AI-Powered Study Tools / Study Documents / Plagiarism Checker - From $4.50/month
+-   [Finance Brain](https://financebrain.ai) - 3 free questions / Instant answers for finance and accounting questions / Analyze spreadsheet data with AI - $20 per month for unlimited access
+-   [Ask AI Questions Online](https://askaiquestions.net) - Free / Accurate & Instant Answers / Precise Insights / Total Data Protection / No Sign-Up required
+-   [Casey Scholar](https://www.casey-scholar.com) - 10 questions / week / AI Powered By Your Course Materials / Cites Your Course Materials - $9.99/month
+-   [WebQuery](https://www.webquery.net) - Free 5 groups of articles / 10 links at once / Engage in conversation with any link / AI understands content and answers questions
+-   [HomeworkAI](https://www.homeworkai.ai) - Free trial available / Instant, step-by-step solutions / Covers all subjects / Solve problems from images - From $4.90/month (billed annually)
+-   [FotoExamen](https://www.fotoexamen.com) - 3-day free trial / Solve exams & tasks with photos / Get explained answers / Chat with AI Tutors - From 9€/month
+-   [Yes/No Tarot](https://yesornotarot.net/yes-no-tarot-ai) - Free / Instant Accurate Answers / AI-powered Yes/No Tarot Readings / No Sign-Up
+-   [HotBot](https://www.hotbot.com) - Multiple AI models / Specialized expert bots / No Sign-Up Required
+-   [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650) - Credible, up-to-date answers / Cited sources for every answer / Guided AI search
+-   [AI Answer Generator](https://aianswergenerator.org) - Completely free / Instant Answers / Accurate & Comprehensive Answers / No subscription, signup or registration required
+-   [getsolved.ai](https://getsolved.ai) - 3 AI solutions free / Plagiarism Checker / AI Humanizer / AI Detector - From $19.99/month
+-   [Bettermode](https://bettermode.com) - Free 100 Members, 20 Spaces / Customizable community platforms / AI-powered engagement / Tons of integrations - From $49/month
+-   [Conveyor](https://chromewebstore.google.com/detail/conveyor/djkpbjhiilodaficngfbddkhaendinhh) - GPT-generated answers to security questions / Eliminate security questionnaires
+-   [Free AI Answer Generator](https://chromewebstore.google.com/detail/ai-answer-generator-get-q/pcidjibdjjfeigllnfkacaniapjkcejc) - Instantly provides accurate, tailored answers / Answers to a wide range of queries
+-   [ZuoWang - Meditation,Zen](https://apps.apple.com/app/id6458188939) - Free / Pure meditation experience / AI Chat Q&A - From $2.99/month
+-   [Cratecode](https://cratecode.com) - Free to start / Interactive non-linear lessons / AI-powered guidance
+
+### AI Book Summarizer
+
+-   [Blinkist](https://www.blinkist.com) - Trial / 1 free book a day / 15-minute book summaries / Audio insights
+-   [Shortform](https://www.shortform.com) - 5-day free trial / World's Best Book Summaries / Audio Narrations - From $16.42/month (billed annually)
+-   [SoBrief](https://sobrief.com) - 73,530 Free Book Summaries / Read any book in 10 minutes / Audio in 40 languages / No sign-up needed - From $3.75/month
+-   [Summarist.ai](https://summarist.ai) - / AI-crafted, concise summaries / Learn faster
+-   [15Minutes](https://www.15minutes.ai) - 15-minute book summaries / PDF & audio formats / 10,000+ book summaries - From $5.00/month
+-   [Blobu.ai](https://blobu.ai) - Free / Book summaries / Mashup Books / Chat with summaries
+-   [Tales.so](https://www.tales.so) - 14-day free trial / Podcast-style book summaries / AI-powered author conversations
+-   [BookSlice](https://bookslice.app) - First month free / Gamified reading / Habit building / AI-powered assistance - From $3.95/month
+-   [Unearthed](https://unearthed.app) - Free / Auto sync unlimited Kindle highlights and notes / AI analysis for deeper insights - From $5/mo
+-   [v0 Report](https://v0.report) - Automated Report Generation / AI Document Generator / AI PDF Summarizer - From $7/month
+-   [BookWatch](https://bookwatch.com) - 7-day free trial / Animated book summary videos / For visual learners
+-   [Chapterize.ai](https://chapterize.ai) - Free 2 summaries/mo / Summarize any content / AI Chat / Audio Summaries - From $15/month
+-   [GPT Book Club](https://gptbook.club) - AI-powered book insights / Ask questions, get personalized answers
+-   [Newt](https://newt.ar) - AI assistant for books / Read, Write & Listen / Offline access
+-   [Bookwriter](https://bookwriters.app) - 5.00 of free credits / Voice-to-text transcription / AI-powered summaries / AI writing suggestions
+-   [Homie.AI](https://apps.apple.com/us/app/homie-ai/id6504029268) - Free / Answer questions / Summarize books / Fact-check information
+-   [VDraw AI](https://vdraw.ai) - Limited AI credits / AI Infographic Generator / AI Chart Generator
+-   [AI Reading Assistant (GPTs & Browser Extension)](https://chromewebstore.google.com/detail/ai%E9%98%85%E8%AF%BB%E5%8A%A9%E6%89%8B%E6%B5%8B%E8%AF%95%E7%89%88/mfpmipdckdgjdmaffpehmhckhejkoioa) - Free / Quick Book Summaries / Interactive Q&A & Reading Tests
+-   [Bookwield](https://www.bookwield.com) - Add first 5 books free / absorbing key concepts & unlocking remarkable recall / Spaced Repetition / AI-powered weekly reviews
+-   [Readever](https://www.readever.app) - / AI Reading Assistant / Chat with books / AI-powered highlights
+-   [Pluto.AI](https://apps.apple.com/us/app/pluto-ai/id6504052685) - Ultimate AI teacher / Learn anything from history, politics, science, and literature / Get scientific answers to all your queries
+-   [Bookshelf: Reading Tracker](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414) - 20 free notes, 3 reading sessions/week / Track library & TBR / Build reading habits / Remember what you read - From $5.99/month
+-   [SummaVerse](http://summaverse.com) - Free 5,500 credits for 14 days / AI-powered document analysis / Chatbot creation - From $7.99/month
+-   [SpeakNotes](https://speaknotes.io) - 5 minutes per note free / AI transcription / Intelligent summarization / Multi-language support - From $14.99/month
+
+### AI Image Translator
+
+-   [漫画翻译器](https://ichigoreader.com) - AI-driven Japanese, Chinese, and Korean translation / Supports all platforms
+-   [PDNob Image Translator](https://www.tenorshare.com/products/free-ai-image-translator.html) - / Translate image with OCR / Translate to 100+ Languages - From $15.95/month with 100 AI credits
+-   [Immersive Translate](https://immersivetranslate.com/en) - 3-Day Free Trial / Bilingual Webpage Translation / Video Subtitle and PDF Translation - From $7.00/Month
+-   [OpenL Translate](https://openl.io) - 40 Fast Credits/day / Accurate AI Translation in 100+ Languages / AI Grammar Tools & Writing Refinement / No Login required - From $7.9/month
+-   [Manga Translator](https://mangatranslator.io) - Free 5 images per day / AI Manga Translation / Original Layout Preservation - From $9.9/month
+-   [TranslateManga](https://translatemanga.net) - 5 Credits / AI-powered manga & comics translation / Support 50+ languages & preserve artwork / - From $4.99 for 1000 Credits
+-   [TranslateManga](https://www.translatemanga.online) - Real-Time AI Manga Translator / SCAN Screenshot Translation / 100+ Languages Support - From $4.58/month (4000 times / 30 days)
+-   [Picture Translate](https://picturetranslate.com) - Free to Use / Translate Image Text Online / Advanced OCR Technology
+-   [Translate.Photo](https://www.translate.photo) - Translate any Image Text to 75+ languages in one-click / Instant translation for your designs: Photoshop, Illustrator, Figma, and Canva made easy.
+-   [TranslateImg](https://translateimage.app) - Free 10 translations per month / AI Image Translator / 100+ languages - From $9.9/month
+-   [Manga Translator](https://manga-translator.aiai.com) - 20 Credits Free / Instantly translate manga images and raw scans / Smart In-painting / Batch Translation - From $5.00 / 100 Credits
+-   [AI Image Translator](https://aiimagetranslator.net) - 5 credits / Precise and Instant AI Image Translator / Extensive language coverage / Auto-detect & smart restoration - From $9.9/month
+-   [Free AI Manga Translator](https://freemangatranslator.com) - 15 Daily Free Translations / AI Manga Translation / Layout Preservation / Multi-Engine Support / No registration required
+-   [Transmonkey AI Translator Suite](https://www.transmonkey.ai) - Free trial credits / Document, Image, Video Translation / Preserves Original Layout / Dubbing & Subtitle Translation - From $8.3/month
+-   [PixPretty](https://pixpretty.tenorshare.ai) - Free background removal (no registration), 5 daily credits / AI Background Removal / Batch Photo Editing - From 12.99€/month
+-   [translateimg](https://translateimg.com) - AI-Powered Visual Translation / Layout Preservation / Supports 100+ Languages
+-   [Translate.Video](https://www.translate.video) - Video Translation 5 Mins/mo / Video Translation / AI Voice-over & Voice Cloning - From $29/month
+-   [Manga Translator](https://chromewebstore.google.com/detail/manga-translator-translat/pgbckkmfgjdnhebfdnphiiahlhbimplh) - 30 requests per week / AI-powered manga translation to 50+ languages / Seamless browser integration & instant translation
+-   [AI Manga Translator](https://aimangatranslate.com) - 5 credits/day / Fast, Accurate, Multilingual OCR / Layout-preserving typesetting -
+-   [TurboLens](https://www.turbolens.io) - 10 daily quota for OmniExtract, ScriptExtract, PixelTrans / Handwritten text, tables, formulas OCR / Multi-language image translation - From $49.9/month
+-   [Doclingo](https://doclingo.ai) - Free 3 translations/day / AI-Powered Document Translation / Format Restoration / No Registration Required - From $49.99/year
+-   [Doculator](https://www.doculator.org) - Free for small documents / Document Translator / Image Translator - From $5/one-time for 48 Credits
+-   [ImageTranslate.AI](https://imagetranslate.ai) - 30 free credits per day / Translate image text across 70+ languages / Layout Preservation - From $9.9/month
+-   [Translate Now - Translator](https://apps.apple.com/us/app/translate-now-translator/id1348028646) - Free version available / Text, Photo, Voice Translation / 110+ Languages - From $4.99
+-   [Lufe AI Translator](https://www.lufe.ai) - Unlimited Machine Translation / Bilingual Web Reading / Image Translation / PDF Translation - From $9.99/month
+-   [象寄 AI](https://www.xiangji.ai) - Free 500 points + daily 100 points / AI-powered product photo generation / AI-generated marketing copy - From ¥99/month (4000 points/800 images)
+-   [ImageToText.info](https://www.imagetotext.info) - Free 3 images per submission, 15 requests per day / Extract text from images / Accurate conversion with AI technology / No Login or Sign Up required - From $4.16/month
+-   [Image to Text converter](https://www.imagetotext.io) - / Extract text from images / Accurately convert picture to text / Supports multiple languages / No Sign-Up - From $3.49/weekly
+-   [X-Design](https://www.x-design.com) - Free Plan with 10 credits gift / AI-powered photo editing / Background removal / AI Fashion Model - From $4.17/month
+-   [Prepostseo](https://www.prepostseo.com) - Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants - From $7/month
+-   [TransGull](https://transgull.com) - Free 30,000 characters daily / Conversation translation / Simultaneous interpretation / Image & Video translation
+-   [idict](https://idict.io) - 7-day free trial / Voice Clone Translation / Object Detection / Photo Translation - From $6.99/Month
+-   [GhostCut](https://ghostcut.jollytoday.com) - Free 15-second video / AI Video Translation & Dubbing / Smart Text & Subtitle Removal - From $10 / 70 Credits
+-   [O.Translator](https://officetranslator.com) - Free 1000 words / AI-powered document translation / preserves document format - From $1 for 20,000 words
+-   [Transor](https://transor.ai) - Unlimited Web Page Translation, 100 PDF pages/month / AI Translator / Bilingual Subtitles / Google Translate (no registration) - From $5.00/month
+-   [TextPixie](https://textpixie.com) - Free 20,000 text tokens, 5 image, 5 min audio per day / Translate text, images, audio, documents, web articles into 100+ languages / Fast, accurate, context-aware - From $7.9/month
+-   [AI Manga Translator](https://aimangatranslator.com) - 10 free translations / AI-powered instant manga translation / Preserves original artwork / Supports multiple translation models (GPT-4o, Papago, Google Translate) - From $8/week
+-   [AI Manga Translator - ImageTranslate.AI](https://imagetranslate.ai/manga-translator?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2765)- Freemium + From $8.30/month, Users can request a refund within 3 days of purchase if they have used 500 credits or fewer, / Translate manga while preserving original artwork and layout.
+-   [Translate Image.io](https://translateimage.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3068)- Freemium + From $9.99/month / Translate text in photos to 130+ languages instantly.
+-   [TranslateImage AI](https://www.translateimage.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2729)- Free Trial + From $10/month, No Refunds / Native-quality AI translator preserving original image style.
+
+### AI Mind Mapping
+
+-   [Felo](https://felo.ai) - Multilingual AI Search Engine / AI Presentations & Mind Maps / Real-time Answers
+-   [Mapify](https://mapify.so) - Free Credit / AI Mind Map Summary / Convert various content types to mind maps
+-   [MyMap](https://mymap.ai) - Turns text ideas into visuals / AI-powered chat interface
+-   [Algor Education](https://algoreducation.com) - 30 free credits / AI-powered concept & mind maps / Flashcards, quizzes & summaries - From $5.99/month
+-   [MindMap AI](https://mindmapai.app) - 100 free monthly AI credits / AI-powered mind maps / Multi-format input - From $3.74/month
+-   [Apowersoft](https://apowersoft.com) - Record, Edit & Convert Multimedia / Screen Recording & Phone Mirroring - From $4.99/month
+-   [EdrawMax Online](https://edrawmax.com) - High-quality diagramming and charting software / Unlimited community templates / AI features - From $69/semi-annual
+-   [PicDoc](https://www.picdoc.ai) - Free during beta / Turn text into stunning visual infographics / Generate charts, flowcharts, and mind maps
+-   [Boardmix](https://boardmix.com) - Free 3 editable boards / AI-powered features / Integrates various digital tools - From $4.9/member/month
+-   [FunBlocks AI](https://funblocks.net) - 30 free AI accesses + 10 daily / AI-powered mind mapping / All-in-one AI Workspace
+-   [Edraw.AI](https://www.edraw.ai) - Free 500 AI Tokens / AI Flowchart / AI Mind Map - From $6.58/month
+-   [Eduzen](https://eduzen.ai) - Free 3 uses per feature monthly / Flashcards / Quizzes / Mind Maps / No Sign-Up - From $7.00/month
+-   [Podwise](https://podwise.ai) - Free 4 AI-enhanced episodes / 3 AI queries per day / Transcribes, extracts insights & summarizes dense episodes / Integrates with Notion, Readwise & more / No credit card required - From $5.90/month
+-   [Xmind AI](https://xmind.ai) - / AI-powered brainstorming & mind mapping / AI-generated presentations / -
+-   [Heuristica](https://heuristi.ca) - Free max 3 saved concept maps / AI-Powered Mindmaps & Concept Maps / Integrate Knowledge Sources / Generate Study Materials - From $6.99/month
+-   [ConceptMap AI](https://www.conceptmap.ai) - Completely Free / Chat-Based Creation / Instant Visualization / No signup required
+-   [Slatebox](https://slatebox.com) - 10 AI Slates/Month free / Instant visuals from a prompt / Present with a click - From $6/month
+-   [TreeMind](https://shutu.cn) - Free / AI-powered Mind Map Generation / Multi-format & Collaborative Editing
+-   [Mapify](https://www.chatmind.tech) - Free / AI Mind Map Summarization / Multi-format content conversion (PDFs, YouTube, etc.) - From US$5.99/month
+-   [InstantMind](https://instantmind.ai) - 400 AI Credits / Instant AI Mind Map Generation / Transform 30+ file formats, YouTube, Web pages - From $8/month
+-   [Edraw Software](https://www.edrawsoft.com) - Free Download / Create 210+ types of diagrams / AI-powered diagram generation
+-   [CleverAI](https://www.cleverai.ai) - 7-day free trial / AI Chat / Image Generation / Smart Search - From $19.99/month
+-   [NodeLand](https://nodeland.io) - 1 Document free / AI-Powered Mind Maps / Summarize documents into Mind Maps - From $4/month
+-   [Thetawave AI](https://thetawave.ai) - Converts audio, text, files, and YouTube videos into formatted notes / Generates quizzes, flashcards, and mindmaps
+-   [WiseMap.AI](https://wisemap.ai) - 1 map, 100 credits / Mind mapping with AI / Automatically generate structured ideas / No Sign-Up - From $5/month (2000 credits)
+-   [Parcae](https://www.parcae.info) - / AI-powered mind mapping / Easy gesture-based editing / Secure local data storage / No registration required
+-   [Noted.fm](https://noted.fm) - AI Mind Map Creation / AI Auto-linking Notes / AI Chat with Notes
+-   [MyLens](https://datamotto.com) - Visualize anything fast with AI / mindmap generator / PDF to visuals
+-   [mindlib](https://mindlib.de) - Free up to 100 pieces of information / AI Mind Mapping / Personal Knowledge Management - From $0.99/month
+-   [moyoNote](https://moyonote.com) - 5 conversations, 100MB storage free / AI mind mapping / Organizing and structuring information - From $8.25/month
+-   [NoteX](https://notexapp.com) - Free 1 AI Transcription per day / AI Note Taking / Smart Study Material Generation - From $12.99/month
+-   [Notaide](https://notaide.com) - 500 free credits / Visual AI Brainstorming / Organize and expand ideas - From $5 for 100 credits
+-   [Minduck](https://official.minduck.com) - Unlimited Quick searches, 5 Pro Function units/day / Structured visual thinking tools / Mind-map based AI generation / Transforms search results into knowledge maps - From $19.99/month
+-   [The Visualizer AI](https://www.thevisualizer.ai) - 3-day free trial / Map Out and Summarize Anything with AI / Turn PDFs, videos, podcasts, and images into mind maps - From €9/month
+-   [Emberly](https://ember.ly) - Free 5 maps, 70 topics per map, 2 AI Quizzes per day / Mind-mapping and note-taking / Visual organization - From $5/month
+-   [moyuNote](https://chromewebstore.google.com/detail/moyunote/acfidkacggnmllofnihochlldpkiejmd) - Generate outline notes & mind maps / AI assistant for writing, coding & Q&A
+-   [pods.ee](https://pods.ee) - 4 AI-enhanced episodes per month / AI transcripts / Summaries / Mindmaps - From $4.99/month
+-   [Cloudairy](https://cloudairy.com) - 25 AI credits/month / Animated architecture diagrams / Mindmap / Project planning - From $8/month per member
+-   [WriteMapper](https://writemapper.com/4) - 7-day trial / Mind Maps / AI Assistance - $89 for 1 computer
+-   [Explain AI](https://apps.apple.com/in/app/explain-ai-notes-study-help/id6744239464) - / Personalized AI explanations / Multi-format learning / Interactive study tools - From ₹ 599/week
+-   [LearniAI](https://learniai.com) - 100 credits to start / AI Learning Assistant / Visual Mind Mapping - From $9.99/month
+-   [StudyFox](https://studyfox.pro) - 3-day free trial / Quiz Solver / Flashcards / Mind Mapping - From $3.99/week
+-   [ConceptViz](https://conceptviz.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2625)- Free Trial + From $10/month / Turn complex concepts into clear, science-ready diagrams
+-   [EchoRead: AI Reading Notes](https://echoread.co/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2580)- Freemium + From $2.49/month, No Refunds / Turn PDFs into Mind Maps using the Feynman Technique.
+
+### AI Coaching
+
+-   [ELSA Speak](https://elsaspeak.com) - 3 free scenarios / Improve English pronunciation / AI-powered English speaking coach / Real-world conversations - From $13.33/month
+-   [Fight IQ](http://itunes.apple.com/app/6479872912) - Free version available / Document your sparring progress / Personalized AI coaching - From $8.99/month
+-   [CallHippo](https://callhippo.com) - Free 3 users / 10-day free trial / Virtual Phone System / AI-driven inbound calls / Increased Productivity - From $10/month
+-   [Planfit](https://planfit.ai) - AI-powered personalized workout plans / AI trainer for real-time coaching / Detailed exercise guides
+-   [Streaks 66 - Habit Tracker AI](https://apple.co/3R1OYdR) - Free 3 messages to AI / Build lasting habits / AI-guided habit coaching - From $1.99/month
+-   [SwingVision](https://swing.vision) - Free Trial / Automated Scoring / AI Stats / Video Highlights - From $8.33/month
+-   [LockedIn AI](https://www.lockedinai.com) - 10 minutes free daily / AI Interview & Meeting Copilot / Coding Copilot
+-   [Wingman.live](https://wingman.live) - Uncensored AI Dating Coach / Profile Roaster / Conversation Genius
+-   [My Glow Up AI](https://myglowup.ai) - AI-powered personalized recommendations / Holistic transformation plans / Progress tracking
+-   [BodBot](https://bodbot.com) - AI-Powered Workouts & Nutrition / Personalized Training & Nutrition Plans / Data-Driven Fitness & Wearable Integration
+-   [Vocal Image](https://vocalimage.app) - AI-powered voice coaching / Improve communication skills / Voice evaluation & specialized programs
+-   [Impakt](https://impakt.com) - AI-powered workout tracking & analysis / Personalized workouts / Social fitness & community
+-   [Yoodli](https://www.yoodli.ai) - Up to 5 Yoodlis / Private, realtime AI speech coaching / Reduce filler words & track progress - From $8 USD / month
+-   [Aimlabs](https://aimlabs.com) - Play for free / AI-powered aim trainer / Personalized tasks - From $7/month
+-   [Hyperbound](https://www.hyperbound.ai) - Free demo / AI Sales Roleplays / AI Real Call Scoring / AI Coaching / No password or credit card required
+-   [MyCoach Ai](https://mycoachai.com) - 14-day free trial / Automated Meal Plans & Workouts / Extensive Content Library / Integrated Client Management - From $12/month for 4 clients
+-   [Fluently](https://getfluently.app) - 4-minute call for free English score / Personalized feedback on real speech / AI tutor for speaking practice / Real-life call feedback
+-   [trophi.ai](https://trophi.ai) - Free 7 Days Trial / AI Coaching for Gaming / Coach Report - From $12.99/month
+-   [Orum](https://orum.com) - Free 500 dials / AI-powered Dialer / AI Coaching - From $250/month (billed annually)
+-   [Track Titan](https://www.tracktitan.io) - 50 laps per month free / Personalised AI insights / Pro esports setups - From $7.99/month
+-   [Rize](https://rize.io) - One day data retained free / AI-powered time tracking / Improves focus & work habits - From $9.99/month
+-   [Avoma](https://www.avoma.com) - 14-day free trial / AI Meeting Assistant / Scheduling & Lead Router / Conversation Intelligence - From $19/user/month (billed annually)
+-   [Poised](https://poised.com) - Real-Time Feedback / Analyze Trends / Personalized Plan
+-   [Coachvox AI](https://coachvox.ai) - 14-day free trial / AI coach version of you / Generate qualified leads / Content creation in your voice - From $99/month
+-   [Heights Platform](https://www.heightsplatform.com) - 30-day free trial / AI-powered course creation / Community building / Zero transaction fees - From $29/month
+-   [Reflection](https://www.reflection.app) - Free version available, 7-day free trial / AI-powered journaling & coaching / 100+ expert-curated guides - From $5.75/month (billed annually)
+-   [Marlee](https://getmarlee.com) - 14 credits at signup + 1 daily / Collaboration & performance AI / Scalable personal coaching - From $19.99/month/user
+-   [Interviews by AI](https://interviewsby.ai) - 3 questions per month / Tailored interview questions / Instant AI feedback - From $9/month
+-   [Orai](https://orai.com) - Free 7-day trial / AI-powered presentation practice / Instant feedback on speaking skills - From $10/month
+-   [Huru](https://www.huru.ai) - AI Feedback / Practice from job descriptions - From $24.99/month
+-   [Trellus](https://trellus.ai) - / Real-time AI coaching / Parallel dialer / Automates post-call work - From $34.99/month
+-   [UMU](https://www.umu.com) - AI-powered performance learning platform / AI video generation with avatars / Video practice & AI feedback
+-   [Lavender](https://www.lavender.ai) - Write better emails faster / Get more positive replies / Boost pipeline from your inbox
+-   [Skillora](https://skillora.ai) - 1 FREE AI Interview / Customizable mock interviews / Instant feedback - From $19/month
+-   [CasperPractice](https://casperpractice.org) - 150+ free practice questions & 1 free review / AI Coaching & Practice Questions / Instant Feedback & 4th Quartile Guarantee - From $159 for 1 week
+-   [Flamme](https://www.flamme.app) - Free Trial / Daily Questions / AI Love Coach / Interactive Relationship Tools
+-   [JuggernautAI](https://juggernautai.app) - 2 week free trial / Totally individualized Powerlifting, Powerbuilding and Strongman training plan / Program that adjusts to your feedback - From $34.99/month
+-   [Mockin](https://mockin.work) - Professional real-time AI interviews / Personalized feedback & resume matching
+-   [Hedy AI](https://www.hedy.ai) - 5 Hours per Month / Real-Time Insights & Recommendations / Multilingual Understanding of 30+ Languages - From $9.99/month
+-   [COACH: AI-powered Career Coach](https://www.aicareercoach.org) - Always free for individuals / Explore career paths / Craft cover letters and resumes / Prep for interviews
+-   [Ello](https://www.ello.com) - 7-day free trial / AI-powered reading coach / Proprietary speech recognition / Decodable e-books - From $14.99/month
+-   [QuitPorn.AI](https://quitporn.ai) - Free access / Personalized AI counseling / Expert recovery guides / Easy tracking tools - From $19.99/month
+-   [Vibly](https://vibly.io) - Free for 30 days / Coaching Client Management Software / AI-powered features - From $20/month
+-   [mple.ai](https://mple.ai) - AI-driven Roleplays for Sales Training / AI Coaching & Performance Evaluations / Customizable Training Content
+-   [SocratiQ](https://socratiq.ai) - AI-powered personalized learning / Mastery-oriented education
+-   [Pod](https://www.workwithpod.com) - Free 21-day trial / Pipeline Prioritization / Buying Committee Real-time Recommendations - From $65/month
+-   [Salesify](https://www.salesify.ai) - 5 hours per month / AI Sales Coaching / Automated Follow-ups - From $29/month
+-   [Ello](https://helloello.com) - 7 Day Free Trial / AI-powered read-along companion / Decodable e-books tailored to child's level - From $14.99/month
+-   [Backseat AI](https://backseat.gg) - Free / Real-time coaching / Creator personas / In-game insights
+-   [MockWise](https://mockwise.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3435)- Freemium + From $18.85, One-time, No Refunds / AI-powered training for high-stakes conversations.
+-   [nayld.ai](https://nayld.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3483)- Freemium + From $20/month, 14-Day Money-Back Guarantee / Stop guessing. Nail your next interview
+-   [Thita.ai](https://thita.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2670)- Freemium + From $6.25/month, Users can request a full refund only if they’re first-time subscribers and ask within 7 days of the initial subscription / Practice DSA, system design, and interviews with AI
+
+### AI Quiz Generator
+
+-   [Fillout](https://fillout.com) - 1000 responses/mo free / Create forms in minutes / Customizable branding / Powerful conditional logic - From $15/month
+-   [ScoreApp](https://scoreapp.com) - Advanced Quiz Funnel Marketing / Personalized Results / Data & Analytics - From $49/month
+-   [Algor Education](https://algoreducation.com) - 30 free credits / AI-powered concept & mind maps / Flashcards, quizzes & summaries - From $5.99/month
+-   [forms.app](https://forms.app) - 5 forms, 100 responses/month, unlimited views / Online Forms, Surveys & Quizzes / AI Form Generation / 500+ Integrations - From $25/month
+-   [Jungle AI](https://jungleai.com) - 10 generations per month free / AI flashcards & multiple choice questions / Generate from lecture slides, YouTube videos, and more - From $4/month (billed yearly)
+-   [Flashka](https://www.flashka.ai) - Free / AI Flashcards / AI-generated Quizzes / Spaced Repetition
+-   [Raena AI](https://raena.ai) - Up to 2 quizzes per week / Interactive quizzes / Personal AI Tutor - From $6.99/month
+-   [Octane AI](https://www.octaneai.com) - Smart Quizzes That Grow Revenue / No coding required / Personalize Marketing with Zero-Party Data
+-   [Makeform](https://makeform.ai) - Unlimited Forms and Submissions Free / AI Form Builder / Turn Text Into Forms / No signup required - From $24/month
+-   [Testportal](https://testportal.net) - AI-powered Question Generator / Automated Grading / Comprehensive Insights & Analytics
+-   [LoveStudy.ai](https://lovestudy.ai) - 30 Free Credits / AI Flashcards / Quiz & Notes / No Login required for 15 credits - From $4.9/month
+-   [Quizgecko](https://quizgecko.com) - 1 AI Lesson monthly / AI Quiz Maker / AI Flashcard Generator - From $16/month
+-   [Questgen](https://www.questgen.ai) - 20 Free Runs / Generate quizzes from text, PDFs, webpages, videos & more / Supports multiple quiz types - From $15/month
+-   [Opinion Stage](https://www.opinionstage.com/ai) - Interactive visual quizzes, forms & surveys / AI-powered creation in seconds / Fully customizable & brandable
+-   [Assessment Systems](https://assess.com) - Online assessment platform / Modern psychometrics / Expert consulting
+-   [dende](https://dende.ai) - AI Quiz Maker / AI Flashcards Maker / AI Study Guide
+-   [MagicForm.app](https://www.magicform.app) - 5 Quizzes per month free / Create quizzes from text, PDFs, videos & more / Automatically create quizzes in Google Forms - From $12.4/month
+-   [Study Fetch](https://studyfetch.com) - AI Flashcards / AI Quizzes / AI Tutor
+-   [Olovka AI](https://www.olovka.ai) - Limited to 10,000 AI words / AI Essay Writer / Essay-to-quiz feature / AI editing commands - From $5.95/month
+-   [Limbiks](https://limbiks.com) - 10 Uploads / month, 5 pages/slides per upload free / AI Flashcard Generator / Powerful study tools - From $5/month
+-   [Mindsmith](https://www.mindsmith.ai) - 450 AI credits at signup / AI-assisted design tools / Convert documents to eLearning / Real-time collaboration - From $39/month
+-   [Periplus](https://periplus.app) - 10 documents total free / AI-generated courses & documents / AI flashcards for memory - From $14/month
+-   [QuizRise](https://www.quizrise.com) - Free 3 quizzes per month / AI-Powered Quiz Generation / Flashcard Creation / Multiple question types - From $7.99/month
+-   [GoPDF](https://gopdf.io) - 10 PDF conversions, 10 PDF edits, 1 AI project free / Edit, Convert, AI Chat with PDF - From $9.99/monthly
+-   [TurboLearn AI](https://www.turbolearn.ai) - Free / Instant notes / Interactive flashcards / Personalized quizzes
+-   [Thetawave AI](https://thetawave.ai) - Converts audio, text, files, and YouTube videos into formatted notes / Generates quizzes, flashcards, and mindmaps
+-   [Keepmind](https://keepmind.ai) - Free version: up to 10 decks, 1 quiz per deck, 5M per file upload / AI-powered flashcards, mind maps & quizzes / Spaced repetition - From $10/month
+-   [QuizWhiz](https://www.quizwhiz.ai) - 20 Runs free / Generates MCQs from any text / AI quizzes and notes from text, PDFs, or topics - From $9/month for 1000 Runs
+-   [StudyRaid](https://app.studyraid.com) - AI-generated courses / Interactive AI teacher
+-   [Nolej](https://nolej.io) - Get started for free / Transform content into diverse learning activities / Export to any platform / Secure and accurate content generation
+-   [PDFToQuiz](https://www.pdftoquiz.com) - Free 1 PDF upload (20 page limit) / Turn PDFs, URLs, or text into quizzes / Multiple Choice, Fill in the Blank, or True/False questions - From $8.99/month
+-   [Study Potion AI](https://studypotion.ai) - Generates personalized flashcards, notes, quizzes / Chat with Documents
+-   [Examify AI](https://www.examify-ai.com) - Generate and grade 5 papers per month / Personalised question papers / Instant grades and expert-level feedback - From £5.99/month
+-   [TurinQ.com](https://turinq.com) - 14-day free trial with 10 AI Credits / AI Question and Quiz Maker / Generate questions from various materials / No Sign-Up required - From $4.20/month
+-   [Meiro](https://meiro.cc) - 10-day free trial / Create tests, quizzes, and text games / AI-powered content creation - From $12/month
+-   [Hearify Quiz Generator](https://hearify.org) - Free up to 5 quizzes / AI quiz generator from PDF, Video & Text / Customize questions & track performance / Create quizzes in minutes
+-   [Duetoday](https://www.duetoday.ai) - Free 3 Notes / Month / AI Lecture Notetaker / Interactive Quizzes / Flashcards - From $15/month
+-   [uPresenter](https://upresenter.ai) - 250 AI credits at signup / AI-powered presentations and quizzes / seamless sharing and engagement tracking - From $5/month
+-   [WorkbookPDF](https://workbookpdf.com) - / Personalized AI-powered workbooks / Practice any language with your favorite topics / - From $19 (7-Day Pass)
+-   [AIQuizGen](https://aiquizgen.com) - AI-powered Quiz Generation from Topic, Text, or PDF / Diverse Question Types
+-   [GetQuiz](https://getquiz.ai) - 1 quiz free / Transform textbooks and notes into quizzes / Transform textbooks and notes into TikTok-style videos - From $9.99/month
+-   [Qaiz](https://qaiz.app) - 10 free credits / AI quiz generator / Multiplayer live quizzes - From $3.99 for 100 credits
+-   [QuizBot.ai](https://quizbot.ai) - 50 questions free / AI Question Generator / Generates questions from various sources (PDFs, videos, images, links) - From $9.5/month
+-   [StarQuiz](https://www.starquiz.ai) - AI-powered assessment creation / Actionable feedback & analytics / Improve student grades
+-   [Askflow AI](https://askflow.ai) - 14-day free trial / AI-powered product recommendations / Engaging quizzes - From $29/month
+-   [SuperQuiz](https://getsuperquiz.com) - 2 SuperQuizzes / AI-Powered Creation / Multiplayer Fun - From $7.99/month
+-   [Quizify](https://quizify.xyz) - Free 5 questions, 4 options, 10 quizzes, 10 Google Form exports / Generate quizzes from any text / Publish to Google Forms - From $29/month
+-   [Zenquiz.app](https://zenquiz.app) - Turn your notes into interactive quizzes / Generate practice exams in seconds - $3.99 for 100 credits
+-   [QuizGeniusAI](https://www.quizgeniusai.com) - Start for free / AI-Powered Generation / Instant Publishing / PDF Import
+-   [Evalyy](https://www.evalyy.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2847)- Freemium + From $3/unit, No Refunds / Upload PDFs, launch exam-ready quizzes in seconds.
+
+### AI Quizzes
+
+-   [TripleTen Career Aptitude Test](https://tripleten.com/tools/career-aptitude-test) - Free Career Aptitude Test / Personalized IT career recommendations / Job or 100% money-back guarantee / No registration required - From $222/month
+-   [Achievable](https://achievable.me) - Get started for free / Personalized learning / Flexible studying / Guaranteed success
+-   [Yay! Forms](https://yayforms.com) - 7 days free trial / AI-powered insights / Create high-converting forms - From $9/month billed yearly for 200 responses
+-   [Pairrd](https://pairrd.com) - 10 free questions daily, 5 free bounty videos / Daily quizzes and drills / AI Recommendations - From $499/year
+-   [Octane AI](https://www.octaneai.com) - Smart Quizzes That Grow Revenue / No coding required / Personalize Marketing with Zero-Party Data
+-   [X-Personality](https://www.x-personality.com) - Free / Detailed personality reports / Advanced MBTI model with 8 dimensions
+-   [Am I Gay Quiz](https://amigayquiz.com) - Sexual orientation self-exploration / Guided self-discovery
+-   [Questgen](https://www.questgen.ai) - 20 Free Runs / Generate quizzes from text, PDFs, webpages, videos & more / Supports multiple quiz types - From $15/month
+-   [Trivia AI - Guess the Words](https://apps.apple.com/us/app/trivia-ai-guess-the-words/id6569242324) - / AI-generated photo quiz / Over 2000 high-quality images / Works Offline - From $11.96/month
+-   [The Spiritual Seek](https://spiritualseek.online) - Free Mini-Tests & 16-Personality Test available / Accurate, spiritual & fun personality tests / AI-powered insights / No registration required - 16 Tests for $40.00
+-   [MagicForm.app](https://www.magicform.app) - 5 Quizzes per month free / Create quizzes from text, PDFs, videos & more / Automatically create quizzes in Google Forms - From $12.4/month
+-   [Studygenie](https://studygenie.io) - Free 3 rounds/mo / AI Quizzes & Flashcards / AI answer explanations - From $13.99/mo
+-   [QuizRise](https://www.quizrise.com) - Free 3 quizzes per month / AI-Powered Quiz Generation / Flashcard Creation / Multiple question types - From $7.99/month
+-   [Mock Exam AI](https://mock-exam-ai.com) - Generate 5 questions per day / AI-powered mock exam generation / Use reference for question generation - From $6.00/month
+-   [CasperPractice](https://casperpractice.org) - 150+ free practice questions & 1 free review / AI Coaching & Practice Questions / Instant Feedback & 4th Quartile Guarantee - From $159 for 1 week
+-   [Quiz Makito](https://www.quizmakito.com) - 15 Makito Tokens / AI-powered quiz generation / Detailed quiz performance tracking
+-   [Touring Test](https://touringtest.net) - Free / Geography quiz game / AI generated literature & art
+-   [QuizSolver](https://quizsolverai.com) - 10 free answers per month / AI-Powered Quiz Solving / Instant Answers & Explanations - From $5.42/month
+-   [TalkToSoul](https://talktosoul.com) - Free session / AI Interpretation / Science-backed personality tests -
+-   [Testra](https://testra.co) - One free test, three free guides / AI diagnostic scoring / Personalized study plans / Unlimited practice & instant AI answers - From $7/month
+-   [MindMash](https://mindmash.me) - 3-day free trial / AI-powered questions / Dynamic audio monologues - From €8.99/month
+-   [CleverExams](https://cleverexams.com) - Realistic mock exams / Instant AI feedback on writing and speaking
+-   [ExamUp](https://www.examup.com) - Free / Flashcards AI / Quizzes AI / Notes AI
+-   [EaseQuiz: AI Quiz Generator](https://apps.apple.com/in/app/easequiz-ai-quiz-generator/id6739849803) - Generate intelligent quizzes from text, images, or PDFs using AI / MCQ, true/false or fill in the blanks quizzes - From ₹ 299 for 25 Quiz Generations
+-   [Qaiz](https://qaiz.app) - 10 free credits / AI quiz generator / Multiplayer live quizzes - From $3.99 for 100 credits
+-   [QuizBot.ai](https://quizbot.ai) - 50 questions free / AI Question Generator / Generates questions from various sources (PDFs, videos, images, links) - From $9.5/month
+-   [Askflow AI](https://askflow.ai) - 14-day free trial / AI-powered product recommendations / Engaging quizzes - From $29/month
+-   [Love Style Test](https://lovetypetest.com) - Free / Love Style Diagnosis / Compatibility Diagnosis / No Registration Required
+-   [SuperQuiz](https://getsuperquiz.com) - 2 SuperQuizzes / AI-Powered Creation / Multiplayer Fun - From $7.99/month
+-   [Quizify](https://quizify.xyz) - Free 5 questions, 4 options, 10 quizzes, 10 Google Form exports / Generate quizzes from any text / Publish to Google Forms - From $29/month
+-   [Zenquiz.app](https://zenquiz.app) - Turn your notes into interactive quizzes / Generate practice exams in seconds - $3.99 for 100 credits
+-   [QuizGeniusAI](https://www.quizgeniusai.com) - Start for free / AI-Powered Generation / Instant Publishing / PDF Import
+
+### AI Knowledge Management
+
+-   [Fabric](https://fabric.so) - AI-powered self-organizing workspace / AI search and thinking partner
+-   [Secoda](https://www.secoda.co) - Free Starter plan with 3 teams / Unified Data Governance / AI-powered data catalog / Data observability
+-   [Heptabase](https://heptabase.com) - 7-day free trial / Powerful visualizations / Multi-format learning / Collaborative whiteboards - From $8.99/month
+-   [Noteey](https://www.noteey.com) - Free up to 3 projects, 100 cards, 3 PDFs, 3 videos/audios / Visual Note-taking / Infinite Canvas / PDF & Video Annotation / No account or signup required - From $10/month
+-   [iWeaver](https://www.iweaver.ai) - Free 3 queries per day / AI Summarizer / AI Workflow Automation - From $9.9/month
+-   [TXYZ](https://txyz.ai) - Basic file upload and analysis (up to 100 pages) free / Knowledge Discovery / Knowledge Work / Knowledge Workflow - From $96/year
+-   [SaveDay](https://save.day) - Fewer than 5 key point/Q&A credits per month / AI quick capture / AI Search / Article/YouTube summarizer / No register - From $3.91/month
+-   [Slite](https://www.slite.com) - 14-day free trial / AI-powered knowledge base / AI answers & Editor assistant - From $8/member/month
+-   [remio](https://www.remio.ai) - Free / AI Note Taker / Personal Knowledge Management / Knowledge Blending - From $8.25/month
+-   [Tanka](https://www.tanka.ai) - / AI Long-Term Memory / AI-Assisted Smart Reply / Integrated Communication Hub
+-   [GoLinks](https://www.golinks.io) - Free up to 20 users / Secure, intuitive short links / AI-powered knowledge discovery - From $4/user/month
+-   [Saga](https://saga.so) - Free for up to 3 members with 5,000 AI words/month / AI workspace for notes, docs, and tasks / AI content generation & summarization - From $6/member/month (billed annually)
+-   [Unearthed](https://unearthed.app) - Free / Auto sync unlimited Kindle highlights and notes / AI analysis for deeper insights - From $5/mo
+-   [Dessix](https://dessix.io) - 3M tokens upon registration / Visual context building for AI alignment / Cognitive Management / - From $9.9/Month
+-   [Tettra](https://tettra.com) - Free 30-day trial / AI-powered knowledge base / Instant answers in Slack with AI bot - From $4/user/month (billed annually, min 10 users)
+-   [Liminary](https://liminary.io) - Open Beta / AI super-powered memory / Relevant recall
+-   [Rezolve.ai](https://rezolve.ai) - Free Trial / Generative AI-Powered Employee Service Desk in MS Teams / AITSM / No-Code Automation
+-   [Thunai](https://www.thunai.ai) - 100 AI Credits/Month / Automate Support, Sales & Marketing / Smart Knowledge Management - From $9/month
+-   [YourAIScroll](https://www.youraiscroll.com) - Unlimited markdown copying on free plan / Export AI chat history from 10+ platforms / Save ChatGPT Canvas & Claude Artifacts - From $4.49/month
+-   [HelpLook](https://www.helplook.com) - Free 80 AI Credits/Mo / AI-Powered Knowledge Base & Help Desk Software / Create content without coding - From $19/month
+-   [Peony](https://peony.ink) - Free 3 projects, 2GB storage, 100 files / AI-Powered File Management / Secure Document Sharing & Analytics - From $20/month
+-   [LlamaIndex](https://www.llamaindex.ai) - Free 10K credits / Build Knowledge Assistants / GenAI-native document parsing - From $50/month (50K credits)
+-   [Squirro](https://squirro.com) - Boosts productivity / cuts costs / secure, private, and accurate AI-driven enterprise intelligence
+-   [Dawiso](https://www.dawiso.com) - Governed, Trusted Data Access / Time Savings / Simplicity - From €245/month
+-   [DeepHow](https://deephow.com) - 14 day unlimited free trial / Capture expertise 90% faster / Deliver know-how right where work happens / Improve knowledge retention
+-   [Aethera AI](https://aethera.ai) - Free 125 Questions / month / Analyze, create, organize documents / Smart Summaries - From $12.5/month
+-   [Tettra](https://tettra.co) - Free 30-day trial / AI Internal Knowledge Base / Instant AI Answers - From $4/user/month (min 10 users)
+-   [Elium](https://elium.com) - 14-day free trial / AI-powered Knowledge Management / Verified & reliable content - From 15€/month per user
+-   [Grapevine](https://getgrapevine.ai) - Free trial / Searches across your docs, code, and communication / Internal company GPT that actually works -
+-   [Cokeep](https://cokeep.me) - Free / Organize, chunk, and retain knowledge / AI-Powered Summarization and Tagging
+-   [Focal AI](https://getfocal.co) - 5 free sources & 10 free AI queries / AI-Assisted Search / Summarize & Cite Research - From $3/month (billed yearly)
+-   [bundleIQ](https://bundleiq.com) - 25 AI Prompts free / AI Chat-based Knowledge Management / Transform vast documents into actionable insights - From $40/month
+-   [Datascale](https://getdatascale.com) - 7-day free trial / Data Lineage / AI-powered Data Discovery / Automated Data Catalog
+-   [Emberly](https://ember.ly) - Free 5 maps, 70 topics per map, 2 AI Quizzes per day / Mind-mapping and note-taking / Visual organization - From $5/month
+-   [FAQ Ally](https://faqally.com) - 30-day free trial / AI Agent Training from your data / Easy Knowledge Access - From $39/month (1,000 Queries)
+-   [Medullar](https://www.medullar.com) - AI-powered Data Discovery / Federated Search (60+ apps) / AI-powered Spaces for Collaboration - From $20/month per user
+-   [Unifie](https://www.unifie.app) - Free 100 monthly actions / Supercharge your knowledge journey with AI / Seamlessly integrate personal documents - From $5/month
+-   [reMind AI](https://www.recallmemory.io) - Free and Open-Source / Local, privacy-focused AI memory / Captures & recalls digital activities / No Login Required
+-   [Keymate.AI](https://keymate.ai) - Manage sources / Research and analyze with AI / Chat with your library
+-   [myReach](https://myreach.io) - Free 500 nodes, 50 messages/month, 5GB storage / AI assistant / Knowledge management
+-   [Cerebro - AI-Powered Knowledge Management](https://heycerebro.com) - 3-DAY FREE TRIAL / Find What You Need / Focus on Taking Action / Make Better Connections - From $7.49/month
+-   [Credibl ESG](https://www.crediblesg.com) - Free Trial / AI-powered Sustainability & ESG data management / Comprehensive ESG Reporting / End-to-End Product Traceability
+-   [DocsOrb](https://docsorb.com) - Free up to 20 Moments, 40 AI generations/month / AI-powered checklists / Smart search - From €6,99/mo
+-   [Docaroo](https://docaroo.ai) - Free Forever (500 MB storage) / Secure document storage & sharing / Smart AI document management & reminders
+-   [Pinster AI](https://apps.apple.com/us/app/pinster/id6740476991) - AI Smart Organization / AI-Powered Summaries / Chat with Your Bookmarks - From $4.99/month
+
+### AI Reader
+
+-   [GPT Reader](https://gpt-reader.com) - Free / ChatGPT-Powered Voices / Text-to-Speech (TTS) / Supports PDFs, articles, & docs
+-   [Clearly Reader](https://clearlyreader.com) - 10 emails/month / Readability / Text-to-Speech (TTS) / AI Reader Assistant - From $4.99/month
+-   [Audeus](https://www.audeus.com) - 3-day trial / Immersive text-to-speech reader for PDFs, Word docs, & more / Boost focus with synced text highlighting - From $9.92/month
+-   [Lenormand Life](https://lenormand.life) - 2 readings per day / AI-powered Lenormand Reading / guidance on love, career, and life / No sign-up or payment required - From $9.9/month
+-   [Audioread](https://audioread.com) - Free 3 articles per month / Turn reads into podcasts / Listen in any podcast app - From $9.99/month
+-   [Thread Navigator](https://threadnavigator.com) - Free / Unroll X (Twitter) threads for easy reading / Save to Notion / Download as PDF - From $3/month
+-   [TXYZ](https://txyz.ai) - Basic file upload and analysis (up to 100 pages) free / Knowledge Discovery / Knowledge Work / Knowledge Workflow - From $96/year
+-   [FunBlocks AI](https://funblocks.net) - 30 free AI accesses + 10 daily / AI-powered mind mapping / All-in-one AI Workspace
+-   [Converse](https://b7labs.co) - 3 AI summaries free / AI Summarization / Document Chat - From $9.99/month
+-   [Blaze Feeds](https://blazefeeds.nikpatil.com) - Free / Smart Summarization / Cross-Platform - From $1.99/month
+-   [Yoptio](https://yoptio.com) - Free account / AI article summaries / Keyword-based content filtering
+-   [GistReader](https://gistreader.com) - 14-day free trial / AI-enhanced summaries / Distraction-free reading - From $5/month
+-   [BudGPT](https://chromewebstore.google.com/detail/budgpt/kjkkejocbgnkfnhiblmfmgancjodcpbm) - AI-powered read aloud / Article summarization / Customizable AI prompts
+-   [ChatPDF](https://www.chatpdf.com) - Chat with any PDF / Instantly answer questions and understand research with AI / Cited Sources
+-   [ValueSpot](https://valuespot.top) - Real-Time Notification / No Clickbait / No Installation
+-   [BigRead.ai](https://www.bigread.ai) - AI-powered Personalized Learning / Adaptive Leveled Reading / Endless Learning System - From $9.9/month
+-   [DocuSpeed](https://docuspeed.ai) - Free 10 messages/month / Summarize documents / Content-specific Q&A - From $9.99/month
+-   [Remail](https://remail.ai) - 7-day free trial / Draft high-quality email replies / All-in-One AI Assistant - From $9/month
+-   [Read Easy.ai](https://readeasy.ai) - 5 requests per month / Make text easy to read / Microsoft Office Add-ins / Chrome Extension - $2.99/month
+-   [Narrator](https://narratorapp.co) - Convert eBooks to audiobooks / Support multiple eBook formats / Create book summaries
+-   [Katalog](https://usekatalog.com) - Free during public beta / Save articles from the web / Listen with AI narration / Voice interaction -
+-   [Sider](https://sider.ai) - 30 Basic Credits/Day / AI Chat, Reading & Writing Assistance, Image Generation - From US$ 8.3/month
+-   [Yomitai](https://yomitai.app) - Read Japanese text in images / Instant point-and-click dictionary / Color-coded notes for quick lookup / No Sign-Up required for demo
+-   [Side Reader](https://www.side-reader.com) - Free 3 PDF uploads per day / Read and chat with PDFs in sidebar / AI-powered PDF interaction - From $9.80/month
+-   [Readever](https://www.readever.app) - / AI Reading Assistant / Chat with books / AI-powered highlights
+-   [GPT Reader](https://chromewebstore.google.com/detail/gpt-reader/baeeglojhbnidlbpkmniebknkipgdagm) - Free / High-quality Text-to-Speech / Supports 14 languages / Adaptable theme
+-   [Readable](https://readable.jp) - 1-week free trial / Instant PDF translation / Layout retention / One-click translation - From ¥800/month (annual payment)
+-   [ReadPaper.com](https://chromewebstore.google.com/detail/readpaper-importer/nchidjaafkcjdgdbbdpkpokodiehhcdg) - Free 500 essays / Collect, organize, annotate papers / AI-Driven reader / Search with IDEA-Knowledge-graph
+-   [NaturalReader](https://chromewebstore.google.com/detail/naturalreader-ai-text-to/kohfgcgbkjodfcfkcackpagifgbcmimk) - Unlimited Free Voices, 20 mins/day Premium, 5 mins/day Plus / AI Powered Smart Reader / 150+ Voices across 20+ Languages
+-   [FunBlocks AI](https://chromewebstore.google.com/detail/funblocks-ai-your-ultimat/coodnehmocjfaandkbeknihiagfccoid) - 40 free credits + 10 daily credits / AI Writing / AI Reading
+-   [Clipboard TTS](https://www.clipboardtts.com) - 7-day Free Trial / One-step clipboard scanning and reading / High-quality natural voices - From £4.49/month
+-   [Oyomi - Japanese Reader](https://apps.apple.com/app/id1474251984) - Free / Grammar analysis / Semantic analysis / Web content parsing - From $0.99/month
+-   [Speechify](https://speechify.com) - Text to speech / AI Voice Studio / Celebrity voices
+-   [Luvvoice](https://luvvoice.com) - 20,000 characters per month / Text to Speech / AI Voice Generator / No login required - From $4.99/month
+-   [NaturalReader](https://www.naturalreaders.com) - Free / AI Text to Speech / Voice Cloning
+-   [BiRead](https://www.biread.com) - Translate any website into bilingual / AI-powered translation - From $2.9 USD (one-time payment)
+-   [Crikk](https://crikk.com) - 10,000 Characters free / Turn Text, PDFs, and Images into Clear Audio / Most Natural Sounding AI Voices / No login sign up required - From $14/month
+-   [Explainpaper](https://www.explainpaper.com) - Free / Highlight text for explanations / Upload and save papers / Ask follow-up questions - From $12/month
+-   [Voice Out](https://voiceout.app) - Free plan / Read aloud any Google Doc, PDF, webpage, or book / Supports 60+ languages & 100+ voices / Designed to respect your privacy - From $3/month
+
+### AI Lesson Plan Generator
+
+-   [MagicSchool](https://www.magicschool.ai) - Free forever plan / 80+ AI teacher tools / saves up to 10 hours per week - From $99.96/year
+-   [Roshi](https://www.roshi.ai) - 5 lessons per month / Generate summaries, vocabulary lists, questions, and activities / Fully voiced dialogues with custom voices - From $14.00/month
+-   [LessonPlans.ai](https://www.lessonplans.ai) - AI-powered lesson plan generator / Instantly generate high-quality lesson plans - From $29.40/year
+-   [SmartPrep.AI](https://smartprep.ai) - 5 lesson bundles/month / AI Lesson Plan Generator / Generate class activities, resources, and assessments - From $4.9/month
+-   [To Teach](https://www.to-teach.ai) - Free 5 Exercises, 3 Worksheets, 2 Lesson Plans/month / Create personalized learning experiences / Plan lessons, exercises, and worksheets - From $6/month
+-   [Supreme Plans](https://www.supremeplans.com) - AI-generated detailed, personalized plans / various categories (business, lesson, meal, travel, etc.)
+-   [Redmenta](https://redmenta.com) - Create interactive worksheets / Assess student assignments / Adjust activities
+-   [Teachally](https://teachally.com) - 10+ AI-driven lesson plans free / Standards-aligned lesson plans / Differentiated Instruction / Dynamic Assignments & Assessments
+-   [PlanitTeachers](https://planitteachers.ai) - AI-generated lesson plans / Personalized resources / Automated grading
+-   [Best SAT Score](https://www.bestsatscore.com/?via=toolify.ai) - 3 Free Full-length Mock Test / Adaptive Full-Length SAT Practice Tests / Expert-Curated SAT Question Bank - From $19.99 for 1 Adaptive DSAT Test
+-   [Curipod](https://curipod.com) - Unlimited lessons / Interactive lessons / AI lesson generation
+-   [Twee](https://twee.com) - 5 trial runs / Generate lesson materials / AI assessment / - From $6.50/month
+-   [Curriculum Genie](https://chromewebstore.google.com/detail/curriculum-genie/jbhknkdnmmcipjcfjngiojllgbgolmao) - Free to use / Adapt Lessons with Ease / Create Custom Lessons from Scratch
+-   [Khanmigo](https://khanmigo.ai) - Free for teachers / AI-powered teaching assistant & tutor / personalized tutoring & homework help
+-   [Mindsmith](https://www.mindsmith.ai) - 450 AI credits at signup / AI-assisted design tools / Convert documents to eLearning / Real-time collaboration - From $39/month
+-   [Educator Lab](https://educatorlab.org) - AI-Powered Lesson Plans & Assessments / Download PDF & Doc Files
+-   [QuizRise](https://www.quizrise.com) - Free 3 quizzes per month / AI-Powered Quiz Generation / Flashcard Creation / Multiple question types - From $7.99/month
+-   [ClassroomIO](https://classroomio.com) - Generous free plan / Open Source LMS / Simplified Course Management / AI Support
+-   [Nolej](https://nolej.io) - Get started for free / Transform content into diverse learning activities / Export to any platform / Secure and accurate content generation
+-   [Buddiz AI](https://www.buddiz.ai) - Free for Teachers / AI-Driven Tailored Solutions / Burnout Prevention / Comprehensive AI Tools - Free
+-   [Learnbase](https://learnbase.app) - One time 10 AI Credits / AI-driven personalized learning / Organize notes and resources - From $14.99/month
+-   [AI Teacha](https://aiteacha.com) - Lesson Plan Generator / Assessment Generator / Curriculum Design - From $5/month
+-   [Duration](https://duration.ai) - Build, sell, and personalise learning plans / AI-powered personalised learning paths
+-   [eSkilled AI Course Creator](https://aicoursecreator.eskilled.io) - Generates course outlines & lesson plans / Builds interactive online courses / SCORM e-Learning Authoring
+-   [Teach Catalyst AI](https://teachcatalystai.com) - 7-Days Trial / Create teaching and classroom management materials in minutes / Effortless Classroom Management - From $7/month
+-   [EverLearns](https://generator.everlearns.com) - Free course curriculum generation / Create online courses with AI in 5 minutes / Edit & create interactive content - From $7.5/month
+-   [HelpMeTeach](https://helpmeteach.ai) - Free 5 generations / Lesson Plans / Assessments / Reports - From $11.95/month
+-   [EverLearns](https://creator.everlearns.com) - Free curriculum generation / AI course generation in 5 minutes / Turn materials into courses - From $7.5/month (billed yearly) for 3 published courses
+-   [StudyWithGPT](https://www.studywithgpt.com) - Tailored tutorials & lesson plans / Breaks down every knowledge point / 24/7 AI full-stack tutor
+-   [QuizBot.ai](https://quizbot.ai) - 50 questions free / AI Question Generator / Generates questions from various sources (PDFs, videos, images, links) - From $9.5/month
+-   [Vertech Academy](https://www.vertechacademy.ca) - Free demo / AI prompts for students and teachers / Understand hard subjects / Create lessons and quizzes - From $49 CAD
+-   [Mexty](https://mexty.ai) - 10 credits (one time) / AI-powered SCORM-compliant authoring tool / Build interactive courses and quizzes - From €9/month
+-   [Twistly](https://twistly.ai) - Create presentations in PowerPoint / Convert content to slides / Enhance slides with AI
+-   [Porosheets](https://porosheets.com) - Free trial with 5 AI generations / Worksheet Generation / Rubric Generation / Lesson Plan Generation
+
+### AI Article Summarizer
+
+-   [Kome AI](https://kome.ai) - 5 summary credits / AI-Powered Summarizer / Bookmark Manager - From $5.99/Month
+-   [AI Summarizer](https://summarizer.org) - AI-powered text summarization / Customizable length & multiple formats - From $3/month
+-   [Clearly Reader](https://clearlyreader.com) - 10 emails/month / Readability / Text-to-Speech (TTS) / AI Reader Assistant - From $4.99/month
+-   [TLDR This](https://tldrthis.com) - Automatic text summarization / Metadata extraction / Ad-free reading experience
+-   [SciSummary](https://scisummary.com) - Free 7-day trial / Summarize scientific articles / AI-Powered Reference Manager - From $6.99/month
+-   [URL to Any](https://www.urltoany.com) - Free / URL conversion / Convert to Markdown, PDF, Images, Text, JSON, XML
+-   [AI Summarizer](https://summarizer.best) - Free / Transforms long articles into clear summaries / Supports 20+ languages / Multiple summary lengths
+-   [Pidgeon](https://pidgeon.news) - 10 trending stories per day / AI-powered summaries / Global Coverage / No Ads
+-   [Synthical](https://synthical.com) - / Simplify research articles / Discover, learn, and share research / -
+-   [ReadPartner](https://readpartner.com) - 5 summaries per week / Summarize Websites, Documents, Videos & Text / Create Custom AI News Digests - From $8/month
+-   [AI Summary Generator](https://summarygenerator.io) - 800 words free / Summarize Text in One Click / Extract Important Information / Customize Summary Length & Style / No Sign-Up required - From $3.95/weekly
+-   [Brevity](https://brevity.sh) - 3 free daily summaries / Transform long form content into clear summaries / AI-powered summarization
+-   [Scholarcy](https://www.scholarcy.com) - 1 summary per day / Summarize anything / Understand complex research - From SGD 13.99/month
+-   [Summate.it](https://summate.it) - 10 articles free per month / Summarize web articles - From $3/month when paid annually
+-   [SkimIt.ai](https://www.skimit.ai) - AI summary of any article / Delivered to your inbox / Shareable tweets and LinkedIn post drafts / No Login or Sign Up required
+-   [ReadSomethingSciency](https://readsomethingsciency.com) - Free 3 random papers / Explanations tailored to your level / Explore over 270 groundbreaking papers
+-   [iBrief](https://ibrief.co) - AI-powered article summaries / Effortless sharing / Instant summaries from any webpage
+-   [T.read](https://chromewebstore.google.com/detail/tread-ai-based-reading-as/lhommngnifcjinjamnghcdjcednddhad) - ALL FREE / Article Summarization / Multiple AI Providers / Auto Translation
+-   [VoiceLark](https://voicelark.com) - 7-day free trial / Real-time AI-powered cryptocurrency market sentiment analysis / Content aggregation with news summaries - From $9.99/month
+-   [ChatGPT with Article Summary Generator](https://chromewebstore.google.com/detail/article-summary-with-chat/llkgpihjneoghmffllamjfhabmmcddfh) - One-Click Summarization / Unrestricted Summaries
+-   [Kimi AI Summarizer](https://chromewebstore.google.com/detail/kimi-copilot-%E7%BD%91%E9%A1%B5%E6%80%BB%E7%BB%93%E5%8A%A9%E6%89%8B/icmdpfpmbfijfllafmfogmdabhijlehn) - Free / Summarize web content / Summarize Bilibili videos
+-   [EasyRead.AI](https://chromewebstore.google.com/detail/easyreadai-reading-assist/gphkbeidldbdedahhcffdfmdmkaddcca) - Article summaries & mind maps / AI perspectives / Content & YouTube translation
+-   [Ausum](https://chromewebstore.google.com/detail/ausum/ehdnmcmfpbefncmgehgjflfijdogcobj) - Audio Summaries / Instant Smart Summaries / Ad-Free Experience / No Sign-Up Required
+-   [Pods - Minimal RSS News Reader](https://apps.apple.com/us/app/pods-minimal-rss-news-reader/id6478560203) - Unlimited reading / Minimalist RSS feed reader / AI-powered personalized summaries / Video podcasts - From $1.99/month
+-   [fBookmarks](https://chromewebstore.google.com/detail/fbookmarks-personalized-a/hedcpekonpcaoohgampldaifepgkkdbp) - Free 5 bookmarks per week / AI summary of articles / Bulletpoint summaries / Inbox delivery
+-   [The Gist - Summarized News](https://apps.apple.com/ca/app/the-gist-summarized-news/id6471227626) - AI-generated concise news summaries / Personalized news feed / Multisource verification
+-   [Ask & Summarize](https://apps.apple.com/us/app/ask-summarize/id6446225669) - Summarizes web articles / AI on Apple Watch / No Login required - From $3.99/month
+-   [Essence](https://chromewebstore.google.com/detail/essence-read-smarter/hadahojdmedaiceckgdidakkppoghfci) - Quick and accurate summaries of long web articles / Listen to the audio summary / No signup required
+-   [Gist AI](https://www.gistai.tech) - Unlimited Free / Summarize Websites, PDFs & YouTube videos / No length restrictions
+-   [QuickReadAI](https://www.quickreadai.com) - Up to 50K words processed a month free / One-click summary of anything / Chat with the page - From $7/month
+-   [ArXiv Pulse](https://www.arxivpulse.com) - 7-day trial for $1 / AI-generated summaries of arXiv preprints / Tailored research interests / Consistent inbox delivery - From $15/month
+-   [Surfed](https://surfed.app) - Unified History & Bookmark Manager / Personal Search Engine for History & Links
+-   [Samurai AI](https://gosamurai.ai) - Free trial / AI summaries for articles, YouTube, TED talks / Save time & extract key insights
+-   [WPSummarize](https://wpsummarize.com) - 7-day free trial / One-click TLDRs for WP posts / SEO friendly / No AI hallucinations - From $9 (one-time payment) for 1 site
+-   [Nex](https://www.nex.social) - 2 quotas per day / YouTube video summaries & timelines / Article summaries & highlights - From $2.50/month
+-   [GOAT AI](https://www.goat-labs.com) - 10 summaries/month / One-click AI summaries for News, Research, and Videos - $14.99/month
+-   [SmartRecaps](https://smartrecaps.com) - AI-powered news summaries / 1-minute summaries - From $10 USD (one-time payment)
+
+### AI Question Generator
+
+-   [Essay Grader AI](https://essay-grader.ai) - 10 essays per month free / Grade essays using AI / Specific feedback / Magic AI tools / No credit card required - From $7.99/mo
+-   [Weavely](https://www.weavely.ai) - Unlimited forms & responses for free / AI form generation & styling / Smart content creation - From €180/year
+-   [Testportal](https://testportal.net) - AI-powered Question Generator / Automated Grading / Comprehensive Insights & Analytics
+-   [Quizgecko](https://quizgecko.com) - 1 AI Lesson monthly / AI Quiz Maker / AI Flashcard Generator - From $16/month
+-   [Parlay Ideas](https://parlayideas.com) - AI-powered class discussions / AI-generated prompts
+-   [kwrds.ai](https://kwrds.ai) - 10 AI Research queries per month / AI Keyword Research / AI-powered PAA answers - From $39/month
+-   [Questgen](https://www.questgen.ai) - 20 Free Runs / Generate quizzes from text, PDFs, webpages, videos & more / Supports multiple quiz types - From $15/month
+-   [Unearthed](https://unearthed.app) - Free / Auto sync unlimited Kindle highlights and notes / AI analysis for deeper insights - From $5/mo
+-   [Yippity](https://yippity.io) - 1 Free AI quiz generation per month / Transform text into quizzes, flashcards, and study materials / Multiple Question Types (Multiple Choice, True/False, Open-ended, Fill-in-the-Blank) - From $7.99/month
+-   [Edusign](https://edusign.fr) - Attendance management / Document signatures / Online questionnaires - From 39€/month (200 signatures/month)
+-   [Studygenie](https://studygenie.io) - Free 3 rounds/mo / AI Quizzes & Flashcards / AI answer explanations - From $13.99/mo
+-   [Interviews by AI](https://interviewsby.ai) - 3 questions per month / Tailored interview questions / Instant AI feedback - From $9/month
+-   [QuizRise](https://www.quizrise.com) - Free 3 quizzes per month / AI-Powered Quiz Generation / Flashcard Creation / Multiple question types - From $7.99/month
+-   [Workbookly](https://workbookly.app) - 10 worksheets/month for free / YouTube videos to PDF / online practice worksheets / AI-powered questions - From $19/month
+-   [ScholarRank](https://www.scholarrank.com) - AI based question generation 5 credit / AI Question Generation / Test Scheduling - From $49/month
+-   [BlockSurvey](https://blocksurvey.io) - Free 3 AI survey creations/yr / Privacy-First Surveys / AI-powered surveys / End-to-End Encryption - From $29/month
+-   [InterviewPal](https://www.interviewpal.com) - 3 credits daily / AI interview prep / Real interview questions from top companies - From $1.99/week
+-   [Question Maker AI](https://apps.apple.com/app/question-maker-ai/id6450134991) - Free for seven days / Generate Question Paper from text automatically / Edit, Save, Merge and Shuffle Question Papers - From $1.99/month
+-   [QuizWhiz](https://www.quizwhiz.ai) - 20 Runs free / Generates MCQs from any text / AI quizzes and notes from text, PDFs, or topics - From $9/month for 1000 Runs
+-   [PDFToQuiz](https://www.pdftoquiz.com) - Free 1 PDF upload (20 page limit) / Turn PDFs, URLs, or text into quizzes / Multiple Choice, Fill in the Blank, or True/False questions - From $8.99/month
+-   [Examify AI](https://www.examify-ai.com) - Generate and grade 5 papers per month / Personalised question papers / Instant grades and expert-level feedback - From £5.99/month
+-   [TurinQ.com](https://turinq.com) - 14-day free trial with 10 AI Credits / AI Question and Quiz Maker / Generate questions from various materials / No Sign-Up required - From $4.20/month
+-   [Golden Record](https://www.goldenrecord.app) - 1 album up to 5 questions free / Capture loved ones' stories / AI-generated story prompts
+-   [Reinforz](https://www.reinforz.ai) - 150 RZC Credits free / AI Question Generation / Detailed Performance Reports / Leaderboard - From $15/month
+-   [Hearify Quiz Generator](https://hearify.org) - Free up to 5 quizzes / AI quiz generator from PDF, Video & Text / Customize questions & track performance / Create quizzes in minutes
+-   [Keywrds.ai](https://keywrds.ai) - 1500 credits free / AI-powered keyword research / Content ideation / PAA answer generation - From $19/month
+-   [AIQuizGen](https://aiquizgen.com) - AI-powered Quiz Generation from Topic, Text, or PDF / Diverse Question Types
+-   [Survia](https://survia.io) - 7 day trial / AI survey builder / Share Everywhere - From $19/month
+-   [GradesAI](https://gradesai.com) - Free access / Predictive Exam Generator™ / AI-driven Study Tools
+-   [QuizBot.ai](https://quizbot.ai) - 50 questions free / AI Question Generator / Generates questions from various sources (PDFs, videos, images, links) - From $9.5/month
+-   [SyncStudy](https://syncstudy.app) - Generate 2 quizzes daily / AI-powered quiz generation from documents / Share quizzes with friends - From $3.99/mo (billed yearly)
+-   [Chisquares](https://www.chisquares.com) - Free 1 Simple Survey / Instantly Generated Representative Samples / Advanced Sample Size Calculations - From $49/month
+-   [StarQuiz](https://www.starquiz.ai) - AI-powered assessment creation / Actionable feedback & analytics / Improve student grades
+-   [QuizTok](https://quiz-tok.com) - 100 credits for free / AI-Generated Quiz Questions / Generate Voice Overs - From $5/month
+-   [PrepAI](https://www.prepai.in) - 15-day free trial / AI-based question generation / Automated test conducting & grading - From $19.99/month
+-   [QuizzMe](https://www.quizzme.ai) - Free / Turn study materials into interactive lessons / AI-powered testing with instant feedback / Track progress & identify weak spots
+
+### AI Voice Translator
+
+-   [DeepL](https://deepl.com) - 3 non-editable file translations per month / Accurate machine translation / Text & document translation - From $8.74/month
+-   [Vidnoz AI](https://www.vidnoz.com/video-translate.html?insur=en_md_toolify2) - Free 3 min/day / Video translation to 140+ languages / Natural voice clone & lip-sync - From $19.99/mo
+-   [Lara Translate](https://laratranslate.com) - Free up to 5,000 characters/day / Text & Document Translation / Interpreter - From €9/month
+-   [PolyPal](https://polypal.ai) - Free 30 minutes usage / Real-time translation in 43 languages / Ultra-high accuracy & Millisecond-level delay
+-   [legml.ai](https://legml.ai/mo) - Real-Time Audio Translation for Teams / Supports over 10 languages
+-   [Telelingo](https://telelingo.io) - Seamless real-time translation / Wide language coverage (80+ languages) / Pay-as-you-go billing - From $0.21/min
+-   [BlipCut AI Video Translator](https://videotranslator.blipcut.com) - AI Video Translation to 130+ languages / Voice Cloning / Lip Sync / No Sign Up required - From $25/month
+-   [CSC Voice AI](https://www.cscvoice.ai) - Real-time multilingual voice translation & transcription / High-accuracy speech recognition / Microsoft Teams integration
+-   [Ringflow](https://www.ringflow.com) - 14 Days Free Trial / AI-Powered Cloud Communication / Omnichannel Support / Real-Time Analytics - From $9.99/month
+-   [OneAccord](https://www.oneaccord.ai) - Free credits available / Live AI translation for churches / Supports 40+ languages / Moderation for 100% accuracy - From $150/month for 5 hours
+-   [Ztalk.ai](https://ztalk.ai) - 40 minutes of translation per month free / Real-time Voice Translation / Universal Compatibility - From $499/month
+-   [Pinch](https://startpinch.com) - Free plan / Real-time AI Voice Translation / 30+ Languages / Real-time Lipsync
+-   [Transmonkey AI Translator Suite](https://www.transmonkey.ai) - Free trial credits / Document, Image, Video Translation / Preserves Original Layout / Dubbing & Subtitle Translation - From $8.3/month
+-   [izTalk](https://iztalk.ai) - Real-Time Voice Translation / Multilingual Messaging / AI Clone Voice
+-   [Mirai Translate](https://miraitranslate.com) - High-accuracy AI translation / High-security cloud translation / Domain-specific models
+-   [Speakshift.ai](https://speakshift.ai) - Real-time voice translation / Video dubbing
+-   [Felo 瞬訳](https://apps.apple.com/jp/app/felo-translator/id6447256759) - Free 2 hours/day / Real-time simultaneous interpretation / Supports 13+ languages - From ¥110/day
+-   [Verbalate](https://verbalate.ai) - 1st minute free / Video translation / Voice clone / Multi-language audio tracks - From $9/month for 10 mins
+-   [YOUS - Messenger with AI-based translator](http://yous.ai) - 5 free minutes/month for meetings and chats / AI-based translation for meetings, calls & chats / 17 languages translation - From $14.99/month
+-   [Langfinity](https://byrdhouseapp.com) - Try for free / AI-powered real-time translation / Multilingual meeting notes & recordings
+-   [AudioGenius.ai](https://www.audiogenius.ai) - 7-day free trial / Voice Cloning / Voice Translation - From $9.99/month
+-   [Translate Now - Translator](https://apps.apple.com/us/app/translate-now-translator/id1348028646) - Free version available / Text, Photo, Voice Translation / 110+ Languages - From $4.99
+-   [MintyCookie](https://mintycookie.com) - Free: Add up to 3 friends / AI-powered matchmaking / Universal Translator - From $20 CAD for 3 months
+-   [AI Voice Generator by AIVocal](https://aivocal.io) - Free trial / 1000+ free voices / AI Voice Generator / Voice Cloning / No Sign-Up required
+-   [AI Phone](https://www.aiphone.ai) - / Live Call Translation / Live Call Transcription / Smart Phone Number
+-   [TransGull](https://transgull.com) - Free 30,000 characters daily / Conversation translation / Simultaneous interpretation / Image & Video translation
+-   [Translingo](https://translingo.cc) - Free / Live Translation for Events / Fast Transcription / AI-powered Recaps
+-   [idict](https://idict.io) - 7-day free trial / Voice Clone Translation / Object Detection / Photo Translation - From $6.99/Month
+-   [Jolii AI](https://www.jolii.ai) - 7 Days FREE Trial / AI-powered personalization / Learn with Netflix & YouTube / -
+
+### AI Tutorial
+
+-   [Futurepedia](https://futurepedia.io) - Find The Best AI Tools & Software / Comprehensive directories and guides
+-   [PTE APEUni](https://apeuni.com) - Free / AI Scorings / PTE Study Tools
+-   [Brilliant](https://brilliant.org) - Intro lessons free / Interactive problem solving / Bite-sized lessons - From SGD 17.25/month
+-   [guidde](https://guidde.com) - Free Extension / AI-powered video documentation / Step-by-step guides
+-   [OpenAI Academy](https://academy.openai.com) - Free enrollment / AI knowledge & skills / Expert & Community-Led Learning / Connections & Collaboration
+-   [Why Try AI](https://www.whytryai.com) - 2x weekly posts free / Beginner-friendly AI tools / Practical AI tips & tricks - From $5/month
+-   [Dubble](https://dubble.so) - Unlimited guides free / Step-by-step guides / Videos and screenshots - From $18/month
+-   [ProjectAI](https://projectai.in) - Limited free projects / Learn through structured, real-world projects / Step-by-step guidance for tough concepts - From $6/month
+-   [Hexus](https://www.hexus.ai) - Upto 3 flows free / AI-Powered Product Demos / Videos & Guides - From US$49/month
+-   [Atheros Learning](https://atheros.ai) - Learn from industry experts / Video lectures & personalized mentoring / Lifetime access - From $29.00 (E-book)
+-   [Wizardshot](https://wizardshot.com) - Free / Create AI-powered step-by-step tutorials / Record screen & automatically generate guides / Export as PDF/DOC or embed into knowledge base
+-   [Guide Magnet](https://guidemagnet.com) - Upto 3 guides / Create interactive demos and guides / AI-powered smart editing - $87 /lifetime
+-   [Machine Learning at Scale](https://machinelearningatscale.com) - Free weekly insights / Learn ML systems from top tech companies / Deep dives into RAG, LLM, ML System design
+-   [Castofly](https://chromewebstore.google.com/detail/castofly/fgknpneanajjbnpbfboibfjigffgched) - Turn processes into step-by-step guides, interactive demos, and product videos / Automate documentation & SOPs 20x faster
+-   [CodeVideo](https://codevideo.io) - 50 Free Tokens / Create educational software content in minutes / Convert code snippets into multi-format educational content - $2 for 10 tokens
+-   [Steppit](https://www.steppit.com) - Free (up to 4 units, 6 sessions/unit) / AI-assisted course builder / Sell online courses - From $25/month
+-   [Wisbox.ai](https://wisbox.ai) - 7 days free trial / AI guidance for complex macOS apps / Step-by-step real-time help
+-   [2 Weeks AI](https://2weeks.ai) - Free course / Beginner-friendly AI learning / Practical real-world AI skills / No Login Required
+-   [20paths](https://20paths.com) - Upto 2 publically shared Demos & Guides free / Create interactive product demos / AI-powered product demos - From $35/month
+-   [30DaysOfAI](https://www.100school.com/ai-challenge) - Free AI Audit / Become an AI-First professional / Fast-track your team's AI skills - From $5k for 30 participants
+-   [100DaysOfNoCode](https://www.100school.com/atomic-challenges/14daysofai) - Free 14-day AI learning program / Daily 30-minute bitesized lessons / Practical AI skills
+-   [Trupeer](https://www.trupeer.ai) - 3 AI credits for 10 days / AI generated product videos / AI generated user guides - From $15/month
+-   [Unsloth AI](https://unsloth.ai) - Free / Open source fine-tuning & RL for LLMs / 30x faster training / 90% less memory usage
+-   [Guideflow](https://guideflow.com) - 5 guideflows free / Create interactive demos / AI Demo Automation - From $35/month (unlimited guideflows)
+-   [Clueso](https://www.clueso.io) - 7-day free trial (15 mins video, 15 articles) / AI-powered product videos / step-by-step documentation / No credit card required - From $120/month
+-   [Kopyst](https://kopyst.com) - Free 10 Documents, 10 Videos, 10 Pages / Record any process into video & detailed guide / AI-powered documentation - From $15/month
+-   [SAT Sphere](https://www.satsphere.com) - 1 course module free / Comprehensive lessons & practice tests / AI-powered personalized study plan / SAT AI companion & Power-ups - From $10/month
+-   [FocuSee](https://gemoo.com/focusee) - Free trial (export with watermark) / Record eye-catching videos / Automatic screen zoom - From $39.99 / 30-day plan
+-   [WowTo](https://wowto.ai) - Free 15 videos / AI video creation / Video knowledge base - From $25/month
+-   [CandideAI](https://candideai.com) - / Step-by-step online AI courses / Create cool things & unleash creativity - From $0.00
+-   [Elements of AI](https://elementsofai.de) - Free online course / Learn AI basics / No math or programming required
+-   [Hi-fi Ai](https://hi-fiai.com) - Explore, compare, and integrate AI tools / Expansive collection of AI tools, courses, and tutorials
+-   [StudyWithGPT](https://www.studywithgpt.com) - Tailored tutorials & lesson plans / Breaks down every knowledge point / 24/7 AI full-stack tutor
+-   [ai LaMo](https://www.ailamo.com) - Free / Bite-sized lessons / Practical AI skills / Game-like features
+-   [ZumaPiano](https://chromewebstore.google.com/detail/zumapiano/jkjfhnkojkogodcfloiloeakkjieiijo) - Free 2 songs / AI-powered piano learning / Transforms songs into tailored learning guides - From $19.99 (one-time payment)
+-   [best AI tools](https://navai.me) - Free / Curated Selection of AI Tools / Expert Guides and Reviews - Free
+-   [Promptstacks](https://www.promptstacks.com) - Free vetted prompts / Community for prompt sharing & feedback / AI & Prompt Engineering courses
+-   [Fluidworks](https://fluidworks.ai) - 3 months free / Live video AI agent / Personalized onboarding / Real-time Q&A - From $6,000/year for Single Agent
+-   [soradeo.com](https://soradeo.com) - 10 Sora 2 preview renders each month / AI video guides / Invite code tracking / Watermark removal - From $2/month
+-   [Accoladeum](https://www.accoladeum.io) - AI-powered personal tutoring / Dynamic quizzes & assessments / Shareable digital credentials
+-   [Midlibrary](https://midlibrary.io) - Free / Midjourney AI artistic styles & SREF codes library / Midjourney Guides + Tools
+-   [AppMaster](http://keigo.app) - Free 50 External API Requests / Build native web & mobile apps / Automate business processes / Generate source code - From $195/month
+-   [AI Video Hub](https://videoaihub.ai) - Free trial available / Create high-quality videos from text prompts / Explore and Compare Leading AI Video Tools
+
+### AI Knowledge Graph
+
+-   [Connected Papers](https://www.connectedpapers.com) - 5 graphs per month free / visual overview of academic field / discover relevant prior and derivative works - From $3/month
+-   [ERP.AI](https://www.erp.ai) - Free 10 Users, 1,000 Agent Credits, 1,000 Records / AI-Powered Applications / Autonomous AI Agents - From $9/month
+-   [Writer](https://writer.com) - 14-day free trial / AI writing platform for teams / End-to-end agent builder platform / No credit card required - From $29/month
+-   [InfraNodus](https://infranodus.com) - 14-day free trial / AI-powered Insight Generation / Content Gap Discovery - From €12/mo
+-   [Minicule](https://minicule.com) - 1 Million Tokens per month / Build scientific knowledge graphs / Visualize complex research data - From $49.00/month
+-   [Inlinks® Entity SEO Tool](https://inlinks.net) - Optimize content twice a month, internally link 25 pages / Content optimization / Automated internal links / Social media tools - From US$49/m
+-   [AskNews](https://asknews.app) - Read news briefs & chat with open-source models free / Bias-minimized, transparent news / AI-powered insights & analytics - From $7.99/month
+-   [Blobu.ai](https://blobu.ai) - Free / Book summaries / Mashup Books / Chat with summaries
+-   [Graph.one](https://graph.one) - Free / Map your professional network / Discover warm intro paths
+-   [Grain AI](https://www.grain99.cc/en/home?hmsr=toolify) - Free 1,000 AI credits per month / Create Fun, Interactive Lessons / Generate 10+ teaching materials - From $9.9/month
+-   [Recall](https://www.getrecall.ai) - 10 free content summaries & chats / Summarize content / Organize into a knowledge graph / Enhance memory - From $7/month
+-   [Venturefy](https://www.venturefy.com) - AI Relationship Mapping / Lead Generation / Sales Prospecting / No Credit Card or Initial Signup Required
+-   [ConceptMap AI](https://www.conceptmap.ai) - Completely Free / Chat-Based Creation / Instant Visualization / No signup required
+-   [AI Graph Maker](https://aigraphmaker.net) - 10 free credits daily / AI-powered chart generation / Multiple chart types - From $4/month (500 credits)
+-   [Liminary](https://liminary.io) - Open Beta / AI super-powered memory / Relevant recall
+-   [Village](https://village.do) - 10 AI searches with limited results / Warm intros to top talent, investors, and customers / AI search - From $19/month
+-   [InLinks](https://inlinks.com) - Free 2 content optimizations, 25 internal links / Automate internal links / Schema automation / Content optimization - From US$49/m
+-   [ChatBees](https://www.chatbees.ai) - 5 Free Credit / AI Customer Support Automation / Knowledge Graphs from your data - From $25/month (billed annually)
+-   [Dawiso](https://www.dawiso.com) - Governed, Trusted Data Access / Time Savings / Simplicity - From €245/month
+-   [Morphik](https://www.morphik.ai) - 200 pages, 3 Research-Agent calls/mo free / AI-native knowledge base for complex data / Visual-first Retrieval & Deep Research - From $35/month
+-   [LearniAI](https://learniai.com) - 100 credits to start / AI Learning Assistant / Visual Mind Mapping - From $9.99/month
+
+[⬆️ Back to README](./README.md)
