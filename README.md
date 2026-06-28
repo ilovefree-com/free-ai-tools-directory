@@ -8,493 +8,30 @@
 
 ---
 
-<details>
-<summary>📖 Table of Contents (22 categories · 458 sub-categories, click to expand)</summary>
+**📖 Table of Contents — 22 categories**
 
-- [⬆️ Back to top](#free-ai-tools-directory--i-love-free)
-
-- [Chatbots & Virtual Companions | I Love Free](#chatbots--virtual-companions--i-love-free)
-  - [AI Chatbot](#ai-chatbot)
-  - [AI Character](#ai-character)
-  - [AI Girlfriend](#ai-girlfriend)
-  - [AI Roleplay](#ai-roleplay)
-  - [AI Dating Assistant](#ai-dating-assistant)
-  - [AI Joke](#ai-joke)
-  - [AI Anime Girlfriend](#ai-anime-girlfriend)
-  - [Dirty Talking AI](#dirty-talking-ai)
-  - [AI Boyfriend](#ai-boyfriend)
-- [Writing & Editing | I Love Free](#writing--editing--i-love-free)
-  - [AI Writing Assistants](#ai-writing-assistants)
-  - [AI Writing](#ai-writing)
-  - [AI Repurpose](#ai-repurpose)
-  - [AI Grammar Checker](#ai-grammar-checker)
-  - [AI Prompt Generator](#ai-prompt-generator)
-  - [AI Text Generator](#ai-text-generator)
-  - [AI Story Generator](#ai-story-generator)
-  - [AI Summarizer](#ai-summarizer)
-  - [AI Paraphraser](#ai-paraphraser)
-  - [AI Message Generator](#ai-message-generator)
-  - [AI Subtitle Generator](#ai-subtitle-generator)
-  - [AI Caption Generator](#ai-caption-generator)
-  - [Prompt Engineering](#prompt-engineering)
-  - [AI Chat Generator](#ai-chat-generator)
-  - [AI Book Writing](#ai-book-writing)
-  - [AI Novel](#ai-novel)
-  - [AI Blog Generator](#ai-blog-generator)
-  - [AI Ebook Generator](#ai-ebook-generator)
-  - [AI Essay Writer](#ai-essay-writer)
-  - [AI Rewriter](#ai-rewriter)
-  - [AI Product Description Generator](#ai-product-description-generator)
-  - [AI Email Writer](#ai-email-writer)
-  - [AI Copywriting](#ai-copywriting)
-  - [AI Script Writing](#ai-script-writing)
-  - [AI Thesis Generator](#ai-thesis-generator)
-  - [AI Proofreading](#ai-proofreading)
-  - [AI Name Generator](#ai-name-generator)
-  - [AI Cover Letter Generator](#ai-cover-letter-generator)
-  - [AI Quotes Generator](#ai-quotes-generator)
-  - [AI Image Description Generator](#ai-image-description-generator)
-  - [AI Job Description Generator](#ai-job-description-generator)
-  - [AI Description Generator](#ai-description-generator)
-  - [Resume AI](#resume-ai)
-  - [AI Title Generator](#ai-title-generator)
-  - [AI Newsletter Generator](#ai-newsletter-generator)
-  - [AI Text Message Generator](#ai-text-message-generator)
-  - [AI Text Classifier](#ai-text-classifier)
-  - [AI Review Generator](#ai-review-generator)
-  - [AI Letter Writer](#ai-letter-writer)
-  - [AI Poem Generator](#ai-poem-generator)
-  - [AI Outline Generator](#ai-outline-generator)
-  - [AI Movie Script Generator](#ai-movie-script-generator)
-  - [AI Creative Writing](#ai-creative-writing)
-  - [AI Fanfic Generator](#ai-fanfic-generator)
-  - [AI Report Writing](#ai-report-writing)
-  - [AI Paragraph Generator](#ai-paragraph-generator)
-  - [AI Love Letter Generator](#ai-love-letter-generator)
-  - [AI Short Story Generator](#ai-short-story-generator)
-  - [AI Inspirational Quotes](#ai-inspirational-quotes)
-  - [AI Dialogue Generator](#ai-dialogue-generator)
-  - [AI Spell Check](#ai-spell-check)
-  - [AI Slogan Generator](#ai-slogan-generator)
-  - [AI Sentence Generator](#ai-sentence-generator)
-  - [AI Plot Generator](#ai-plot-generator)
-  - [Headlines AI](#headlines-ai)
-- [Image Generation & Editing | I Love Free](#image-generation--editing--i-love-free)
-  - [AI Image Generator](#ai-image-generator)
-  - [AI Photo Editor](#ai-photo-editor)
-  - [AI Background Remover](#ai-background-remover)
-  - [AI Face Swap Generator](#ai-face-swap-generator)
-  - [AI Image Upscaler](#ai-image-upscaler)
-  - [AI Image Enhancer](#ai-image-enhancer)
-  - [AI Headshot Generator](#ai-headshot-generator)
-  - [AI Watermark Remover](#ai-watermark-remover)
-  - [AI Clothing Removal](#ai-clothing-removal)
-  - [AI Photo Enhancer](#ai-photo-enhancer)
-  - [AI Eraser](#ai-eraser)
-  - [AI Signature Generator](#ai-signature-generator)
-  - [Text to Image](#text-to-image)
-  - [Object Remover AI](#object-remover-ai)
-  - [AI Expand Image](#ai-expand-image)
-  - [AI Background Generator](#ai-background-generator)
-  - [AI Product Photography](#ai-product-photography)
-  - [AI QR Code Generator](#ai-qr-code-generator)
-  - [AI Person Generator](#ai-person-generator)
-  - [AI Avatar Generator](#ai-avatar-generator)
-  - [AI Unblur Image](#ai-unblur-image)
-  - [AI Profile Picture Generator](#ai-profile-picture-generator)
-  - [AI Realistic Image Generator](#ai-realistic-image-generator)
-  - [AI Photo Filter](#ai-photo-filter)
-  - [Image to Image](#image-to-image)
-  - [AI Photo Restoration](#ai-photo-restoration)
-  - [Text to Handwriting](#text-to-handwriting)
-  - [AI Colorize](#ai-colorize)
-  - [AI Passport Photo](#ai-passport-photo)
-  - [AI Age Progression](#ai-age-progression)
-  - [AI Map Generator](#ai-map-generator)
-  - [AI Style Transfer](#ai-style-transfer)
-  - [AI Waifu Generator](#ai-waifu-generator)
-  - [AI Crop Image](#ai-crop-image)
-  - [AI Wallpaper Generator](#ai-wallpaper-generator)
-  - [AI Texture Generator](#ai-texture-generator)
-  - [AI Image Combiner](#ai-image-combiner)
-  - [AI Cosplay Generator](#ai-cosplay-generator)
-  - [AI Outpainting](#ai-outpainting)
-  - [AI Inpainting](#ai-inpainting)
-  - [AI Image Sharpening](#ai-image-sharpening)
-  - [AI Yearbook](#ai-yearbook)
-  - [Gender Swap AI](#gender-swap-ai)
-- [Video & Animation | I Love Free](#video--animation--i-love-free)
-  - [AI Video Generator](#ai-video-generator)
-  - [AI Video Editor](#ai-video-editor)
-  - [AI Animation Generator](#ai-animation-generator)
-  - [AI Video Enhancer](#ai-video-enhancer)
-  - [AI Animated Video](#ai-animated-video)
-  - [AI Avatar Video Generator](#ai-avatar-video-generator)
-  - [Long Video To Short Video AI](#long-video-to-short-video-ai)
-  - [Image to Video](#image-to-video)
-  - [AI Short Video Generator](#ai-short-video-generator)
-  - [AI Face Swap Video](#ai-face-swap-video)
-  - [Text to Video](#text-to-video)
-  - [AI Vtuber](#ai-vtuber)
-  - [AI Music Video Generator](#ai-music-video-generator)
-  - [AI Video Search](#ai-video-search)
-  - [AI Lip Sync Generator](#ai-lip-sync-generator)
-  - [AI Tiktok Video Generator](#ai-tiktok-video-generator)
-  - [AI UGC Video Generator](#ai-ugc-video-generator)
-  - [AI Video Recording](#ai-video-recording)
-  - [Script To Video AI Generator](#script-to-video-ai-generator)
-  - [AI Movie Generator](#ai-movie-generator)
-  - [AI Video Summarizer](#ai-video-summarizer)
-  - [AI Reel Generator](#ai-reel-generator)
-  - [AI Youtube Video Maker](#ai-youtube-video-maker)
-  - [AI Cartoon Video Generator](#ai-cartoon-video-generator)
-  - [AI Commercial Generator](#ai-commercial-generator)
-  - [AI GIF Generator](#ai-gif-generator)
-  - [AI Stock Video Generator](#ai-stock-video-generator)
-  - [AI Video Upscaler](#ai-video-upscaler)
-  - [Video to Video](#video-to-video)
-- [Music & Audio | I Love Free](#music--audio--i-love-free)
-  - [AI Music Generator](#ai-music-generator)
-  - [AI Vocal Remover](#ai-vocal-remover)
-  - [AI Audio Editing](#ai-audio-editing)
-  - [AI Mastering](#ai-mastering)
-  - [AI Stems Splitter](#ai-stems-splitter)
-  - [AI Song Generator](#ai-song-generator)
-  - [AI Sound Effect Generator](#ai-sound-effect-generator)
-  - [AI Audio Splitter](#ai-audio-splitter)
-  - [AI Lyrics Generator](#ai-lyrics-generator)
-  - [AI Song Cover](#ai-song-cover)
-  - [AI Audio Enhancer](#ai-audio-enhancer)
-  - [Chord AI](#chord-ai)
-  - [AI Midi Generator](#ai-midi-generator)
-  - [AI Singing Generator](#ai-singing-generator)
-  - [AI Melody Generator](#ai-melody-generator)
-  - [AI Rap Generator](#ai-rap-generator)
-  - [AI Beat Generator](#ai-beat-generator)
-  - [AI Noise Cancellation](#ai-noise-cancellation)
-  - [AI Splitter](#ai-splitter)
-  - [AI Text-to-Music](#ai-text-to-music)
-  - [AI Instrumental Generator](#ai-instrumental-generator)
-  - [AI Rap Lyrics Generator](#ai-rap-lyrics-generator)
-  - [AI Song Remixer](#ai-song-remixer)
-- [Voice Generation & Conversion | I Love Free](#voice-generation--conversion--i-love-free)
-  - [AI Transcription](#ai-transcription)
-  - [AI Voice Generator](#ai-voice-generator)
-  - [AI Text-to-Speech](#ai-text-to-speech)
-  - [AI Voice Changer](#ai-voice-changer)
-  - [AI Podcast](#ai-podcast)
-  - [AI Transcriber](#ai-transcriber)
-  - [AI Speech-to-Text](#ai-speech-to-text)
-  - [AI Podcast Editing](#ai-podcast-editing)
-  - [AI Celebrity Voice Generator](#ai-celebrity-voice-generator)
-  - [AI Voice Cloning](#ai-voice-cloning)
-  - [AI Voice Assistants](#ai-voice-assistants)
-  - [AI Dubbing](#ai-dubbing)
-  - [Audio To Text AI](#audio-to-text-ai)
-  - [Tiktok AI Voice Generator](#tiktok-ai-voice-generator)
-  - [AI Voice Enhancer](#ai-voice-enhancer)
-  - [AI Speech Recognition](#ai-speech-recognition)
-  - [AI Voice Over](#ai-voice-over)
-  - [AI Podcast Clip Generator](#ai-podcast-clip-generator)
-  - [AI Speech Synthesis](#ai-speech-synthesis)
-  - [AI Recording](#ai-recording)
-- [Coding & Development | I Love Free](#coding--development--i-love-free)
-  - [AI Developer Tools](#ai-developer-tools)
-  - [AI App Builder](#ai-app-builder)
-  - [AI Website Builder](#ai-website-builder)
-  - [AI API](#ai-api)
-  - [AI Code Assistant](#ai-code-assistant)
-  - [No-Code&Low-Code](#no-codelow-code)
-  - [AI Web Scraping](#ai-web-scraping)
-  - [AI Testing](#ai-testing)
-  - [AI Code Generator](#ai-code-generator)
-  - [AI Browsers](#ai-browsers)
-  - [AI Landing Page Builder](#ai-landing-page-builder)
-  - [AI Code Review](#ai-code-review)
-  - [SQL Query Builder](#sql-query-builder)
-  - [AI Github](#ai-github)
-  - [Log Management](#log-management)
-- [Education & Translation | I Love Free](#education--translation--i-love-free)
-  - [AI Translate](#ai-translate)
-  - [AI Homework Helper](#ai-homework-helper)
-  - [AI Course](#ai-course)
-  - [AI Knowledge Base](#ai-knowledge-base)
-  - [AI Flashcard Maker](#ai-flashcard-maker)
-  - [AI Language Learning](#ai-language-learning)
-  - [AI Teachers](#ai-teachers)
-  - [AI Video Translator](#ai-video-translator)
-  - [AI Math](#ai-math)
-  - [AI Answer](#ai-answer)
-  - [AI Book Summarizer](#ai-book-summarizer)
-  - [AI Image Translator](#ai-image-translator)
-  - [AI Mind Mapping](#ai-mind-mapping)
-  - [AI Coaching](#ai-coaching)
-  - [AI Quiz Generator](#ai-quiz-generator)
-  - [AI Quizzes](#ai-quizzes)
-  - [AI Knowledge Management](#ai-knowledge-management)
-  - [AI Reader](#ai-reader)
-  - [AI Lesson Plan Generator](#ai-lesson-plan-generator)
-  - [AI Article Summarizer](#ai-article-summarizer)
-  - [AI Question Generator](#ai-question-generator)
-  - [AI Voice Translator](#ai-voice-translator)
-  - [AI Tutorial](#ai-tutorial)
-  - [AI Knowledge Graph](#ai-knowledge-graph)
-- [Marketing & Advertising | I Love Free](#marketing--advertising--i-love-free)
-  - [AI Marketing](#ai-marketing)
-  - [AI Sales](#ai-sales)
-  - [AI SEO Tools](#ai-seo-tools)
-  - [AI Sales Assistant](#ai-sales-assistant)
-  - [AI Ad Generator](#ai-ad-generator)
-  - [AI Email Marketing](#ai-email-marketing)
-  - [AI Lead Generation](#ai-lead-generation)
-  - [AI Advertising](#ai-advertising)
-  - [SEO Writing AI](#seo-writing-ai)
-  - [AI Ad Creative](#ai-ad-creative)
-  - [AI Affiliate Marketing](#ai-affiliate-marketing)
-  - [AI Pitch Deck Generator](#ai-pitch-deck-generator)
-  - [AI Shopify Store Builder](#ai-shopify-store-builder)
-  - [AI Digital Marketing](#ai-digital-marketing)
-  - [Google Ads AI](#google-ads-ai)
-  - [AI Reviews](#ai-reviews)
-  - [AI Response Generator](#ai-response-generator)
-  - [AI Email Generator](#ai-email-generator)
-  - [AI Website Designer](#ai-website-designer)
-  - [AI Reply](#ai-reply)
-  - [AI Marketing Plan Generator](#ai-marketing-plan-generator)
-  - [AI Cold Calling](#ai-cold-calling)
-  - [AI Flyer Generator](#ai-flyer-generator)
-  - [Ad Copy](#ad-copy)
-- [Office Productivity | I Love Free](#office-productivity--i-love-free)
-  - [AI Assistant](#ai-assistant)
-  - [AI Search Engine](#ai-search-engine)
-  - [AI Productivity Tools](#ai-productivity-tools)
-  - [AI Agent](#ai-agent)
-  - [AI Presentation Generator](#ai-presentation-generator)
-  - [AI Notes Generator](#ai-notes-generator)
-  - [AI Jobs](#ai-jobs)
-  - [AI Meeting Assistant](#ai-meeting-assistant)
-  - [AI Copilot](#ai-copilot)
-  - [AI Note Taker](#ai-note-taker)
-  - [AI Charting](#ai-charting)
-  - [AI PDF Summarizer](#ai-pdf-summarizer)
-  - [AI PDF](#ai-pdf)
-  - [AI Resume Builder](#ai-resume-builder)
-  - [AI Forms](#ai-forms)
-  - [AI Diagram Generator](#ai-diagram-generator)
-  - [AI PDF Editor](#ai-pdf-editor)
-  - [AI Email Assistant](#ai-email-assistant)
-  - [AI PPT Maker](#ai-ppt-maker)
-  - [AI Documents Generator](#ai-documents-generator)
-  - [AI Calendar](#ai-calendar)
-  - [AI Resume Checker](#ai-resume-checker)
-  - [AI Scanner](#ai-scanner)
-  - [AI Monitor](#ai-monitor)
-  - [AI Document Extraction](#ai-document-extraction)
-  - [AI Schedule Maker](#ai-schedule-maker)
-  - [AI Spreadsheet](#ai-spreadsheet)
-  - [Whiteboard AI](#whiteboard-ai)
-  - [AI Excel Formula Generator](#ai-excel-formula-generator)
-  - [AI Report Generator](#ai-report-generator)
-  - [Excel AI](#excel-ai)
-  - [AI Files](#ai-files)
-  - [AI Scheduling](#ai-scheduling)
-  - [Graph AI](#graph-ai)
-  - [AI Life](#ai-life)
-  - [AI SOP](#ai-sop)
-  - [AI WORD](#ai-word)
-  - [AI Task Management](#ai-task-management)
-- [Business & Management | I Love Free](#business--management--i-love-free)
-  - [AI CRM](#ai-crm)
-  - [AI Project Management](#ai-project-management)
-  - [AI Workflow](#ai-workflow)
-  - [AI Recruiting](#ai-recruiting)
-  - [AI Customer Service](#ai-customer-service)
-  - [AI Interview Assistant](#ai-interview-assistant)
-  - [AI Call Center](#ai-call-center)
-  - [AI Product Manager](#ai-product-manager)
-  - [AI ERP](#ai-erp)
-  - [AI Roadmap](#ai-roadmap)
-- [Business Research | I Love Free](#business-research--i-love-free)
-  - [AI Business Name Generator](#ai-business-name-generator)
-  - [AI Crypto](#ai-crypto)
-  - [AI Consulting](#ai-consulting)
-  - [AI Business Ideas Generator](#ai-business-ideas-generator)
-  - [NFTs](#nfts)
-  - [AI Domain Name Generator](#ai-domain-name-generator)
-  - [Blockchain](#blockchain)
-  - [Web3](#web3)
-  - [AI Company Name Generator](#ai-company-name-generator)
-- [Research & Data Analysis | I Love Free](#research--data-analysis--i-love-free)
-  - [AI Research Tool](#ai-research-tool)
-  - [AI For Data Analytics](#ai-for-data-analytics)
-  - [AI Predictions](#ai-predictions)
-  - [AI Data Mining](#ai-data-mining)
-  - [AI Sports Predictions](#ai-sports-predictions)
-  - [AI Research Papers](#ai-research-papers)
-  - [AI Sports Betting](#ai-sports-betting)
-  - [AI Papers](#ai-papers)
-- [Social Media | I Love Free](#social-media--i-love-free)
-  - [Bio Link](#bio-link)
-  - [AI YouTube](#ai-youtube)
-  - [AI Social Media](#ai-social-media)
-  - [AI Social Media Post Generator](#ai-social-media-post-generator)
-  - [AI Meme Generator](#ai-meme-generator)
-  - [AI Youtube Summary](#ai-youtube-summary)
-  - [AI Instagram](#ai-instagram)
-  - [AI Influencer](#ai-influencer)
-  - [AI Youtube Thumbnail Generator](#ai-youtube-thumbnail-generator)
-  - [AI Twitter](#ai-twitter)
-  - [AI Only Fans](#ai-only-fans)
-  - [AI Hashtag](#ai-hashtag)
-  - [AI Pick-up Lines Generator](#ai-pick-up-lines-generator)
-  - [AI Tweet Generator](#ai-tweet-generator)
-  - [AI Username Generator](#ai-username-generator)
-  - [AI Bio Generator](#ai-bio-generator)
-  - [AI Tiktok](#ai-tiktok)
-  - [AI Model Instagram](#ai-model-instagram)
-  - [AI Facebook](#ai-facebook)
-  - [AI Rizz Generator](#ai-rizz-generator)
-  - [AI Instagram Caption Generator](#ai-instagram-caption-generator)
-  - [Youtube Tags Generator](#youtube-tags-generator)
-  - [AI Social Link](#ai-social-link)
-  - [AI Linkedin Photo Generator](#ai-linkedin-photo-generator)
-  - [AI Linkedin Headshot](#ai-linkedin-headshot)
-- [Art & Creative Design | I Love Free](#art--creative-design--i-love-free)
-  - [AI Graphic Design](#ai-graphic-design)
-  - [AI Art Generator](#ai-art-generator)
-  - [AI Design Generator](#ai-design-generator)
-  - [AI Illustration Generator](#ai-illustration-generator)
-  - [AI 3D Model Generator](#ai-3d-model-generator)
-  - [AI Font Generator](#ai-font-generator)
-  - [AI Beauty](#ai-beauty)
-  - [AI Logo Generator](#ai-logo-generator)
-  - [AI Infographic Generator](#ai-infographic-generator)
-  - [AI Anime Generator](#ai-anime-generator)
-  - [AI Cartoon Generator](#ai-cartoon-generator)
-  - [AI SVG Generator](#ai-svg-generator)
-  - [AI UX Design](#ai-ux-design)
-  - [AI Coloring Book Generator](#ai-coloring-book-generator)
-  - [AI Drawing](#ai-drawing)
-  - [AI Tattoo Generator](#ai-tattoo-generator)
-  - [AI Design Assistant](#ai-design-assistant)
-  - [AI Mockup Generator](#ai-mockup-generator)
-  - [Storyboard AI](#storyboard-ai)
-  - [AI Vector Graphics](#ai-vector-graphics)
-  - [AI Cover Generator](#ai-cover-generator)
-  - [AI Clothing Generator](#ai-clothing-generator)
-  - [AI Color Palette Generator](#ai-color-palette-generator)
-  - [AI Emoji Generator](#ai-emoji-generator)
-  - [AI Hairstyle](#ai-hairstyle)
-  - [AI Business Card Generator](#ai-business-card-generator)
-  - [Image to 3D Model](#image-to-3d-model)
-  - [AI Album Cover Generator](#ai-album-cover-generator)
-  - [AI Icon Generator](#ai-icon-generator)
-  - [AI Comic Generator](#ai-comic-generator)
-  - [AI T Shirt Design](#ai-t-shirt-design)
-  - [AI Manga Generator](#ai-manga-generator)
-  - [AI Pattern Generator](#ai-pattern-generator)
-  - [AI Sketch Generator](#ai-sketch-generator)
-  - [Fashion AI](#fashion-ai)
-  - [AI Pixel Art](#ai-pixel-art)
-  - [AI Disney Poster](#ai-disney-poster)
-  - [AI Photography](#ai-photography)
-  - [AI Book Cover Generator](#ai-book-cover-generator)
-  - [AI Anime Art](#ai-anime-art)
-  - [AI Banner Generator](#ai-banner-generator)
-  - [AI Comic Factory](#ai-comic-factory)
-  - [AI Cat](#ai-cat)
-  - [AI Sticker Generator](#ai-sticker-generator)
-  - [AI Movie Poster](#ai-movie-poster)
-  - [Text to 3D](#text-to-3d)
-  - [AI Brochure Maker](#ai-brochure-maker)
-  - [AI Comic](#ai-comic)
-  - [AI Poster Generator](#ai-poster-generator)
-  - [AI Thumbnail Maker](#ai-thumbnail-maker)
-  - [AI Hair Color Changer](#ai-hair-color-changer)
-  - [AI Painting Generator](#ai-painting-generator)
-  - [AI Pokemon Generator](#ai-pokemon-generator)
-  - [AI Bikini](#ai-bikini)
-- [Interior & Architectural Design | I Love Free](#interior--architectural-design--i-love-free)
-  - [AI Interior Design](#ai-interior-design)
-  - [AI Floor Plan Generator](#ai-floor-plan-generator)
-  - [AI Room Planner](#ai-room-planner)
-  - [AI Landscape Generator](#ai-landscape-generator)
-  - [AI Backyard Design](#ai-backyard-design)
-  - [AI Kitchen Design](#ai-kitchen-design)
-- [Daily Life | I Love Free](#daily-life--i-love-free)
-  - [AI Trip Planner](#ai-trip-planner)
-  - [AI Sports](#ai-sports)
-  - [AI Shopping Assistant](#ai-shopping-assistant)
-  - [AI News](#ai-news)
-  - [AI Portrait Generator](#ai-portrait-generator)
-  - [AI Fitness](#ai-fitness)
-  - [AI Newsletter](#ai-newsletter)
-  - [AI Religion](#ai-religion)
-  - [AI Bible](#ai-bible)
-  - [AI Recipe](#ai-recipe)
-  - [AI Parenting](#ai-parenting)
-  - [AI Outfit Generator](#ai-outfit-generator)
-  - [AI Travel](#ai-travel)
-  - [AI Baby Generator](#ai-baby-generator)
-  - [AI Gift Ideas](#ai-gift-ideas)
-  - [AI Selfie Generator](#ai-selfie-generator)
-  - [AI Cooking Assistant](#ai-cooking-assistant)
-  - [AI Dream Interpreter](#ai-dream-interpreter)
-  - [AI Pickup Lines](#ai-pickup-lines)
-  - [AI God](#ai-god)
-- [Health & Wellness | I Love Free](#health--wellness--i-love-free)
-  - [AI Healthcare](#ai-healthcare)
-  - [AI Mental Health](#ai-mental-health)
-  - [AI Medical Diagnosis](#ai-medical-diagnosis)
-  - [AI Therapist](#ai-therapist)
-  - [AI Dermatology](#ai-dermatology)
-  - [AI Symptom Checker](#ai-symptom-checker)
-- [Legal & Finance | I Love Free](#legal--finance--i-love-free)
-  - [AI For Finance](#ai-for-finance)
-  - [AI Investing](#ai-investing)
-  - [AI Trading Bot](#ai-trading-bot)
-  - [AI Legal Assistant](#ai-legal-assistant)
-  - [AI Real Estate](#ai-real-estate)
-  - [AI Accounting](#ai-accounting)
-  - [AI Stock Trading](#ai-stock-trading)
-  - [AI Contract Review](#ai-contract-review)
-  - [AI Tax Assistant](#ai-tax-assistant)
-  - [AI Contract Management](#ai-contract-management)
-  - [AI Contract Generator](#ai-contract-generator)
-- [Image Analysis | I Love Free](#image-analysis--i-love-free)
-  - [AI OCR](#ai-ocr)
-  - [AI Image Recognition](#ai-image-recognition)
-  - [AI Image Segmentation](#ai-image-segmentation)
-  - [AI Face Analyzer](#ai-face-analyzer)
-  - [Image to Prompt](#image-to-prompt)
-  - [AI Face Recognition](#ai-face-recognition)
-  - [AI Describe Image](#ai-describe-image)
-  - [AI Image Scanning](#ai-image-scanning)
-- [AI Detection & Anti-Detection | I Love Free](#ai-detection--anti-detection--i-love-free)
-  - [AI Content Detector](#ai-content-detector)
-  - [AI Detector](#ai-detector)
-  - [Humanizer AI](#humanizer-ai)
-  - [AI Bypasser](#ai-bypasser)
-  - [AI Plagiarism Checker](#ai-plagiarism-checker)
-  - [Undetectable AI](#undetectable-ai)
-  - [Bypass AI](#bypass-ai)
-  - [AI Checker](#ai-checker)
-  - [AI Checker Essay](#ai-checker-essay)
-  - [AI Image Detector](#ai-image-detector)
-  - [AI Art Detector](#ai-art-detector)
-- [Other | I Love Free](#other--i-love-free)
-  - [Large Language Models (LLMs)](#large-language-models-llms)
-  - [AI Models](#ai-models)
-  - [Open Source AI Models](#open-source-ai-models)
-  - [AI Tools Directory](#ai-tools-directory)
-  - [Other](#other)
-  - [AI Games](#ai-games)
-  - [AI Game Generator](#ai-game-generator)
-  - [AI Robot](#ai-robot)
-  - [Minecraft AI](#minecraft-ai)
-  - [AI Poker](#ai-poker)
-
-</details>
+- [Chatbots & Virtual Companions](#chatbots--virtual-companions--i-love-free)
+- [Writing & Editing](#writing--editing--i-love-free)
+- [Image Generation & Editing](#image-generation--editing--i-love-free)
+- [Video & Animation](#video--animation--i-love-free)
+- [Music & Audio](#music--audio--i-love-free)
+- [Voice Generation & Conversion](#voice-generation--conversion--i-love-free)
+- [Coding & Development](#coding--development--i-love-free)
+- [Education & Translation](#education--translation--i-love-free)
+- [Marketing & Advertising](#marketing--advertising--i-love-free)
+- [Office Productivity](#office-productivity--i-love-free)
+- [Business & Management](#business--management--i-love-free)
+- [Business Research](#business-research--i-love-free)
+- [Research & Data Analysis](#research--data-analysis--i-love-free)
+- [Social Media](#social-media--i-love-free)
+- [Art & Creative Design](#art--creative-design--i-love-free)
+- [Interior & Architectural Design](#interior--architectural-design--i-love-free)
+- [Daily Life](#daily-life--i-love-free)
+- [Health & Wellness](#health--wellness--i-love-free)
+- [Legal & Finance](#legal--finance--i-love-free)
+- [Image Analysis](#image-analysis--i-love-free)
+- [AI Detection & Anti-Detection](#ai-detection--anti-detection--i-love-free)
+- [Other](#other--i-love-free)
 
 ## Chatbots & Virtual Companions | I Love Free
 
@@ -767,6 +304,9 @@ I Love Free
 -   [Dan - AI Voice Chat Companion](https://apps.apple.com/us/app/dan-ai-voice-chat-companion/id6502860590) - Free Access / Real-Time Voice Conversations / Fully Customizable AI Voice Chat - From $9.99/month
 
 ---
+
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
 
 ## Writing & Editing | I Love Free
 
@@ -2725,6 +2265,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Image Generation & Editing | I Love Free
 
 > Discover free AI image generators, photo editors, and background removers. Create and edit stunning visuals at no cost.
@@ -4291,6 +3834,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Video & Animation | I Love Free
 
 > Discover free AI video generators, editors, and animation tools. Create professional video content without spending money.
@@ -5513,6 +5059,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Music & Audio | I Love Free
 
 > Find free AI music generators, vocal removers, and audio mastering tools. Create professional audio content without spending.
@@ -6244,6 +5793,9 @@ I Love Free
 -   [MixAudio](https://mix.audio) - Unlimited AI Soundtrack Generation, 20 credits/month / AI music generation / Copyright-free music / Multimodal input - From $7.99/month
 
 ---
+
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
 
 ## Voice Generation & Conversion | I Love Free
 
@@ -7021,6 +6573,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Coding & Development | I Love Free
 
 > Find free AI developer tools, app builders, and code assistants. Build software faster with these no-cost AI coding solutions.
@@ -7696,6 +7251,9 @@ I Love Free
 -   [DepsHub](https://depshub.com) - Free for Open-Source / Automatic dependency updates / License checks / Security vulnerability scanning - From $19/month
 
 ---
+
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
 
 ## Education & Translation | I Love Free
 
@@ -8748,6 +8306,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Marketing & Advertising | I Love Free
 
 > Discover free AI marketing, sales, and SEO tools. Grow your business and reach more customers with no-cost AI marketing solutions.
@@ -9688,6 +9249,9 @@ I Love Free
 -   [AdCopy.ai & Koast.ai](https://adcopy.ai) - 30 FREE ADS / AI-powered ad copy generation / High-converting & compliant copy / Unlimited variations - From $29/month
 
 ---
+
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
 
 ## Office Productivity | I Love Free
 
@@ -11274,8 +10838,12 @@ I Love Free
 -   [Eyre](https://eyre.ai) - 10 encrypted video calls, 5 encrypted video meetings, 5 AI meeting summaries free / AI-powered summaries, tasks and transcripts / Private, encrypted EU-based meetings - From $9.95/month
 -   [taskmelt](https://www.taskmelt.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3171)- Freemium + From $4.99/month / Transform mental chaos into organized tasks with AI.
 -   [NoteitHub](https://noteithub.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2804)- Free Trial + From $4/unit, No Refunds / Turn GPT chats into to-dos, journals, and reminders
+-   [Tudo](https://blynkai.app/tudo/) - Free / AI voice-first task manager for iPhone / Capture tasks from voice, screenshots, shared content / AI goal-to-subtask breakdown
 
 ---
+
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
 
 ## Business & Management | I Love Free
 
@@ -11746,6 +11314,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Business Research | I Love Free
 
 > Browse free AI business name generators, crypto analysis, and consulting tools. Grow your venture with zero-cost AI business solutions.
@@ -11988,6 +11559,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Research & Data Analysis | I Love Free
 
 > Find free AI research tools and data analytics platforms. Analyze data smarter with zero-cost AI prediction and mining solutions.
@@ -12047,6 +11621,7 @@ I Love Free
 -   [theMultiplicity.ai](https://themultiplicity.ai/about?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3117)- 30 days free trial + From $5/month, No Refunds / Use multiple AI models at once to see where they agree/disagree
 -   [heeb | LLM Mentions API](https://heeb.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2529)- Freemium + From $10/unit, Users can receive refunds only for unused credits from their first purchase if requested within 30 days. / One API to track mentions, sentiment, and visibility across top LLMs.
 -   [Literfy](https://literfy.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2822)- Free Trial + From $12, One-time, Users can request a refund within 14 days of purchase if usage is limited (fewer than 5 drafts generated, at least 70% of credits unused, and no terms violations). / Search real papers and write literature reviews without AI hallucinations.
+-   [AI Product Scout](https://product.ferryman.app/) - Free / English archive of AI product commercialization case studies / 73 deep-dive analyses on positioning, monetization, and GTM / Organized by market and product type
 
 ### AI For Data Analytics
 
@@ -12274,6 +11849,9 @@ I Love Free
 -   [SpeedAI](https://kuaipaper.com) - 500 points free trial / Lower AIGC Rate / Reduce Repetition Rate - From ¥19.99 for 10,000 characters
 
 ---
+
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
 
 ## Social Media | I Love Free
 
@@ -12982,6 +12560,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Art & Creative Design | I Love Free
 
 > Explore free AI graphic design and art generation tools. Create stunning visuals with these cost-free AI-powered design applications.
@@ -13497,6 +13078,7 @@ I Love Free
 -   [Flowstep](https://flowstep.ai) - Create UI designs, wireframes, and user flows / Rapidly iterate designs
 -   [Frame0](https://frame0.app) - Unlimited free trial with watermarks / Hand-drawn wireframes / Interactive prototypes / AI integration - From $99 (one-time payment)
 -   [Flowstep](https://flowstep.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3029)- Freemium + From $15/month / Generate real UI in seconds
+-   [Roblox GUI Maker](https://robloxguimaker.dev/) - Free plan + From $12/month / AI-assisted Roblox Studio GUI generator / Game menus, HUDs, inventory UI and Lua starter code
 
 ### AI Coloring Book Generator
 
@@ -13813,6 +13395,7 @@ I Love Free
 -   [Nana Banana Pro](https://nanabanana.pro) - 5 free credits / AI-powered image editing / Perfect character consistency - From $6.9/month for 100 images
 -   [Pietra](https://www.pietrastudio.com/ai-tools/ai-t-shirt-generator) - Unlimited AI t-shirt designs / AI T-shirt Design Generator / Customizable Free Templates / No registration needed to generate designs - From $49/month (billed yearly)
 -   [Face Swap Solution Online](https://faceswap.so) - Free 10 images, 3 videos per month / AI Face Swap / Multi-Person Face Swap - From $7.00/month
+-   [ImagineClip](https://imagineclip.com) - Free plan available / Generate avatar clips, stylized scenes, and social-ready AI videos from prompts, images, and effects
 
 ### AI Color Palette Generator
 
@@ -14523,6 +14106,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Interior & Architectural Design | I Love Free
 
 > Find free AI interior design, floor plan, and room planning tools. Design your space with no-cost AI-powered applications.
@@ -14704,6 +14290,9 @@ I Love Free
 -   [Artimator](https://artimator.io) - Free unlimited Stable Diffusion AI generation / Generate unique artworks from text/photo in various styles / Powered by Stable Diffusion, SDXL, and Artimator AI - From $4.99 for 300 coins
 
 ---
+
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
 
 ## Daily Life | I Love Free
 
@@ -15231,6 +14820,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Health & Wellness | I Love Free
 
 > Find free AI healthcare, mental health support, and therapy tools. Access health information with cost-free AI wellness solutions.
@@ -15286,6 +14878,7 @@ I Love Free
 -   [Med Up](https://medup.tech) - Free / Trusted Health Information backed by WHO and Clinical Guidelines / Detailed info on symptoms, treatments, doctors & tests - No Cost
 -   [Instakal](https://instakal.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2853)- 100% Free / Snap your meal, know your nutrition instantly.
 -   [fuelOS](https://fuelos.site/?utm_source=ilovefree&utm_medium=directory&utm_campaign=web2app) [](https://free.ilovefree.com/link/3508)- Freemium + From $9.99/month / Know what you eat. Effortlessly.
+-   [Telo](https://blynkai.app/telo/) - Free / AI wellness companion for iPhone / Apple Health context and event logging / Readiness, recovery, sleep trends / Not a medical diagnosis tool
 
 ### AI Mental Health
 
@@ -15421,6 +15014,9 @@ I Love Free
 -   [Med Up](https://medup.tech) - Free / Trusted Health Information backed by WHO and Clinical Guidelines / Detailed info on symptoms, treatments, doctors & tests - No Cost
 
 ---
+
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
 
 ## Legal & Finance | I Love Free
 
@@ -15865,6 +15461,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Image Analysis | I Love Free
 
 > Explore free AI OCR, image recognition, and face analysis tools. Extract insights from images with zero-cost AI visual analysis.
@@ -16159,6 +15758,9 @@ I Love Free
 -   [Virtual Try On AI](https://aitryon.art) - 100 credits for new users, 20 daily check-in credits / Virtual Try On AI / AI Image Generation / AI Video Generation - From $7.99/month
 
 ---
+
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
 
 ## AI Detection & Anti-Detection | I Love Free
 
@@ -16613,6 +16215,9 @@ I Love Free
 
 ---
 
+
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
+
 ## Other | I Love Free
 
 > Discover free LLMs, open-source AI models, and AI tool directories. Find the perfect no-cost AI solution for any task.
@@ -16957,3 +16562,4 @@ I Love Free
 
 -   [Pairrd](https://pairrd.com) - 10 free questions daily, 5 free bounty videos / Daily quizzes and drills / AI Recommendations - From $499/year
 
+[⬆️ Back to top](#free-ai-tools-directory--i-love-free)
