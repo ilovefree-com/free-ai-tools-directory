@@ -1,5 +1,7 @@
 # Business & Management
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/business-management/
+
 [⬆️ Back to README](./README.md)
 
 ## Business & Management | I Love Free

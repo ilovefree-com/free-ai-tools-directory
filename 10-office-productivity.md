@@ -1,5 +1,7 @@
 # Office Productivity
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/office-productivity/
+
 [⬆️ Back to README](./README.md)
 
 ## Office Productivity | I Love Free

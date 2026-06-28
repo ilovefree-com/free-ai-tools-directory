@@ -1,5 +1,7 @@
 # Daily Life
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/daily-life/
+
 [⬆️ Back to README](./README.md)
 
 ## Daily Life | I Love Free

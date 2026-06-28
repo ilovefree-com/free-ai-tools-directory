@@ -1,5 +1,7 @@
 # Business Research
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/business-research/
+
 [⬆️ Back to README](./README.md)
 
 ## Business Research | I Love Free

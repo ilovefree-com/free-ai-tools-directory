@@ -1,5 +1,7 @@
 # Image Analysis
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-ai-tools/image-analysis/
+
 [⬆️ Back to README](./README.md)
 
 ## Image Analysis | I Love Free
