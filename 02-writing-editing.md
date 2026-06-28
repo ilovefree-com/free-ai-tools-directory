@@ -1,0 +1,1959 @@
+# Writing & Editing
+
+[⬆️ Back to README](./README.md)
+
+## Writing & Editing | I Love Free
+
+> Explore free AI writing assistants, grammar checkers, and content generators. Write better content faster with zero-cost AI tools.
+
+### AI Writing Assistants
+
+-   [DeepL](https://deepl.com) - 3 non-editable file translations per month / Accurate machine translation / Text & document translation - From $8.74/month
+-   [QuillBot](https://quillbot.com) - Paraphrase up to 125 words free / Paraphrase / Grammar Checker / Plagiarism Checker - From $8.33/month
+-   [Grammarly](https://www.grammarly.com) - Free 100 AI prompts / AI-powered writing assistance / Works across all apps and sites - From $30/month
+-   [Rezi](https://www.rezi.ai) - 1 Resume, 1 Interview, 3 Downloads free / AI Resume Builder / AI Keyword Targeting / ATS Resume Checker - From $29/month
+-   [Toolsaday](https://toolsaday.com) - AI-powered content creation / Paraphrasing Tool / 40+ AI tools - From $7.99/month
+-   [HIX.AI](https://hix.ai) - 3,000 words (GPT-3.5) / Generate high-quality copies / 120+ AI writing tools / Support 50+ languages - From $19.99/month
+-   [Toolsmart Free Humanize AI](https://www.toolsmart.ai/feature-free-humanize-ai) - Turn AI content into natural, human-like, undetectable text / Eight Humanizing Modes / No Signup Required
+-   [ProWritingAid](https://prowritingaid.com) - Free 500 word limit / Grammar Checker & Style Editor / Virtual Beta Reader - From $10/month
+-   [GravityWrite](https://gravitywrite.com) - Free 1,000 words/mo / High-quality content generation / SEO blog writing / AI image creation - From $19/month
+-   [Jasper AI](https://jasper.ai) - 7-day free trial / AI copywriting tool / AI-powered apps & workflows - From $39/month
+-   [Mintlify](https://mintlify.com) - 14-day free trial / Beautiful out of the box / AI-native / Web Editor - From $150/month
+-   [Researcher.Life](https://researcher.life) - 5 illustration requests per month / AI Tools for Research / Expert Publication Services - From $7/month
+-   [Sudowrite](https://www.sudowrite.com) - Bust writer's block / Write novels & screenplays faster / AI feedback - From $10/month (225,000 credits)
+-   [Writesonic](https://writesonic.com) - 10000 Premium words free / SEO-optimized content creation / AI Article & Blog Writer - From $16/month
+-   [ChatUp AI](https://aichattings.com) - AI Chatbot / AI Characters / AI Content Generation / No registration required - From $18.99/month
+-   [Smodin](https://smodin.io) - AI Writing Assistant / Plagiarism Checker / AI Content Detector - From $9/month
+-   [Wordtune](https://www.wordtune.com) - Free 10 Rewrites & AI suggestions daily, 3 AI summarizations monthly / Rewrites & Rephrases / AI Summaries - From $6.99/month
+-   [Surfer](https://surferseo.com) - SEO Content Optimization / AI-powered article generation / Content Strategy & Research - From $99/month
+-   [Merlin AI](https://www.getmerlin.in) - 102 free queries daily / Research, Write, Summarize in 1-click / Summarize videos, articles, PDFs, and websites / Write emails and social media content - From $19/month billed annually
+-   [OnlineLebenslauf](https://www.onlinelebenslauf.com) - One resume & cover letter creation / AI-powered resume creation / ATS-optimized templates / PDF/TXT download & online sharing - From $29.95/4 weeks
+-   [Easy-Peasy.AI](https://easy-peasy.ai) - 1,000 words free / Content Creation / Image Crafting - From $8/month (billed yearly)
+-   [Quetext](https://quetext.com) - Free 500 words plagiarism check, 250 words AI detection / Plagiarism Checker / AI Detector / AI-powered Paraphrasing - From $8.80/month for 100,000 words
+-   [1min.AI](https://1min.ai) - Free 450,000 credits/month / All-in-one AI App / Text, Image, Audio, Video AI tools - From $6.5/month for 1,000,000 credits
+-   [Nova - AI Chatbot](https://novaapp.ai) - 3-day trial / AI Chatbot / AI Writing Assistant / Homework Helper
+-   [Hemingway Editor](https://hemingwayapp.com) - Free 2-week trial / Make writing concise and correct / Fix highlighted issues, check grammar, and adjust tone / No credit card required
+-   [Missive](https://missiveapp.com) - 30-day free trial / Email, group chat & tasks / AI-powered drafting & translation - From $14/user/month
+-   [YouMind](https://youmind.com) - 2,000 credits per month, Save up to 100 materials / AI Creation Studio / Integrated Workflow - From $20/month
+-   [Aithor](https://aithor.com) - AI-Powered Research Assistant / Autocitation in your style / Text personalizer - From $12.99/month
+-   [HyperWrite](https://www.hyperwriteai.com) - Free / AI-powered writing assistant / Real-time research / Hundreds of AI tools - From $16/month
+-   [Jenni AI](https://jenni.ai) - 200 AI autocompletes day / AI Autocomplete / Chat to Your Research - From $12/month
+-   [Craft](https://craft.do) - 10 documents + 2 weekly, 50 AI requests/month / Notes, Tasks, and Big Ideas / On-device AI - From $1.99/month
+-   [TextCortex](https://textcortex.com) - 100 free creations + 20 daily recurring creations / Automate everyday tasks & workflows with AI / Search information and find answers from your data
+-   [Z.ai](https://chat.z.ai) - Free / AI for Presentations / Writing / Coding / No Login
+-   [Sider](https://sider.ai) - 30 Basic Credits/Day / AI Chat, Reading & Writing Assistance, Image Generation - From US$ 8.3/month
+-   [Skip](https://helloskip.com) - Free 7 Day Trial / Skip Applies for You / Complete Applications Faster Using AI
+-   [Wrizzle AI](https://www.wrizzle.ai) - 5 free generations daily / AI Writing Tools / AI Detector / No login required - From $4.83/month
+-   [Type.ai](https://type.ai) - AI-powered document editor / AI writing assistant - From $23/month
+-   [Rytr](https://rytr.me) - 10k characters per month / Craft high-quality content faster / 40+ content use cases / No CC required - From $9/month
+-   [Prepostseo](https://www.prepostseo.com) - Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants - From $7/month
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [Trinka AI](https://www.trinka.ai) - 5000 words & 4 credits/month / Grammar Correction / Language Enhancement / AI Writing Assistant - From $6.67/month
+-   [Linguix](https://linguix.com) - Free / Grammar Checker / AI Writing Assistant / Paraphraser - From $5.00/month
+-   [AIChatting.net](https://www.aichatting.net) - AI Chat / AI Writer - From $3.33/month
+-   [Dabble](https://www.dabblewriter.com) - 14-day free trial / Plot, plan, and write in one tool / Autosave protects your work / Write anywhere, anytime / No credit card required - From $9/month
+-   [Voilà AI Assistant](https://www.getvoila.ai) - 250 free requests / AI Assistant & Chat / Content Creation & Writing - From $8/month
+-   [Writefull](https://writefull.com) - Limited daily quota / Academic writing and proofreading / AI-powered paraphrasing / LaTeX code generation
+-   [Thesify](https://thesify.ai) - 10 AI credits monthly / Expert-level feedback / Effortless citation / Paper summarization - From €2.49/month
+-   [TypingMind](https://typingmind.com) - 14-day money-back guarantee / Enhanced UI for AI chat / Multi-model support with your API key - From $39 (one-time payment)
+-   [InstaText](https://instatext.io) - / Write like a native speaker / Comprehensive text rewriting - From 9.99 €/month
+-   [Prosetta](https://prosetta.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3201)- Freemium + From $5/month, No Refunds / Write, create, and publish with AI.
+-   [Wispr Flow](https://wisprflow.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3462)- Freemium + From $12/month, No Refunds / Speak naturally, write perfectly, 4x faster.
+-   [xeditai](https://xeditai.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3459)- Free Trial + From $7.99, One-time / Create with every AI model in one workspace.
+-   [ContentPod](https://www.contentpod.co/products/article-writer/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2910)- Freemium + From $9.99/month, We offer prorated refunds based on the unused credits remaining in your current billing period. / The everything app for content creation
+-   [Triall](https://triall.ai/?utm_source=ilovefree&utm_medium=directory&utm_campaign=listing) [](https://free.ilovefree.com/link/3502)- Free Trial + From $11/month, No Refunds / The AI Hallucination Fix: three models, one verdict.
+
+### AI Writing
+
+-   [Grokipedia](https://grokipedia.com) - AI-generated articles / AI fact-checked content
+-   [QuillBot](https://quillbot.com) - Paraphrase up to 125 words free / Paraphrase / Grammar Checker / Plagiarism Checker - From $8.33/month
+-   [Grammarly](https://www.grammarly.com) - Free 100 AI prompts / AI-powered writing assistance / Works across all apps and sites - From $30/month
+-   [Toolsaday](https://toolsaday.com) - AI-powered content creation / Paraphrasing Tool / 40+ AI tools - From $7.99/month
+-   [HIX.AI](https://hix.ai) - 3,000 words (GPT-3.5) / Generate high-quality copies / 120+ AI writing tools / Support 50+ languages - From $19.99/month
+-   [Sigma AI Browser](https://sigmabrowser.com) - Built-in AI Chat / Enhanced Privacy / AI-powered Content Generation
+-   [ProWritingAid](https://prowritingaid.com) - Free 500 word limit / Grammar Checker & Style Editor / Virtual Beta Reader - From $10/month
+-   [Decopy AI](https://decopy.ai) - AI detection / Humanization / Summarization / No Login required
+-   [Monica](https://monica.im) - 40 daily basic model accesses / AI Chat / Copywriting / Smart Reading - From US$8.3/month
+-   [TinyWow](https://tinywow.com) - No Limits / PDF, video, image, AI write tools / No Sign-Up Required - From $5.99/month
+-   [Typli.ai](https://typli.ai) - AI Writing / SEO Assistant / AI Image Generation - From $7.99/month
+-   [SEO Writing AI](https://seowriting.ai) - 5 Articles free / 1-click SEO-optimized articles / Auto-publish on WordPress - From $14/month
+-   [Sudowrite](https://www.sudowrite.com) - Bust writer's block / Write novels & screenplays faster / AI feedback - From $10/month (225,000 credits)
+-   [Ninja AI](https://myninja.ai) - 6 tasks per day / Research & Writing / Code Generation & Debugging / Image Generation & Editing - From $5/mo
+-   [neuroflash](https://neuroflash.com) - 2000 words & 5 images free/month / Highest-quality AI-generated marketing texts / AI text & image generation - From 80€/mo
+-   [SEO.AI](https://seo.ai) - 7-day free trial, two auto-generated articles / AI copywriting / SEO keyword research / Product feed optimization - From $49/month
+-   [Wordtune](https://www.wordtune.com) - Free 10 Rewrites & AI suggestions daily, 3 AI summarizations monthly / Rewrites & Rephrases / AI Summaries - From $6.99/month
+-   [Frase](https://www.frase.io) - Free 10,000 AI words / SEO content optimization / AI writing - From $45/month
+-   [Simplified](https://simplified.com) - Free Forever plan with 5000 AI words / AI Content Creation / Social Media Management - From $29/month
+-   [YouMind](https://youmind.com) - 2,000 credits per month, Save up to 100 materials / AI Creation Studio / Integrated Workflow - From $20/month
+-   [Aithor](https://aithor.com) - AI-Powered Research Assistant / Autocitation in your style / Text personalizer - From $12.99/month
+-   [Junia AI](https://junia.ai) - 1 article workflow free / Long-form SEO blog posts / Automatic link insertion - From $27/month
+-   [Jenni AI](https://jenni.ai) - 200 AI autocompletes day / AI Autocomplete / Chat to Your Research - From $12/month
+-   [SurgeGraph](https://surgegraph.io) - 30 free AI writing credits / Humanlike content that ranks high and drives traffic / Automated content generation - From $19.42/month
+-   [LogicBalls](https://logicballs.com) - 10,000 Basic AI Words/month free / High-quality content generation / 150+ AI tools / No Login Required - From $9.99/month
+-   [Tenorshare AI](https://ai.tenorshare.com) - AI Humanizer / AI PDF Summarizer / AI Writer
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [Samwell.ai](https://samwell.ai) - / AI Essay Writer with Academic Citations / Undetectable & Plagiarism-Free Content /
+-   [nichesss](https://nichesss.com) - Content and business ideas / Marketing copy generation - From $19/month for 2500 short form generations
+-   [AIKTP](https://aiktp.com) - Free 7-day trial / AI-powered content creation / Easy WordPress posting - From $9/month
+-   [Designrr](https://designrr.io) - Free 7 Day Trial / Create eBooks, Kindle books, Leadmagnets, Flipbooks and Blog posts / Repurpose content from web pages, videos, podcasts, & PDFs - From $29/month
+-   [Type.ai](https://type.ai) - AI-powered document editor / AI writing assistant - From $23/month
+-   [Lex](https://lex.page) - Powerful AI editing tools / Collaborative documents / Version control - From $12/month
+-   [The Good AI](https://www.the-good-ai.com) - Up to 250 word essays free / Writes high-quality essays with references / Includes AI editing tools / No Sign Up required - From $5/month
+-   [Overchat AI](https://overchat.ai) - 4 Messages per Day / Access multiple AI models / Write, chat, and simplify tasks - From $4.99/month
+-   [ParagraphAI](https://paragraphai.com) - 5 uses per day / Error-free writing / Real-time editing / Custom workflows / - From $24.99/month
+-   [蛙蛙写作](https://wawawriter.com/app) - 5000 AI words upon registration / AI writing/rewriting/expanding / Video generation
+-   [AIFreeBox](https://aifreebox.com) - 100% Forever Free / AI Writing / AI Image Generation / Content Generation
+-   [Compose AI](https://www.compose.ai) - 1,500 words per month free / AI Generated Text / Advanced Autocomplete - From $9.99/month
+-   [AHelp](https://ahelp.com) - Free 3 credits / day / Check plagiarism / Improve grammar / Generate ideas - From $4.17/month
+-   [Conch AI](https://getconch.ai) - 10 free credits daily / AI Writing That's Undetectable / Humanize AI-written text
+-   [JotBot AI](https://myjotbot.com) - 10 daily credits / Generate drafts in your voice / Find and cite sources / Edit documents with AI
+-   [TextAdviser](https://textadviser.com) - AI-Powered Writing Assistance / Grammar and punctuation checker / Plagiarism Checker - From $12.75/month for 1M characters
+-   [Writefull](https://writefull.com) - Limited daily quota / Academic writing and proofreading / AI-powered paraphrasing / LaTeX code generation
+-   [Thesify](https://thesify.ai) - 10 AI credits monthly / Expert-level feedback / Effortless citation / Paper summarization - From €2.49/month
+-   [CoWriter AI](https://cowriter.ai) - 20 Completion Suggestions per Day / Smart Autocompletion / Versatile Citation Support / AI Detection Proof - From $11.99/month
+-   [InstaText](https://instatext.io) - / Write like a native speaker / Comprehensive text rewriting - From 9.99 €/month
+-   [Grantable](https://grantable.co) - 10 AI uses per month / AI Grant Writing Assistant / Smart Content Library - From $24/month
+-   [Pressmaster.ai](https://www.pressmaster.ai) - 7-day free trial / Authentic content in your voice / One-click publishing - From US$16/month per user
+
+### AI Repurpose
+
+-   [Deciphr AI](https://www.deciphr.ai) - 14-day free trial with 80 minutes / Transform content into multimedia assets / AI-powered content generation - From $5/month
+-   [OpusClip](https://clip.opus.pro/captions) - Animated captions / Repurpose long videos into high-quality viral clips
+-   [Opus Clip](https://www.opus.pro) - 60 credits/month / Repurpose long videos into shorts / Create high-quality viral clips - From $15/month
+-   [Pastors.ai](https://pastors.ai) - 4 sermons per month free / Sermon Repurposing / Sermon Clips - From $30/month
+-   [Hypefury](https://hypefury.com) - Multi-platform scheduling / Audience growth & monetization
+-   [TubeOnAI](https://www.tubeonai.com) - Free 3 Channel subscriptions, 60 Minutes per month / AI-driven summaries / Content Repurposing / Chat with content - From $9/month
+-   [Hexus](https://www.hexus.ai) - Upto 3 flows free / AI-Powered Product Demos / Videos & Guides - From US$49/month
+-   [Swell AI](https://swellai.com) - 1 upload a month free / Transcripts / Articles - From $29/month
+-   [Church Loom](https://www.churchloom.com) - Free / AI-powered content creation / Quick content generation from sermons / Custom prompt generation - From $9/month (up to 25 hours of sermon uploads)
+-   [Contrast](https://getcontrast.io) - Up to 30 registrants per month / Engaging webinars / AI content repurposing / No credit card - From €60/month
+-   [Podnotes](https://www.podnotes.app) - Free 350 mins of transcription / Transcribe, Summarize and Repurpose Podcasts & Videos / Generate social media content, blogs, newsletters & audiograms - From $29/month
+-   [Munch](https://www.getmunch.com) - AI Video Repurposing / Automatic Editing & Captioning / Trend-based Clip Generation
+-   [ContentFries](https://www.contentfries.com) - 120 FREE upload minutes / Create viral clips & repurpose content / Auto-subtitles for 120+ languages - From $19/month
+-   [CreateWise AI](https://createwise.ai) - 200 FREE credits / month / AI-powered Podcast Editor / Show Notes & Highlights / Removes Filler Words & Silences - From $9.90/month
+-   [Sludge AI](https://sludge.ai) - 10 free videos / Download and edit content from 50+ sites / Make reposted content appear original to algorithms
+-   [WUI.AI](https://www.wui.ai) - 120 min/mo video upload, 5 clip tasks/mo / AI-powered viral video clips / Text-based video editing - From $10/mo
+-   [Spiral](https://spiral.computer) - 20 free Spiral runs / Transform videos, articles, and podcasts into bite-sized content / Repurpose content in your unique voice - From $15/month
+-   [Video Tap](https://videotap.com) - 3 free videos / AI-powered content generation / Multilingual subtitles and blog posts - From $21/month
+-   [Parmonic](https://parmonic.com) - Free trial / Turn long videos into multi-format content / AI-powered video repurposing - From $99/month
+-   [ClipWrite](https://www.clipwrite.com) - 15 content generations/month free / Video to blog posts, Twitter threads, LinkedIn articles / Instant Conversion / SEO Ready - From $12/month
+-   [Recast Studio](https://recast.studio) - 60 Credits (one time) & 5 Minutes video exports / AI-Powered Video Editing / AI-Generated Marketing Assets / No credit card required - From $10/month
+-   [Exemplary AI](https://exemplary.ai) - 60 upload minutes, 20 content generations free / Transcription & Subtitles / AI Clips & Content Generation - From S$12/month
+-   [BiteSyzed](https://www.bitesyzed.com) - AI-powered video repurposing / Turn long videos into viral clips 10x faster / AI-generated descriptions and hashtags
+-   [reap](https://reap.video) - 60 minutes processing time free / AI video clipping / AI captioning - From $9.99/month
+-   [PodScribe.IO](https://podscribe.io) - 100 minutes & 25 AI credits free / AI-powered Content Creation / Accurate Transcription & AskAI Q&A - From $5/month
+-   [Scribe](https://seovideoscribe.com) - Free 2 articles, 5 YouTube transcripts per month / Create SEO-optimized written articles from any YouTube video / Automatically publish to your blog, LinkedIn, and Twitter - From $29/month
+-   [VoicePen](https://voicepen.ai) - Audio/Video/Website to Blog Posts / AI-driven content, no writing needed - From $6.99/one time (1-3 blog posts)
+-   [SummarAIze](https://www.summaraize.com) - 75 free credits / Repurpose content from podcasts or video with AI / 10X content production - From $29/month
+-   [Castmagic](https://www.castmagic.io) - AI-powered content repurposing / Accurate transcription - From $23/month
+-   [VideoToPage](https://videotopage.com) - Free for videos up to 5 minutes / Instantly summarize and repurpose video/audio / Generate various content formats - From 12€/month
+-   [PodClips](https://podclips.pro) - 7 day free trial / Create viral video content / Turn Podcasts Into Viral Video Content On Autopilot
+-   [ContentRadar](https://contentradar.ai) - 7-day free Pro plan trial / AI content creation / Scheduling & collaboration / LinkedIn & X analytics - From $14/month
+-   [Repurpose LOL](https://repurpose.lol) - Transcripts / Viral clips / AI Copy writer - From $29/month
+-   [EasyMedia](https://www.easymedia.app) - 5 free posts / Turn YouTube videos into social media posts / Image generation - $7.50 for 5 posts
+-   [Lately AI](https://www.lately.ai) - Repurpose longform content / AI-powered social post generation / Employee advocacy - From $14/month
+-   [Video Tap](https://videotapit.com) - 3 videos free / Blog posts / Short clips - From $21/month
+
+### AI Grammar Checker
+
+-   [LanguageTool](https://languagetool.org) - Free 3 rephrasing requests per day / Comprehensive Grammar, Punctuation & Style Checking / AI-powered Rephrasing / Supports 30+ Languages / No Sign-Up required - From SGD 4.99/month
+-   [QuillBot](https://quillbot.com) - Paraphrase up to 125 words free / Paraphrase / Grammar Checker / Plagiarism Checker - From $8.33/month
+-   [Grammarly](https://www.grammarly.com) - Free 100 AI prompts / AI-powered writing assistance / Works across all apps and sites - From $30/month
+-   [OpenL Translate](https://openl.io) - 40 Fast Credits/day / Accurate AI Translation in 100+ Languages / AI Grammar Tools & Writing Refinement / No Login required - From $7.9/month
+-   [Pronounce AI](https://www.getpronounce.com) - Free plan / AI Speech Checker / AI Speaking Partners / AI Meeting Transcription - From $19.99/m
+-   [ProWritingAid](https://prowritingaid.com) - Free 500 word limit / Grammar Checker & Style Editor / Virtual Beta Reader - From $10/month
+-   [Eduzen](https://eduzen.ai) - Free 3 uses per feature monthly / Flashcards / Quizzes / Mind Maps / No Sign-Up - From $7.00/month
+-   [Fluently](https://getfluently.app) - 4-minute call for free English score / Personalized feedback on real speech / AI tutor for speaking practice / Real-life call feedback
+-   [AImReply](https://aimreply.com) - / AI Email Writer / Multi-Language & Tone/Length Customization / No Login -
+-   [Hemingway Editor](https://hemingwayapp.com) - Free 2-week trial / Make writing concise and correct / Fix highlighted issues, check grammar, and adjust tone / No credit card required
+-   [Analisi Logica Tool](https://analisilogicatool.it) - Free / Online Logical Analysis for Italian Sentences / Clear breakdown of subjects, predicates, and complements / AI-powered / No Account Required
+-   [Grammar Checker](https://grammarchecker.cc) - Free / Instantly correct grammar, punctuation, and spelling / Improve writing style and expression
+-   [AIGrammarChecker](https://aigrammarchecker.io) - Completely free / Instant Grammar & Spelling Check / Contextual intelligent correction / Expression and structure optimization
+-   [AI Grammar Check - Corrector](https://itunes.apple.com/app/id6446309685) - AI-powered grammar and spelling correction / Paraphrasing and text translation - From $2.50/month
+-   [TextGears](https://textgears.com) - 500 text checking requests/month / Grammar and spelling check / Readability analysis / No Sign-Up required - From $23.96/month
+-   [Chrome AI Grammar Check](https://chromewebstore.google.com/detail/free-ai-grammar-checker/jnkjkpapplndagboidnhphaciphgjeca) - Smart grammar check / AI works on your machine
+-   [PaperTyper](https://papertyper.net) - Free unlimited access / AI Essay Writer / Grammar Checker / Plagiarism Checker
+-   [Flot.ai](https://flot.ai) - Free 3 credits per day / AI Copilot for All Apps and Websites / Write, Read, Memorize with AI - From $15/month
+-   [corrAI](https://chromewebstore.google.com/detail/corrai-corriger-et-tradui/dpdfhpfdhdckdknmiledcbednbndjjjj) - 20 000 tokens free / Text correction & translation / Maintain style & save time - From 0.50€ for 25 000 Tokens
+-   [Write Brain](https://writebrain.io) - 30 edits per month / Grammar checker / Writing improvements / Text translation - From $5/month
+-   [Multilings](https://multilings.com) - Free 50,000 tokens / Language Translation / AI Content Writing / Plagiarism Checking - From $14.99/month
+-   [WProofreader](https://chromewebstore.google.com/detail/wproofreader-secure-gramm/ehlmgkidbfjedfdanfechlikaolobpgh) - Multi-language grammar and spell checker / Secure on-premise deployment
+-   [LanguageTool](https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji) - Free extension / Grammar and style checker / Supports more than 25 languages / No registration needed
+-   [Grammar Checker](https://chromewebstore.google.com/detail/grammar-checker/mpeepmfabickbdbckcejbflkpfamgcon) - Free / Advanced grammar, spelling & style checks / Suggestions & one-click application / Supports 25+ languages
+-   [Corrector App](https://corrector.app) - Totally Free / Grammar, Spelling, and Punctuation Checker / Multi-language support / No account or download needed
+-   [BulkCorrector](https://bulkcorrector.com) - Max 32'000 characters free / Bulk corrections / Bulk translations - From $29 (Lifetime deal)
+-   [AI Teacha](https://aiteacha.com) - Lesson Plan Generator / Assessment Generator / Curriculum Design - From $5/month
+-   [CorrectEnglish](https://correctenglish.com) - Free Forever / AI-powered writing assistant / Grammar and spelling check / Plagiarism check - From $24/month
+-   [Trinka AI](https://www.trinka.ai) - 5000 words & 4 credits/month / Grammar Correction / Language Enhancement / AI Writing Assistant - From $6.67/month
+-   [Ginger](https://chromewebstore.google.com/detail/ginger-ai-grammar-spell-c/kdfieneakcjfaiglcfcgkidlkmlijjnh) - Free / Contextual Grammar Check / AI-powered Rephrase / Translation for 40+ languages
+-   [Correcto](https://chromewebstore.google.com/detail/correcto-herramienta-de-e/hllekbchnfikjpbdielihahenjmbpach) - AI-powered writing suggestions / Grammar and spelling correction / Multi-platform support
+-   [Linguix](https://linguix.com) - Free / Grammar Checker / AI Writing Assistant / Paraphraser - From $5.00/month
+-   [Revise](https://www.revise.net) - 5,000 words/month free / Preserves authentic writing voice / Full control over edits - From $8/month
+-   [Factful](https://factful.io) - Spelling, Grammar, Factuality checking / Real-Time Personalized Analytics / AI-powered Fact-Checking - From $9.99/month
+-   [Rirekisho.io](https://rirekisho.io) - 100% Free / Create professional resumes & CVs in 5 minutes / AI-powered grammar check / Shareable unique URL
+-   [ScienHub](https://scienhub.com) - Free 10 rephrases / Collaborative LaTeX editor / AI-enhanced language refinement / Git integration - From $5/month
+-   [imgProof](https://www.imgproof.com) - Free trial / AI-powered spelling and grammar analysis in images / Automated image proofreading / Supports multiple image formats and languages
+-   [Correctify](https://correctify.com.cy) - 1 task free / Proofread restaurant menus / AI-powered proofreading / Canva integration - From €10/year for 5 menus
+-   [TextAdviser](https://textadviser.com) - AI-Powered Writing Assistance / Grammar and punctuation checker / Plagiarism Checker - From $12.75/month for 1M characters
+-   [Smart Online Notepad](https://smartonlinenotepad.com) - AI Grammar Correction / Text Rewriting / No Sign-up Required
+
+### AI Prompt Generator
+
+-   [ImagePrompt.org](https://imageprompt.org/image-to-prompt) - 5 Image-to-Text uses daily / Image to Prompt Generator / Detailed image prompts for AI models - From $14.99/month
+-   [ImagePrompt.org](https://imageprompt.org) - 5 Image-to-Text uses/day, 2 Flux.1 Schnell Generations / Image to Prompt / AI Image Generator - From $14.99/month
+-   [ImagePromptGuru.net](https://imagepromptguru.net) - Unlimited free prompts / Image to Prompt Generator / Text to Prompt / No Login Needed
+-   [AI Prompt Generator by God of Prompt](https://godofprompt.ai/ai-prompt-generator) - First custom prompt free / Generate Your Custom AI Prompts / Compatible with ChatGPT, Gemini, Copilot, and Claude AI - From $27
+-   [2000+ ChatGPT Mega-Prompts Bundle](https://www.godofprompt.ai/mega-prompt-bundle) - 10 Free Mega-Prompts / Boost Marketing, Writing, Business & SEO / Automate tasks with AI - From $37.00 (one-time purchase)
+-   [HitPaw](https://www.hitpaw.ai) - Free / AI Art Generation / Text to Image Conversion
+-   [AIforWork.co](https://www.aiforwork.co) - Free Access / 2000+ job-specific prompts / Advanced Chat GPT Prompt Database
+-   [Prompt Genie](https://prompt-genie.com) - 7 bonus prompts + 1 prompt per day / Transform basic prompts into optimized ones / Generate perfect AI super prompts - From $8.33/mo
+-   [The Prompt Index](https://www.thepromptindex.com) - All features free / World's Best AI Prompt Database / Active Telegram Community / AI Courses Online - From $4.99/month
+-   [PUMPG - Powerusers MidJourney Prompt Generator](https://powerusers.ai/pumpg-midjourney-prompt-generator) - Interactive Midjourney Prompt Generation / Less Typing, More Creating / Advanced Prompt Customization
+-   [Parlay Ideas](https://parlayideas.com) - AI-powered class discussions / AI-generated prompts
+-   [promptoMANIA](https://promptomania.com) - Free / AI art prompt generator / Grid Splitter / No Sign-Up required
+-   [AIPRM](https://www.aiprm.com) - High Quality AI Prompt Library / Private Prompts for You and Your Team / Live Crawling - From $20/month
+-   [Pretty Prompt](https://www.pretty-prompt.com) - 5 free prompts per day / Turn any text into perfect prompts / Improved AI results in 1-click / No login needed - From $10/month
+-   [PromptFolder](https://promptfolder.com) - / AI Prompt Manager / Build, Save & Discover Prompts / -
+-   [PrompTessor](https://promptessor.com) - 10 requests per day for Basic Prompt Analysis & Optimization / AI Prompt Analysis / Prompt Optimization - From $10/month
+-   [PromptBase](https://promptbase.com) - Explore 190k+ expert-crafted prompt templates / Sell Your Prompts - From $2.99
+-   [Video to Prompt](https://videotoprompt.net) - Convert videos into detailed prompts / Instant AI Analysis / Multi-language Support
+-   [banana prompts](https://bananaprompts.org) - 2 Pro generations / Discover Quality Prompts / One-Click Copy - From $3.89/month
+-   [AI Prompt Library by God of Prompt](https://godofprompt.ai/prompt-library) - Free Prompts / 30,000+ AI Prompts / Boost Productivity & Business Growth - From $3.99/month
+-   [Prompt Builder](https://promptbuilder.cc) - 5 free prompts/month / Generate perfect prompts / Optimize existing prompts / Organize high-performing prompts - From $9/month
+-   [200+ ChatGPT Mega-Prompts for Marketing](https://www.godofprompt.ai/marketing-mega-prompts) - Free 1000+ ChatGPT, 100+ Midjourney, 10 Mega-Prompts / High-quality AI output / Automate marketing tasks - From $15/month
+-   [LaPrompt](https://laprompt.com) - Free collections of prompts / AI Art Gallery / Prompt Marketplace - From $9.99/pack
+-   [200+ ChatGPT Mega-Prompts for Business](https://www.godofprompt.ai/business-mega-prompts) - 10 Free Mega-Prompts / Supercharge your Business with AI / Run business tasks on auto-pilot - From $37.00 for 200+ Mega-Prompts
+-   [Snack Prompt](https://www.snackprompt.com) - Discover & share AI prompts / Create text snippets / Multi-model comparison
+-   [Topfreeprompts.com](https://www.topfreeprompts.com) - Free / 10,000+ expert prompts for ChatGPT, Midjourney, Claude & Gemini / Turns AI into your expert co-founder
+-   [200+ ChatGPT Mega-Prompts for Solopreneurs](https://godofprompt.ai/solopreneurs-mega-prompts) - 10 Free Mega-Prompts / 200+ ChatGPT Mega-Prompts for Solopreneurs / Run your one-person business on autopilot - From $37.00 for 200+ writing mega-prompts
+-   [Promptaa](https://promptaa.com) - Free unlimited prompts & categories / AI prompt enhancement / Organize & save prompts
+-   [16x Prompt](https://prompt.16x.engineer) - 10 prompts per day free / Advanced Context Management / Structured Prompt Creation - From $48.00 USD (Lifetime)
+-   [Public Prompts](https://publicprompts.art) - High-quality, open-source image prompts / Extensive library of prompts, models & embeddings / Stable Diffusion community support
+-   [typedesk](https://www.typedesk.com) - Up to 10 templates / Text Expander / Keyboard Automation / AI Prompt Generator - From $5/month
+-   [ChatGPT Toolbox](https://ai-toolbox.co) - 2 folders, 2 pinned chats, 2 prompts free / Organize conversations with folders / Manage and save prompts - From $9.99/month
+-   [NichePlates](https://www.nicheplates.com/notion-templates/ai) - AI-driven content creation / Complete Notion Content System - $99
+-   [Promtist](https://promtist.ai) - Free trial / AI Prompt Generator / Prompt Version Control / No registration required
+-   [Freshly.ai](https://freshly.ai) - Free AI value accruement report / AI tool for prompt enhancement / World's largest AI-optimized prompt library - One Time $39.99
+-   [QSourcer](https://qsourcer.com) - 5 Free Job Credits / AI Boolean Generator / Precise Boolean search strings / One-click multi-platform search - From $5.99/monthly
+-   [nele.ai](https://nele.ai) - 1000 credits for 7 days / Secure AI for companies / Centralized prompt management / Company knowledge databases - From €10/month
+-   [SoraShorts](https://www.sorashorts.ai) - 10 prompt generations per month / Professional Video Scripts / Camera Angle Guidance - From $99.9/year
+-   [Capable](https://www.thecapable.io) - Build dynamic prompt templates effortlessly / Share them with your team
+-   [PromptWave AI](https://promptwave.ai) - Save, organize & rediscover AI prompts / Share & explore community masterpieces
+-   [Promptimize AI](https://promptpal.net) - 10 prompts per day / Seamless Prompt Optimization / Instant Enhancement - From $12/month
+-   [TaoPrompt](https://taoprompt.com) - 150 prompt credits/month / Professional prompt creation / Optimize experience with ChatGPT, Claude, Gemini and other AI models - From $10/month
+
+### AI Text Generator
+
+-   [ChatGPT](https://chatgpt.com) - Free / Engaging conversations / Automate tasks / Real-time data from the web - From $20/month
+-   [TeraBox](https://www.terabox.com/ai/index) - 1 TB free cloud storage / Send Large Files Online / Cloud Backup / AI-Powered Content Generation Tools
+-   [Toolsaday](https://toolsaday.com) - AI-powered content creation / Paraphrasing Tool / 40+ AI tools - From $7.99/month
+-   [Venice AI](https://venice.ai) - Free 25 text prompts & 15 image prompts daily / Private and Uncensored AI / Generate text, images, characters and code - From $18/month
+-   [WizGenerator](https://wizgenerator.com) - Free / Comprehensive Tools / Premium & Accurate Results
+-   [GravityWrite](https://gravitywrite.com) - Free 1,000 words/mo / High-quality content generation / SEO blog writing / AI image creation - From $19/month
+-   [Rephrasely](https://rephrasely.com) - 10000 characters free / Paraphrasing / AI writing / Plagiarism checks - From $4.99/month
+-   [AI Dungeon](https://aidungeon.io) - Free to play / AI-generated adventures with infinite possibilities / Text-based adventure-story game you direct
+-   [Typli.ai](https://typli.ai) - AI Writing / SEO Assistant / AI Image Generation - From $7.99/month
+-   [neuroflash](https://neuroflash.com) - 2000 words & 5 images free/month / Highest-quality AI-generated marketing texts / AI text & image generation - From 80€/mo
+-   [Paraphrase Tool](https://paraphrasetool.com) - 10000 characters free / Paraphrasing / Paragraph Generation / Plagiarism Checks - From $4.99/month
+-   [AI PhotoCaption—Text Generator](https://apple.co/4bQRLPo) - Free 3 credits / AI-Driven Captions / Multi-Language Support - From $5.99/month
+-   [AI Magicx](https://aimagicx.com) - 5,000 words free / AI-powered content creation suite / AI Image Generator / AI Chatbot - From $9.16/month
+-   [HyperWrite](https://www.hyperwriteai.com) - Free / AI-powered writing assistant / Real-time research / Hundreds of AI tools - From $16/month
+-   [Bedtimestory.ai](https://www.bedtimestory.ai) - Free account / Hyper-Personalized stories / Instant Creation - From $8.25/month
+-   [Transcope](https://transcope.io) - 4,000 characters free / SEO AI writing / Internal document creation - From ¥11,000/month
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [Wordkraft AI](https://wordkraft.ai) - 5 Essential Messages, 3 Advanced Messages, 2 Image Credits / Access top AI Models / 260+ AI tools - From $15/month
+-   [MagickPen](https://magickpen.com) - 20 credits per day / AI Writing Assistant / Grammar Checking / No Login required - From $6.9/month
+-   [nichesss](https://nichesss.com) - Content and business ideas / Marketing copy generation - From $19/month for 2500 short form generations
+-   [AI Speech Generator](https://speechgenerator.co) - 50 speeches free / Create personalized speeches / Save time writing - From $3/one-time
+-   [Seapik](https://seapik.com) - 2000 free words / AI writer / AI text generator - From $4.9/Month
+-   [Contents.ai](https://contents.com) - 8 creations per day / AI Content Generation / SEO Optimization / Multi-format Content - From $19/month
+-   [Letterly](https://letterly.app) - AI speech to clear & structured text / Rewrite speech into various formats / No Sign-Up
+-   [Wrizzle AI](https://www.wrizzle.ai) - 5 free generations daily / AI Writing Tools / AI Detector / No login required - From $4.83/month
+-   [Clarice.ai](https://clarice.ai) - Write Clear, Strong, Original, and Error-Free Texts / 50+ templates - From R$ 22.45/month (100k words)
+-   [Scripe](https://scripe.io) - AI-powered LinkedIn posts / Voice-to-content / Personalized content
+-   [Marky](https://www.mymarky.ai/home-alt) - Free 30 posts / AI-powered social media marketing / On-brand content & creatives / Auto-posting to favorite platforms / No account creation or credit card needed - From $19/month
+-   [Textie.ai](https://textie.ai) - Unlimited text generation / Chat with AI / Images generation - From $5.99/month
+-   [Type.ai](https://type.ai) - AI-powered document editor / AI writing assistant - From $23/month
+-   [Article Forge](https://www.articleforge.com) - 5-day free trial / Unique, SEO optimized, high-quality content / Generates 1,500+ word articles - From $57/month
+-   [PizzaGPT](https://pizzagpt.it) - Free / AI Chatbot for Italy / Fast responses / No login - From 16€/month
+-   [AI Horde](https://stablehorde.net) - Crowdsourced AI image generation / Crowdsourced AI text generation / Client interface requiring no installation / No Sign-Up
+-   [Rytr](https://rytr.me) - 10k characters per month / Craft high-quality content faster / 40+ content use cases / No CC required - From $9/month
+-   [Copyter IA](https://copyter.com) - 2000 daily trial words / SEO optimized text generator / AI Image Generator / Text to Speech Converter - From $9.00/month
+-   [ScribaMax](https://www.scribamax.com) - Craft Memorable Wedding Speeches in Just 5 Minutes / Personalized Speech Capture Your Unique Story / No Expensive Writer Needed - From $15.00 for 5 AI-crafted speeches
+-   [ParagraphAI](https://paragraphai.com) - 5 uses per day / Error-free writing / Real-time editing / Custom workflows / - From $24.99/month
+-   [Pollinations.AI](https://pollinations.ai) - Image, Text, and Audio Generation API / No Login or Sign Up required
+-   [RichlyAI](https://richlyai.com) - Unlimited Text Generation FREE (Limited Time) / Text Generation / Stunning Imagery / Social Media Automation
+-   [Writeseed](https://writeseed.com) - SEO-optimized content creation / Full article generation in 10 seconds / Supports multiple AI models - From $24/month
+-   [Rush Analytics](https://rush-analytics.com) - 7-day free trial / Track rankings / Keyword research / Site Audit - From $24/month
+-   [Presscloud.ai](https://presscloud.ai) - Free account available / AI Press Campaign Generator / AI Press Lists / Media Monitoring - From $79/month
+-   [AiKeeda](https://www.aikeeda.com) - 7 Days of free trial / AI Text Generator / AI Image Generator / AI Chat Bot - From $9.99/month
+-   [Evere](https://evere.co) - Free Posting / AI Writing Generator / Content Sharing & Discovery
+-   [Speedwrite](https://speedwrite.com) - Unique, plagiarism-free writing / Insanely fast generation - From $3.33/month
+-   [Copyson](https://copyson.com) - Free option / High-quality text generation / 200+ templates & 50+ languages / All-in-one AI tools / No registration required
+-   [Deep Infra](https://deepinfra.com) - 10 USD free per month / Fast ML Inference / Simple API - From $0.005 per 1M input tokens
+-   [Text Generator](https://text-gen.com) - Free / AI-driven content generation / Optimized for Obsidian
+-   [Chapple AI](https://chapple.ai) - 7 Day Free Trial / AI-powered content creation / text, image, and code generation - From $19.99/month
+-   [Hullo AI Bio Generator](https://hullo.dating/ai-bio-generator?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3114)- Freemium + From $7.99/month / Write Your Best Dating Bio with AI
+
+### AI Story Generator
+
+-   [Toolsaday](https://toolsaday.com) - AI-powered content creation / Paraphrasing Tool / 40+ AI tools - From $7.99/month
+-   [Story321](https://story321.com) - 10 new user credits + daily free text generation / AI Story Generation / AI Image Generation - From $9.99/month
+-   [AI Dungeon](https://aidungeon.io) - Free to play / AI-generated adventures with infinite possibilities / Text-based adventure-story game you direct
+-   [Sudowrite](https://www.sudowrite.com) - Bust writer's block / Write novels & screenplays faster / AI feedback - From $10/month (225,000 credits)
+-   [ReadKidz](https://www.readkidz.com) - 1,500 Credits free / AI-Powered Children's e-Picture Books & Story Creation / One-click publishing - From $10/month
+-   [DreamGen](https://dreamgen.com) - 4000 tokens context window for free / AI role-play / Story generator - From $7.83/month
+-   [AI Dungeon](https://latitude.io) - AI-generated games & Interactive Storytelling / Advanced AI Models & Large Context Sizes - From $15/month
+-   [DeepFictionAI](https://www.deepfiction.ai) - 5 daily credits / AI story generator / image & role-play generator - From $5/month
+-   [StoryBee](https://storybee.app) - Free 3 stories via referral / AI-powered story generation / Personalized children's stories - From $5/month (40 stories)
+-   [Fable Fiesta](https://fablefiesta.com) - AI DnD Campaign Builder / DnD Race & Class Generators / DnD Monster Generator
+-   [Storywizard.ai](https://www.storywizard.ai) - 7-day free trial / Personalized learning experiences / AI-powered story creation - From $10/mo
+-   [NovelAI](https://novelai.net) - 50 Free Text Generations / AI Storytelling / AI Anime Image Generation - From $10/month
+-   [Story AI](https://storyai.cc) - 3 interactive stories free / Interactive AI Story Writer / Interactive prompts & AI-generated suggestions
+-   [Narrati](https://narrati.io) - 5 stories per month free / AI-powered story generation / Multiple genres & smart customization - From $1.99/month
+-   [StoryGenerate](https://storygenerate.io) - Generate unique stories / Customizable story options
+-   [AI Game Master](https://www.aigamemaster.app) - 10 free tokens on sign up / Immersive text adventure / AI-driven gameplay / Unique text combat
+-   [Once Upon a Bot](https://onceuponabot.com) - Create original stories with AI / Create endless illustrated stories - From $6.67/month
+-   [Storychat.app](https://storychat.app) - / Create interactive AI dialogues / Generate AI images / Monetize content - From $5/month
+-   [Bedtimestory.ai](https://www.bedtimestory.ai) - Free account / Hyper-Personalized stories / Instant Creation - From $8.25/month
+-   [MyTales](https://mytales.io) - 5 story sections per day / AI Powered Story Generator / AI collaboration with images / No credit card required - From $9.99/mo
+-   [Story Diffusion Gen](https://storydiffusiongen.com) - Consistent Character Creation / High-Quality Image and Video Generation
+-   [Artemis AI](https://artemisapp.ai) - 3 free stories / Personalized bedtime stories / Fosters empathy & emotional intelligence / 125K+ Story combinations
+-   [Short AI](https://www.short.ai) - Free / Faceless Video Generation / Auto-Generate Subtitles - From $19/month
+-   [Story321.org](https://www.story321.org) - 1000 daily free story generations / Generate unlimited stories / Customizable Prompts / No Registration Required - From $4.97/month
+-   [Oscar Stories](https://oscarstories.com) - Create personalized bedtime stories for children using AI / Teach valuable lessons with fun, educational narratives / Generate personalized Audio Stories
+-   [Imagine Stories](https://imaginestories.pl) - 2 stories free / AI-powered personalized stories / Therapeutic & educational texts - From PLN 18.9/month for 15 stories
+-   [Questas](https://questas.co) - 5 free credits / AI-generated images and videos / Branching narratives / No credit card required - From $10.00 for 100 credits
+-   [MidReal](https://midreal.ai) - 10 Pills + 10 Bonus Pills daily / Craft interactive, illustrated stories with AI / Infinite length story generation - From $5.99/month
+-   [WhimsyWorks](https://whimsyapp.com) - Unlimited free adventures / AI-powered choose-your-own-adventure reading games / Personalized to child's interests / Tailored to reading level
+-   [Free AI Story Generator](https://freeaistorygenerator.com) - Unlimited stories / AI Story Generator / Based on Prompt / No Sign-Up Required
+-   [KidsAIStory](https://www.kidsaistory.com) - Free book created by AI / Create illustrated children's stories with AI / Customize age, pages, and subject
+-   [PicTales](https://pictales.online) - 5 Generation / Unique Stories / Multiple Languages - From $8.99/month
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [StoryHero](https://www.storyhero.me) - Free 3 stories per month / AI-powered storytelling for unique tales / Create stories together as a family - From €5/month
+-   [Kidgeni](https://kidgeni.com) - 15 credits / AI Art Generation / AI Story & Book Creation - From $9.99/month
+-   [Storygen](https://storygen.co) - AI UGC videos / AI video generator / AI story writer
+-   [Scarlett Panda](https://www.scarlettpanda.com) - First story free / 7-day trial for $1 / Customized stories / Educational content - From $9.90/month
+-   [Dream Kid AI](https://www.dreamkid.ai) - 2 Free Stories / AI-powered storytelling / Personalized for medical journeys / Audio & Illustrations - From €3.99/story
+-   [History Sleep](https://www.historysleep.com) - Daily free history lectures / AI-generated boring history lectures / Soothing Voices -
+-   [FictionGenie](https://www.fictiongenie.com) - 1-month free trial / AI-powered stories with illustrations / Multilingual stories / Track child's growth & skills
+-   [TheStoryGPT](https://thestorygpt.com) - / Craft interactive stories / Immersive interactive storytelling / - Starting at $10
+-   [Mi Cuento Digital](https://micuentodigital.es) - Unlimited free for now / AI-generated personalized children's stories / Customizable character, adventure, and learning / Illustrated stories
+-   [Kids Tell Tales](https://kidstelltales.com) - First 21 AI interactions free / Interactive AI storytelling / Personalized AI adventures - From $7.99 for 450 AI interactions
+-   [Talespinner.io](https://talespinner.io) - AI-powered storytelling / Craft characters, plots, and chapters
+-   [StoryMagician.ai](https://storymagician.ai) - 1 free personalized story / Personalized storybooks / Custom characters - From $9/month
+-   [DreamStories](https://dreamstories.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3123)- Freemium + From $3/month / Magical personalized bedtime stories for children.
+-   [TuckMeIn](https://tuckmein.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3228)- Freemium + From $9/month, No Refunds / Every night, a new adventure starring your child.
+-   [Wonder Wisp](https://wonderwisp.net/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3420)- Free Trial + From $5/unit, No Refunds / Create personalized children's storybooks starring your child.
+-   [GenStory](https://www.genstory.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2714)- Free Trial + From $19.99/month / Transform ideas into beautiful AI storybooks instantly.
+
+### AI Summarizer
+
+-   [Blinkist](https://www.blinkist.com) - Trial / 1 free book a day / 15-minute book summaries / Audio insights
+-   [Knowt](https://knowt.com) - Free / AI Study Tools for Notes, Flashcards & Summaries / Unlimited Free Study Modes
+-   [Kome AI](https://kome.ai) - 5 summary credits / AI-Powered Summarizer / Bookmark Manager - From $5.99/Month
+-   [Otter.ai](https://otter.ai) - 300 monthly transcription minutes / AI meeting assistant records, transcribes and summarizes in real time / Otter AI Chat - From $16.99/month
+-   [PDF Guru](https://pdfguru.com/ai-pdf-summarizer) - First summary free / Summarize PDFs / Chat with PDF
+-   [AI Summarizer](https://summarizer.org) - AI-powered text summarization / Customizable length & multiple formats - From $3/month
+-   [Mapify](https://mapify.so) - Free Credit / AI Mind Map Summary / Convert various content types to mind maps
+-   [Shortform](https://www.shortform.com) - 5-day free trial / World's Best Book Summaries / Audio Narrations - From $16.42/month (billed annually)
+-   [Tactiq](https://tactiq.io) - 10 transcripts / mo & 5 AI credits / mo / Bot-free real-time transcripts / AI summaries & action items / Actionable workflows - From $8/month
+-   [Lilys AI](https://lilys.ai) - Summarize Videos, Audio, PDF & Websites / Perfect summaries for English papers and foreign language videos
+-   [YouLearn AI](https://youlearn.ai) - Free 10 uploads/day, 5 AI chats/day / AI tutor for PDFs, videos & lectures / Generates notes, quizzes, flashcards & exams / Interactive AI chat & voice mode - From S$16/month (billed annually)
+-   [Algor Education](https://algoreducation.com) - 30 free credits / AI-powered concept & mind maps / Flashcards, quizzes & summaries - From $5.99/month
+-   [BlueMail](https://bluemail.me) - Free / Unified Inbox / GemAI Generative Email -
+-   [Read AI](https://www.read.ai) - 5 free meetings per month / Personalized Speaker Coach / AI Summaries & Search - From $15/month
+-   [SlideSpeak](https://slidespeak.co) - Up to 1 file/presentation free / Chat with your PowerPoint files / Summarize PowerPoint slides with AI - From $29/month
+-   [tl;dv](https://tldv.io) - Free forever / AI Notetaker for meetings / CRM updates & follow-up drafting / AI-powered Sales Coaching & Insights
+-   [TLDR This](https://tldrthis.com) - Automatic text summarization / Metadata extraction / Ad-free reading experience
+-   [Recruit CRM](https://recruitcrm.io) - Unlimited free trial / ATS + CRM / AI-powered recruitment software / Workflow Automation - From $85/month
+-   [ScreenApp](https://screenapp.io) - Free 3 AI Credits / AI Notetaker / Transcription / Summarizer - From $14/month
+-   [Thea](https://www.theastudy.com) - Free access until January 1st, 2026 / AI Study Tools / Unlimited Questions / Mobile Apps
+-   [AI Lawyer](https://ailawyer.pro) - Expert legal advice / Document creation, summarizing & comparison / Rapid legal research
+-   [Decopy AI](https://decopy.ai) - AI detection / Humanization / Summarization / No Login required
+-   [Fathom](https://fathom.video) - First 5 advanced AI calls/month / Records, transcribes, and summarizes meetings / Automates post-call data entry into CRM - From $15/month
+-   [Mindgrasp AI](https://mindgrasp.ai) - 4 day free trial / AI powered notes / flashcards & quizzes / AI tutor - From $9.99/month
+-   [Monica](https://monica.im) - 40 daily basic model accesses / AI Chat / Copywriting / Smart Reading - From US$8.3/month
+-   [Noiz](https://noiz.io/free-ai-tools/ai-pdf-summarizer) - Unlimited summaries / Summarize Any PDF Size / Choose summary length and format / No Registration
+-   [NoteGPT](https://notegpt.io) - 15 quotas/month free / AI Summary for Long Videos, Articles and Text / Q&A and Chatting with AI Assistant / YouTube Video Timestamped Transcript - From $9.99/month
+-   [TubeOnAI](https://www.tubeonai.com) - Free 3 Channel subscriptions, 60 Minutes per month / AI-driven summaries / Content Repurposing / Chat with content - From $9/month
+-   [Noteey](https://www.noteey.com) - Free up to 3 projects, 100 cards, 3 PDFs, 3 videos/audios / Visual Note-taking / Infinite Canvas / PDF & Video Annotation / No account or signup required - From $10/month
+-   [Raena AI](https://raena.ai) - Up to 2 quizzes per week / Interactive quizzes / Personal AI Tutor - From $6.99/month
+-   [Shortwave](https://www.shortwave.com) - 14 day free trial / AI email assistant / Organize & write emails with AI - From $14/month
+-   [Linnk.AI](https://www.linnk.ai) - Free use quotas for summarization & translation preview / AI Summarizer / Translator / Research Assistant
+-   [MeetGeek](https://meetgeek.ai) - Free 3 hours of transcription / mo / records & transcribes meetings / AI summaries - From $15/month
+-   [Speak AI](https://speakai.co) - 7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant - From $15/month
+-   [Recall](https://www.getrecall.ai) - 10 free content summaries & chats / Summarize content / Organize into a knowledge graph / Enhance memory - From $7/month
+-   [Noota](https://www.noota.io) - Free 300 min & 10 AI credits / AI-powered meeting assistant / Automates note-taking & custom reports - From $19/month/user
+-   [Podwise](https://podwise.ai) - Free 4 AI-enhanced episodes / 3 AI queries per day / Transcribes, extracts insights & summarizes dense episodes / Integrates with Notion, Readwise & more / No credit card required - From $5.90/month
+-   [Merlin AI](https://www.getmerlin.in) - 102 free queries daily / Research, Write, Summarize in 1-click / Summarize videos, articles, PDFs, and websites / Write emails and social media content - From $19/month billed annually
+-   [Glasp](https://glasp.co) - Free 3 YouTube summaries/day / Web & PDF Highlighter / AI Summaries - From $10/month
+-   [Scholarcy](https://www.scholarcy.com) - 1 summary per day / Summarize anything / Understand complex research - From SGD 13.99/month
+-   [Bubbles](https://www.usebubbles.com) - Free with 30 min/recording, 5 meetings/week / AI Meeting Note Taker / AI action items and summaries - From $22/month
+-   [Grain](https://grain.com) - 1 notetaker seat / AI Meeting Notes / AI Coaching - From $19/month
+-   [Sembly AI](https://www.sembly.ai) - 60 mins/month online recording, 60 mins/month upload free / AI-generated meeting minutes and summaries / AI Tasks - From $10/month
+-   [TwinMind](https://twinmind.com) - Unlimited hours of transcription and AI chats for free / AI Second Brain for capturing and summarizing / Perfect notes and memory recall - From $10/month
+-   [Glarity](https://glarity.app) - 40,000 tokens/day / YouTube Video Summary / Google Search Summary / PDF Summary / No registration required - From $7.49/month
+-   [Toolsmart YouTube to MP3 Converter](https://www.toolsmart.ai/feature-youtube-to-mp3) - Unlimited Downloads / Convert YouTube videos to MP3 / Fast Conversion / No Signup Required
+-   [Studydrive](https://www.studydrive.net) - Access study documents / AI Flashcards / Study Lists
+-   [Snipd](https://www.snipd.com) - 2 AI-processed episodes per week / Save insights instantly / Chat with episodes / AI-generated transcripts & chapters - From $6.99/month
+-   [Canny](https://canny.io) - 25 tracked users free / Collect & Organize Feedback / AI Feedback Management - From $19/month
+-   [ReadDocs](https://readdocs.co.uk/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2937)- Freemium + From $13.50/month / Understand any document in seconds.
+
+### AI Paraphraser
+
+-   [Free Paraphrasing Tool](https://www.toolsmart.ai/feature-free-paraphrasing-tool) - Unlimited (up to 1500 words/session) / Paraphrase accurately while keeping original meaning / 9 Excellent Modes / No Sign-up
+-   [LanguageTool](https://languagetool.org) - Free 3 rephrasing requests per day / Comprehensive Grammar, Punctuation & Style Checking / AI-powered Rephrasing / Supports 30+ Languages / No Sign-Up required - From SGD 4.99/month
+-   [QuillBot](https://quillbot.com) - Paraphrase up to 125 words free / Paraphrase / Grammar Checker / Plagiarism Checker - From $8.33/month
+-   [Toolsaday](https://toolsaday.com) - AI-powered content creation / Paraphrasing Tool / 40+ AI tools - From $7.99/month
+-   [Paraphraser.io](https://www.paraphraser.io) - 600 words free / AI Paraphraser / Plagiarism-free output - From $9/week
+-   [Rephrasely](https://rephrasely.com) - 10000 characters free / Paraphrasing / AI writing / Plagiarism checks - From $4.99/month
+-   [RewriteGuru](https://rewriteguru.com) - 800 word limit free / AI rewriting / 100% unique content / No registration required - From $9.99/month
+-   [Writesonic](https://writesonic.com) - 10000 Premium words free / SEO-optimized content creation / AI Article & Blog Writer - From $16/month
+-   [Paraphrase Tool](https://paraphrasetool.com) - 10000 characters free / Paraphrasing / Paragraph Generation / Plagiarism Checks - From $4.99/month
+-   [EasyEssay](https://easyessay.ai) - Free trial / AI Essay Writing Assistant / Paraphrasing Tool / Plagiarism Check
+-   [Paraphrase Online](https://paraphrase-online.com) - Free / Rephrase essays, assignments & articles / 5 Different Paraphrasing Modes / Plagiarism Free Content
+-   [WordAi](https://wordai.com) - 3-day free trial / High-quality rewriting / Avoid AI Detection - From $9/month (billed annually)
+-   [GPTinf](https://gptinf.com) - Free 3,000 words in total / Bypass AI detectors / Humanize AI content / Easy to use - From $12/month for 10,000 words
+-   [Reescribir Textos](https://reescribirtextos.net) - Free / AI-powered text rewriting / Plagiarism-free results / No Sign-Up - From €3/week
+-   [MyEssayWriter.ai](https://www.myessaywriter.ai) - 1500 words free / High-Quality, Plagiarism-Free Essays / Time-Saving Essay Generation / No Sign-Up Required - From $9.99/month
+-   [Humanizer Pro](https://humanizer.pro) - 200 words free / Humanize AI text to 100% human scores / Error-Free & Plagiarism-Free Content / No Login
+-   [Desklib](https://desklib.com) - Free 20 AI Answer questions, 12 Plagiarism Checker scans / AI-Powered Study Tools / Study Documents / Plagiarism Checker - From $4.50/month
+-   [Question AI](https://questionai.io) - AI Homework Helper / Summarizer / Paraphraser
+-   [Rewriter Tools](https://www.rewritertools.com) - 10K tokens, 10 image items, 30 minutes speech to text free / Unique, plagiarism-free text / Improve Readability
+-   [PaperRed](https://paperred.com) - Unlimited Free Plagiarism Check / AI Rewriting / AI Writing
+-   [TextFlip](https://textflip.ai) - Free 5 submissions/month / AI Rewriting Tool / AI Detector Evasion - From $19/month
+-   [Spin Rewriter AI](https://www.spinrewriter.com) - 5-day free trial / Generate up to 1,000 unique articles / ENL Semantic Rewriting - From $47/month
+-   [Reword Generator](https://rewordgenerator.net) - Reword sentences, paragraphs, articles, and essays / Make content unique and plagiarism free - From $8.97/month
+-   [WordfixerBot](https://www.wordfixerbot.com) - 8,000 characters/day, 3 free tones / Paraphraser / Grammar Checker / Text Summarizer - From $4/month (billed yearly)
+-   [Tutorly.ai](https://tutorly.ai) - Daily Credits / Answer any questions / Write essays / Paraphrase - From $9.99/month
+-   [TinaMind](https://tinamind.com) - 2000 PaLM2 queries + 500 GPT3.5 queries free / Explain, Translate, Rephrase text / AI Chat & Writing Inspiration - From $10/month
+-   [Word Changer](https://wordchanger.net) - 500 words per input / AI-powered word changing / Vocabulary expansion & tone adjustment - From $6.67/month
+-   [Netus AI](https://netus.ai) - 50 Netus AI credits / Undetectable AI Paraphraser / Beat any AI detector / AI to Human converter - From $30/month
+-   [Revrite.ai](https://www.revrite.ai) - Context-aware paraphrasing / 100+ Languages Support / Rich Text Editor
+-   [AHelp](https://paraphraser.academichelp.net) - 7 paraphrasing modes / Plagiarism-free content / AI to Human
+-   [Parafrasear Textos](https://www.parafraseartextos.net) - Free 1000 words / Online Paraphrasing / Text Humanization / No Registration Required - From €3/weekly
+-   [Paraphrasing.io](https://paraphrasing.io) - Free 1000 words per request / Rephrase essays, emails & paragraphs / Remove plagiarism & improve readability - From $7/month
+-   [workspeak](https://workspeak.online) - 20 credits / Message Polisher / Practice Roleplay / - From $9/month (1000 credits)
+-   [Linguix](https://linguix.com) - Free / Grammar Checker / AI Writing Assistant / Paraphraser - From $5.00/month
+-   [Rephrase](https://www.rephrase.space) - Free 3-day trial / Customizable text transformations / Grammar & style enhancements / Multi-language translation - From $9.99/month
+-   [Humanizer AI](https://humanizerai.com) - 5,000 words free / Humanize AI Text / Detect AI Writing / No Sign-Up required - From $6/month
+-   [Plagiarism Remover](https://www.plagiarismremover.net) - 1000 words per submission free / AI-Based Plagiarism Removal / Plagiarism Checker / No Login required - From $20/month
+-   [re:write](https://rewritegpt.com) - Free / Rewrite text into robust, advanced variations / Perform quick grammar checks
+-   [AHelp](https://ahelp.com) - Free 3 credits / day / Check plagiarism / Improve grammar / Generate ideas - From $4.17/month
+-   [Text-Enhancer.com](https://text-enhancer.com) - Free 3 requests per month / Paraphrase & Reword Text / Improve Grammar - From $7/month
+-   [TextAdviser](https://textadviser.com) - AI-Powered Writing Assistance / Grammar and punctuation checker / Plagiarism Checker - From $12.75/month for 1M characters
+-   [Paraphrasing-tool.ai](https://paraphrasing-tool.ai) - 3 free tries / AI Paraphrasing Tool / Humanizer / Remove Plagiarism - From $9.95/month
+
+### AI Message Generator
+
+-   [CelebrateAlly](https://www.celebrateally.com) - 10 free credits / Craft heartfelt speeches / Discover thoughtful gifts / Plan the perfect party / No Sign-Up - From $5 for 100 credits
+-   [Hinge Openers](https://hingeopeners.com) - 7-day free trial / Upload match screenshots / Generate tailored conversation starters - From $3.99/week
+-   [WingAI](https://wingai.app) - 7-day free trial / AI crafts personalized, witty responses / Works with all dating apps by uploading screenshots - From $3.99/week
+-   [SayHi](https://sayhi.pro) - 10 free messages / Personalized LinkedIn intro messages / AI-powered message generation - From $10.00/month (300 messages per user)
+-   [Kodie](https://kodie.com) - 5 free video and text messages / Go Paperless / Record Video/Photo/Text Gift Messages / Boost Sales with Brand Pages - From $9.99/month for 20 Brand page Impressions
+-   [Comment Fast](https://chromewebstore.google.com/detail/comment-fast-ai-comment-g/oamnmnbidpkghakbdipfkpjiapadpbcm) - Instant Comment Generation / Tailored for multiple platforms / No Login required
+-   [BlessAI](https://dailybless.net) - Free / Personalized AI-generated greetings / Birthday wishes & prayers / High-quality image generation
+-   [MatchHack](https://www.matchhack.ai) - analyzes your dating app matches / generates personalized, engaging messages
+-   [Replyio](https://replyio.com) - 7-day free trial / Personalized LinkedIn Messaging / Automated AI Responses for Gmail, Outlook, Twitter - From $15/month
+-   [Icebreaker AI](https://www.icebreaker-ai.com) - 10 Free Icebreakers / Generate personalized icebreakers in seconds / Increase open & click-through rates - From $50/month
+-   [InboxBirthdays](https://inboxbirthdays.com) - 3 Birthdays free / AI-powered custom birthday messages / Inbox birthday management - From 1.99 EUR/year
+-   [Greetigo](https://greetigo.com) - Free 3 events / AI-Powered Reminders / Personalized Greetings - $9.99/month
+-   [JournoPitch AI](https://journopitch.co.uk) - AI-powered pitch generation / Direct connection with journalists / Repurpose pitches into content
+-   [AutoPitch](https://autopitch.ai) - 14-day free trial / Writes technical outbound messages / Crafts personalized pitches / Automates research reports - From $29/month
+-   [Geniechat](https://geniechat.com) - 7-Day Free Trial / Sales Relationship Management / AI-powered Message Generation / Content Keyboard & Team Sharing - From $3.95/month
+-   [Strama](https://strama.ai) - 50 credits/month / AI-powered sales automation / Automated multi-touch sequences - From $0/month
+-   [SourceGeek](https://www.sourcegeek.com) - Free 1-month trial / LinkedIn Automation / AI-driven candidate sourcing - From €100/month
+-   [CHALE](https://www.chalecards.com) - Free first card / AI-powered personalized greeting cards / Unique design generation
+-   [Vibly](https://vibly.io) - Free for 30 days / Coaching Client Management Software / AI-powered features - From $20/month
+-   [Texts](https://texts.com) - Free for 10 accounts / All social messengers in one inbox / AI-assisted productivity - From $15/month
+-   [WhatsApp Message Enhancer](https://chromewebstore.google.com/detail/waiter-whatsapp-ai-reiter/mjclibacijmklaimcfenahjhanhelfkk) - 100 requests per day / AI-powered tone variations / Multiple message styles / No account required
+-   [Cold DM](https://colddm.me) - Free Up to 200 Twitter DMs per day / Find targeted leads / Automate outreach campaigns / AI-powered message templates - From $19/month
+-   [Heartstring AI](https://heartstring.ai) - Free / Write wedding vows, speeches, eulogies / / -
+
+### AI Subtitle Generator
+
+-   [CapCut](https://capcut.com) - AI-powered video editing / Text to speech / Auto captions
+-   [Kapwing](https://kapwing.com) - Free 10 min auto-subtitling / AI-powered video creation / Collaborative editing - From $24/month
+-   [Clideo](https://clideo.com) - Video editor / Compress video / Add subtitles - From $6/month
+-   [Happy Scribe](https://happyscribe.com) - 10-minute free trial / Audio Transcription & Video Subtitles / AI-powered & Human-made services - From $9/month
+-   [VMEG AI](https://www.vmeg.ai/tools/clips-to-videos) - 60 free credits / Clips to Videos / AI Voiceovers & Subtitles - From $9.6 for 240 credits
+-   [Apowersoft](https://apowersoft.com) - Record, Edit & Convert Multimedia / Screen Recording & Phone Mirroring - From $4.99/month
+-   [Canvid](https://canvid.com) - Automatic Zooms / AI Background Effects / Auto-Captions - From $15/month
+-   [Maestra AI](https://maestra.ai) - 10 minutes free trial / AI Transcription / Subtitles / Multilingual Voiceovers / No account required - From $23/month
+-   [RecCloud](https://reccloud.com) - Free 1 minute for AI features / AI Video Chat / AI Subtitles / AI Speech-to-Text - From $4/month
+-   [EchoWave](https://echowave.io) - Up to 60 minutes video / Online video and audio editor / Convert audio to video with waveforms / AI Auto Subtitles Generator / No account required - From $9/month
+-   [VMEG](https://www.vmeg.ai/tools/video-translator) - 60 free credits / Translate & dub videos in 170+ languages / 7000+ AI Voices & Lip Sync - From $9.6 for 240 credits
+-   [Panda Video](https://pandavideo.com.br) - 30-day free trial / Secure Video Hosting / AI-powered content creation / Sales & Engagement tools - From R$87.90/month
+-   [Submagic](https://submagic.co) - 3 free videos / AI-Powered Captions / Trendy Templates / Magic Clips - From $19/month
+-   [SubEasy](https://www.subeasy.ai) - 3 x 30 mins Free Transcribe Daily / AI Subtitle & Transcription / AI Translation / Subtitle Reflow - From $7.42/month
+-   [vidby](https://vidby.com) - Free 3 minutes of dubbing / AI-powered video translation and dubbing / 70+ languages - From $9.95/month
+-   [Checksub](https://checksub.com) - Free 1 hour of video translation / Subtitle Generation / AI Dubbing / Video Translation - From $12/month
+-   [Trancy](https://www.trancy.org) - Free 50 PDF pages/month / Personalized study materials from YouTube/Netflix / Build vocabulary & grammar / Improve listening & speaking - From $3.49/month
+-   [AutoCaption](https://autocaption.io) - Automatic AI caption generator / Animated emojis - From $14/mth
+-   [Translate.Video](https://www.translate.video) - Video Translation 5 Mins/mo / Video Translation / AI Voice-over & Voice Cloning - From $29/month
+-   [SubtitleBee](https://subtitlebee.com) - Free 1 video / 10 minutes / 95% Accurate AI generated Subtitles / Translate subtitles in 120+ languages - From $19/month
+-   [Wondershare Filmora](https://filmora.wondershare.com.br) - 100 AI Credits / AI-powered video editing / 100+ Advanced Editing Functions / 2.3M+ Creative Assets - From 35,99€/quarter
+-   [SyncWords](https://syncwords.com) - AI-powered captioning / subtitling / voice dubbing - From $0.50/minute
+-   [Zeemo](https://zeemo.ai) - Free 10 credits / Auto-generate and translate video captions / 98% Accuracy rate - From $9.17/month
+-   [Zubtitle](https://zubtitle.com) - 2 videos per month / Add Subtitles to Videos / Edit Videos Online - From $19/month
+-   [Audiotype](https://audiotype.org) - Free 1 minute trial / Convert video or audio to editable text / 100% automatic, 80-95% accuracy / No account required - 60 minutes for 9.00€
+-   [Ollang](https://ollang.com) - 21-Day Free Trial / AI Dubbing / Subtitling - From $19.99/month
+-   [Gumlet](https://www.gumlet.com) - 100 storage minutes & 250 GB streaming free / Video Hosting & Streaming / Image Optimization / AI tools - From $10/month
+-   [Bytecap](https://www.bytecap.io) - AI Auto Captions / AI Video Clipping / Faceless AI Videos - From $9/month (100 credits)
+-   [Capsule](https://capsule.video) - AI-powered video editor / Create stunning videos 10x faster / Stay on brand with motion design systems
+-   [Exemplary AI](https://exemplary.ai) - 60 upload minutes, 20 content generations free / Transcription & Subtitles / AI Clips & Content Generation - From S$12/month
+-   [VEED.IO](https://veed.io) - Auto Subtitles 2 min/mo / AI Video Editor / Auto-subtitles / AI Avatars / No credit card or account required - From $9/month
+-   [Bith.ai](https://bith.ai) - 50 Credits (One-Time) / Text-to-Video AI Generator for Faceless Creators / AI Image & Voice Generation - From $10/mo.
+-   [FreeSubtitles.AI](https://freesubtitles.ai) - Free 1 hour / 300 MB / Transcribe audio and video to text / Automatic free translation / No Login or Sign Up required - From $0.99/h
+-   [ZapCap](https://zapcap.ai) - 3 videos/month / AI Video Caption Generation / Auto B-Roll & Transitions / Multi-language Subtitles - From $8/month
+-   [SubTranslateAI.com](https://subtranslateai.com) - Free plan (up to 90 subtitles at a time) / AI-powered context-aware translations / Seamless coherence for entire subtitle files / No login required - From $7.9/month
+-   [Banva](https://banva.io) - Free 15 Minutes / AI-powered automatic subtitle generation / Subtitle editing and styling - From S$10/hour
+-   [Dubverse.ai](https://dubverse.ai) - 2-day Free Trial / AI Video Dubbing / AI Text to Speech / Auto Subtitles - From $18/month for 50 Credits
+-   [ScriptMe](https://scriptme.io) - 15 min free transcription / Transcribe audio/videos / Add subtitles / Translate - From $45/month
+-   [VideoLingo](https://videolingo.io) - Free trial for 15 mins video / AI-powered Cinema-grade Bilingual Subtitles & Dubbing Generation / Precise Translation, Thoughtful Dubbing / Natural Voice Synthesis
+-   [RecCloud](https://reccloud.cn) - Free 2GB cloud storage, 5 files, 1-min AI feature trial / AI Speech-to-Text / AI Video Translation / AI Text-to-Speech - From ¥15/month
+-   [Transcri.io](https://transcri.io) - 15 minutes per month / AI-Powered Transcription / Subtitle Generation - From 3€/month
+-   [GPT Subtitler](https://gptsubtitler.com) - Daily 10,000 tokens + 100,000 bonus tokens / AI Subtitle Translation / Audio Transcription - From $5/month
+-   [Makefilm](https://www.makefilm.ai) - 100 credits free / Image to Video / Text to Video - From $9.9USD/mo (200 credits/month)
+-   [Scribewave](https://scribewave.com) - First transcript free (up to 30MB) / Accurate speech-to-text / 90+ languages for subtitles & translations / No account required - From €9/hour
+-   [Visla](https://www.visla.us) - Free 1000 credits / AI Video Creation / AI Video Editing - From $9/month (billed annually)
+-   [Akkadu](https://akkadu.ai) - 10 minutes free / Real-time AI Subtitles in 90+ languages / Compatible with any platform - From $5 / hour
+-   [Latte Social](https://latte.social) - AI-powered video editing / Viral clips for social media - From $11/month
+-   [CaptionCreator](https://captioncreator.cc) - Free (up to 5 minutes, 3 files per day) / AI Subtitle Generation in 3 minutes / 50+ Languages Supported / No Login Required - From $10 for 100 minutes
+
+### AI Caption Generator
+
+-   [ContentStudio](https://contentstudio.io) - 14 days free trial / Unified Social Media Management / AI-powered Content Creation / Plan, Schedule & Analyze Socials - From $19/month for 5 social accounts
+-   [Deciphr AI](https://www.deciphr.ai) - 14-day free trial with 80 minutes / Transform content into multimedia assets / AI-powered content generation - From $5/month
+-   [Planable](http://planable.io) - Free 50 posts / Create and plan social media campaigns / Collaborate on content / Approve and schedule posts / No credit card required - From $33/month per workspace
+-   [CaptionMaster](https://captionmaster.io) - AI Image Caption Generator / Supports multiple languages and platforms
+-   [Flick](https://www.flick.social/tools/ai-social-media-post-generator) - 7-day free trial / AI Social Media Post Generator / Hashtag Tools / Scheduling - From £11/mo
+-   [Captions for photos: Captioned](https://apps.apple.com/us/app/captions-for-photos-captioned/id6472856464) - Automatic Captions / Generative AI for Text - From $2.99/week
+-   [Postfity](https://postfity.com) - Free plan available / Social Media Scheduling / Social Media Analytics / AI Post Generation - From $29.99/month
+-   [AutoCut](https://autocut.com) - 14-day free trial / Automatic Silence Remover / Animated Captions / Podcast Editing / No credit card required - From $6.6/month
+-   [Jester AI](https://apps.apple.com/us/app/id1661372840) - Writes photo captions for Instagram / Brainstorms new ideas - From $0.99
+-   [Tagalytics Pro](https://tagalyticspro.com) - 5 free credits / AI-driven caption & hashtag generation / Craft perfect posts with optimal hashtags - 30 Credits for $2.99
+-   [AI PhotoCaption—Text Generator](https://apple.co/4bQRLPo) - Free 3 credits / AI-Driven Captions / Multi-Language Support - From $5.99/month
+-   [Submagic](https://submagic.co) - 3 free videos / AI-Powered Captions / Trendy Templates / Magic Clips - From $19/month
+-   [Taggy](https://www.taggy.com.mx) - Hobby Free plan features / Generate engaging captions and quotes / Generate keywords and hashtags
+-   [AutoCaption](https://autocaption.io) - Automatic AI caption generator / Animated emojis - From $14/mth
+-   [CaptionsLab](https://www.captionslab.com) - 20 Daily Credits / AI-powered Instagram & TikTok Captions / Generate up to 20 captions simultaneously - From $14.99/month
+-   [Jupitrr AI](https://jupitrr.com) - 3 videos/month free / Automatically generates B-rolls / AI-powered captions - From $10.8/month
+-   [SubtitleBee](https://subtitlebee.com) - Free 1 video / 10 minutes / 95% Accurate AI generated Subtitles / Translate subtitles in 120+ languages - From $19/month
+-   [Image to Caption](https://image-to-caption.com) - 100% Free / AI-Powered image to caption generator / Instant caption generation / Hashtag recommendations / No Login
+-   [SocialBu](https://socialbu.com) - Free 2 accounts, 40 monthly posts, 1 user / Social Media Management / Automation - From $19/month for 12 social accounts
+-   [Choppity](https://choppity.com) - Free 30 mins video upload / Automated video editing / AI-powered clip creation - From $2/month
+-   [SyncWords](https://syncwords.com) - AI-powered captioning / subtitling / voice dubbing - From $0.50/minute
+-   [Zeemo](https://zeemo.ai) - Free 10 credits / Auto-generate and translate video captions / 98% Accuracy rate - From $9.17/month
+-   [Captionic](https://www.captionic.com) - Automatic Subtitles / Easy Subtitle Embedding / Multi-Language Support
+-   [CapGen](https://capgen.ai) - 1 free credit / AI-powered caption generation / Multi-platform social media support - From $1.49 (50 credits)
+-   [Creasquare](https://creasquare.io) - 14-Day Free Trial, 500 AI words, 3 social accounts / AI-powered content creation / Social media scheduling & design - From $24.9/month
+-   [Apple](https://vidcap.app) - 3-day trial / Ultra-accurate automatic subtitles / Custom fonts & animations / AI features - From $3.99/week
+-   [Seymour Events](https://seymour.events) - Free 2 hours of transcription / Real-time captions / Multi-language translation / No login or downloads for audience - From $19/month
+-   [PikPoet](https://www.pikpoet.com) - 5 Free Credits / Find poetic words for photos / AI-powered caption suggestions - From $3/month for 10 credits
+-   [imagetocaption.ai](https://imagetocaption.ai) - 5 credits for free / AI Caption generation / Custom brand voice - From $9.99/month
+-   [WriteCap](https://writecap.co) - 2 captions free trial / AI Caption Generator / Personalized captions - From $11/month
+-   [PostPlanify](https://postplanify.com) - 7-day free trial / AI Caption Generation / Post Previews - From $17.99/month
+-   [ZapCap](https://zapcap.ai) - 3 videos/month / AI Video Caption Generation / Auto B-Roll & Transitions / Multi-language Subtitles - From $8/month
+-   [Capit](https://capit.app) - Automatic social media caption generation / Customizable tone options / Built-in caption editor
+-   [AI Image to Caption Generator](https://apps.apple.com/us/app/ai-image-to-caption-generator/id6451452769) - AI-powered caption generation / Overcome writer's block / Hashtag generation - From $2.99/month
+-   [Detail](https://detail.co) - Free Basic plan / Turn longer content into short, shareable videos / AI-powered automated editing - From €4.99/month
+-   [FireCut AI](https://firecut.ai) - 7-day free trial / Silence cutting / Captions / Zoom cuts - From $19/month
+
+### Prompt Engineering
+
+-   [AI Prompt Generator by God of Prompt](https://godofprompt.ai/ai-prompt-generator) - First custom prompt free / Generate Your Custom AI Prompts / Compatible with ChatGPT, Gemini, Copilot, and Claude AI - From $27
+-   [200+ ChatGPT Mega-Prompts for SEO](https://www.godofprompt.ai/seo-mega-prompts) - 10 Free Mega-Prompts / Boost SEO & organic traffic / Automate SEO tasks - From $15/month
+-   [2000+ ChatGPT Mega-Prompts Bundle](https://www.godofprompt.ai/mega-prompt-bundle) - 10 Free Mega-Prompts / Boost Marketing, Writing, Business & SEO / Automate tasks with AI - From $37.00 (one-time purchase)
+-   [Learn Prompting](https://learnprompting.org) - Access to free courses / Master AI and prompt engineering / Get Certified in AI - From $21/month
+-   [Prompt Genie](https://prompt-genie.com) - 7 bonus prompts + 1 prompt per day / Transform basic prompts into optimized ones / Generate perfect AI super prompts - From $8.33/mo
+-   [The Prompt Index](https://www.thepromptindex.com) - All features free / World's Best AI Prompt Database / Active Telegram Community / AI Courses Online - From $4.99/month
+-   [Wordware](https://wordware.ai) - / Turn plain English into AI workflows / Connect 2000+ AI-native integrations
+-   [PromptHero](https://prompthero.com) - Search millions of AI art images / Search prompts for AI models
+-   [PUMPG - Powerusers MidJourney Prompt Generator](https://powerusers.ai/pumpg-midjourney-prompt-generator) - Interactive Midjourney Prompt Generation / Less Typing, More Creating / Advanced Prompt Customization
+-   [Pretty Prompt](https://www.pretty-prompt.com) - 5 free prompts per day / Turn any text into perfect prompts / Improved AI results in 1-click / No login needed - From $10/month
+-   [Agenta](https://www.agenta.ai) - Free 2 users and 5k traces per month / Prompt Management / LLM Evaluation / Observability - From $49/month
+-   [PromptFolder](https://promptfolder.com) - / AI Prompt Manager / Build, Save & Discover Prompts / -
+-   [PrompTessor](https://promptessor.com) - 10 requests per day for Basic Prompt Analysis & Optimization / AI Prompt Analysis / Prompt Optimization - From $10/month
+-   [PromptPanda](https://promptpanda.io) - Free Up to 10 Prompts / AI-Powered Prompt Management / Prompt Quality Improver - From $9/Monthly
+-   [Latitude](https://latitude.so) - Free 40k prompt and evaluation runs every month / Design, evaluate & refine prompts / End-to-end AI engineering platform
+-   [PromptBase](https://promptbase.com) - Explore 190k+ expert-crafted prompt templates / Sell Your Prompts - From $2.99
+-   [MyFramework](https://www.myframework.net) - Free / Make smarter decisions / Solve complex problems - $19.95/Lifetime
+-   [AI Prompt Library by God of Prompt](https://godofprompt.ai/prompt-library) - Free Prompts / 30,000+ AI Prompts / Boost Productivity & Business Growth - From $3.99/month
+-   [Prompt Builder](https://promptbuilder.cc) - 5 free prompts/month / Generate perfect prompts / Optimize existing prompts / Organize high-performing prompts - From $9/month
+-   [Prompt Dress](https://prompt-dress.com) - 100% free / efficient prompt management / one-click insertion / easy organization
+-   [PromptBros](https://promptbros.ai) - 100 Credits free / Prompt creation and direct use in Agents / Full access to the Global Library - From $9.99/month
+-   [Snack Prompt](https://www.snackprompt.com) - Discover & share AI prompts / Create text snippets / Multi-model comparison
+-   [Topfreeprompts.com](https://www.topfreeprompts.com) - Free / 10,000+ expert prompts for ChatGPT, Midjourney, Claude & Gemini / Turns AI into your expert co-founder
+-   [PRST.ai](https://prst.ai) - No-Code Prompt Management / Self-Hosted AI Automation / Connect to Any AI Tool - From $49.99/month
+-   [KitchenAI](https://kitchenai.dev) - Prompt Engineering Studio / Turn your AI code into a production-ready API
+-   [Promptaa](https://promptaa.com) - Free unlimited prompts & categories / AI prompt enhancement / Organize & save prompts
+-   [16x Prompt](https://prompt.16x.engineer) - 10 prompts per day free / Advanced Context Management / Structured Prompt Creation - From $48.00 USD (Lifetime)
+-   [Mutatio](https://mutatio.dev) - Free for individual use / Systematic prompt optimization / Custom Mutations / Model Flexibility
+-   [100XPrompt](https://promptperfekt.com) - 100% Free / Perfect AI Prompts / Automate Web Tasks / Try as Guest
+-   [PromptGround](https://www.promptground.io) - 7-day free trial / AI Prompt Management / Version Tracking / Collaboration - From $4.99/month
+-   [Prompteams](https://www.prompteams.com) - 100% Free / Prompt Versioning / CI/CD for Prompt Development - Free
+-   [PromptLayer](https://promptlayer.com) - Prompt management / Prompt evaluations / LLM observability
+-   [Freshly.ai](https://freshly.ai) - Free AI value accruement report / AI tool for prompt enhancement / World's largest AI-optimized prompt library - One Time $39.99
+-   [Portkey](https://portkey.ai) - Free trial / Observability Suite / AI Gateway / Prompt Engineering
+-   [PromptPoint](https://www.promptpoint.ai) - Prompt organization and templating / Automated prompt testing - From $20 per user/month
+-   [Promptimize AI](https://promptpal.net) - 10 prompts per day / Seamless Prompt Optimization / Instant Enhancement - From $12/month
+-   [Promptstacks](https://www.promptstacks.com) - Free vetted prompts / Community for prompt sharing & feedback / AI & Prompt Engineering courses
+-   [Langtail](https://langtail.com) - Free 1,000 logs per month / LLM testing / AI Firewall - From $99/month
+-   [PromptOwl](https://promptowl.ai) - AI Staffing / Prompt Management / Automated Workflows
+-   [The Prompt Challenge](https://thepromptchallenge.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2844)- 100% Free / Master AI prompting through practice challenges.
+
+### AI Chat Generator
+
+-   [ZenMux](https://zenmux.ai) - Free models available, 25% bonus credits / Unified API / AI Model Insurance / Model Auto Routing
+-   [Landbot](https://landbot.io) - Free Sandbox plan (100 chats/mo) / AI-powered bots / No-code chatbot builder / No Credit Card required - From $45/month
+-   [Arsturn](https://arsturn.com) - 50 credits / Create custom ChatGPT chatbots / Train on your data - From $1.99/month
+-   [Chatfuel](https://chatfuel.com) - Unlimited AI conversations free trial / AI chatbots for sales & marketing / Multi-channel automation - From $23.99/month
+-   [Typebot](https://typebot.io) - 200 chats/month free / No-code chatbot creation / Multichannel deployment - From $39/month
+-   [Thinkstack AI](https://www.thinkstack.ai) - Free 50 Message Credit / Custom chatbots using your data / Multi-lingual support / No Credit Card Required - From $16/month
+-   [Botnation AI](https://botnation.ai) - No-code chatbot creation / AI-powered chatbots / Omnichannel deployment - From $39/month (500 users)
+-   [ChatbotGen](https://www.chatbotgen.com) - Free Trial / Custom Chat GPT for Web and Whatsapp / No coding required / No Sign Up Required - From $10/mo
+-   [Orimon.ai](https://orimon.ai) - 50 credits/month / ChatGPT-esque AI / Customized sales assistant / 150+ languages - From $49.00/month
+-   [Membership.io](https://wisdomai.com) - AI Chat Plugin / Unlimited Members / Membership Hubs - From $49/month
+-   [NLX](https://nlx.ai) - Up to 10k conversations / month & $20 free credit / No-code platform / Build, deploy, and analyze chat, voice, multimodal applications / Purposeful generative AI - From $0.05/conversation
+-   [Quriobot](https://quriobot.com) - 500 chats/month / Automate customer service / Increase conversion & leads - From $15/month
+-   [ChatBuild AI](https://www.chatbuild.io) - Free 300 credits / Custom trained AI chatbots / Real-time Live Chat / Custom branding - From $39.99/mo
+-   [Reachat](https://reachat.dev) - Free to use / Build Chat Experiences in Hours, Not Weeks / Open-source UI Building Blocks for LLM and ChatUIs for ReactJS / No Login required
+-   [NEXBot](https://nexbot.io) - 500 free messages / Build custom GPTs / Add documents for knowledge / Share and embed bots
+-   [Outchat.ai](https://www.outchat.ai) - 100 messages free / Create branded AI chat / Monetize your knowledge - From $30/month
+-   [GPT4oMini.app](https://gpt4omini.app) - Free access / Ask AI questions & get answers / Generate intelligent conversations & content / No registration needed
+-   [DataSavvy.chat](https://datasavvy.chat) - 1 Free Chatbot / 25 messages/month / 500,000 characters / Custom ChatGPT for Your Business / Autonomously handles customer support - From $28.5/month
+-   [NexxtSupport](https://nexxtsupport.com) - 25 messages / month free / AI chatbot / Automate customer support / No credit card required - From $19/month
+-   [a0.dev](https://a0.dev) - 5 AI code generation messages/day / AI App Builder / Built-in Image / LLM APIs - From $20/month
+-   [Geekflare Connect](https://geekflare.com/ai/connect) - Free plan / 14-Day Trial / Unified Multi-Provider Support / Team Collaboration - From $9.99/month
+-   [Unsloth AI](https://unsloth.ai) - Free / Open source fine-tuning & RL for LLMs / 30x faster training / 90% less memory usage
+-   [Yappir](https://yappir.com) - Free 1 chatbot, 10 pages, 100 requests per day / AI-powered chatbot / Trained with your website content / Instant answers - From $19/month
+-   [VirtualSpirits](https://virtualspirits.com) - 30-day free trial / Generate Leads, Sell and Support Automatically 24/7 / Multi-channel Messaging - From $29/month for up to 1,000 visitors
+-   [Riku.AI](https://riku.ai) - 5-Day Test Drive / Build AI Apps with no-code / No-code Fine-tuning - From $29/month
+-   [Babble AI](https://babble-ai.com) - 1 Chatbot, 100 Users, 500 Unique messages free / No Code Chatbot Creation / Human-like Interaction - From $14.99/month
+-   [Mevo](https://usemevo.com) - No-code chatbot builder / AI-powered chatbot options / Lead capture & analytics - From $19.99/month (5 chatbots, 3000 monthly message credits)
+-   [ChatMatrix](https://chatmatrix.ai) - 20 message credits/month / Enhance customer engagement / Automate support - From $19/month
+-   [CreatorMind](https://creatormind.co) - 1 chatbot, 50 questions / month, 25,000 words / chatbot free / Create a chatbot trained on your content / Guide readers to relevant articles - From $12/month
+-   [Designs AI](https://designs.ai) - 50 complimentary credits upon signup / AI-powered logo, image, video generation / AI Chat & Writer
+-   [Rapidbott](https://rapidbott.cloud) - Free forever plan & 14-day trial / Build chatbots without coding / 12+ social channels support / No credit card required - From $49/month
+-   [Wonderchat](https://wonderchat.io) - 10 free messages / Build custom AI chatbots from website/PDF in 5 minutes / Self-serve customer support / No-code setup - From $29/month
+
+### AI Book Writing
+
+-   [Book AI Writer](https://bookaiwriter.com) - / AI-powered book creation / Stunning cover design
+-   [Ebookmaker](https://www.ebookmaker.ai) - AI-powered eBook generation / Automated eBook creation / Audiobook generation
+-   [Biography Studio AI](https://www.biographystudio.ai) - First 3 chapters free / AI-powered interviews / Professionally written book - From $119 one-time payment
+-   [Youbooks](https://youbooks.com) - Free 10K words / AI Non-fiction Book Generator / Up to 300K words, Your sources, Custom style / No Account required - From €6.00/book (50,000 words)
+-   [Automateed](https://automateed.com) - Free trial up to 6000 words / AI eBook Generator / AI Cover Design / Marketing Tools - From $15/mo for 4 ebook generations
+-   [Bookwiz](https://bookwiz.io) - 35k base words one-time / AI-powered story drafting / Export and publish books - From $9/month
+-   [Copylime](https://copylime.com) - 2,000 Words free / Write 1000+ word articles in seconds / 30+ copywriting tools - From $29/month
+-   [Life Story AI](https://life-story.ai) - 7-day Free Trial / Preserve life stories in a beautiful book / AI biographer guides you - From $99 / 1 book
+-   [MemoryLane](https://memorylane.co) - 50 AI chat conversations, 10 photos free / Craft captivating life stories / AI-powered reminiscence therapy / Generate printed books, videos, and audiobooks - From $19.90/month
+-   [Scene One](https://sceneone.app) - 2-week trial, 2,000 AI words / Intuitive writing app / AI Writing Assistant - From $9 USD per month
+-   [Magic Bookifier](https://magicbookifier.ai) - 1 free book (5 chapters) / Ebook creation from existing content / Audio to book transcription - From $24/month
+-   [BookAI](https://trybookai.com) - Free 3 books/month / AI-Powered Writing / Custom Genres - From $29/month
+-   [First Book ai](https://firstbook.ai) - Unlimited free outlines / Turn ideas into finished books in hours / AI-powered book writing from outline to full manuscript - From $249 for 1x Full Book
+-   [AIStoryBuilders](https://aistorybuilders.com) - Enhanced Content Generation / AI Writing and Inspiration / Story Management - From $1/month (OpenAI API costs)
+-   [Book Wizard AI](https://bookwizardai.com) - Free 10 words / Complete Book Creation / Powerful Book Preformatting - From $24.99/month
+-   [NovelistAI](https://novelistai.com) - 10 free credits per month / Generate unique stories / Custom book covers / AI audiobooks - From $9/month
+-   [StoryPath.app](https://storypath.app) - 20 credits / Book Planning App Powered by AI / Cure writer's block in minutes
+-   [Made Live](https://made.live) - 7-day free trial / AI-supported platform / Complete self-publishing solutions / Specialized for visual storytellers - From $29/month
+-   [Newt](https://newt.ar) - AI assistant for books / Read, Write & Listen / Offline access
+-   [Bookwriter](https://bookwriters.app) - 5.00 of free credits / Voice-to-text transcription / AI-powered summaries / AI writing suggestions
+-   [Write Books With AI](https://writebookswithai.com) - AI-guided book creation / Concept to final draft
+-   [BookScribi](https://bookscribi.com) - 1 book free / AI Book Writer / No writing required - From $14.50/month
+-   [Decide.Quest](https://decide.quest) - Online Choose-Your-Own-Adventure Book / New story every time
+-   [Magic Tales](https://www.magictales.app) - Personalized, printed illustrated children's books / Instantly written and illustrated / Free Shipping
+-   [The Spark Book](https://thesparkbook.ai) - Free Trial / Personalized books with child as hero / AI-powered story & illustration creation - $29.90
+-   [Kidzbook](https://kidzbook.ai) - 2 books & 10 image edits free / Create children's books / Edit images / Create Billingual Books - From $4.99/month
+-   [AI Book Writer](https://www.aibookwriter.org) - 10 credits for new user / Generate chapters / Develop plots & characters - From $4.95/month
+-   [Omniscience](https://omnilabs.ai) - AI-Powered Book Writing with Your Knowledge / Reinvented Search for Documents / Automated Citations
+-   [KidsAIStory](https://www.kidsaistory.com) - Free book created by AI / Create illustrated children's stories with AI / Customize age, pages, and subject
+-   [Omniscience](https://omniscience.tech) - Free trial / AI-Powered Book Writing / Writes books with your knowledge
+-   [Fairy Tales AI](https://apps.apple.com/se/app/fairy-tales-ai/id6451125901) - AI-powered unique story creation / Personalized stories with vibrant illustrations - From 49,00 kr
+-   [Fiction Fusion](https://fictionfusion.io) - AI-powered story generation / Novel and short story creation / Export and publish ready books
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [Dabble](https://www.dabblewriter.com) - 14-day free trial / Plot, plan, and write in one tool / Autosave protects your work / Write anywhere, anytime / No credit card required - From $9/month
+-   [Dream Kid AI](https://www.dreamkid.ai) - 2 Free Stories / AI-powered storytelling / Personalized for medical journeys / Audio & Illustrations - From €3.99/story
+-   [Skillfusion](https://skillfusion.ai) - 30 free credits / 100+ AI Tools / AI Content Generation
+-   [Phasma.ai](https://phasma.ai) - 10 messages / AI-powered writing/coding editor / Task chaining / Translation & Summaries
+-   [Talespinner.io](https://talespinner.io) - AI-powered storytelling / Craft characters, plots, and chapters
+-   [Novmuser AI](https://novmuserai.com) - 14-day free trial, 500 credits / AI Agent Collaboration / Chapter Topic Management / AI Content Generation - From $11.9/month
+-   [StoryMagician.ai](https://storymagician.ai) - 1 free personalized story / Personalized storybooks / Custom characters - From $9/month
+
+### AI Novel
+
+-   [Book AI Writer](https://bookaiwriter.com) - / AI-powered book creation / Stunning cover design
+-   [Toolsaday](https://toolsaday.com) - AI-powered content creation / Paraphrasing Tool / 40+ AI tools - From $7.99/month
+-   [InstaNovel.ai](https://instanovel.ai) - 1 free mini-novel / Generate mini-novels / AI-generated artwork - From €2,99 for 3 mini-novels
+-   [Bookwiz](https://bookwiz.io) - 35k base words one-time / AI-powered story drafting / Export and publish books - From $9/month
+-   [Sudowrite](https://www.sudowrite.com) - Bust writer's block / Write novels & screenplays faster / AI feedback - From $10/month (225,000 credits)
+-   [OpenNovel](https://chromewebstore.google.com/detail/webnovel-translator-by-op/ndgemcgfabcafbhjekdbdenflaaicocj) - Highly Readable Translations / Fast & Reliable
+-   [Muses AI](https://www.muses.my) - Free credits to start / AI-powered writing assistance / Multi-AI model choice -
+-   [Novels AI](https://novels-ai.com) - 1 Free credit / Personalized AI-generated audiobooks with you as the main character / Immersive AI narration - From €6.99/month
+-   [Scene One](https://sceneone.app) - 2-week trial, 2,000 AI words / Intuitive writing app / AI Writing Assistant - From $9 USD per month
+-   [BookAI](https://trybookai.com) - Free 3 books/month / AI-Powered Writing / Custom Genres - From $29/month
+-   [AIStoryBuilders](https://aistorybuilders.com) - Enhanced Content Generation / AI Writing and Inspiration / Story Management - From $1/month (OpenAI API costs)
+-   [NovelAI](https://novelai.net) - 50 Free Text Generations / AI Storytelling / AI Anime Image Generation - From $10/month
+-   [VoiceNovel](https://voicenovel.org) - 2 free credits / Convert up to 2 novels / AI Voice Synthesis / Convert Novels to Audiobooks / Unique Character Voices - From $5.00/year
+-   [GenZWrite](https://genzwrite.com) - Free 200 words / Humanize AI text / Bypass AI detection -
+-   [NovelistAI](https://novelistai.com) - 10 free credits per month / Generate unique stories / Custom book covers / AI audiobooks - From $9/month
+-   [Write Books With AI](https://writebookswithai.com) - AI-guided book creation / Concept to final draft
+-   [fanfic generator](https://fanficgenerator.com) - 10 free uses / AI Fanfic Generator / Image Generator / Paragraph by Paragraph Writing - From $8/month
+-   [Endless Visual Novel](https://endlessvn.io) - Free 14 day trial / AI-generated graphics, music, story, and characters / Unique, never-the-same playthroughs - From €9/month
+-   [MidReal](https://midreal.ai) - 10 Pills + 10 Bonus Pills daily / Craft interactive, illustrated stories with AI / Infinite length story generation - From $5.99/month
+-   [AI Book Writer](https://www.aibookwriter.org) - 10 credits for new user / Generate chapters / Develop plots & characters - From $4.95/month
+-   [StoryLegend](https://storylegend.app) - 14-day free trial / AI-Powered Writing / Character Development / Plot Structuring - From $10/month
+-   [Klyra AI](https://klyra.ai) - 1,000 words, 10 media credits, 10 minutes free / AI Content Creation / AI Video Generator / AI Voice Cloning - From $10/month
+-   [Fiction Fusion](https://fictionfusion.io) - AI-powered story generation / Novel and short story creation / Export and publish ready books
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [蛙蛙写作](https://wawawriter.com/app) - 5000 AI words upon registration / AI writing/rewriting/expanding / Video generation
+-   [Talespinner.io](https://talespinner.io) - AI-powered storytelling / Craft characters, plots, and chapters
+-   [Novmuser AI](https://novmuserai.com) - 14-day free trial, 500 credits / AI Agent Collaboration / Chapter Topic Management / AI Content Generation - From $11.9/month
+-   [NovelCraft](https://www.novelcraft.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3135)- Freemium + From $9/month, No Refunds / Write your novel with AI by your side.
+
+### AI Blog Generator
+
+-   [GravityWrite](https://gravitywrite.com) - Free 1,000 words/mo / High-quality content generation / SEO blog writing / AI image creation - From $19/month
+-   [Durable](https://durable.co) - Free website generation / AI Website Builder / Automated Marketing / CRM & Invoicing / No credit card required - From $12/month
+-   [RightBlogger](https://rightblogger.com) - 1,000 Words Monthly / AI-powered content creation / Keyword Research - From $24.99/month
+-   [SEO Writing AI](https://seowriting.ai) - 5 Articles free / 1-click SEO-optimized articles / Auto-publish on WordPress - From $14/month
+-   [Writesonic](https://writesonic.com) - 10000 Premium words free / SEO-optimized content creation / AI Article & Blog Writer - From $16/month
+-   [Blaze](https://blaze.ai) - Free 30 posts / AI-assisted content creation / Brand voice cloning / Multi-channel publishing - From $26/month (billed annually)
+-   [Copylime](https://copylime.com) - 2,000 Words free / Write 1000+ word articles in seconds / 30+ copywriting tools - From $29/month
+-   [Wisp CMS](https://www.wisp.blog) - 14-Day Free Trial / Distraction-Free Editor / Effortless Integration with Next.js / Boost Organic Traffic - From $16/month
+-   [Contrast](https://getcontrast.io) - Up to 30 registrants per month / Engaging webinars / AI content repurposing / No credit card - From €60/month
+-   [Affpilot](https://affpilot.com) - Free 2 Info Articles & 2 Amazon Review Articles / AI Bulk Article Generation / Auto-posting to WordPress/Blogger/Medium - From $19/month
+-   [Hocoos AI Website Builder](https://hocoos.com) - Free website creation and hosting with limited features / AI-designed business websites / AI-powered design tools / Sales and marketing tools - From $15/month
+-   [Smartli](https://www.smartli.ai) - 7-day free trial / AI Product Descriptions / AI Blog Writer / AI Ads Writer - From $29/month
+-   [Junia AI](https://junia.ai) - 1 article workflow free / Long-form SEO blog posts / Automatic link insertion - From $27/month
+-   [Copymate](https://copymate.app) - 3 articles (one time) / High-quality, SEO optimized articles / Bulk generation / WordPress integration - From $29/month
+-   [Superblog](https://superblog.ai) - Free for 7 days / Auto-optimized for SEO and speed / Zero setup and maintenance - From $29/month
+-   [Video To Blog](https://www.videotoblog.ai) - 1 blog post / month free / SEO optimized blog posts / Automatic link insertion - From $19/month
+-   [Abun](https://abun.com) - 2 Articles, 100 Keywords free / SEO-Optimized Blog Content Creation / Human-like AI Content - From $24/month (10 Articles, 5000 Keywords)
+-   [AIKTP](https://aiktp.com) - Free 7-day trial / AI-powered content creation / Easy WordPress posting - From $9/month
+-   [Scalenut](https://www.scalenut.com) - 2 SEO articles free / Create SEO-optimized blog posts in 5 minutes / AI-driven content optimization - From $20/month
+-   [Clarice.ai](https://clarice.ai) - Write Clear, Strong, Original, and Error-Free Texts / 50+ templates - From R$ 22.45/month (100k words)
+-   [Writify AI](https://writifyai.com) - 3 Free Articles / Factually Accurate Articles / Real-time external linking
+-   [Frizerly](https://frizerly.com) - 3 days free / AI-powered SEO optimized blogs / AI-powered email re-engagement - From US$29.00/month
+-   [Machined AI](https://machined.ai) - 15 articles free every month / SEO-Optimized AI Articles / Automated linking - From $49/month
+-   [Article Forge](https://www.articleforge.com) - 5-day free trial / Unique, SEO optimized, high-quality content / Generates 1,500+ word articles - From $57/month
+-   [Arvow](https://arvow.com) - 3 Free Articles / AI Article Writer for SEO / Automatic Blogging / No card required - From $39/month
+-   [GrackerAI](https://gracker.ai) - Free trial / Real-time news monitoring / AI-assisted content creation / SEO-optimized blogs - From $4k/month
+-   [Screpy](https://screpy.com) - AI-powered SEO insights / Article Generator / Rank Tracker - From $10/month
+-   [BlogSEO AI](https://www.blogseo.ai) - 3 AI Blog Articles free / SEO-ready Blog Articles / AI-powered Keyword Research / Automatic Internal Linking - From $15/month
+-   [AI Buster](https://aibuster.com) - 50K Free Words / Generate 1000 SEO-optimized articles / WordPress AI auto-blogging - From $39/month
+-   [Addlly AI](https://addlly.ai) - Free trial / Custom AI Agents / Effortless Content Automation
+-   [Creaitor](https://www.creaitor.ai) - 7-Day Free Trial / AI-Powered Content Generation / Integrated SEO Tools / Automated Content Workflow - From SGD 25.1/month
+-   [BlogBuster](https://www.blogbuster.so) - 2 free articles / AI-powered SEO articles / Automated backlinks - From $18.90/month for 10 SEO articles
+-   [Remagine AI](https://remagineai.com) - 250 AI runs/month / AI-driven content creation / 200+ AI Templates & Tools - From $20/month
+-   [WPAutoBlog.com](https://wpautoblog.com) - 3 Free Articles / Long-form SEO blog posts / Smart Autolinking - From $29/month
+-   [Waldium](https://waldium.com) - 10 posts per month free / AI generation / Beautiful hosting / AI discovery - From $87/month
+-   [CreativeDrive](https://creative-drive.jp) - 3 articles free / Long-form SEO-optimized AI article generation / 1/10 time for SEO writing - From ¥10,000/month
+-   [InstaNews.ai](https://instanews.ai) - 10 articles monthly free / Transform Instagram posts into engaging blog articles / Automate blogging with AI content creation - From $9/month
+-   [Scribble AI](https://www.scribbleai.com) - 3 Free Blogs / Original, high-quality blog articles / SEO Optimized / No Sign-Up - $10/month for 20 blogs
+-   [BloggerAI](https://bloggerai.app) - / AI-powered content editor / Advanced SEO tools / - One Time Payment $89
+-   [VoicePen](https://voicepen.ai) - Audio/Video/Website to Blog Posts / AI-driven content, no writing needed - From $6.99/one time (1-3 blog posts)
+-   [BrandWell (formerly Content at Scale)](https://contentatscale.ai) - 7-day free trial / Long-form SEO content / Undetectable AI writing - From $249/mo for 25 articles
+-   [MagicBlog](https://www.magicblog.ai) - 3 articles per month / Long-form SEO blog posts / Automatic link insertion - From $19/month
+-   [QuickCreator](https://quickcreator.io/ai-blog-writer) - 3 free articles / Humanized, SEO-Optimized Blogs / Automatic link insertion - From $39/month
+-   [RankWizard](https://rankwizardai.com) - 2 articles for free / High-quality SEO-optimized content / Automated image generation - From $49/month
+-   [Blogbutler.ai](https://blogbutler.ai) - 7-day free trial, 8 posts / Automated blog creation / SEO enhancement - From 7€/month for 31 posts
+-   [Anyword](https://anyword.com) - 7-day free trial (2,500 words) / AI copywriting that converts / Performance prediction scores / Consistent on-brand content - From $39/month (billed yearly)
+-   [Xblog AI](https://xblog.ai) - Instant Content Generation / SEO Optimization / One-Click Automation - From $29/month
+-   [BlogSEO](https://blogseo.io) - Free 3-day trial / Auto-published SEO blog articles / AI-driven content generation - From $97 USD / month
+-   [TuxSEO](https://tuxseo.com) - 6 free articles / AI Blog Content Generation / SEO-optimized blog posts / One-click publishing - From $100/month
+-   [Draft Dash - AI Article Writer with Real Sources](https://draftdash.net/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2655)- Freemium + From Free tier available, No Refunds / Generate SEO-optimized articles with real-time research and fact-checking.
+-   [ThinkInPublic](https://www.thinkinpublic.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2535)- Free Trial + From $5, One-time, Users can request a full refund within 7 days of purchase by contacting support. / Turn ChatGPT conversations into publishable blog posts.
+-   [Wordrific](https://wordrific.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2586)- Freemium + From $79/month, No Refunds, 7 days free trial / Turn ICP research into SEO-optimized articles that rank.
+
+### AI Ebook Generator
+
+-   [Book AI Writer](https://bookaiwriter.com) - / AI-powered book creation / Stunning cover design
+-   [Immersive Translate](https://immersivetranslate.com/en) - 3-Day Free Trial / Bilingual Webpage Translation / Video Subtitle and PDF Translation - From $7.00/Month
+-   [Ebookmaker](https://www.ebookmaker.ai) - AI-powered eBook generation / Automated eBook creation / Audiobook generation
+-   [Youbooks](https://youbooks.com) - Free 10K words / AI Non-fiction Book Generator / Up to 300K words, Your sources, Custom style / No Account required - From €6.00/book (50,000 words)
+-   [Automateed](https://automateed.com) - Free trial up to 6000 words / AI eBook Generator / AI Cover Design / Marketing Tools - From $15/mo for 4 ebook generations
+-   [ReadKidz](https://www.readkidz.com) - 1,500 Credits free / AI-Powered Children's e-Picture Books & Story Creation / One-click publishing - From $10/month
+-   [Panda Video](https://pandavideo.com.br) - 30-day free trial / Secure Video Hosting / AI-powered content creation / Sales & Engagement tools - From R$87.90/month
+-   [Magic Bookifier](https://magicbookifier.ai) - 1 free book (5 chapters) / Ebook creation from existing content / Audio to book transcription - From $24/month
+-   [BookAI](https://trybookai.com) - Free 3 books/month / AI-Powered Writing / Custom Genres - From $29/month
+-   [Book Wizard AI](https://bookwizardai.com) - Free 10 words / Complete Book Creation / Powerful Book Preformatting - From $24.99/month
+-   [Pillar](https://pillar.io) - Free / Sell digital products & courses / All-in-one link in bio tool / Real-time media kits
+-   [BookScribi](https://bookscribi.com) - 1 book free / AI Book Writer / No writing required - From $14.50/month
+-   [Designrr](https://designrr.io) - Free 7 Day Trial / Create eBooks, Kindle books, Leadmagnets, Flipbooks and Blog posts / Repurpose content from web pages, videos, podcasts, & PDFs - From $29/month
+-   [Clarice.ai](https://clarice.ai) - Write Clear, Strong, Original, and Error-Free Texts / 50+ templates - From R$ 22.45/month (100k words)
+-   [Kidzbook](https://kidzbook.ai) - 2 books & 10 image edits free / Create children's books / Edit images / Create Billingual Books - From $4.99/month
+-   [StoryLab.ai](https://storylab.ai) - Free 3 runs per month / AI Content Creation / Demand Creation / Campaign Creation - From $15/month for 100 AI runs
+-   [EverLearns](https://creator.everlearns.com) - Free curriculum generation / AI course generation in 5 minutes / Turn materials into courses - From $7.5/month (billed yearly) for 3 published courses
+-   [PDF GLAMZN AI](https://pdf-glamzn.com) - 5 PDF per month / Transform PDFs into interactive content / Intelligent chat with documents - From $14.99/month
+
+### AI Essay Writer
+
+-   [TeraBox](https://www.terabox.com/ai/index) - 1 TB free cloud storage / Send Large Files Online / Cloud Backup / AI-Powered Content Generation Tools
+-   [Blainy](https://blainy.com) - 200 AI words / day / AI-powered research paper writing / In-text citations / No credit card required - From $12/month
+-   [AI Paper Writer Online](https://aipaperwriter.org) - Free / Instant Flawless Essays / Authentic & Unique Content / No Registration Required
+-   [Perfectessaywriter.ai](https://www.perfectessaywriter.ai) - Try For Free / Generates essays, outlines, and research papers / Unique and plagiarism-free essays
+-   [Copylime](https://copylime.com) - 2,000 Words free / Write 1000+ word articles in seconds / 30+ copywriting tools - From $29/month
+-   [CopyOwl.ai](https://copyowl.ai) - Research, Cite, write In-depth Essays, Blogs, Papers, and Reports / Fully Referenced Citations / All in One Click
+-   [RikiGPT](https://rikigpt.com) - 5 credits for Essay Writer, 1 Assignment Use, 1 Extract Use free / Generates academic papers up to 200 pages / Accesses over 200 million sources / No Sign-Up - From $19/month
+-   [EasyEssay](https://easyessay.ai) - Free trial / AI Essay Writing Assistant / Paraphrasing Tool / Plagiarism Check
+-   [Asksia](https://www.asksia.ai) - Personal AI Tutor & Homework Helper / Lecture Transcription & Note Organization / Smart Highlights & Summaries
+-   [GenZWrite](https://genzwrite.com) - Free 200 words / Humanize AI text / Bypass AI detection -
+-   [EssayGenius](https://essaygenius.ai) - First essay free + free AI generations / Generate full essays / AI editing and writing tools
+-   [Olovka AI](https://www.olovka.ai) - Limited to 10,000 AI words / AI Essay Writer / Essay-to-quiz feature / AI editing commands - From $5.95/month
+-   [Jenni AI](https://jenni.ai) - 200 AI autocompletes day / AI Autocomplete / Chat to Your Research - From $12/month
+-   [Ryne AI](https://ryne.ai) - Humanize 250 words / request / AI Text Humanizer / AI Detector Bypass - From $29.99/month
+-   [EduWriter AI](https://eduwriter.ai) - 1 page Al Writer/day / Plagiarism-free, undetectable essays / Real references / No sign-up - From $11/month
+-   [MyEssayWriter.ai](https://www.myessaywriter.ai) - 1500 words free / High-Quality, Plagiarism-Free Essays / Time-Saving Essay Generation / No Sign-Up Required - From $9.99/month
+-   [PaperTyper](https://papertyper.net) - Free unlimited access / AI Essay Writer / Grammar Checker / Plagiarism Checker
+-   [Essayly.ai](https://www.essayly.ai) - Free 3 pieces/month / Topic Analysis / Essay Evaluation - From $2.25/month
+-   [Samwell.ai](https://samwell.ai) - / AI Essay Writer with Academic Citations / Undetectable & Plagiarism-Free Content /
+-   [Student AI](https://studentai.app) - 7 Day Free Trial / Essay Writing / AI Image Generator / AI Teacher
+-   [Writeless](https://writeless.ai) - Real academic citations / Undetectable by AI detectors / 100% Plagiarism-free
+-   [Frank AI](https://franks.ai) - 10 free messages / AI Essay Writer / Creative Email, and Script Writing / Fastest conversational AI - From $24/month
+-   [AI-Writer.com](https://ai-writer.com) - 1-week free trial / Verifiable Citations / Guaranteed Originality / No credit card needed - From $29/month (Up to 40 Articles)
+-   [AssignmentGPT AI](https://assignmentgpt.ai) - Free 800 words/day / Assignment Answers / Math Problem Solving / Image to Answer - From $5.99/month
+-   [EssayService.ai](https://www.essayservice.ai) - Free / Instant AI Essay Writing / Top Quality Essays / No Signup Required
+-   [FotoExamen](https://www.fotoexamen.com) - 3-day free trial / Solve exams & tasks with photos / Get explained answers / Chat with AI Tutors - From 9€/month
+-   [Koke AI](https://www.koke.ai) - Free 10 papers export (partial) & 1000 AI words/day / AI Citation Generator / AI Outline Generator - From $28.00/month
+-   [EssayTyper](https://www.essaytyper.info) - Free unlimited / Random typing to essays / Real-time essay generation / No Sign-Up - From $4.99/Week
+-   [The Good AI](https://www.the-good-ai.com) - Up to 250 word essays free / Writes high-quality essays with references / Includes AI editing tools / No Sign Up required - From $5/month
+-   [Inkey AI](https://www.inkey.ai) - 1000 words/month free / AI Tutor / Essay Writer / Math Word Problem Solver - From $4.99/month
+-   [EduWiz AI](https://eduwiz.ai) - 3 Free Standard Essays / week / Essay Writer / AI Autocomplete - From $12/month
+-   [Knowee AI](https://knowee.ai) - 20 Credits per day / Homework Helper / Scholar Search - From $10.00/month
+-   [EssayFlow](https://www.essayflow.ai) - / Undetectable AI Essay Writer / Human-like, Plagiarism-Free Essays / Bypass AI Detectors - From $17.98/month
+-   [FreeEssayWriter.ai](https://www.freeessaywriter.ai) - Generate high-quality, plagiarism-free essays / Save time / Supports all essay types / No Sign-Up required
+-   [Cramly](https://www.cramly.ai) - Generate 10-page essays with real citations / AI-powered writing assistance / From $4.00/month
+-   [Essay Builder AI](https://essay-builder.ai) - Up to 300 words per Essay / Generate top-notch essays in seconds / AI-powered essay maker - From $5/month
+-   [EssayWriter](https://www.essaywriter.io) - Free plan available / AI Essay Writing Assistant / Integrated Research & Citations / Plagiarism Detection
+-   [AHelp](https://ahelp.com) - Free 3 credits / day / Check plagiarism / Improve grammar / Generate ideas - From $4.17/month
+-   [Brightroom AI](https://brightroom.ai) - 3 free essays / College applications dashboard / Personalized advisory / Essay creation flow - From $50 one-time fee (access until June 2025)
+-   [SharkWriter.ai](https://sharkwriter.ai) - 550 AI words & 10 edits daily / AI-powered essay writing / Generates original papers / Built-in AI detector - From $3.20/page (editing)
+-   [Essay AI](https://www.essayai.ai) - Free plan available / Undetectable AI Essay Writing / Plagiarism-Free Generation - From $17.98/month
+-   [AcademicIdeas](https://academicideas.cn/?ic=hZvT) - Free thousand-word outline / Generate 30,000-word draft in 5 minutes / Refund if plagiarism rate exceeds 10% / No Login required
+-   [Quillz](https://www.quillz.co/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3180)- Freemium + From $9.99/month, No Refunds / Write better assignments in half the time.
+
+### AI Rewriter
+
+-   [Free Paraphrasing Tool](https://www.toolsmart.ai/feature-free-paraphrasing-tool) - Unlimited (up to 1500 words/session) / Paraphrase accurately while keeping original meaning / 9 Excellent Modes / No Sign-up
+-   [StealthWriter](https://stealthwriter.ai) - 5000 words daily / Humanize AI Content / Bypass AI Detection - From $20/month
+-   [Paraphraser.io](https://www.paraphraser.io) - 600 words free / AI Paraphraser / Plagiarism-free output - From $9/week
+-   [Rephrasely](https://rephrasely.com) - 10000 characters free / Paraphrasing / AI writing / Plagiarism checks - From $4.99/month
+-   [RewriteGuru](https://rewriteguru.com) - 800 word limit free / AI rewriting / 100% unique content / No registration required - From $9.99/month
+-   [RewriterPro](https://rewriterpro.ai) - 5 rewrites left for the day / Enhances flow and human-like content / Removes plagiarism
+-   [Wordtune](https://www.wordtune.com) - Free 10 Rewrites & AI suggestions daily, 3 AI summarizations monthly / Rewrites & Rephrases / AI Summaries - From $6.99/month
+-   [Paraphrase Online](https://paraphrase-online.com) - Free / Rephrase essays, assignments & articles / 5 Different Paraphrasing Modes / Plagiarism Free Content
+-   [WordAi](https://wordai.com) - 3-day free trial / High-quality rewriting / Avoid AI Detection - From $9/month (billed annually)
+-   [AI Undetect](https://www.aiundetect.com) - 500 Free Rewrite Credits & 10 AI detector uses / Undetectable AI Rewriter / Integrated AI content detectors - From $5/mo
+-   [Reescribir Textos](https://reescribirtextos.net) - Free / AI-powered text rewriting / Plagiarism-free results / No Sign-Up - From €3/week
+-   [Word Spinner](https://word-spinner.com) - 5-day free trial, 25,000 words / Create amazing content 10X faster with AI / All-in-one AI writing platform - From $9/month
+-   [Read Easy.ai](https://readeasy.ai) - 5 requests per month / Make text easy to read / Microsoft Office Add-ins / Chrome Extension - $2.99/month
+-   [Rewriter Tools](https://www.rewritertools.com) - 10K tokens, 10 image items, 30 minutes speech to text free / Unique, plagiarism-free text / Improve Readability
+-   [uPass AI](https://upass.ai) - 300 words free / Bypass AI detection / Plagiarism-free outputs - From $9.99/month
+-   [Humanize.io](https://humanize.io) - 200 words/month / Effective AI humanization / Bypass basic AI detectors - From $9.99/month
+-   [TextFlip](https://textflip.ai) - Free 5 submissions/month / AI Rewriting Tool / AI Detector Evasion - From $19/month
+-   [AIHumanizer](https://aihumanizer.ai) - 500 Words/month / Humanize AI text / Bypass AI detection / No-Signup Required - From $9.99/month
+-   [Spin Rewriter AI](https://www.spinrewriter.com) - 5-day free trial / Generate up to 1,000 unique articles / ENL Semantic Rewriting - From $47/month
+-   [AITDK](https://aitdk.com) - AI SEO Title Generator / AI SEO Description Generator / AI SEO Keywords Generator
+-   [Reword Generator](https://rewordgenerator.net) - Reword sentences, paragraphs, articles, and essays / Make content unique and plagiarism free - From $8.97/month
+-   [HumanizerPro](https://humanizerpro.ai) - Rewrite AI text to 100% Human-Like Content / Bypass AI detectors / Enhance readability
+-   [PolitePost](https://politepost.net) - Rewrites emails to be professional / Cleans up slang and expletives
+-   [Sentence Rewriter](https://sentencerewriter.net) - Free / Rephrase and enhance text / Improve readability and clarity - From $4.99/week
+-   [Word Changer](https://wordchanger.net) - 500 words per input / AI-powered word changing / Vocabulary expansion & tone adjustment - From $6.67/month
+-   [Netus AI](https://netus.ai) - 50 Netus AI credits / Undetectable AI Paraphraser / Beat any AI detector / AI to Human converter - From $30/month
+-   [Textbuddy](https://textbuddy.com) - Free / Plain language editor / AI rewriter / Grammar & spelling checks / No Login required - From $9/month
+-   [Parafrasear Textos](https://www.parafraseartextos.net) - Free 1000 words / Online Paraphrasing / Text Humanization / No Registration Required - From €3/weekly
+-   [Paraphrasing.io](https://paraphrasing.io) - Free 1000 words per request / Rephrase essays, emails & paragraphs / Remove plagiarism & improve readability - From $7/month
+-   [Rewording Tool](https://rewording-tool.com) - Free up to 250 words per request / Reframe sentences and enhance clarity / Make content unique and plagiarism free
+-   [Plagiarism Remover](https://www.plagiarismremover.net) - 1000 words per submission free / AI-Based Plagiarism Removal / Plagiarism Checker / No Login required - From $20/month
+-   [Just Rewrite](https://www.justrewrite.com) - 14-Day Free Trial / Grammar and spelling check / Style suggestions / Content rephrasing - From $10/month
+-   [re:write](https://rewritegpt.com) - Free / Rewrite text into robust, advanced variations / Perform quick grammar checks
+-   [Styldod](https://www.styldod.com) - Free trial for first image / Virtual Staging / Photo Editing / AI Marketing Hub - From $1.5
+-   [Review Bomb Me](https://reviewbomb.me) - 50 user review credits / AI upgrades reviews to positive tone / Collect reviews - From CA$5/month (1000 user review credits)
+-   [CleverSpinner](https://cleverspinner.com) - Free 3 day trial / AI Article Rewriter, Spinner & Humanizer / Humanizes AI text to be undetectable - From $9.90/month
+-   [Skribr](https://www.skribr.com) - 10 Free Task Rewrites / Transforms messy task descriptions / One-click rewrites - $5/month for 250 Rewrites
+-   [Speedwrite](https://speedwrite.com) - Unique, plagiarism-free writing / Insanely fast generation - From $3.33/month
+-   [GG Rewriter](https://ggrewriter.com) - Paragraph Rewriter / Paraphrasing / SEO Keyword Research Tool
+-   [Stealthly AI](https://stealthly.ai) - 300 words/month / Humanize AI text to get 100% human score / Bypass AI detectors - From $17/month
+-   [AI Text Formatter](https://chatgpttextformatter.com) - Free / Unlimited usage / Convert and format AI-generated text / Enhance readability and usability / Produce human-like content / No Login or Sign Up required
+-   [Sentence Rewriter](https://sentencerewriter.cc) - Free / Rewrite Sentences Quickly / Support multiple style modes
+-   [InstaText](https://instatext.io) - / Write like a native speaker / Comprehensive text rewriting - From 9.99 €/month
+-   [Paraphrasing-tool.ai](https://paraphrasing-tool.ai) - 3 free tries / AI Paraphrasing Tool / Humanizer / Remove Plagiarism - From $9.95/month
+-   [OneClickHuman](https://oneclickhuman.com) - Free for 7 Days, 10,500 Words / Humanize AI content / Bypass AI Detectors / Maintain Formatting & Flawless Grammar - From $10/month
+-   [Swiftwriter](https://www.swiftwriter.ai) - 5 Free Articles / Scrape Competitor content & Google articles / Rewrite with AI (100% plagiarism and AI-detection free)
+
+### AI Product Description Generator
+
+-   [Hypotenuse AI](https://hypotenuse.ai) - AI copywriting for articles, product descriptions & social media / Bulk content generation - From $19/month
+-   [Kopy](https://kopy.app) - 3 Days Free Trial / Copy products in 1-Click / AI High-Converting Product Page Generation - From $4.99/month
+-   [PagePilot.ai](https://pagepilot.ai) - 3 product pages free / AI Product Pages & Landing Pages / AI Ad Copy Generation - From $39/month
+-   [Marketplace Buddy](https://chromewebstore.google.com/detail/marketplace-buddy/koljgbpdfhikhfgilmenjhkmdkbhdnmi) - Free / Automatically generate Facebook Marketplace descriptions / Save time and effort
+-   [PRIME AI](https://primeai.co.uk) - Free Size Finder Lite / Apparel, Shoe, Bra Size Finder / Automated PDP Descriptions / Custom AI Development
+-   [POKY - Product Importer](https://poky.app) - 2-day trial / Import Unlimited Products / Build Your Own Scraper / Enhance and Translate with ChatGPT - Then $2.95/month
+-   [UnoPim Shopware 6 Connector](https://unopim.com) - Free Forever / Centralized product information management / AI content generation / Multi-channel publishing
+-   [CopyMonkey](https://copymonkey.ai) - 1 free listing / Generate and optimize Amazon listings / AI-powered keyword optimization - From $24/month
+-   [Delibr](https://www.delibr.com) - Free up to 3 users / 14-day free trial / Generative AI for writing requirements / Bi-directional Jira integration - From $100/month (for 10 users)
+-   [Copysmith](https://copysmith.ai) - Free trial / Generate Product Content / SEO Blog Posts / AI Content In Your Voice
+-   [etsyGenerator](https://etsygenerator.com) - Free 2,500 etsy ai credits monthly / AI-powered Etsy listings / Etsy SEO keyword optimization - From $10/month for 50,000 words
+-   [Snap2List](https://snaptolist.com) - 10 Credits Per Month Free / AI Listing Creator / SEO Title Creator / No Credit Card Required - From $14.99/month
+-   [EtsyCheck](https://etsycheck.com) - Free 3 searches per day / Optimize listings / Master SEO / Check buyers - From $5.99/month
+-   [Descrb](https://descrb.com) - Crafts high-converting e-commerce product pages / AI-generated content, descriptions, and images - From $50 for 100 descriptions
+-   [Smartli](https://www.smartli.ai) - 7-day free trial / AI Product Descriptions / AI Blog Writer / AI Ads Writer - From $29/month
+-   [the gendai](https://thegendai.com) - 10 free descriptions / Automated product descriptions / Multilingual descriptions / SEO & CRO optimized - From $0.069 per product
+-   [Describa](https://describa.ai) - 10 credits free / Automated Content Creation / Advanced SEO Optimization - $9.99 one-time payment for 100 credits
+-   [Caseo.ai](https://caseo.ai) - 15 Free Credits / AI ALT Text Generator / Meta Title & Descriptions - From $9 for 200 AI Credits
+-   [Free Open AI ChatGPT and AI writer tool for e-commerce](https://chromewebstore.google.com/detail/gpt-for-ecom-product-list/khjklhhhlnbeponjimmaoeefcpgbpgna) - Open AI ChatGPT / AI writer tool for e-commerce / Product listing content generation
+-   [Free Open AI ChatGPT and AI writer tool for e-commerce](https://chromewebstore.google.com/detail/ebaygpt-chatgpt-ebay-list/cbmmciaanapafchagldbcoiegcajgepo) - AI writer tool for e-commerce / Generate compelling Ebay listing content
+-   [InsightFactory](https://insightfactory.app) - 15 free credits / Etsy Trends Research / Keyword Research - From $19.99/month
+-   [MyDesigns.io](https://mydesigns.io) - Free 2 GB Cloud Storage & 4 Bulk Processes / Design, Manage, and Sell Merch / AI-Powered Bulk Tools - From $18.99/month
+-   [Productify.ai](https://productify.ai) - 0.80 free trial credit / Marketing Descriptions / Features & Benefits - From $5
+-   [SellRaze](https://sellraze.com) - Free / AI-powered instant listings / Cross-listing across multiple marketplaces
+-   [Sku Fetch](https://skufetch.com) - Product Fetching & Preparation / AI-powered Content & Image Updates / List to Multiple Marketplaces - From $0.01/month for 20 items
+-   [CopyGenius](https://copygenius.io) - 500 word trial / Product Descriptions / High-converting Ad Copy / Blog Outlines - From $19/month
+-   [Wondr AI](https://wondrai.com) - Instant product creation / AI-powered designs
+-   [Merch Dominator](https://merchdominator.com) - Free Merch by Amazon product research tool, 7-day free trial / Niche and Keyword Research / Trends Research / Trademark Check - From $18/month
+-   [Minea](https://en.minea.com) - 200-250 credits free trial / Tracks ads on all networks / AI-powered insights for winning products - From $49/month
+-   [Darbee](https://www.darbee.io) - AI-powered Etsy listing generation / Product photo background removal / SEO optimization for Etsy visibility
+-   [Productly](https://productly.app) - 3-day free trial / Product Description / Email Marketing - From $21.99/month
+-   [AI Product Tools](https://www.aiproducttools.com) - Generate SEO-friendly product content / Boost sales & conversions / Save time with AI automation
+-   [Copy Shark](https://copyshark.ai) - AI-powered copy in 1 click / ad copy, product descriptions, sales copy, blog paragraphs, video scripts / 50+ Tools - From $49.00/month (20k AI Generation Credits)
+-   [AlphaRank](https://alpha-rank.com) - Free for Lifetime / 100M+ Search Intents / Auto-fix SEO Issues / AI Content Generation - From $29.99/month
+-   [Intellifox](https://intellifox.com) - 7 Days Free Trial / Optimize product listings with AI / Publish directly to Amazon - From $59/month (100 ASINs)
+
+### AI Email Writer
+
+-   [Spark Mail](https://sparkmailapp.com) - 7-day Premium trial / AI-powered email writing assistant / Smart Inbox / Team Collaboration - From $4.99/month
+-   [Shortwave](https://www.shortwave.com) - 14 day free trial / AI email assistant / Organize & write emails with AI - From $14/month
+-   [WriteMail.ai](https://writemail.ai) - AI-powered email generation / Customizable tone & style / Multilingual support - From $6.95/month for 50 emails
+-   [GMPlus](https://gmplus.io) - Free forever / AI Email Generation / 100+ AI-Generated Prompts / Multilingual Support
+-   [MailMaestro](https://www.maestrolabs.com/ph) - AI email writing / Email summarization / Instant email responses
+-   [AImReply](https://aimreply.com) - / AI Email Writer / Multi-Language & Tone/Length Customization / No Login -
+-   [Hoppy Copy](https://www.hoppycopy.co) - 7-Day Free Trial / AI Email Writing / Email Marketing & Automation / No CC required - From $23/mo
+-   [Friday: AI E-mail Writer](https://friday-email.ai) - Instantly create professional emails / Real-time grammar check
+-   [GoEmailTracker](https://chrome.google.com/webstore/detail/goemailtracker-secured-fr/heikpoccepmhiapcmifpcbccjbnnihjn) - Free / Email opens tracking / Link clicks tracking / AI Email Writer with chatGPT
+-   [Success.ai](http://success.ai) - 14-day free trial, 30 free lead credits / Unlimited access to 700M+ B2B leads / Unlimited Email Sending & Warmup - From $35/month
+-   [FinalScout](https://finalscout.com) - 50 emails/month free / Find professional email addresses / Craft tailored emails with ChatGPT - From $35/month
+-   [Hubflo](https://hubflo.com) - 7-day free trial / Branded Client Portal / Streamlined Service Delivery / Powerful Built-in Tools
+-   [Migma.ai](https://migma.ai) - 30 monthly requests free / On-brand email creation / AI-powered email creation - From $23.25/month
+-   [WARMER.ai](https://warmer.ai) - AI email personalization / Analyzes LinkedIn & Website
+-   [Speechly](https://speechly.io) - 20 emails / month / Voice-to-Email Engine / AI Structure Builder - From $9.99/month
+-   [MailFast](https://mailfast.app) - 10 mails per month free / Write emails 10 times faster / Write better quality emails - From $9/month
+-   [Volamail](https://www.volamail.com) - 500 emails/month free / AI-assisted email editing / Send emails via API - From $19/month
+-   [Nureply](https://nureply.com) - 14-day free trial / AI-powered personalization / Automated email sequences / Email warmup & deliverability - From $99/month
+-   [Replyace](https://chromewebstore.google.com/detail/replyace-automate-your-em/epdajegbfojjicjjaiobgdigibncnpcb) - Create email content using ChatGPT / Personalize email responses
+-   [EmailGenius](https://chromewebstore.google.com/detail/emailgenius%E2%80%94chatgpt-for-g/fiobiagmnhhaeoeejglkimpgdkpdjobb) - AI to help you write emails
+-   [Autobound.ai](https://autobound.ai) - 150 shared credits/month / AI Email Writer / AI Powered Sequencing - From $29/month
+-   [Ready to Send](https://getreadytosend.com) - 200 emails free / Automated Gmail replies / Personalized draft replies / No setup required - From US$5/month
+-   [Frank AI](https://franks.ai) - 10 free messages / AI Essay Writer / Creative Email, and Script Writing / Fastest conversational AI - From $24/month
+-   [Lavender](https://www.lavender.ai) - Write better emails faster / Get more positive replies / Boost pipeline from your inbox
+-   [TextX](https://apps.apple.com/us/app/ai-email-writer-app-textx/id6475508821) - Free / AI Email Writing / Grammar Check & Proofreading / Smart Reply Functionality - From $9.99/month
+-   [Letty](https://www.useletty.com) - 10 AI credits/mo free / Smart Replies / Compose with Confidence - From $9/month
+-   [ChatGPT writer for Email, Essay](https://chrome.google.com/webstore/detail/chatgpt-ai-email-writer/fenfplbdbhdaifehnplebempchjmbmlb) - Completes emails with suggestions / Fixes typos / Responds to emails
+-   [MAILE](https://www.maile.app) - / AI-Powered Email Writing / Instant Draft Generation / No Sign-In required -
+-   [VoiceType](https://voicetype.io) - Free trial access / Write Your Entire Email From Short Voice Prompt / Speaking, not Dictating
+-   [Email Writer : AI Email Writer](https://apps.apple.com/ae/app/email-writer-ai-email-writer/id1671425399) - Free / AI-powered email writing / Direct email sending - From $4.99/month
+-   [Mail Helper](https://apps.apple.com/us/app/mail-helper/id1670580530) - AI Email Writing Tool / Multi-language email generation / Optimized for business scenarios - From $0.99/month
+-   [PolitePost](https://politepost.net) - Rewrites emails to be professional / Cleans up slang and expletives
+-   [Superinbox](https://superinbox.com) - 7 days trial / AI drafts email replies / auto-organizes your inbox - From $25/month
+-   [Ellie AI](https://tryellie.com) - 3 simple replies a day / Professional, bespoke emails / Save hours every day - From $19/month
+-   [Trimbox for Gmail](https://chromewebstore.google.com/detail/gmail-unsubscribe-ai-emai/jdlcknnokoelkdobgacandnnnmoblhgh) - Free / Unsubscribe from Emails Effortlessly / AI Email Writer & Assistant / Bulk Delete Emails with Ease
+-   [Persuwise](https://persuwise.com) - 1 week or 100 email credits free / Profile Enrichment / AI Email Writer / Writing Coach - From $19.95/month
+-   [Politemail Pro](https://www.pmailpro.com) - Language Polishing / Professional Courtesy / AI Email Generation
+-   [ChatGPT Writer](https://chatgptwriter.ai) - Write emails & messages / Fix grammar / Use AI on any site
+-   [AI Writer](https://ai-writer.app) - / Generate high-quality content / Write Emails, Essays & Articles / Powered by ChatGPT & GPT-4
+
+### AI Copywriting
+
+-   [Kopy](https://kopy.app) - 3 Days Free Trial / Copy products in 1-Click / AI High-Converting Product Page Generation - From $4.99/month
+-   [Postfity](https://postfity.com) - Free plan available / Social Media Scheduling / Social Media Analytics / AI Post Generation - From $29.99/month
+-   [Typli.ai](https://typli.ai) - AI Writing / SEO Assistant / AI Image Generation - From $7.99/month
+-   [Writesonic](https://writesonic.com) - 10000 Premium words free / SEO-optimized content creation / AI Article & Blog Writer - From $16/month
+-   [Copymatic](https://copymatic.ai) - 10 credits (approx. 1,000 words) / Long-form SEO blog posts / 80+ AI writing tools - From $19/month
+-   [MarketingBlocks](https://marketingblocks.ai) - 5 Days Trial / AI marketing assistant / landing pages / promo videos / marketing copy - From $47/Month
+-   [Unmixr](https://unmixr.com) - 7-day free trial / AI Voiceover / AI Dubbing / AI Writing Editor - From $2.99/month for 100,000 words
+-   [Copysmith](https://copysmith.ai) - Free trial / Generate Product Content / SEO Blog Posts / AI Content In Your Voice
+-   [AI Magicx](https://aimagicx.com) - 5,000 words free / AI-powered content creation suite / AI Image Generator / AI Chatbot - From $9.16/month
+-   [Unbounce](https://unbounce.com) - 14-day free trial / Landing Page Builder / A/B Testing / AI Optimization - From $99/month
+-   [Jounce](https://www.jounce.ai) - AI copywriting, artwork, and chat / 70+ marketing templates
+-   [Marpipe](https://marpipe.com) - Control your Dynamic Product Ads / Make your catalog ads look like real ad creative / Turn every SKU into a thumb-stopping video
+-   [Press Ranger](https://pressranger.com) - AI-powered journalist outreach / Database of 500,000+ Journalists and Publishers / Automated pitch requests - From $79/month
+-   [MagickPen](https://magickpen.com) - 20 credits per day / AI Writing Assistant / Grammar Checking / No Login required - From $6.9/month
+-   [nichesss](https://nichesss.com) - Content and business ideas / Marketing copy generation - From $19/month for 2500 short form generations
+-   [Tugan.ai](https://www.tugan.ai) - 7-Day Free Trial / Turn Any Content Into New, Original Content Using AI / Generate Emails, Newsletters, Threads, Tweets, and Linkedin Posts - From $29/month
+-   [Clarice.ai](https://clarice.ai) - Write Clear, Strong, Original, and Error-Free Texts / 50+ templates - From R$ 22.45/month (100k words)
+-   [Released](https://released.so) - Free 30-Day Trial & Free plan (Up to 10 users, 2,000 AI tokens/user) / Share Jira roadmaps / Publish release notes with AI copywriter - From $0.90/user/month
+-   [CreativAI](https://www.creativai.io) - 300 words, 10 images free / Create content up to 10x faster / Access to all tools - From $8.95/month
+-   [Freeadcopy](https://freeadcopy.com) - Free forever / AI Copy Generator / Outperforms your ads / Powered by GPT-4
+-   [Davenci AI](https://davenci.ai) - AI content, image, video generation / WordPress Blog Automation / AI Photo Studio - From $9/month
+-   [Draft.co](https://draft.co) - Money-back guarantee for first 4,000 words / Vetted writers / AI-powered workflows / Unlimited revisions - From $0.10/word
+-   [Copyter IA](https://copyter.com) - 2000 daily trial words / SEO optimized text generator / AI Image Generator / Text to Speech Converter - From $9.00/month
+-   [Botowski](https://www.botowski.com) - 15,000 words/month free / AI copywriter / Article Generator / Product Description Generator - From $19/month
+-   [StoryLab.ai](https://storylab.ai) - Free 3 runs per month / AI Content Creation / Demand Creation / Campaign Creation - From $15/month for 100 AI runs
+-   [Marmof](https://www.marmof.com) - 5,000 words per month / Fast content creation / 50+ AI Use Cases - From $9/month
+-   [Remagine AI](https://remagineai.com) - 250 AI runs/month / AI-driven content creation / 200+ AI Templates & Tools - From $20/month
+-   [Vulse](https://vulse.co) - AI Post Creation / Content Scheduling / Live Analytics - From £17/month
+-   [Keyword Insights](https://www.keywordinsights.ai) - 600 One time credits / Keyword Clustering / Search Intent / AI Writing Assistant - From $46/month (120,000 Credits)
+-   [New Copy](https://newcopy.ai) - 1 project free / Write better copy / Create on-brand content - From $39/month
+-   [CopyGenius](https://copygenius.io) - 500 word trial / Product Descriptions / High-converting Ad Copy / Blog Outlines - From $19/month
+-   [Typeboss](https://get.typeboss.com) - 5,000 words & 10 AI Image credits free / SEO-optimized content / 70+ templates - From $2.99/month
+-   [Typedream](https://typedream.com) - AI Website Builder / Build your dream site
+-   [Arcitext](https://www.arcitext.com) - 40 Free Credits / AI-Assisted Copywriting / Writing Style Analysis / No Sign-Up for Style Analysis - From $15/month
+-   [GoZen](https://gozen.io) - 250 Views per month, 5 AI questions/month / AI-powered marketing and sales automation / Unified suite for customer support and lead generation - $0/month
+-   [Productly](https://productly.app) - 3-day free trial / Product Description / Email Marketing - From $21.99/month
+-   [Syndy.ai](https://syndy.ai) - 1 month of Syndy.ai for free / Style cloning / Hook generation / Personalized elaboration -
+-   [Anyword](https://anyword.com) - 7-day free trial (2,500 words) / AI copywriting that converts / Performance prediction scores / Consistent on-brand content - From $39/month (billed yearly)
+-   [PersuadMe](https://persuad.me) - AI-crafted persuasive copy / Boost conversions / Psychological angles & tone matching - From 5€/month
+-   [Copy Shark](https://copyshark.ai) - AI-powered copy in 1 click / ad copy, product descriptions, sales copy, blog paragraphs, video scripts / 50+ Tools - From $49.00/month (20k AI Generation Credits)
+-   [GeniusGate](https://geniusgate.ai) - Free Trial / AI-Powered Copywriting / Instant A/B Testing / AI-driven Insights
+-   [8arms.ai](https://www.8arms.ai) - 30 day free trial / AI-powered marketing campaign generation / Blog & social media content - From $9.99/month
+
+### AI Script Writing
+
+-   [Storyboarder.ai](https://storyboarder.ai) - 3 free video generations / AI-powered storyboarding / Automatic animatic generation / Script to storyboard - From $49/month
+-   [Speakflow](https://speakflow.com) - Limited voice scrolling & 3-day script history / Unlimited voice-activated scrolling / Team collaboration / In-browser video recording - From $15/month
+-   [Subscribr](https://subscribr.ai) - First script free / AI Script Writer / YouTube Automation Tool - From $19/month
+-   [StoryboardHero](https://storyboardhero.ai) - 7-day free trial / AI Storyboard Generator / Generate concepts, scripts & AI images - From $19/month
+-   [VideoIdeas.ai](https://www.videoideas.ai) - 7-day free trial / Generate viral-worthy scripts / Fresh video ideas - From $8/month
+-   [UGC Scripts](https://ugcscripts.com) - 15 free scripts / Create scroll-stopping UGC scripts in minutes / Generate, edit, save, sort, filter, and favorite scripts - From $9/month for 15 scripts
+-   [Maekersuite](https://maekersuite.com) - Free for 7 Days / Optimized YouTube script generation / Content and niche analysis / AI-powered script editing - From $18/month
+-   [EasySpeak](https://easyspeak.app) - Free upto 3 User-Created Scripts, upto 3 AI Generated Scripts / AI-Powered Scriptwriting / Recording Videos with the Script / Sharing and Exporting Videos - From ₹199/month
+-   [ScriptReader.ai](https://scriptreader.ai) - First 3 scenes analyzed free / AI-powered scene-by-scene breakdowns / Actionable feedback to refine your script - From $9.99 for full script analysis
+-   [BlitzVideo](https://www.blitzvideo.ai) - Generate AI videos with just text / Instantly turn text into publish-worthy videos / Auto-generate thumbnails, titles, and SEO tags
+-   [Fenixs](https://fenixs.ai/en) - AI-Powered Storyboarding / AI-Powered Screenwriting / Auto-generate production-ready visuals - From $15.99/Month
+-   [Camtasia](https://www.techsmith.com/camtasia) - Free trial with watermark / AI-powered screen recording / Video editing - From $134.91/year
+-   [Narrati](https://narrati.io) - 5 stories per month free / AI-powered story generation / Multiple genres & smart customization - From $1.99/month
+-   [Transcriptik AI](https://transcriptik.com) - 3 transcriptions/day / Convert TikTok video to text / AI-enhanced accuracy / No signup required - From $20/mo
+-   [RE:Create Video](https://recreate.video) - Free Hobby plan / Recreate videos with AI / Automate Content Creation - From $19.99/month (20 videos with AI)
+-   [AIScreenwriter](https://aiscreenwriter.com) - 10,000 tokens free / Supercharge your Creativity / Edit and Refine your work - From $10/Month
+-   [NolanAI](https://www.nolanai.app) - 100 one time AI requests / AI-driven script writing / AI Budgeting - From $40/month
+-   [PodGen.io](https://podgen.io) - 100 credits ≈ 4 minutes free / Transform any content into professional podcasts / 50+ natural AI voices - From $9.99/week
+-   [Creaibo](https://creaibo.io) - 42 Spark points free / AI-native integrated content creation / Write human-like script in your unique style / - From $9.9/month
+-   [RivetAI](https://www.rivetai.com) - 1 project / 7 days max / script breakdowns / scheduling / budgeting - From $150/project
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [KindlePPT](https://kindleppt.com) - 5 free credits / Generate presentations, scripts, quizzes, and essays - From $10/month for unlimited generation
+-   [AI Speech Generator](https://speechgenerator.co) - 50 speeches free / Create personalized speeches / Save time writing - From $3/one-time
+-   [Frank AI](https://franks.ai) - 10 free messages / AI Essay Writer / Creative Email, and Script Writing / Fastest conversational AI - From $24/month
+-   [Screenwriting.AI](https://screenwriting.ai) - 7-Day FREE Trial / Suggest plot ideas, develop characters, and improve dialogue / Craft captivating stories and resonant dialogue - From $28/Month
+-   [REWIN.AI](https://rewin.ai/en) - Generate 5,000 AI Words / Generate Viral Youtube and TikTok scripts / Optimize video scripts for virality - From $6.00/Month
+-   [创一AI](https://www.creatifyone.com) - Free trial / AI video analysis / Script generation / AI podcast creation
+-   [Jellypod](https://jellypod.ai) - 1000 Generation Credits (one-time) / AI podcast creation & publishing / Customizable AI hosts & voices / Multilingual content translation - From $24/month
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [Epicly.ai](https://www.epicly.ai) - 50 Credits Per Month / Automating Video Content Creation Workflows / AI-Driven Scriptwriting & Voiceovers - From $25.00/month
+-   [Omni.us](https://www.omni.us) - 3-Day Free Trial / Automated Omni Channel Outreach / AI-written customizable scripts / High-quality lead database
+-   [Supercreator.ai](http://supercreator.ai) - AI-assisted video creation / 10x faster video creation / Condenses 100+ tasks
+-   [FilmFlow](https://filmflow.ai) - 7-day free trial / AI-Powered Video Ideas / Smart Script Generation - From $29/month
+-   [PerfAgents](https://www.perfagents.com) - Synthetic Monitoring / User Flow Monitoring / AI Powered Script Creation
+-   [DreamShorts](https://dreamshorts.com) - 15 videos and scripts for free / AI-powered script generation / Copyright-free video content generation / Smart AI Narrator - $2/20 credits
+-   [LazyLines](https://lazylines.ai) - 7-day free trial / Research viral content / Craft viral scripts with AI / Analyze & optimize content - From $23/month
+-   [ChatSlide](https://drlambda.ai) - Convert images, PDFs, or links into slides, videos, podcasts, or social posts / AI-powered content generation - From $9.9/month
+-   [Short Film Script Doctor](https://www.film-ai.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3444)- Freemium + From $7/month, No Refunds / Diagnose and fix weak short film scripts.
+-   [MakerSuitev1.1.0](https://makersuite.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2798)- Freemium + From $9/month, No Refunds / From idea to launch: professional AI-generated content in one place.
+
+### AI Thesis Generator
+
+-   [SOM AI](https://somai.id) - Free 5 requests / AI-powered research assistant / Brainstorming research titles / Paraphrasing paragraphs
+-   [SciPub+](https://scipubplus.com) - 100 monthly credits / AI-powered academic writing assistants / Streamline research papers & theses - From $2.49/month
+-   [Muses AI](https://www.muses.my) - Free credits to start / AI-powered writing assistance / Multi-AI model choice -
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [RikiGPT](https://rikigpt.com) - 5 credits for Essay Writer, 1 Assignment Use, 1 Extract Use free / Generates academic papers up to 200 pages / Accesses over 200 million sources / No Sign-Up - From $19/month
+-   [Quillminds](https://quillminds.com) - 20 AI credits per month free / AI-powered academic writing / Citation management / Plagiarism prevention - From $12.99/month
+-   [AllWriting](https://tools.allwriting.net) - Free online tools / fast editing / idea generation / essay checking - From $12.05/page
+-   [v0 Report](https://v0.report) - Automated Report Generation / AI Document Generator / AI PDF Summarizer - From $7/month
+-   [PaperTyper](https://papertyper.net) - Free unlimited access / AI Essay Writer / Grammar Checker / Plagiarism Checker
+-   [BookScribi](https://bookscribi.com) - 1 book free / AI Book Writer / No writing required - From $14.50/month
+-   [Resea AI](https://resea.ai) - 200 free Credits / Deep research reports with accurate citations / Unlimited Writing - From $19.9/month
+-   [Writify AI](https://writifyai.com) - 3 Free Articles / Factually Accurate Articles / Real-time external linking
+-   [Koke AI](https://www.koke.ai) - Free 10 papers export (partial) & 1000 AI words/day / AI Citation Generator / AI Outline Generator - From $28.00/month
+-   [SpeedAI](https://kuaipaper.com) - 500 points free trial / Lower AIGC Rate / Reduce Repetition Rate - From ¥19.99 for 10,000 characters
+-   [AcademicIdeas](https://academicideas.cn/?ic=hZvT) - Free thousand-word outline / Generate 30,000-word draft in 5 minutes / Refund if plagiarism rate exceeds 10% / No Login required
+-   [CoWriter AI](https://cowriter.ai) - 20 Completion Suggestions per Day / Smart Autocompletion / Versatile Citation Support / AI Detection Proof - From $11.99/month
+
+### AI Proofreading
+
+-   [Knowt](https://knowt.com) - Free / AI Study Tools for Notes, Flashcards & Summaries / Unlimited Free Study Modes
+-   [LanguageTool](https://languagetool.org) - Free 3 rephrasing requests per day / Comprehensive Grammar, Punctuation & Style Checking / AI-powered Rephrasing / Supports 30+ Languages / No Sign-Up required - From SGD 4.99/month
+-   [editGPT](https://editgpt.app) - 10,000 words/month, limited to 600 words per request / Proofread & edit content with ChatGPT / Track changes / Custom prompts - From $10/month
+-   [OpenL Translate](https://openl.io) - 40 Fast Credits/day / Accurate AI Translation in 100+ Languages / AI Grammar Tools & Writing Refinement / No Login required - From $7.9/month
+-   [Toolsmart Free Humanize AI](https://www.toolsmart.ai/feature-free-humanize-ai) - Turn AI content into natural, human-like, undetectable text / Eight Humanizing Modes / No Signup Required
+-   [ProWritingAid](https://prowritingaid.com) - Free 500 word limit / Grammar Checker & Style Editor / Virtual Beta Reader - From $10/month
+-   [ManageArtworks](https://www.manageartworks.com) - 14-Day Free Trial / Proofing tools / Digital Asset Management (DAM) / Workflow management - From $458/month for 10 Users
+-   [Chinese Text Correction Tool](https://chromewebstore.google.com/detail/%E7%88%B1%E6%A0%A1%E5%AF%B9/fmhbdmboiompligcdklnbcjodiejmmkl) - Free / Higher Accuracy / Intelligent Proofreading for Word, Punctuation, Proper Nouns, Sensitive Info
+-   [Shodo](https://chromewebstore.google.com/detail/shodo-%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%A0%A1%E6%AD%A3%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89/nngjmiibepcaelkkdjopmlcaaiagogmi) - AI-powered Japanese proofreading / Grammar and style correction
+-   [UpWrite AI Proofreading Chrome Extension](https://chromewebstore.google.com/detail/upwrite-ai-proofreads-all/dfmkhghfmnmpclilkafacfjoajlomjeo) - 10,000 word tokens / AI Proofreading & Correction / Tone & Style Adjustment - 40K for $1
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Katteb](https://katteb.com) - Fact-checked content with in-text citations / AI Chat with Internet Access / AI Image Generation - From $29/month
+-   [Katteb AI](https://katteb.com/en) - Fact Checked AI Writer / AI Image Generation / Built-in Plagiarism Checker - From $29/month
+-   [Friday: AI E-mail Writer](https://friday-email.ai) - Instantly create professional emails / Real-time grammar check
+-   [Nova - AI Chatbot](https://novaapp.ai) - 3-day trial / AI Chatbot / AI Writing Assistant / Homework Helper
+-   [Hemingway Editor](https://hemingwayapp.com) - Free 2-week trial / Make writing concise and correct / Fix highlighted issues, check grammar, and adjust tone / No credit card required
+-   [Prose AI](https://useprose.com) - 5 daily requests / AI-powered writing assistance / Grammar & Spell Checking / Style Enhancement - From $5.99/month
+-   [BabelShark](https://babelshark.net) - Free tier (up to 10,000 words/month, 5 languages) / Automatic AI translation / Human proofreading / On-the-fly localization - From $0/month
+-   [Jenni AI](https://jenni.ai) - 200 AI autocompletes day / AI Autocomplete / Chat to Your Research - From $12/month
+-   [Kerlig AI](https://www.kerlig.com) - Trial available / Write emails, Slack replies, Jira tickets / Proofread & correct grammar / - From $47/once (1 Mac)
+-   [Reescribir Textos](https://reescribirtextos.net) - Free / AI-powered text rewriting / Plagiarism-free results / No Sign-Up - From €3/week
+-   [TextGears](https://textgears.com) - 500 text checking requests/month / Grammar and spelling check / Readability analysis / No Sign-Up required - From $23.96/month
+-   [AI Writing Assistant Plugin](https://chromewebstore.google.com/detail/%E7%81%AB%E5%B1%B1%E5%86%99%E4%BD%9C-writingo%EF%BC%9A%E5%85%8D%E8%B4%B9%E7%9A%84%E4%B8%AD%E8%8B%B1%E6%96%87%E5%86%99%E4%BD%9C%E5%8A%A9%E6%89%8B/jmfpofgbfdbigfljjiehacgdaeamjkoi) - Intelligent error correction / Polishing / Rewriting
+-   [NoPlagio](https://noplagio.it) - Free 3 AI text checks per day / Plagiarism check / AI detection - From €9.95/month
+-   [AI-Text-Humanizer](https://ai-text-humanizer.com) - 400 words on sign up / Humanize AI Text / Bypass AI detectors / No Login or Sign Up required - From $11.99/month
+-   [Seapik](https://seapik.com) - 2000 free words / AI writer / AI text generator - From $4.9/Month
+-   [WProofreader](https://chromewebstore.google.com/detail/wproofreader-secure-gramm/ehlmgkidbfjedfdanfechlikaolobpgh) - Multi-language grammar and spell checker / Secure on-premise deployment
+-   [Clarice.ai](https://clarice.ai) - Write Clear, Strong, Original, and Error-Free Texts / 50+ templates - From R$ 22.45/month (100k words)
+-   [LanguageTool](https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji) - Free extension / Grammar and style checker / Supports more than 25 languages / No registration needed
+-   [Type.ai](https://type.ai) - AI-powered document editor / AI writing assistant - From $23/month
+-   [CorrectEnglish](https://correctenglish.com) - Free Forever / AI-powered writing assistant / Grammar and spelling check / Plagiarism check - From $24/month
+-   [XX.AI](https://www.hixx.ai) - 100 credits daily / 15 Top AI Models All In One / AI Writing Assistant - From $9.99/month (billed annually)
+-   [Trinka AI](https://www.trinka.ai) - 5000 words & 4 credits/month / Grammar Correction / Language Enhancement / AI Writing Assistant - From $6.67/month
+-   [Linguix](https://linguix.com) - Free / Grammar Checker / AI Writing Assistant / Paraphraser - From $5.00/month
+-   [SpeedAI](https://kuaipaper.com) - 500 points free trial / Lower AIGC Rate / Reduce Repetition Rate - From ¥19.99 for 10,000 characters
+-   [Factful](https://factful.io) - Spelling, Grammar, Factuality checking / Real-Time Personalized Analytics / AI-powered Fact-Checking - From $9.99/month
+-   [QuizBot.ai](https://quizbot.ai) - 50 questions free / AI Question Generator / Generates questions from various sources (PDFs, videos, images, links) - From $9.5/month
+-   [imgProof](https://www.imgproof.com) - Free trial / AI-powered spelling and grammar analysis in images / Automated image proofreading / Supports multiple image formats and languages
+-   [Correctify](https://correctify.com.cy) - 1 task free / Proofread restaurant menus / AI-powered proofreading / Canva integration - From €10/year for 5 menus
+-   [Writefull](https://writefull.com) - Limited daily quota / Academic writing and proofreading / AI-powered paraphrasing / LaTeX code generation
+-   [Thesify](https://thesify.ai) - 10 AI credits monthly / Expert-level feedback / Effortless citation / Paper summarization - From €2.49/month
+-   [InstaText](https://instatext.io) - / Write like a native speaker / Comprehensive text rewriting - From 9.99 €/month
+-   [Outwrite](https://outwrite.com) - Free 50 plagiarism checks/month / Spelling & Grammar / Style improvements / Sentence rewriting - From US$7.95/user/month
+
+### AI Name Generator
+
+-   [MaxStudio API](https://www.futurebaby.ai) - 50 Credits / Baby Generator APIs / Multiple AI Tools - From $49/month
+-   [Namelix](https://namelix.com) - Generate short, brandable business names / Search for domain availability / Generate a logo
+-   [Cuqui Baby Names](https://namewith.ai) - Free / AI-powered name discovery / AI-powered name chatbot - From $3.99 one-time
+-   [NameSnack](https://www.namesnack.com) - 100% Free / Generates 100+ short, available, and brandable business names / A.I. powered naming / Instant .com/.co.uk domain availability check
+-   [AI Pet Photos Generator](https://aicatz.com) - Free Cat Name Generator / AI-generated custom Cat portraits / 4K Resolution - From $3.99/pet
+-   [WizGenerator](https://wizgenerator.com) - Free / Comprehensive Tools / Premium & Accurate Results
+-   [VidIQ](https://vidiq.com) - Free 3 video ideas, 3 thumbnail generation, 3 keyword research / AI-powered topic & keyword research / Personalized video ideas & view prediction - From $19/month
+-   [AI Name Generator](https://aithename.com) - Creates perfect names using advanced AI / Generates unique, meaningful names
+-   [Brandix AI](https://brandix.ai) - Generate Brand names Using AI / Check Domain availability
+-   [Personalized License Plate Generator](https://getmylp.com) - Unlimited free generation / AI Powered Personalized License Plate Generator / Buy and print custom AI plates
+-   [Bisibyte Business Name Generator](https://www.bisibyte.com/business-name-generator) - Free / AI-Powered Precision / Industry-Specific Suggestions
+-   [Sudowrite](https://www.sudowrite.com) - Bust writer's block / Write novels & screenplays faster / AI feedback - From $10/month (225,000 credits)
+-   [AI Baby Video](https://babyvideo.ai) - 30 credits on signup, 10 credits daily for 7 days / Create adorable baby videos / future baby predictions / age progression - From $10/month
+-   [PicAPetName](https://picapetname.com) - Free / Unique AI Pet Name Generator from Photos / Personalized Name Certificate
+-   [BrandBolt](https://brandbolt.ai) - 20 daily name generations / AI-powered name generation / Instant domain availability checks - From $25/month
+-   [Song Name Generator](https://www.songnamegenerator.org) - Free / AI song name generator / Generate song name from prompt or lyric / 20 results to select
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [AI Renamer](https://airenamer.app) - 10 free credits / Automatically rename files based on content / Organize images and documents with meaningful names - From $5/100 credits
+-   [Fable Fiesta](https://fablefiesta.com) - AI DnD Campaign Builder / DnD Race & Class Generators / DnD Monster Generator
+-   [Keep It Shot](https://keepitshot.com) - 15 credits/month free / AI-powered descriptive names for screenshots / Offline, private, and fast search index - From $8/month
+-   [LogoAI](https://www.logoai.com) - Free logo design / AI powered logo maker / create professional logos / design matching identities - From $29
+-   [Daydrm.ai](https://www.daydrm.ai) - Free credits / AI tool for creative advertising ideas / Concepts-on-demand - From $5/day
+-   [Fast Domain](https://fast-doma.in) - 3 free credits / AI-Powered Domain Generation / Automatic availability checks - $4.99 lifetime (100 total credits)
+-   [SvahaMe.ai](https://www.svahame.ai) - Free Raasi & Nakshatra Calculator / Vedic Astrology with AI-Powered Interpretations / Daily Personalized Astrological Readings / No Login or Sign Up required
+-   [AI Suggests](https://ai-suggests.com) - Generate unlimited content / Social media content / SEO-friendly content
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [UsernameGenerator.IO](https://usernamegenerator.io) - Forever free / AI-powered personalized usernames / Username Availability Checker / No Sigup Required
+-   [NameHassle](https://namehassle.com) - Free / AI-powered Domain Name Generator / Instant Ideas / Real-Time Availability Check / No Sign-Up required
+-   [Postwise](https://postwise.ai) - 7-day free trial / AI-powered content creation / Smart scheduling / Grow your following - From $37/month
+-   [Name Brewery](https://namebrewery.com) - 15 domain generations free / AI-powered domain name generation / Domain availability & archive history - From $12/month
+-   [Chinese Feng Shui Online Calculation Tool](https://chinesefengshui.net) - 2 Calculation times free / Chinese Feng Shui Online Calculation Tool / AI Intelligent Analysis / I Ching Divination & Bazi Fortune-Telling - From $1 for 2 calculation times
+-   [AiKeeda](https://www.aikeeda.com) - 7 Days of free trial / AI Text Generator / AI Image Generator / AI Chat Bot - From $9.99/month
+-   [RandomX.ai](https://randomx.ai) - AI-powered name generation / Authentic Chinese names / Japanese names
+
+### AI Cover Letter Generator
+
+-   [CVwizard](https://www.cvwizard.com) - Unlimited resume creation / Professional cover letter generation / Job application tracking - From US$14.99/month
+-   [Kickresume](https://www.kickresume.com) - Unlimited downloads / AI Resume Builder / AI Cover Letter Writer - From $7/month
+-   [Huntr](https://huntr.co) - Track up to 100 jobs free / AI Resume Builder / AI Cover Letters / Job Application Autofill - From $26.66/month
+-   [Loopcv](https://www.loopcv.pro) - Up to 10 applications or emails per month / Automate job searches / Optimize CV with AI / Track applications - From €8.99/month
+-   [CV.fr](https://www.cv.fr) - 14-day trial for 0.99 US$ / Create unlimited CVs / Generate cover letters / Job offer alerts - From 14.99 US$/month
+-   [CVScoring.com](https://cvscoring.com) - 1 Credit / Job Matching Score / Cover Letter Generator / ATS Resume Checker - From $6/month (25 Credits)
+-   [MyCVCreator](https://mycvcreator.com) - Free / AI-Enhanced CV creation / ATS-Compliant / Professional templates - From $199 (Entry-Level Resume Writing Service)
+-   [Wonsulting](https://wonsulting.com) - Free AI Job Search Tools / Career Coaching / Resume & LinkedIn Revision / No Credit Card Required - From $17/month
+-   [Jobo AI](https://jobo.world) - 5 automated job applications free / AI Agent auto-applies / Deep Job Search - From $9.99 for 30 successful job applications
+-   [WonsultingAI](https://www.wonsulting.ai) - Free resume & cover letter tailoring / Free job tracking / Free interview practice / AI-powered job search tools - From $19.99/mo
+-   [Swooped](https://swooped.co) - One free AI resume, one free cover letter, one free ATS resume grade / AI Resume Builder / AI Cover Letter Writer / Networking AI - From $12/month
+-   [Resume Trick](https://resumetrick.com) - 1 free resume / AI Resume and Cover Letter Builders / Customizable Templates
+-   [OnlineCV](https://www.onlinecv.es) - Create 1 CV & 1 cover letter, download in TXT format / AI assistant / Professional & ATS-optimized templates - From $1.95 for 14 days
+-   [Wobo AI](https://www.wobo.ai) - 10 Personal Job Searches, 2 AI Cover Letters free / Automated Applications / AI Resume Builder / AI Cover Letter Generator - From $24.99/month
+-   [Sheets Resume](https://sheetsresume.com) - Free Resume Template & Cover Letter Maker / AI Resume Builder / Cover Letter Builder - $99 one time for Lifetime Access
+-   [EarnBetter](https://earnbetter.com) - Free Unlimited / AI Resume / AI Cover Letters / Personalized Job Matches
+-   [PouncerAI](https://pouncer.ai) - 14-day free trial / AI Proposal Tool for Upwork / Upwork Profile Optimizer - From $15/month
+-   [ResumeCoach](https://www.resumecoach.com) - Free plan for one resume and cover letter / AI tools for resume and cover letter / ATS-Friendly Resume Templates - From $1.95 for 14 days
+-   [Resumatic](https://resumatic.ai) - Free 10 AI Generations / AI resume writer / ATS optimized templates - From $29/month
+-   [Wonderin AI](https://wonderin.ai) - Free Trial / Tailor resumes & cover letters / AI-powered resume upgrades / Stock recommendations & insights - From $9.99/month
+-   [Cover Letter AI](https://coverletter-ai.com) - 1 Cover Letter (1 Generation Credit) / Craft professional and personalized cover letters / Iterate different writing styles / Data stays private - From €5 / 25 Cover Letters
+-   [Propos.li](https://propos.li) - 30-day free trial / Craft winning proposals / Get tailored job alerts - From $5/month
+-   [MAPPLY](https://m-apply.fr) - 10 credits offered / auto-generates cover letters / tracks applications
+-   [JobStream](https://jobstream.uk) - Free / AI-generated cover letters / AI-powered application question answering
+-   [CoverLetterGPT](https://coverletter-gpt.com) - Personalized for Every Job Application / Save Time and Effort - $0.99 for 3 Cover Letters
+-   [InterviewAI](https://interviewai.me) - 1 free token / AI-based tailored questions / Performance feedback - From $7.99 (10 questions)
+-   [ApplyAI](https://apply-ai.work) - AI-powered resume builder / tailored resumes and cover letters / AI Interviewer tool
+-   [ATSFriendly.com](https://www.atsfriendly.com) - 2 Free Scans per week & 5 AI Credits / AI Powered Resume Scanning / AI Resume Writer - From $7.99/month
+-   [Apply Hero AI](https://www.applyhero.ai) - Automate job applications with AI / Tailored resumes / Custom cover letters - From $29/month for 250 auto applies
+-   [ResumeGiants](https://www.resumegiants.com) - 14-day free trial / AI-powered suggestions / Recruiter-approved templates / Multi-device editing - From $9.99/28 days
+-   [Linkeo](https://getlinkeo.fr) - Automated Cover Letter Personalization / Intelligent CV Analysis & Feedback / Interview Preparation
+-   [UseResume.ai](https://useresume.ai) - Free 1 AI Credit, 5 Branded Document Downloads / AI-powered resume and cover letter builder / ATS-optimized templates / Unlimited edits - From $19/month
+-   [AI Cover Letter Generator](https://ai-coverletter-generator.com) - 3 Free Daily / Personalized Cover Letters / Resume & Job Description Analysis - From $4.99 / 25 credits
+-   [Hopefullyhired](https://hopefullyhired.com) - Completely free / Writes high quality coverletters / Optimizes your resume with AI
+-   [ProApply.AI](https://www.proapply.ai) - Free Demo / Create custom tailored cover letters / Automate PDF generation and upload
+-   [BewerbungsschreibenAI](https://www.bewerbungsschreibenai.de) - Free templates / AI-powered cover letter generation / Multilingual support (German & English) - From €9.99 for 1 AI-generated cover letter
+-   [Sclof](https://www.sclof.com) - Tailored Cover Letters / Online Course Recommendations / No Login or Sign Up required
+-   [Job Jolt](https://chromewebstore.google.com/detail/job-jolt/pjlnajjbbpjgimaidaoinoeebehkcboj) - Free / Lightning Fast Cover Letter Generation / AI-Powered Resume Rewording
+-   [Behired](https://behired.net) - AI-Powered Cover Letters / Tailored Resumes / Personalized Interview Prep - SGD 19/month
+-   [Careerflow](https://careerflow.ai) - One FREE Resume / AI Resume Builder / Automated Job Tracking / LinkedIn Profile Optimization - From $14.41/month
+-   [letterfy.co](https://letterfy.co) - / Generate High Quality AI Cover Letters / in PDF format, Fast. - $4.95 for 5 credits
+-   [CoverPilot](https://coverpilot.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2952)- Freemium + From $19.99/month, No Refunds / Create personalized, ATS-optimized cover letters in minutes.
+
+### AI Quotes Generator
+
+-   [InspiroBot](https://inspirobot.me) - Free unlimited quotes / Generates unique inspirational quotes / No Login required
+-   [QuotesMaker](https://quotesmaker.com) - Free / Create stunning quote images / Customize design with beautiful backgrounds and easy customization
+-   [QuoteGenerator.io](https://www.quotegenerator.io) - 200 requests/day free / Create & share quotes instantly / AI-powered quote generation / Incorrect quote generator
+-   [Quoai](https://quoai.fr) - 7 days free trial / AI-powered quote generation / AI team suggestions / cost and tax calculations - From 29€/month
+-   [Typli.ai](https://typli.ai) - AI Writing / SEO Assistant / AI Image Generation - From $7.99/month
+-   [QuoteMark](https://apps.apple.com/tw/app/quotemark-scan-save-quotes/id6471570608) - Free / AI-powered camera for instant quote capture / Organize with tags, notes, and categories - From $60.00/month
+-   [BlessAI](https://dailybless.net) - Free / Personalized AI-generated greetings / Birthday wishes & prayers / High-quality image generation
+-   [Inspire AI - Daily Motivation](https://apps.apple.com/app/inspire-ai-daily-motivation/id6450937788) - / Personalized AI affirmations / Daily motivations - From $3.99/month
+-   [Taggy](https://www.taggy.com.mx) - Hobby Free plan features / Generate engaging captions and quotes / Generate keywords and hashtags
+-   [MemeClip](https://memeclip.ai) - Free / AI Meme Maker / Turning Text into Trending Memes
+-   [GPT Book Club](https://gptbook.club) - AI-powered book insights / Ask questions, get personalized answers
+-   [AIChatOnline.org](https://aichatonline.org) - Daily Free Usage / ChatGPT 3.5 & 4o Online Free / Personalized Interactions with ChatGPT Memory / No Registration Needed
+-   [DinuAI](https://dinuai.com) - 2500 Words per month / AI-powered content generation / Plagiarism-free & SEO-optimized content - From $23/month
+-   [PikPoet](https://www.pikpoet.com) - 5 Free Credits / Find poetic words for photos / AI-powered caption suggestions - From $3/month for 10 credits
+-   [Macbeth AI](https://macbeth.ai) - Free 500 AI words/month / AI content generation / AI chat assistant - From $19.99/month
+-   [Prompt AI Tools](https://promptaitools.com) - Free / Tackle daily technical challenges / Content generation / Utility & Conversion tools
+
+### AI Image Description Generator
+
+-   [AltText.ai](https://alttext.ai) - 25 free images / AI-generated alt text / Improve SEO & site accessibility - From $5/month
+-   [Describe Image & Picture - AI Image Description, Markdown, and Text Converter](https://describepicture.org) - 10 free image uses / AI Image Description / AI Image Prompt Generation / AI Video Analysis - From $19.99/month
+-   [CaptionMaster](https://captionmaster.io) - AI Image Caption Generator / Supports multiple languages and platforms
+-   [ImagePromptGuru.net](https://imagepromptguru.net) - Unlimited free prompts / Image to Prompt Generator / Text to Prompt / No Login Needed
+-   [Image to Prompt Pro](https://imagetoprompt.pro) - / Generate detailed AI prompts from images / Save Time & Improve Accuracy
+-   [Altnado](https://www.altnado.com) - 25 credits free / Automatic alt text generation / Boost SEO & accessibility with single line of code - $5/month
+-   [Captions for photos: Captioned](https://apps.apple.com/us/app/captions-for-photos-captioned/id6472856464) - Automatic Captions / Generative AI for Text - From $2.99/week
+-   [Photo Prompt](https://photoprompt.io) - 3 free generations per day / Convert photos to detailed prompts / Supports multiple AI models / No Login or Sign Up required
+-   [Image to Prompt AI](https://imagetoprompt.ai) - 20 daily credits / Converts images to detailed text prompts / Generates SEO-friendly descriptions / No Login required
+-   [CLIP Interrogator AI](https://clipinterrogator.org) - Analyze images & generate descriptive text / Generate prompts for AI image generators
+-   [ImageComply](https://www.imagecomply.com) - AI-generated alt text / Human-verified alt text - From $50/month
+-   [MealSnap: AI meal log journal](https://apps.apple.com/us/app/mealsnap-ai-meal-log-journal/id6475162854) - Free / AI-Powered Meal Scanning / Nutritional Information at a Glance - From $1.99
+-   [MockAnything AI](https://dynamicmockups.com/mock-anything-ai) - 50 credits free / Create mockups from text prompts / Full control over visuals - From $15/month
+-   [Tagalytics Pro](https://tagalyticspro.com) - 5 free credits / AI-driven caption & hashtag generation / Craft perfect posts with optimal hashtags - 30 Credits for $2.99
+-   [AltText.ai](https://chromewebstore.google.com/detail/alttextai-alt-text-genera/hhedjnckjdclgflodngblaiepkpedeab) - Free trial / Automatically generate alt text / SEO keyword integration
+-   [Seeing Dogs](https://apps.apple.com/us/app/seeing-dogs/id6473544052) - See the beautiful world via AI / Personal assistant for daily tasks - From $9.99
+-   [Stockfill](https://www.stockfill.io) - Keyword Generator for Stock Images / Create title, description and keywords - $0.99 for 100 upload credits
+-   [Image Describer](https://imagedescriptiongenerator.xyz) - Free 3 images per day / AI-powered image descriptions / Chat with Image AI / No Login Required - From $9.99/month
+-   [Keep It Shot](https://keepitshot.com) - 15 credits/month free / AI-powered descriptive names for screenshots / Offline, private, and fast search index - From $8/month
+-   [PhotoTag.ai](https://keyword.camera) - 10 free upload credits / Automate photo labeling for quick title, description, and keyword generation / Export files with metadata added or integrate with other platforms - From $18 for 2,000 Upload Credits
+-   [SellYourPhotos](https://www.sellyourphotos.net) - 5 image credits free / AI-powered metadata optimization / Maximize stock photo earnings - From $9/one-time for 100 image credits
+-   [FluidSEO](https://www.fluidseo.app) - Save hours writing SEO meta titles and descriptions / Automatic image alt text / Add schema without code - From $24/user/mo
+-   [Image Describer](https://imagedescriber.online) - Insightful descriptions / Captions / Prompts / Text Extraction - From $9.9/month
+-   [Imagga](https://imagga.com) - 100 API requests / Image Tagging & Categorization / Visual Search - From $79/mo
+-   [Image to Caption](https://image-to-caption.com) - 100% Free / AI-Powered image to caption generator / Instant caption generation / Hashtag recommendations / No Login
+-   [metastory AI](https://metastory.ai) - Free Forever / AI Requirement Generation / Fastest Editor for requirement gathering - No Credit Card
+-   [SMMAI: AI Banner Maker](https://home.smmai.app) - AI-powered banner design / Thousands of ready-made layouts / No Sign-Up needed
+-   [Vheer](https://vheer.com) - Free & Unlimited / AI Image & Video Generator / Photo Editing / No Signup - From $9.99/month
+-   [AI-Powered SEO Newsletter](https://ai-poweredseo.com) - AI-powered SEO solutions / Better rankings / Content idea generation - From $19.99/month
+-   [Pixcribe](https://pixcribe.com) - Image to text (OCR) / Image describer / Image to prompt
+-   [piXme](https://pixme.pro) - FREE 2 GB storage, 1 user, 25 piXcoins / AI-powered image recognition & tagging / Multi-user cloud storage & sharing - From 18,99€/month
+-   [Pokecut](https://www.pokecut.com) - 5 credits everyday / AI Background Remover / AI Background Changer / AI Photo Enhancer - From $4.58/month
+-   [PikPoet](https://www.pikpoet.com) - 5 Free Credits / Find poetic words for photos / AI-powered caption suggestions - From $3/month for 10 credits
+-   [Neural Frames](https://www.neuralframes.com) - Freemium model available / Text-to-video / Audio-reactive AI animations / Precise frame-by-frame control - From $13/month
+-   [UserAPI](https://userapi.ai) - 50 Requests free / Image generation / Edit specific regions of images - From $0.04/request
+-   [Alt Text Generator](https://alttextgenerator.com) - Generate accurate, SEO-friendly alt text / Improve accessibility and search rankings
+-   [AI Image to Caption Generator](https://apps.apple.com/us/app/ai-image-to-caption-generator/id6451452769) - AI-powered caption generation / Overcome writer's block / Hashtag generation - From $2.99/month
+-   [Designs AI](https://designs.ai) - 50 complimentary credits upon signup / AI-powered logo, image, video generation / AI Chat & Writer
+-   [AI Hairstyle](https://www.aihairstyle.design) - Unlimited access / AI-Powered Hairstyle Changer / Realistic Haircut Simulator - Free
+
+### AI Job Description Generator
+
+-   [Jobed](https://www.jobed.ai) - AI-powered Job Description Generation / Interview Question & Skill Recommendations
+-   [Verve AI](https://www.vervecopilot.com) - 15-min Copilot Session x 3 / AI Mock Interviews x 5 / AI Resume Builder / Live Chat Support / Real-time Interview Assistance / AI Mock Interview - From $14.45/month
+-   [Recruit CRM](https://recruitcrm.io) - Unlimited free trial / ATS + CRM / AI-powered recruitment software / Workflow Automation - From $85/month
+-   [RecruitWrite AI](https://recruitwriteai.com) - 10 free job description generations / Craft job descriptions in seconds / Generate diverse recruiting content / No credit card required - From $9.99/Month
+-   [Helio.AI](https://www.helio-ai.com) - No Starting Costs / End-to-end automated recruiting / AI-powered ATS / Gamified personality test & candidate profiling
+-   [Hiring Studio by Metaview](https://hiring.studio) - Generate interview questions / Listen to sample answers / Generate job descriptions
+-   [Flipped.ai](https://flipped.ai) - Automate entire hiring process / Intelligent candidate evaluation / Source candidates from multiple job boards
+-   [SolveCube](https://solvecube.com) - AI-powered talent matching / Flexible hiring (part-time, short-term, permanent) / Access to global domain experts
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [LueinHire.com](https://lueinhire.com) - 1 month trial or 10,000 LH-credits / AI Powered Hiring Automation / Automated Screening & Pre-hire Assessment - From $15.0/month
+-   [peopleCQ](https://www.peoplecq.com) - Free trial / Simplify JD creation / Assess top candidates / Build hiring presence
+-   [TalentRecipe](https://talentrecipe.com) - Alpha version free trial / AI-powered recruitment / Automated candidate evaluation / Auto JD & interview questions
+-   [Interviewer.AI](https://interviewer.ai) - 14-day free trial / End-to-End AI Video Interview Platform / AI-powered candidate screening & shortlisting - From $53/month
+-   [Hire Hoc](https://hirehoc.com) - 40 free credits / AI-Assisted Recruiting / AI Shortlisting & Video Interviews - From $1 = 4 Credits
+-   [Loubby AI](https://www.loubby.ai) - Free forever plan / 30-day free trial / AI-powered recruiting / Employee management / Payroll automation / No credit card required - From $149/month
+-   [Hatch Canvas](https://hatchcanvas.com) - Start for Free / AI-powered collaborative canvas / Infinite canvas for visual organization / Create interactive tools, apps & websites
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [ATZ CRM](https://atzcrm.com) - Unlimited free trial / AI-Powered Recruitment ATS & CRM / Seamless Resume Parsing / Automated Job Posting - From $10/user/month
+-   [Wizlink](https://ai.wiz.link) - 5 queries per day / AI-powered Mobile Landing Pages / Game-changing Link-in-Bio Tool / Interactive Widgets
+-   [Haire](https://haire.ai) - AI-Driven Smart Hiring / AI Interview Software / Reduced Hiring Time & Cost
+-   [GiFTEM](https://giftem.co) - 5 credits FREE / AI-powered recruiting tools / Smart Resume Analysis / Smart Candidate Matching - From $109.99/month
+-   [hiringcycle.ai](https://www.hiringcycle.ai) - 10-day free trial / AI-based recruitment / Simultaneous video interviews / Smart job ad creator
+-   [HireNorm](https://www.hirenorm.com) - Job Portal Builder / Coding Interview Platform / Applicant Tracking System - From $79/month
+-   [recruitRyte](https://recruitryte.com) - 3-day free trial / AI Recruitment Sourcing / Semantic Deep Search / Automated Outreach
+-   [Sniff Job](https://sniffjob.com) - Free 1-week trial / AI Job Scam Detector / CV & Cover Letter Creator - From £6.90/month
+-   [uBest](https://ubest.ae) - Free Access / AI-powered automated recruitment / Two-way candidate matching / Optimized recruitment workflows
+-   [ProMatch](https://www.promatch.ai) - 60 minutes/month AI Interview free / AI automated hiring solution / Save time and resources - From $129/month
+-   [hiroscope.ai](https://hiroscope.ai) - 2 candidate interviews, 20 resumes / AI interviews / Smart resume matching / In-depth candidate reports - FREE
+-   [UPCV](https://upcv.io/?invite=INV9KAQKBCH) - Free / AI-Powered Content / Professional Templates
+-   [AIResumeBuilder.me](https://airesumebuilder.me) - Free / AI Resume Builder / AI-Powered Guidance
+-   [Rapha](https://www.withrapha.com) - AI + audio responses / Capture hard-skills and culture-fit
+-   [MTestHub](https://mtesthub.com) - AI-powered screening / One-click skill assessments / Smart interview scheduling
+-   [TalentPlace](https://www.talentplace.ai) - 14-day trial / AI powered auto suggestions / ATS friendly resume downloads - From ₹99/year
+-   [ContentHubAI](https://contenthubai.com) - AI Content Generation / AI Chatbot / AI Voiceover
+
+### AI Description Generator
+
+-   [AI Stock Keywords](https://www.aistockkeywords.com) - 5 credits / AI-generated titles, descriptions, and keywords / Save time and boost visibility on stock platforms - From $1.50 for 100 Credits
+-   [VidIQ](https://vidiq.com) - Free 3 video ideas, 3 thumbnail generation, 3 keyword research / AI-powered topic & keyword research / Personalized video ideas & view prediction - From $19/month
+-   [ROAST TOOLS](https://seoroast.co/tools/meta-description) - 10 free credits / Generate SEO-optimized meta descriptions / Boost CTR & visibility
+-   [CityRank](https://apps.apple.com/us/app/cityrank/id6737245374) - Discover, rate, and review cities / AI-driven insights / Global and local leaderboards - From $2.99/week
+-   [ListPro](https://trylistpro.com) - 3 description generations free / Better than ChatGPT / Generate descriptions in 30 seconds - From $15 for 5 generations
+-   [quso.ai](https://vidyo.ai) - 75 Credits per Month / AI Video Editing / Social Media Management / Content Repurposing - From $24/month
+-   [Submagic](https://submagic.co) - 3 free videos / AI-Powered Captions / Trendy Templates / Magic Clips - From $19/month
+-   [etsyGenerator](https://etsygenerator.com) - Free 2,500 etsy ai credits monthly / AI-powered Etsy listings / Etsy SEO keyword optimization - From $10/month for 50,000 words
+-   [SEO/GPT](https://chromewebstore.google.com/detail/seogpt/ggnhpodabnfmpnahconknkdamokghmpg) - Automatically generates SEO titles / Automatically generates SEO meta descriptions
+-   [VidChapter](https://vidchapter.com) - 7-day free trial / Generate YouTube Timestamped Chapters / Optimize Tags, Descriptions & Titles / Boost SEO - From $19/mo
+-   [TimeSkip AI](https://timeskip.io) - 2 videos free / Instantly create chapters/timestamps / SEO-optimized chapters / No CC required - From $17 for 30 videos
+-   [listingcopy.ai](https://listingcopy.ai) - Streamline listing process / Generate ad copy with AI - From $19/month (15 Monthly Credits)
+-   [Listener.fm](https://www.listener.fm) - AI-Generated Titles, Descriptions, and Show Notes / Save Time and Increase Quality - From $19/month / 4 Uploads Per Month
+-   [MetaMonster](https://metamonster.ai) - 7-day free trial / Generate metadata fast / Fix metadata issues - From $50/month for 2,500 pages
+-   [Video to Prompt](https://videotoprompt.net) - Convert videos into detailed prompts / Instant AI Analysis / Multi-language Support
+-   [Zubtitle](https://zubtitle.com) - 2 videos per month / Add Subtitles to Videos / Edit Videos Online - From $19/month
+-   [Cyanite.ai](https://cyanite.ai) - Free testing available until Feb 28! / AI Music Tagging / Similarity Search / Free Text Search
+-   [Smart Pineapple](https://www.smartpineapple.ai) - 30-days free / Instantly turn keywords into tailored content / Generate content for blogs / Create new listings or makeover old ones
+-   [The Listly](https://thelistly.com) - 1 free listing generation / AI-powered real estate descriptions / Save time & money - From $7/month
+-   [AppLaunchFlow](https://www.applaunchflow.com) - Free 1 project (preview only) / Automated Store Screenshots / AI ASO Copy + Translations - From €9/mo
+-   [AITDK](https://aitdk.com) - AI SEO Title Generator / AI SEO Description Generator / AI SEO Keywords Generator
+-   [AsoLift](https://asolift.com) - 5-day free trial / Keyword Research / App Listing Optimization / Track App Rankings - From $15/month
+-   [Taja AI](https://taja.ai) - Free 7 Day Trial / Turn one video into 27 social posts automatically / AI-Powered YouTube SEO expert / Content Idea Generation - From $17.50/month
+-   [AI YouTube Title & Description Generator](https://chromewebstore.google.com/detail/toobsquid-ai-youtube-titl/gmaafomgeemhdedjkfbcjdgfeedffemi) - Free / Automatically generates YouTube titles / Automatically generates YouTube descriptions
+-   [SmartBids.ai](https://smartbids.ai) - 7-day free trial / 96% accurate AVM / AI-powered listing description writer / Photo enhancer tools
+-   [MobiRest Business](https://mobirest.business) - Free plan available / Cloud-based POS system / AI-powered menu management / Customer mobile ordering - From €3.38/month
+-   [ZapCap](https://zapcap.ai) - 3 videos/month / AI Video Caption Generation / Auto B-Roll & Transitions / Multi-language Subtitles - From $8/month
+-   [Dadan AI Assist](https://www.dadan.io/features/ai-assist) - Free: 25 videos & 5 mins each / AI-generated transcriptions / Auto-generated video metadata - From $8/month
+-   [Styldod](https://www.styldod.com) - Free trial for first image / Virtual Staging / Photo Editing / AI Marketing Hub - From $1.5
+-   [Fe/male Switch](https://femaleswitch.app) - Free START tier / Women-first startup game / AI co-founder & expert support / Virtual startup simulator - From €2.25/month
+-   [Skribr](https://www.skribr.com) - 10 Free Task Rewrites / Transforms messy task descriptions / One-click rewrites - $5/month for 250 Rewrites
+-   [Pin Generator](https://pingenerator.com) - 12 free generations per month / Generate Pinterest pins FAST / AI text writer / Bulk scheduler - From $16.99/month
+
+### Resume AI
+
+-   [ResumeBuilder.com](https://resumebuilder.com) - Free TXT resume download / AI-powered suggestions / 30+ professional templates / Expert tips and guidance
+-   [Resume Worded](https://resumeworded.com) - AI-powered tailored feedback on resume & LinkedIn / Land 5x more interviews & job offers / - From $19/month
+-   [Resume Optimizer Pro](https://resumeoptimizerpro.com) - Optimize resumes for any job / ATS-friendly resumes - From $5.95/month
+-   [Swooped](https://swooped.co) - One free AI resume, one free cover letter, one free ATS resume grade / AI Resume Builder / AI Cover Letter Writer / Networking AI - From $12/month
+-   [ResuMetrics](https://resumetrics.nl) - 5 pages processed for free / AI Resume Processing / Structured Data Extraction / Resume Anonymization - From €49/month
+-   [Remote People](https://remotepeople.com/tools/resume-generator) - AI-powered Resume Generation / Build ATS-Friendly Resumes Instantly / No Signup Required - From $99/month
+-   [ResumeGlow](https://resumeglow.com) - Free resume creation / AI Powered Resume Builder / Unlimited AI Writer Credits / Multiple Formats (MS Word & PDF) - From $19.95/month
+-   [ResMe](https://resme.xyz) - Free 3 Resumes & 7 AI calls / Create ATS Optimized Resumes / AI Helper - From $6.9/month
+-   [Resumod.co](https://resumod.co) - Free resume creation / AI Resume Builder / ATS & Job Match Scoring
+-   [TruResume](https://truresume.ai) - ATS-optimized templates / AI-Powered Resume Builder / ATS Score Checker
+-   [Future Resume](https://futurecv.cn) - AI-powered resume optimization / STAR method content customization / Expert-designed templates
+-   [Sckian](https://sckian.com) - Free resume analysis / Automate job search with AI / Customize applications to stand out / No credit card required - From $99 one-time for 100 applications
+-   [ResuMaster](https://resumaster.ai) - Free / AI-Powered Resume Tailoring / Automated Resume & Cover Letter Creation
+-   [ApplyAI](https://apply-ai.work) - AI-powered resume builder / tailored resumes and cover letters / AI Interviewer tool
+-   [Refit Resume](https://www.refitresume.com) - Free lifetime account for first 10,000 users / AI-Powered Resume Builder / ATS-Optimized Resumes / LaTeX-Quality Design - From $5/month
+-   [ATSResumeGenerator](https://atsresumegenerator.com) - 2 PDF generations per month / ATS-Friendly Resumes / WYSIWYG Editor / Easy Customization - $6.99/month
+-   [Sniff Job](https://sniffjob.com) - Free 1-week trial / AI Job Scam Detector / CV & Cover Letter Creator - From £6.90/month
+-   [UseResume.ai](https://useresume.ai) - Free 1 AI Credit, 5 Branded Document Downloads / AI-powered resume and cover letter builder / ATS-optimized templates / Unlimited edits - From $19/month
+-   [Your NEXT Resume](https://yournextresume.com) - Free / AI Resume Builder / ATS-friendly templates / 10,000+ templates
+-   [AICVPro](https://aicvpro.com) - Free to use / AI-powered CV creation / Customizable templates / ATS Friendly
+-   [Bamble](https://bamble.io) - Free for first 100,000 users / AI-powered CV creation / ATS Filtering optimization / Recruiter-verified CVs - €7.99/fixed price
+-   [Easy2Resume](https://easy2resume.com) - Free optimization advice & 2 free templates / AI-powered analysis / Tailored templates / Real-time feedback
+-   [ResumeFromSpace](https://resumefromspace.com) - Store, style & download for free / AI-powered resume builder / ATS matching score / Resume Scanner - From $4.99/month
+-   [Flavored Resume](https://flavoredresume.com) - 5 Resume Rewrites / AI-powered resume rewriting / Boost ATS Rankings - From $8.99 for 50 Resume Rewrites
+-   [WizApply](https://chromewebstore.google.com/detail/wizapply-your-ai-job-hunt/kjinkfjfhpnkjjgjgcocggdcdgagdllh) - AI-Driven Job Search / Job Matching / CV & Cover Letter Generation
+-   [1Template](https://www.1template.io) - 20 free credits / AI-powered resume builder / ATS-friendly CVs - From $5 / 10 credits
+-   [AyeHigh](https://ayehigh.com) - Free / AI Resume Shortlister / Resume Rewriters / Resume Judge
+-   [ResumeSkool](https://resumeskool.com) - Free AI Resume Builder / Expert Resume Reviews by FAANG Experts / Interview Preparation Guidance - From $4.99 One Time Purchase
+-   [TalentPlace](https://www.talentplace.ai) - 14-day trial / AI powered auto suggestions / ATS friendly resume downloads - From ₹99/year
+-   [Careerflow](https://careerflow.ai) - One FREE Resume / AI Resume Builder / Automated Job Tracking / LinkedIn Profile Optimization - From $14.41/month
+-   [ResumeMatch360](https://www.resumematch360.com) - Free trial / AI Resume Scoring / Skills Gap Analysis / Tailored Recommendations
+-   [Reztune](https://www.reztune.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3237)- Freemium + From $5/month, View Policy / Instantly rewrite and format your resume for any job
+-   [The Tailor](https://tailorresumes.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2643)- Freemium + From $5, No Refunds / Beat ATS systems with AI-tailored resumes.
+
+### AI Title Generator
+
+-   [Pikzels](https://pikzels.com) - 5 free thumbnails / AI-powered viral YouTube thumbnails / AI-generated video titles - From $14/mo
+-   [AI Stock Keywords](https://www.aistockkeywords.com) - 5 credits / AI-generated titles, descriptions, and keywords / Save time and boost visibility on stock platforms - From $1.50 for 100 Credits
+-   [VidIQ](https://vidiq.com) - Free 3 video ideas, 3 thumbnail generation, 3 keyword research / AI-powered topic & keyword research / Personalized video ideas & view prediction - From $19/month
+-   [Topicfinder](https://www.topicfinder.com) - 3,000 credits/month free / Find high-value content topics / AI-generated optimized titles - From $39/month
+-   [AI YouTube Title Generator with Emojis – PackaPop](https://packapop.com/pages/youtube-title-generator) - Free / AI Youtube Title Generator / Boosts Clicks & Views / No Login Required
+-   [Maekersuite](https://maekersuite.com) - Free for 7 Days / Optimized YouTube script generation / Content and niche analysis / AI-powered script editing - From $18/month
+-   [Song Name Generator](https://www.songnamegenerator.org) - Free / AI song name generator / Generate song name from prompt or lyric / 20 results to select
+-   [PicSee](https://picsee.io/en) - 30 AI suggestions/month / AI-powered copywriting / Customizable Link Previews / Register-free - From US$6.5/month
+-   [Pikzels AI](https://pikzels.ai) - 5 thumbnails free / AI-powered YouTube thumbnail generation / AI-generated video titles - From $14/month
+-   [Essay Title Generator](https://essaytitle.com) - AI-Powered Title Generation / Instant Results / No registration required
+-   [Stockfill](https://www.stockfill.io) - Keyword Generator for Stock Images / Create title, description and keywords - $0.99 for 100 upload credits
+-   [PhotoTag.ai](https://keyword.camera) - 10 free upload credits / Automate photo labeling for quick title, description, and keyword generation / Export files with metadata added or integrate with other platforms - From $18 for 2,000 Upload Credits
+-   [SEO Roast](https://seoroast.co/tools/seo-title-generator) - 10 free credits / AI SEO Title Generator / SEO Audit library / AI-powered SEO tools - From $39/month
+-   [BlitzVideo](https://www.blitzvideo.ai) - Generate AI videos with just text / Instantly turn text into publish-worthy videos / Auto-generate thumbnails, titles, and SEO tags
+-   [etsyGenerator](https://etsygenerator.com) - Free 2,500 etsy ai credits monthly / AI-powered Etsy listings / Etsy SEO keyword optimization - From $10/month for 50,000 words
+-   [SEO/GPT](https://chromewebstore.google.com/detail/seogpt/ggnhpodabnfmpnahconknkdamokghmpg) - Automatically generates SEO titles / Automatically generates SEO meta descriptions
+-   [VidChapter](https://vidchapter.com) - 7-day free trial / Generate YouTube Timestamped Chapters / Optimize Tags, Descriptions & Titles / Boost SEO - From $19/mo
+-   [Aithor](https://aithor.com) - AI-Powered Research Assistant / Autocitation in your style / Text personalizer - From $12.99/month
+-   [Snap2List](https://snaptolist.com) - 10 Credits Per Month Free / AI Listing Creator / SEO Title Creator / No Credit Card Required - From $14.99/month
+-   [Listener.fm](https://www.listener.fm) - AI-Generated Titles, Descriptions, and Show Notes / Save Time and Increase Quality - From $19/month / 4 Uploads Per Month
+-   [MetaMonster](https://metamonster.ai) - 7-day free trial / Generate metadata fast / Fix metadata issues - From $50/month for 2,500 pages
+-   [AITDK](https://aitdk.com) - AI SEO Title Generator / AI SEO Description Generator / AI SEO Keywords Generator
+-   [AsoLift](https://asolift.com) - 5-day free trial / Keyword Research / App Listing Optimization / Track App Rankings - From $15/month
+-   [Make Headline](https://makeheadline.com) - AI-powered headline generation / Capture visitor's attention
+-   [Taja AI](https://taja.ai) - Free 7 Day Trial / Turn one video into 27 social posts automatically / AI-Powered YouTube SEO expert / Content Idea Generation - From $17.50/month
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [AI YouTube Title & Description Generator](https://chromewebstore.google.com/detail/toobsquid-ai-youtube-titl/gmaafomgeemhdedjkfbcjdgfeedffemi) - Free / Automatically generates YouTube titles / Automatically generates YouTube descriptions
+-   [AllegroGPT](https://chromewebstore.google.com/detail/allegrogptchatgpt-for-all/coljimimahbepcbljijpimokkldfinho) - Free / Optimize Allegro listing titles / Optimize Allegro listing descriptions / Find and suggest keywords
+-   [Dadan AI Assist](https://www.dadan.io/features/ai-assist) - Free: 25 videos & 5 mins each / AI-generated transcriptions / Auto-generated video metadata - From $8/month
+-   [Notix](https://chromewebstore.google.com/detail/notix-notion-web-clipper/fmnbhafoldgblmdmhflflnjlfjcgpnog) - Free / Templates for Efficiency / Screenshots Made Simple / AI-Powered Prefill
+-   [SEO Roast YouTube Title Maker](https://seoroast.co/tools/youtube-title-generator) - 10 free credits / Generate eye-catching clickbait titles / AI-powered title generation / No Sign-Up
+-   [Darbee](https://www.darbee.io) - AI-powered Etsy listing generation / Product photo background removal / SEO optimization for Etsy visibility
+-   [TubeAide](https://chromewebstore.google.com/detail/free-ai-youtube-video-tit/holfnplikookkjkmdjodchnobhknkhmj) - Free / AI-Driven Content Generation / Multilingual Support / SEO-Enhanced
+-   [sleepseo](https://sleepseo.com) - 5 free articles / Automate Content Creation / Generate Blog Titles & SEO Articles - From US$9/month
+
+### AI Newsletter Generator
+
+-   [MailerLite](https://www.mailerlite.com) - Free for up to 1,000 subscribers / Email marketing / Automations / Websites - From $9/month for up to 500 subscribers
+-   [Auto Mailer](https://automailer.ai) - Automated Newsletter Creation / AI-powered Content Generation / No-code Drag-and-Drop Interface
+-   [Letterpal](https://letterpal.io) - 7-day free trial, 2 newsletter generation credits / Find Relevant Topics / Auto-Generate Newsletters - From $39/month
+-   [TubeOnAI](https://www.tubeonai.com) - Free 3 Channel subscriptions, 60 Minutes per month / AI-driven summaries / Content Repurposing / Chat with content - From $9/month
+-   [Podcast 2 Newsletter](https://www.podcast2newsletter.com) - 3 newsletters per month / Convert podcast episodes to engaging newsletters / AI podcast newsletter tool - From $19/month
+-   [Content Squared](https://www.contentsquared.ai) - Unlimited Subscribers, Unlimited Test Emails / Automated Email Newsletters for YouTube Creators / AI-powered video to newsletter conversion / Audience Ownership & Monetization - From $5/month
+-   [Copylime](https://copylime.com) - 2,000 Words free / Write 1000+ word articles in seconds / 30+ copywriting tools - From $29/month
+-   [Podsqueeze](https://podsqueeze.com) - 30 mins of podcast time per month free / AI-powered content generation / Transcripts, Show Notes, Timestamps - From $5.99/month
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Campaigny](https://campaigny.net) - Trial plan (4 campaigns, 2000 contacts) / AI powered text & image creation / Easy to Use / Excellent Customer Service - From $3/month
+-   [Hoppy Copy](https://www.hoppycopy.co) - 7-Day Free Trial / AI Email Writing / Email Marketing & Automation / No CC required - From $23/mo
+-   [TailoredPod](https://tailoredpod.ai) - Free Newsletter / Personalized News Podcast & Newsletter / Neutral News Summaries - From $7.99/month
+-   [YT Copycat](https://ytcopycat.com) - 7-days free trial / Convert YouTube videos to text / Generate multiple content formats (blogs, tweets, summaries) - From $11/month
+-   [Contrast](https://getcontrast.io) - Up to 30 registrants per month / Engaging webinars / AI content repurposing / No credit card - From €60/month
+-   [Podnotes](https://www.podnotes.app) - Free 350 mins of transcription / Transcribe, Summarize and Repurpose Podcasts & Videos / Generate social media content, blogs, newsletters & audiograms - From $29/month
+-   [Podify](https://podify.io) - Create viral LinkedIn posts / Turn videos, PDFs, and questions into content / Distribute content to audience's inbox
+-   [Postion](https://postion.app) - Free Social Workflow(10 times) / AI-Powered Creation / Automatic SEO/SMO - From $9.9/month
+-   [Ecomail](https://ecomail.app) - 14-day trial for up to 40,000 contacts, unlimited emails / AI-powered copy / Advanced automation / Omni-channel marketing - Free for up to 200 contacts, 200 emails/month
+-   [Tugan.ai](https://www.tugan.ai) - 7-Day Free Trial / Turn Any Content Into New, Original Content Using AI / Generate Emails, Newsletters, Threads, Tweets, and Linkedin Posts - From $29/month
+-   [OranScribe](https://scribe.oranai.com) - AI Writing Flow library / Streamline content creation / high-performance social media posts, newsletters, and blogs
+-   [GrackerAI](https://gracker.ai) - Free trial / Real-time news monitoring / AI-assisted content creation / SEO-optimized blogs - From $4k/month
+-   [Podcast Show Notes Generator](https://www.shownotesgenerator.com) - 1 hour of audio / month free trial / Podcast Show Notes Generation / Social Media Content - From $9/month
+-   [PenPilot AI](https://www.penpilot.ai) - Daily free AI content, 200 words, 1 image / AI that writes like you / Plagiarism checker / Fine-tune AI on your data - From $9.99/month
+-   [Addlly AI](https://addlly.ai) - Free trial / Custom AI Agents / Effortless Content Automation
+-   [FLUXY AI](https://www.fluxyai.com) - FREE 100,001 Tokens / AI Daily Journal / Screen Recorder / Content Creation
+-   [New Copy](https://newcopy.ai) - 1 project free / Write better copy / Create on-brand content - From $39/month
+-   [Tubeletter](https://tubeletter.ai) - Free up to 100 subscribers / AI-Written Newsletters / Audience Management - From $14.99/mo
+-   [Typeblock](https://www.typeblock.co) - 1 Application, 50 submissions / month free / Build and share AI apps with no-code / Canva-like editor / Monetize AI apps - From $20/month
+-   [Disperto](https://disperto.com) - AI Writer / AI Image Generator / Ai Chat - From $3.00/month
+-   [Logiclister AI](https://logiclister.com) - 2,000 Words / Month free / Generate Products Titles, Descriptions, Blogs / More than 50 AI tools - From $9/month
+-   [ArXiv Pulse](https://www.arxivpulse.com) - 7-day trial for $1 / AI-generated summaries of arXiv preprints / Tailored research interests / Consistent inbox delivery - From $15/month
+-   [AiKeeda](https://www.aikeeda.com) - 7 Days of free trial / AI Text Generator / AI Image Generator / AI Chat Bot - From $9.99/month
+-   [Platen.ai](https://platen.ai) - AI writer built for SEO / Content enhanced with real-time search-engine sourcing - From $49/month (5 AI-generated articles)
+-   [RankWizard](https://rankwizardai.com) - 2 articles for free / High-quality SEO-optimized content / Automated image generation - From $49/month
+-   [GoVoice](https://govoice.app) - 6 creations & 6 recordings free / AI-powered text generation from voice / Multi-format content creation - From $39.20/month
+-   [NoFOMO.AI](https://nofomo.ai) - Daily digest of upto 5 videos/podcasts free / Summarize YouTube videos and podcasts / Concise updates and transcripts delivered to inbox - Free
+
+### AI Text Message Generator
+
+-   [Mtalkz](https://mtalkz.com) - Up to 50,000 Free SMS, 5,000 WhatsApp & 5,000 RCS credits / Bulk SMS / WhatsApp API / RCS Messaging - From ₹ 0.115/sms for 50,000 SMS
+-   [HowToReplyTo](https://howtoreplyto.com) - Free / Creative AI replies / Context-specific replies / Advanced filtering - From $1.99/mo
+-   [Winggg](https://winggg.com) - 5 Uses Free / Personalized Conversation Starters / Message Replies / IRL Dating Assistance - From $2.99/week
+-   [Aardvark](https://vark.io) - 14-day unlimited free trial, first 175 SMS messages free / Automatic text reminders to reduce no-shows / Calendar & CRM Integration / No Credit Card Required - From $10/month per user
+-   [AI Chat](https://www.aichatsms.com) - 10 free messages / AI in your text messages / No apps, passwords, or API tokens / No login required - From $10 for 200 messages
+-   [Flowsell.ai](https://flowsell.ai) - 7-day free trial / Re-engage lost clients / Boost reviews
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [The SMS City](https://thesmscity.com) - Free Trial / Automate WhatsApp & SMS / E-Commerce & CRM Integrations -
+-   [Phishr](https://www.phishr.com) - Unlimited Phishing Simulations & Security Awareness Training for Unlimited Users, 100% Free / Automatic phishing simulations / Tailored cybersecurity education - From $200/month
+-   [ai2006](https://ai2006.io) - Free for 60 msgs per month / ChatGPT powered pocket companion / Personalized help and entertainment via SMS / No internet? No problem! - From $4.99 for 2000 msgs per month
+-   [SMMAI: AI Banner Maker](https://home.smmai.app) - AI-powered banner design / Thousands of ready-made layouts / No Sign-Up needed
+-   [Conju](https://conju.ai) - Automated missed call follow-up / Lead qualification & job estimation / CRM integration for new leads
+-   [Netcapz](https://netcapz.cloud) - Free / AI-driven SMS & WhatsApp marketing / Global Reach - From $42/month
+-   [Ayudis.ai](https://ayudis.ai) - AI via SMS & WhatsApp / Customizable AI agent / Diverse AI tasks
+-   [RealAssist AI](https://realassist.ai) - 14-day free trial / AI-powered text messages / Automated voice agent / One-click contract sender - From $49/month
+-   [RizzText](https://rizztext.com) - 2 credits / Smart Reply / Emotion Analysis
+-   [Productly](https://productly.app) - 3-day free trial / Product Description / Email Marketing - From $21.99/month
+-   [WhatsApp Message Enhancer](https://chromewebstore.google.com/detail/waiter-whatsapp-ai-reiter/mjclibacijmklaimcfenahjhanhelfkk) - 100 requests per day / AI-powered tone variations / Multiple message styles / No account required
+-   [Crayo AI Video Clips Generator](https://crayoclips.com) - / AI Viral Video Clips / Video Downloader / AI Video Translation & Dubbing - From $19.99/month
+
+### AI Text Classifier
+
+-   [The HS Code](https://www.thehscode.com) - 50 Free Queries / AI-powered HS classification / Accurate HS codes - From $15/month
+-   [categorAIze.io](https://categoraize.io) - Up to 24-hour storage / Automate hierarchical data categorization / Categorize texts, URLs, images, and documents - From $9.95/mo for 750 items
+-   [LISUTO株式会社](https://lisuto.co.jp) - / Smart Data Structuring from Text / Smart Data Structuring from Images / -
+-   [Post to Notion](https://www.posttonotion.com) - 100 posts per day free / Save your favorite Tweets and Threads to your Notion Workspace! / Manage them in Notion with our Bookmark template / Just in One Click! - From $4.9/month
+-   [CrowdPrisma](https://crowdprisma.com) - 100 pages free / AI TextEngine / Prisma Dashboard - From $499/month
+-   [FileZen (FileNeatAI)](https://filezen.top) - 15 files free / AI-powered content-based file categorization / Organize text files and desktop shortcuts
+-   [Snoooz AI](https://snoooz.ai) - 14-day free trial / Personalized email auto-replies / Automated email routing and categorization - From $9/month
+-   [Yay! Forms](https://yayforms.com) - 7 days free trial / AI-powered insights / Create high-converting forms - From $9/month billed yearly for 200 responses
+-   [MealByMeal](https://www.mealbymeal.com) - One week free trial / Calorie tracking over text messages / Automatic macro tracking - From $7/month
+-   [Groupt](https://www.groupt.ai) - 100 row CSV Limit / Data Categorization / AI Categorization - From $18.99/month
+-   [CommentMod](https://commentmod.com) - 2 starting credits / Transform comments into actionable insights / Deep Sentiment Analysis - From $10 for 10 credits
+-   [Fake News Detection Chrome Extension](https://chromewebstore.google.com/detail/fake-news-detector/ljikbdglbdcmeamlidfjgfjifoclgedc) - Free / Neural Network Fake News Detection / In-browser Privacy Analysis / No Login or Sign Up required
+-   [Comment Explorer](https://www.commentexplorer.com) - Analyze Youtube Comments / AI-powered insights / ChatGPT integration
+-   [Owly - SMS Spam Blocker](https://apps.apple.com/app/id6446944861) - Free plan / Advanced Spam Blocking / AI-Powered SMS Organizer / Automatic Message Categorization - From $0.99
+-   [Dovetail](https://dovetail.com) - 1 project free / Automatic summarization / Highlights key moments / Auto tags highlights - From $29/month
+-   [Skwad](https://skwad.app) - Free for 15 days / Budget without linking bank account / Automatic transaction categorization - From $22/year
+-   [Comments Analytics](https://commentsanalytics.com) - 50 Queries free / Sentiment Analysis / Keyword Extraction / Named-Entity Recognition - From $39.0 for 1,000 Queries
+-   [Brandwise](https://brandwise.ai) - Up to 100 comments processed monthly / AI Comment Moderation / AI Replies - From $49/month
+-   [Review Insights Pro](https://reviewinsights.pro) - 1 Week Unlimited use free / AI-powered insights / Professional response templates - From $17.00/month
+-   [Tinq.ai](https://tinq.ai) - 50 credits free / Text Generation / Rewriter/Paraphraser / Summarizer - From $9 USD/month
+-   [Checkstep](https://checkstep.com) - Free trial on your dataset / Instantly remove harmful content / Reduce moderation costs by up to 90%
+-   [Jina AI](https://jina.ai) - 10 Million tokens free / Embeddings / Rerankers / Deep Search / No credit card or registration required - From $50 for 1 Billion tokens
+-   [IamIP](https://iamip.com) - Patent search / Patent monitoring / Collaborative platforms
+-   [Canny](https://canny.io) - 25 tracked users free / Collect & Organize Feedback / AI Feedback Management - From $19/month
+-   [Clean Inbox for Gmail™](https://cleaninboxforgmail.com) - Free 5 categories / GPT powered filters to avoid unwanted email, spam and marketing email / Create custom filter categories, powered by chatGPT - From SGD 4.08/month
+-   [Alphamoon](https://alphamoon.ai) - AI-based Intelligent Document Automation / Automated document reading and classification / Data extraction
+-   [Lasso Moderation](https://www.lassomoderation.com) - AI-powered Content Moderation / Moderation Dashboard - From $99/month for up to 10K items
+-   [Graffer](https://chromewebstore.google.com/detail/comments-analyzer-for-you/jcpckoiiaefokklfkbiajgeiigpncnoa) - Analyzes video comments by sentiment / Produces readable sentiment reports / No Login or Sign Up required
+-   [Pangeanic](https://pangeanic.com) - AI Translation for Multilingual Content Delivery / AI Virtual Assistants
+-   [Neuwo](https://neuwo.ai) - AI-powered contextual understanding / Optimized ad targeting / 10,000+ semantic categories
+-   [Mujo AI](https://mujoai.com) - 1 AI project, 100 credits free / Generate Product Images & Copy / E-commerce Listing Content Automation - From $32.50/month
+-   [SpendSights](https://spendsights.in) - 2 bank accounts free / Automatic Categorization / Financial Insights - From ₹499/year
+-   [talksprout](https://www.talksprout.com) - AI-powered feedback collection / Automated feedback analysis / GPT-powered chat functionality - From $7/month
+-   [Kensho](https://services.kensho.com) - 150 Minutes of Free Transcripts / Speech-to-Text Transcription / Identify Entities in Text / Extract Data from PDF Documents
+-   [RideReply](https://ridereply.com) - Secure & Private Communication / AI-Moderated Messaging
+-   [Bot Butcher](https://botbutcher.com) - Up to 10 requests free per month / AI-powered spam classification / Stop contact form spam - From $1.99/month
+-   [Formula Bot](https://formulabot.com) - 10 chat messages / month, 15 enrichments / month / AI Excel formula generation / AI data analysis / SQL query generation - From $15/month
+
+### AI Review Generator
+
+-   [ClevopyAI](https://clevopy.ai) - 20 AI Tools Free / Write 10X Faster / Captivate Audience - From $21.6/month
+-   [MARA AI](https://www.mara-solutions.com) - / AI Review Reply Generator / AI Powered Reputation Management - From 60€/month
+-   [Spokk](https://www.spokk.io) - 30 responses for free / Convert customer feedback into 5-star reviews / AI generated review draft - From $29/month
+-   [Checkmyidea-IA](https://www.checkmyidea-ia.com) - 1 free evaluation / AI-powered idea evaluation / Risk reduction / Valuable feedback - From $4.99 for 1 idea
+-   [EvalPro AI](https://evalpro.ai) - 2-months free trial / Lightning-Fast Feedback / Automated KPIs / Automated monthly summaries
+-   [MockUsers](https://mockusers.xyz) - 1 free simulation per URL / AI Landing Page Evaluator / Optimized Copy Rewrites / No Sign-Up - From $12/mo
+-   [Flowsell.ai](https://flowsell.ai) - 7-day free trial / Re-engage lost clients / Boost reviews
+-   [Pitch Roasters](https://pitchroasters.com) - Free Roast / Brutally honest pitch deck feedback / AI-powered analysis / Actionable improvements
+-   [Autoreviews AI](https://www.autoreviews.ai) - Automated customer review responses / Brand voice and values alignment
+-   [Opre](https://www.teaming.com) - 14-day free trial / AI-generated performance reviews / Personalized leadership insights / Real-time recommendations - From $100/month
+-   [GeniusReview](https://geniusreview.xyz) - Free trial / 360° AI Performance Reviews / Tailored answers to performance review questions / No Sign-Up
+-   [Leapsome](https://www.leapsome.com) - 14-day free trial / AI-powered HR software / unified HR processes / performance & engagement - From $199/month
+-   [AI Suggests](https://ai-suggests.com) - Generate unlimited content / Social media content / SEO-friendly content
+-   [SoLike](https://chromewebstore.google.com/detail/review-response-reply-gen/idmbheepbkdljeocinjlenpfmnpalfcb) - Test for FREE / Human-Like AI Responses / Enhance Engagement Across Platforms
+-   [Landing.report](https://landing.report) - 5 Credits Free / AI Landing Page Review / Chat with your landing page - From $9/mo
+-   [Macbeth AI](https://macbeth.ai) - Free 500 AI words/month / AI content generation / AI chat assistant - From $19.99/month
+-   [AI Buster](https://aibuster.com) - 50K Free Words / Generate 1000 SEO-optimized articles / WordPress AI auto-blogging - From $39/month
+-   [ProhostAI](https://www.prohost.ai) - 14 days FREE / All-in-One AI assistant / Automated Guest Messaging - From $30/month
+-   [Reviewly](https://reviewly.ai) - 14 Day Free Trial / AI-Powered Google Review Management / Automated SMS Review Collection / AI-Assisted Review Responses - From $99/month
+-   [WordRocket](https://wordrocket.ai) - Free during beta / SEO-optimized content / Access to top AI models / Variety of content templates
+-   [Effy AI](https://www.effy.ai) - 5 persons free / AI-powered performance reviews / AI summarizing results - From $2.50/person/month
+-   [Peoplelogic](https://plai.team) - 14-day free trial / AI-enabled Performance / OKRs / Performance Reviews - From $3,588/year
+-   [Atomic Inputs](https://atomicinputs.com) - 500 monthly responses free / Social media-integrated feedback / AI-powered insights - From $15.99/month
+-   [seo.ing](https://www.seo.ing) - 2 articles/month free / AI SEO Content Generation / High-ranking articles in two clicks / Multilingual content generation - From $15/month for 10 articles
+-   [AiKeeda](https://www.aikeeda.com) - 7 Days of free trial / AI Text Generator / AI Image Generator / AI Chat Bot - From $9.99/month
+-   [Ai Scribe Pro](https://aiscribepro.com) - 10000 Word Token and 5 Image Token Free / AI Content Generation / AI Code Generation - From $9/month
+
+### AI Letter Writer
+
+-   [Kickresume](https://www.kickresume.com) - Unlimited downloads / AI Resume Builder / AI Cover Letter Writer - From $7/month
+-   [NorthPole.Direct](https://northpole.direct) - Free / Personalized letters from Santa / Printable at home / No logins
+-   [Typli.ai](https://typli.ai) - AI Writing / SEO Assistant / AI Image Generation - From $7.99/month
+-   [AI Credit Repair](https://aicreditrepair.io) - AI-powered negative item removal / Credit score simulation
+-   [Dear Ai](https://dearai.xyz) - 5 Credits Daily / Bespoke Letter Generation / Full Tone Control - From €20/mon
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Zap - Cover Letters](https://www.getzap.org) - 10 free credits monthly / GPT4-powered cover letters / Customized and successful - From $4.99/month
+-   [Tavrn](https://tavrn.art) - AI-powered demand letters / AI-powered medical chronologies
+-   [GenZWrite](https://genzwrite.com) - Free 200 words / Humanize AI text / Bypass AI detection -
+-   [ResumeGlow](https://resumeglow.com) - Free resume creation / AI Powered Resume Builder / Unlimited AI Writer Credits / Multiple Formats (MS Word & PDF) - From $19.95/month
+-   [eAdvocate4You](https://eadvocate4you.com) - Free / Personalized Legal Document Creation / AI-driven Legal Research
+-   [Hatch Canvas](https://hatchcanvas.com) - Start for Free / AI-powered collaborative canvas / Infinite canvas for visual organization / Create interactive tools, apps & websites
+-   [Dispute Panda](https://disputepanda.com) - 14-day trial for $1 / AI-Powered Credit Repair / Process clients up to 70% faster - From $197/month
+-   [Tootler.ai](https://tootler.ai) - AI-driven SOPs & LORs / Plagiarism Checker / In-built Editor - From $14.99/Month (Upto 3 SOPs)
+-   [Clarice.ai](https://clarice.ai) - Write Clear, Strong, Original, and Error-Free Texts / 50+ templates - From R$ 22.45/month (100k words)
+-   [Cover Letter AI](https://coverletter-ai.com) - 1 Cover Letter (1 Generation Credit) / Craft professional and personalized cover letters / Iterate different writing styles / Data stays private - From €5 / 25 Cover Letters
+-   [Wonderful Valemtimes](https://valemtimes.com) - Free / AI-powered Valentine's Day message generator / Generates love letters for the romantically challenged
+-   [Writify AI](https://writifyai.com) - 3 Free Articles / Factually Accurate Articles / Real-time external linking
+-   [Sniff Job](https://sniffjob.com) - Free 1-week trial / AI Job Scam Detector / CV & Cover Letter Creator - From £6.90/month
+-   [Dyspute.ai](https://dyspute.ai) - Free to try AI Mediation / AI-powered Demand Letters / AI-led Virtual Mediation - From $25
+-   [CoverPro AI](https://chrome.google.com/webstore/detail/coverpro-ai-one-click-cov/jmllmonbeeofmfcccjdoadkjkhgikfdm) - One-click tailored cover letters / Generate cover letters in seconds
+-   [HelpMeTeach](https://helpmeteach.ai) - Free 5 generations / Lesson Plans / Assessments / Reports - From $11.95/month
+-   [Your NEXT Resume](https://yournextresume.com) - Free / AI Resume Builder / ATS-friendly templates / 10,000+ templates
+-   [BewerbungsschreibenAI](https://www.bewerbungsschreibenai.de) - Free templates / AI-powered cover letter generation / Multilingual support (German & English) - From €9.99 for 1 AI-generated cover letter
+-   [Yanna AI](https://www.yanna.pro) - Over 10,000 Free Legal Templates / AI-native document drafting / Professional AI Legal Assistant - From less than $0.50 per document
+-   [Hello Hiring Manager](https://www.hellohiringmanager.com) - 20 free generations / AI-generated cover letters / Personalized cover letters from job description and CV
+-   [Politemail Pro](https://www.pmailpro.com) - Language Polishing / Professional Courtesy / AI Email Generation
+-   [Wazgar](https://wazgar.com) - 7-day free trial with unlimited messages / AI assistant inside Whatsapp / Empower Your Learning / Spark Your Writing Imagination
+-   [CoWriter AI](https://cowriter.ai) - 20 Completion Suggestions per Day / Smart Autocompletion / Versatile Citation Support / AI Detection Proof - From $11.99/month
+-   [Careerflow](https://careerflow.ai) - One FREE Resume / AI Resume Builder / Automated Job Tracking / LinkedIn Profile Optimization - From $14.41/month
+-   [Heartstring AI](https://heartstring.ai) - Free / Write wedding vows, speeches, eulogies / / -
+-   [letterfy.co](https://letterfy.co) - / Generate High Quality AI Cover Letters / in PDF format, Fast. - $4.95 for 5 credits
+
+### AI Poem Generator
+
+-   [PoemGenerator.io](https://poemgenerator.io) - Generate unique poems with AI / Multiple poem styles
+-   [ClevopyAI](https://clevopy.ai) - 20 AI Tools Free / Write 10X Faster / Captivate Audience - From $21.6/month
+-   [Poemfolio](https://poemfolio.com) - Free poem generator / AI-powered tools / Community feedback / Poetry management -
+-   [AI Poem Generator](https://www.ai-poem-generator.com) - AI Poem Generator / Tailored Poems / Customizable Styles
+-   [Free AI Poem Generator](https://chromewebstore.google.com/detail/free-ai-poem-generator-wr/ncdgclbdikidmijboiejmpophemnfnbf) - AI-powered poem maker / crafting poetry instantly
+-   [PoemGenerator.com](https://poetry.tips) - 10 credits in first month / AI Poem Generator / Rhyming dictionary - From $4/month
+-   [AIEpics](https://aiepics.com) - Easy-to-use AI Poem Generator / Generate Personalized & Unique Poems / Copyright & Plagiarism Free / No Login required
+-   [AllWriting](https://tools.allwriting.net) - Free online tools / fast editing / idea generation / essay checking - From $12.05/page
+-   [Lyrist](https://lyrist.app) - 7 days free trial / write songs / make poetry / take notes - From $9.99/month
+-   [Fast Rhymes](https://fastrhymes.com) - Find rhymes, synonyms, and word associations in multiple languages / Write lyrics with AI Ghostwriter / Count syllables, record ideas, and loop beats
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [AI Diary](https://aidiary.io) - 5 messages in a day / Boost writing and mood / AI-powered daily journaling
+-   [BookScribi](https://bookscribi.com) - 1 book free / AI Book Writer / No writing required - From $14.50/month
+-   [AgapeVerse](https://agapeverse.app) - Free Account / Generate affectionate poems with AI / Create unique custom gifts
+-   [Seapik](https://seapik.com) - 2000 free words / AI writer / AI text generator - From $4.9/Month
+-   [PowerBrain AI Chat](https://powerbrainai.com) - AI Chatbot Assistant / Content Generation / Image Creation
+-   [Aethera AI](https://aethera.ai) - Free 125 Questions / month / Analyze, create, organize documents / Smart Summaries - From $12.5/month
+-   [Klyra AI](https://klyra.ai) - 1,000 words, 10 media credits, 10 minutes free / AI Content Creation / AI Video Generator / AI Voice Cloning - From $10/month
+-   [Meet Millie](https://www.meetmillie.app) - 14-day free trial / AI dating & relationship coach / personalized pickup lines / creative date ideas - From $8.99/month
+-   [Prepostseo](https://www.prepostseo.com) - Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants - From $7/month
+-   [Parafrasear Textos](https://www.parafraseartextos.net) - Free 1000 words / Online Paraphrasing / Text Humanization / No Registration Required - From €3/weekly
+-   [StoriesForKids.ai](https://www.storiesforkids.ai) - Personalized stories & illustrations / AI-powered creation - From $9 for 10 stories
+
+### AI Outline Generator
+
+-   [Effie](https://www.effie.co) - Free trial / Writing / Mind Mapping & Outlining / AI Assistant
+-   [SciPub+](https://scipubplus.com) - 100 monthly credits / AI-powered academic writing assistants / Streamline research papers & theses - From $2.49/month
+-   [Outline Image](https://outlineimage.org) - Free / Automatic Background Removal / Easily Add Striking Outlines / No signup required
+-   [Perfectessaywriter.ai](https://www.perfectessaywriter.ai) - Try For Free / Generates essays, outlines, and research papers / Unique and plagiarism-free essays
+-   [RightBlogger](https://rightblogger.com) - 1,000 Words Monthly / AI-powered content creation / Keyword Research - From $24.99/month
+-   [Sudowrite](https://www.sudowrite.com) - Bust writer's block / Write novels & screenplays faster / AI feedback - From $10/month (225,000 credits)
+-   [Trendin](https://www.trendin.so) - 7-day free trial / Analyze trends / Create outlines - From $29/month
+-   [Copylime](https://copylime.com) - 2,000 Words free / Write 1000+ word articles in seconds / 30+ copywriting tools - From $29/month
+-   [Maekersuite](https://maekersuite.com) - Free for 7 Days / Optimized YouTube script generation / Content and niche analysis / AI-powered script editing - From $18/month
+-   [Moonbeam](https://gomoonbeam.com) - Long-form content writing / Smart Chat for editing / Content Cluster generation - From $49/month
+-   [Podwise](https://podwise.ai) - Free 4 AI-enhanced episodes / 3 AI queries per day / Transcribes, extracts insights & summarizes dense episodes / Integrates with Notion, Readwise & more / No credit card required - From $5.90/month
+-   [Surfer](https://surferseo.com) - SEO Content Optimization / AI-powered article generation / Content Strategy & Research - From $99/month
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Swiftbrief](https://www.swiftbrief.com) - Free 7-day trial / AI-generated content briefs / Keyword Clustering - From $12/mo
+-   [First Book ai](https://firstbook.ai) - Unlimited free outlines / Turn ideas into finished books in hours / AI-powered book writing from outline to full manuscript - From $249 for 1x Full Book
+-   [Aithor](https://aithor.com) - AI-Powered Research Assistant / Autocitation in your style / Text personalizer - From $12.99/month
+-   [Rankability](https://www.rankability.com) - / Content Optimizers / AI Briefs and Outlines / Keyword Research - From $149/month
+-   [Contenov](https://www.contenov.com) - 3-day free trial / AI-powered analysis / Comprehensive SEO blog briefs - From $97/month
+-   [Wellows](https://wellows.com/kiva) - 7-day Free Trial / Original content for AI & traditional search engines / GSC data & LLM queries - From $39.99/month
+-   [AIScreenwriter](https://aiscreenwriter.com) - 10,000 tokens free / Supercharge your Creativity / Edit and Refine your work - From $10/Month
+-   [EasyNoteAI](https://easynoteai.com) - Free 3 PDF Upload Per Month / Generate notes from audio, online videos, and PDFs / Automatically create AI note outlines, summaries, and Q&A - From $8.39/month
+-   [Outranking](https://www.outranking.io) - AI-powered SEO content strategy / AI-written content generation / Automatic content optimization - From $19/month for 4 SEO Documents
+-   [Brainstory](https://www.brainstory.ai) - 10 brainstorm sessions free / Talk through ideas / Get feedback from others - $8/month
+-   [Jenni AI](https://jenni.ai) - 200 AI autocompletes day / AI Autocomplete / Chat to Your Research - From $12/month
+-   [Superblog](https://superblog.ai) - Free for 7 days / Auto-optimized for SEO and speed / Zero setup and maintenance - From $29/month
+-   [SurgeGraph](https://surgegraph.io) - 30 free AI writing credits / Humanlike content that ranks high and drives traffic / Automated content generation - From $19.42/month
+-   [Reflect Notes](https://reflect.app) - 14-day trial / Networked notes with backlinks / AI integration for note-taking and writing - From $10/month
+-   [Textero.ai](https://www.textero.ai) - 550 AI words / day / AI Essay Writer / AI Research Assistant / Plagiarism-free content - From $8.33/month
+-   [MyEssayWriter.ai](https://www.myessaywriter.ai) - 1500 words free / High-Quality, Plagiarism-Free Essays / Time-Saving Essay Generation / No Sign-Up Required - From $9.99/month
+-   [AI Suggests](https://ai-suggests.com) - Generate unlimited content / Social media content / SEO-friendly content
+-   [ClassroomIO](https://classroomio.com) - Generous free plan / Open Source LMS / Simplified Course Management / AI Support
+-   [Flot.ai](https://flot.ai) - Free 3 credits per day / AI Copilot for All Apps and Websites / Write, Read, Memorize with AI - From $15/month
+-   [Positional](https://www.positional.com) - Free 5 Optimize reports per month / Content Optimization / SEO Strategy / Content Analytics - From $49/month
+-   [Eurekaa](https://eurekaa.io) - Validate and create online courses / AI-powered content creation / Market research and idea validation - From $7.99/month
+-   [Yahini](https://yahini.io) - 5 briefs free / funnel-mapped keywords / detailed content briefs - From $50/month
+-   [Koke AI](https://www.koke.ai) - Free 10 papers export (partial) & 1000 AI words/day / AI Citation Generator / AI Outline Generator - From $28.00/month
+-   [Draft.co](https://draft.co) - Money-back guarantee for first 4,000 words / Vetted writers / AI-powered workflows / Unlimited revisions - From $0.10/word
+-   [Prepostseo](https://www.prepostseo.com) - Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants - From $7/month
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [The Good AI](https://www.the-good-ai.com) - Up to 250 word essays free / Writes high-quality essays with references / Includes AI editing tools / No Sign Up required - From $5/month
+-   [Transcriptly](https://transcriptly.org) - 10 YouTube videos or 100 minutes of local files per month / Audio and Video to Text Converter / 98+ languages / High accuracy - From $5/month
+-   [Keyword Insights](https://www.keywordinsights.ai) - 600 One time credits / Keyword Clustering / Search Intent / AI Writing Assistant - From $46/month (120,000 Credits)
+-   [Keywrds.ai](https://keywrds.ai) - 1500 credits free / AI-powered keyword research / Content ideation / PAA answer generation - From $19/month
+-   [笔格AIPPT](https://bigesj.com/ai-ppt/?hmmd=toolify) - AI one-click PPT generation / AI one-click smart layout / Documents instantly turn into PPT
+-   [moyuNote](https://chromewebstore.google.com/detail/moyunote/acfidkacggnmllofnihochlldpkiejmd) - Generate outline notes & mind maps / AI assistant for writing, coding & Q&A
+-   [JotBot AI](https://myjotbot.com) - 10 daily credits / Generate drafts in your voice / Find and cite sources / Edit documents with AI
+-   [NEURONwriter](https://www.neuronwriter.com) - 7-day free trial / Content optimization for Google / Advanced content editor with NLP & SERP analysis / Generative AI - From $23/month
+-   [KWHero](https://kwhero.com) - 1 Content Analysis /month / Perfectly Optimized SEO Content / AI Content Creation - From $59/month
+
+### AI Movie Script Generator
+
+-   [Everyday AI Tools](https://everydayaitools.com) - Free 3-day trial / Generate high-quality content / Save time & efforts - From $14.99/250 responses
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Fenixs](https://fenixs.ai/en) - AI-Powered Storyboarding / AI-Powered Screenwriting / Auto-generate production-ready visuals - From $15.99/Month
+-   [AIScreenwriter](https://aiscreenwriter.com) - 10,000 tokens free / Supercharge your Creativity / Edit and Refine your work - From $10/Month
+-   [NolanAI](https://www.nolanai.app) - 100 one time AI requests / AI-driven script writing / AI Budgeting - From $40/month
+-   [Screenwriting.AI](https://screenwriting.ai) - 7-Day FREE Trial / Suggest plot ideas, develop characters, and improve dialogue / Craft captivating stories and resonant dialogue - From $28/Month
+-   [MediaPET](https://mediapet.ai) - 7-day free trial / AI Video Generation / Auto Scripting - From $24.99/month
+-   [FilmFlow](https://filmflow.ai) - 7-day free trial / AI-Powered Video Ideas / Smart Script Generation - From $29/month
+
+### AI Creative Writing
+
+-   [CelebrateAlly](https://www.celebrateally.com) - 10 free credits / Craft heartfelt speeches / Discover thoughtful gifts / Plan the perfect party / No Sign-Up - From $5 for 100 credits
+-   [Pi（Presentation Intelligence）](https://www.pi.inc) - AI presentation generator / Intelligent generation and design from content to layout / Integrate notes, PDFs, websites, images, videos, and data
+-   [Toolsaday](https://toolsaday.com) - AI-powered content creation / Paraphrasing Tool / 40+ AI tools - From $7.99/month
+-   [Notebook.ai](https://www.notebook.ai) - Plan up to 5 universes free / Worldbuilding tools / Integrated novel-writing software - From $9/month
+-   [Poemfolio](https://poemfolio.com) - Free poem generator / AI-powered tools / Community feedback / Poetry management -
+-   [Surf](https://asksurf.ai) - Limited to 1 research per day, up to 2 per week / Crypto's Ultimate AI / Smarter crypto insights - From $19/month (billed annually)
+-   [ProWritingAid](https://prowritingaid.com) - Free 500 word limit / Grammar Checker & Style Editor / Virtual Beta Reader - From $10/month
+-   [AI Poem Generator](https://www.ai-poem-generator.com) - AI Poem Generator / Tailored Poems / Customizable Styles
+-   [AI Dungeon](https://aidungeon.io) - Free to play / AI-generated adventures with infinite possibilities / Text-based adventure-story game you direct
+-   [Free AI Poem Generator](https://chromewebstore.google.com/detail/free-ai-poem-generator-wr/ncdgclbdikidmijboiejmpophemnfnbf) - AI-powered poem maker / crafting poetry instantly
+-   [Seenapse](https://seenapse.ai) - Generate hundreds of ideas in minutes / Unique combination of human lateral thinking and AI - From $24.99/month
+-   [PoemGenerator.com](https://poetry.tips) - 10 credits in first month / AI Poem Generator / Rhyming dictionary - From $4/month
+-   [Sudowrite](https://www.sudowrite.com) - Bust writer's block / Write novels & screenplays faster / AI feedback - From $10/month (225,000 credits)
+-   [AIEpics](https://aiepics.com) - Easy-to-use AI Poem Generator / Generate Personalized & Unique Poems / Copyright & Plagiarism Free / No Login required
+-   [ReadKidz](https://www.readkidz.com) - 1,500 Credits free / AI-Powered Children's e-Picture Books & Story Creation / One-click publishing - From $10/month
+-   [LyricStudio](https://lyricstudio.net) - Unlimited suggestions / Rhyme assistance / Writer's block solution - From $3.99/month
+-   [analogenie](https://analogenie.com) - Free 3 requests per month / Generate analogies & metaphors / Explain complex concepts - From $3.99/month
+-   [Dailos.ai](https://dailos.ai) - Free random story creation / Personalized children's stories / Promote values / Audiobook option
+-   [Teachfloor](https://www.teachfloor.com) - Social learning platform / Collaborative learning experiences / White Label & Customization
+-   [Writer Copilot](https://writercopilot.app) - AI-Powered Story Suggestions / Organize Plots - From $12.99/month
+-   [Daydrm.ai](https://www.daydrm.ai) - Free credits / AI tool for creative advertising ideas / Concepts-on-demand - From $5/day
+-   [Stories With Dory](https://storieswithdory.com) - 7-day free trial / Voice-based story builder / Sparks child’s imagination & creativity - From $5.99/month
+-   [Tale Garden](https://apps.apple.com/tr/app/tale-garden/id6639582693) - AI-powered personalized stories / Customizable themes, characters, and settings - From ₺79,99/month
+-   [Bedtimestory.ai](https://www.bedtimestory.ai) - Free account / Hyper-Personalized stories / Instant Creation - From $8.25/month
+-   [Hatch Canvas](https://hatchcanvas.com) - Start for Free / AI-powered collaborative canvas / Infinite canvas for visual organization / Create interactive tools, apps & websites
+-   [Chat100.ai](https://chat100.ai) - Free Online Access / Access GPT-4o and Claude 3.5 Sonnet / Multilingual AI Chat Capabilities / No Login or Sign Up required
+-   [Oscar Stories](https://oscarstories.com) - Create personalized bedtime stories for children using AI / Teach valuable lessons with fun, educational narratives / Generate personalized Audio Stories
+-   [MagickPen](https://magickpen.com) - 20 credits per day / AI Writing Assistant / Grammar Checking / No Login required - From $6.9/month
+-   [Free AI Story Generator](https://chromewebstore.google.com/detail/free-ai-story-generator-c/bkhkhfopihgnbndachebnigmhddlamno) - Free / AI story writer to write captivating and unique stories / Simple and efficient story maker
+-   [Seapik](https://seapik.com) - 2000 free words / AI writer / AI text generator - From $4.9/Month
+-   [Unsloth AI](https://unsloth.ai) - Free / Open source fine-tuning & RL for LLMs / 30x faster training / 90% less memory usage
+-   [DoodleTale](https://doodletale.me) - 25 New Stories + Unlimited existing Stories free / AI-driven interactive games / Personalized AI-Generated Stories - From $1/month
+-   [StoryLegend](https://storylegend.app) - 14-day free trial / AI-Powered Writing / Character Development / Plot Structuring - From $10/month
+-   [Free AI Story Generator](https://freeaistorygenerator.com) - Unlimited stories / AI Story Generator / Based on Prompt / No Sign-Up Required
+-   [Neurotale](https://neurotale.com) - Enhance writing skills / Note-taking, blog posts, fiction novels
+-   [Beddy: Bedtime Stories](https://apps.apple.com/app/id6447703854) - Free / AI Bedtime Story Creator / Personalized Tales - From $7.99/month
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [Vibrant Ink](https://vibrant.ink) - 200 Ink free / AI-powered storytelling / amazing image generation - From $10
+-   [蛙蛙写作](https://wawawriter.com/app) - 5000 AI words upon registration / AI writing/rewriting/expanding / Video generation
+-   [Dabble](https://www.dabblewriter.com) - 14-day free trial / Plot, plan, and write in one tool / Autosave protects your work / Write anywhere, anytime / No credit card required - From $9/month
+-   [FictionGenie](https://www.fictiongenie.com) - 1-month free trial / AI-powered stories with illustrations / Multilingual stories / Track child's growth & skills
+-   [Talespinner.io](https://talespinner.io) - AI-powered storytelling / Craft characters, plots, and chapters
+-   [Heartstring AI](https://heartstring.ai) - Free / Write wedding vows, speeches, eulogies / / -
+-   [Chronostates](https://www.chronostates.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3544)- Freemium + From $8.99/month / Have an Idea? Build Worlds. Shape them. Publish Legends
+
+### AI Fanfic Generator
+
+-   [AltPlot](https://altplot.com) - 1st chapter free / Custom-written fanfiction / Interactive story development
+-   [DreamGen](https://dreamgen.com) - 4000 tokens context window for free / AI role-play / Story generator - From $7.83/month
+-   [fanfic generator](https://fanficgenerator.com) - 10 free uses / AI Fanfic Generator / Image Generator / Paragraph by Paragraph Writing - From $8/month
+-   [Seapik](https://seapik.com) - 2000 free words / AI writer / AI text generator - From $4.9/Month
+-   [Status AI](https://www.statusai.com) - Free to play / Fanfiction roleplay game / Express yourself as any character
+-   [Character Headcanon Generator](https://characterheadcanongenerator.org) - Free / Generate detailed character headcanons / Randomized Trait Generation / Backstory Creation
+
+### AI Report Writing
+
+-   [MagicSchool](https://www.magicschool.ai) - Free forever plan / 80+ AI teacher tools / saves up to 10 hours per week - From $99.96/year
+-   [Otter.ai](https://otter.ai) - 300 monthly transcription minutes / AI meeting assistant records, transcribes and summarizes in real time / Otter AI Chat - From $16.99/month
+-   [Teachers Report Writer](https://teachers.report) - 50 FREE student reports / Personalized school reports / AI-generated full flowing reports - From $5 for 250 credits
+-   [CopyOwl.ai](https://copyowl.ai) - Research, Cite, write In-depth Essays, Blogs, Papers, and Reports / Fully Referenced Citations / All in One Click
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Kompas AI](https://kompas.ai) - Deep research / Report generation
+-   [DeepRFP](https://deeprfp.com) - 7-day free trial / AI Proposal Writing / RFP Automation / AI RFP Analysis - From $75/month
+-   [Breadcrumb.ai](https://www.breadcrumb.ai) - Up to 100 magic actions per month / AI-powered customer reporting / Turn raw data into embed-ready reports / No code or data skills needed - From $30/month
+-   [Psynth AI](https://www.psynth.ai) - Free for a limited time / Write Psychological Reports in Minutes / Diagnose with confidence - Contact for Pricing
+-   [GeniusReview](https://geniusreview.xyz) - Free trial / 360° AI Performance Reviews / Tailored answers to performance review questions / No Sign-Up
+-   [Cuely](https://cuely.ai) - Up to 10M free tokens / Easiest way to use AI at work / 10X faster productivity with AI
+-   [BriskWrite](https://www.briskwrite.com) - AI-powered writing assistant for Essays, Research Papers, Articles / Transforms ideas into well-structured documents
+-   [ReportGPT](https://reportgpt.app) - 3 Reports for free / AI-Powered Writing Assistance / Customizable Document Structures - From $3/one-time for 1 AI-Report
+-   [Reporfy](https://www.reporfy.com) - 14-day free trial / AI-Powered Reports / Visual Data Storytelling / Collaborative Reporting - From €12/month
+
+### AI Paragraph Generator
+
+-   [LinkBoss](https://linkboss.io) - 100 free credits / Semantic Internal Linking / Build powerful topical clusters / No CC Required - From $11/m for 200 Credits
+-   [Qozex AI Paragraph Generator](https://paragraphgenerator.org) - Generate quality paragraphs quickly / Overcome writer's block / No Sign-Up
+-   [Sigma AI Browser](https://sigmabrowser.com) - Built-in AI Chat / Enhanced Privacy / AI-powered Content Generation
+-   [Copylime](https://copylime.com) - 2,000 Words free / Write 1000+ word articles in seconds / 30+ copywriting tools - From $29/month
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Katteb](https://katteb.com) - Fact-checked content with in-text citations / AI Chat with Internet Access / AI Image Generation - From $29/month
+-   [Aithor](https://aithor.com) - AI-Powered Research Assistant / Autocitation in your style / Text personalizer - From $12.99/month
+-   [Content Flash AI](https://contentflashai.com) - 2,000 words, 2 AI Images, 300 Character Text-To-Speech per month / AI-powered content generation / AI Images / Text-To-Speech - From INR 500/month
+-   [v0 Report](https://v0.report) - Automated Report Generation / AI Document Generator / AI PDF Summarizer - From $7/month
+-   [GenZWrite](https://genzwrite.com) - Free 200 words / Humanize AI text / Bypass AI detection -
+-   [Jenni AI](https://jenni.ai) - 200 AI autocompletes day / AI Autocomplete / Chat to Your Research - From $12/month
+-   [Tenorshare AI](https://ai.tenorshare.com) - AI Humanizer / AI PDF Summarizer / AI Writer
+-   [PaperTyper](https://papertyper.net) - Free unlimited access / AI Essay Writer / Grammar Checker / Plagiarism Checker
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [fanfic generator](https://fanficgenerator.com) - 10 free uses / AI Fanfic Generator / Image Generator / Paragraph by Paragraph Writing - From $8/month
+-   [Rewriter Tools](https://www.rewritertools.com) - 10K tokens, 10 image items, 30 minutes speech to text free / Unique, plagiarism-free text / Improve Readability
+-   [Seapik](https://seapik.com) - 2000 free words / AI writer / AI text generator - From $4.9/Month
+-   [TextFlip](https://textflip.ai) - Free 5 submissions/month / AI Rewriting Tool / AI Detector Evasion - From $19/month
+-   [Writify AI](https://writifyai.com) - 3 Free Articles / Factually Accurate Articles / Real-time external linking
+-   [Aethera AI](https://aethera.ai) - Free 125 Questions / month / Analyze, create, organize documents / Smart Summaries - From $12.5/month
+-   [Free AI Writer and Text Generator](https://chromewebstore.google.com/detail/free-ai-writer-and-text-g/emnjhmmlbiiioondginejlfdmiemflbn) - Free / High-quality, unique essays and articles / AI copywriting
+-   [Type.ai](https://type.ai) - AI-powered document editor / AI writing assistant - From $23/month
+-   [Koke AI](https://www.koke.ai) - Free 10 papers export (partial) & 1000 AI words/day / AI Citation Generator / AI Outline Generator - From $28.00/month
+-   [Fibr AI](https://fibr.ai) - 30-Day Free Trial & Free A/B Testing Tool / AI-CRO Workforce / Automate testing & personalization / 24/7 website monitoring - From $239/month
+-   [Graphite Note](https://graphite-note.com) - 14-day free trial / No-code machine learning for predictive analytics / GenAI Actionable Insights / No card required - From $295/mo
+-   [Echobase](https://echobase.ai) - 20 Queries free / Querying files / Creating content / Analyzing files - From $19/month
+-   [Prepostseo](https://www.prepostseo.com) - Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants - From $7/month
+-   [Scalenut AI Copywriter](https://chromewebstore.google.com/detail/scalenut-ai-powered-write/hihmdflioglieahhkcllmngdmpijboae) - 2,000 short-form AI words free / AI-powered writing assistant / plagiarism-free content
+-   [EduWiz AI](https://eduwiz.ai) - 3 Free Standard Essays / week / Essay Writer / AI Autocomplete - From $12/month
+-   [ReportGPT](https://reportgpt.app) - 3 Reports for free / AI-Powered Writing Assistance / Customizable Document Structures - From $3/one-time for 1 AI-Report
+-   [Paraphrasing.io](https://paraphrasing.io) - Free 1000 words per request / Rephrase essays, emails & paragraphs / Remove plagiarism & improve readability - From $7/month
+-   [Essay Builder AI](https://essay-builder.ai) - Up to 300 words per Essay / Generate top-notch essays in seconds / AI-powered essay maker - From $5/month
+-   [AI Writing Generator by AIFreeBox](https://chromewebstore.google.com/detail/free-ai-content-generator/bemodjgbgodejfjedggokmadnjljogbh) - Versatile Content Options / SEO-Optimized
+-   [HyperWrite](https://www.othersideai.com) - AI-powered writing assistant / Real-time research & citations / Custom AI tools - From $19.99/month
+-   [AiKeeda](https://www.aikeeda.com) - 7 Days of free trial / AI Text Generator / AI Image Generator / AI Chat Bot - From $9.99/month
+-   [Ai Scribe Pro](https://aiscribepro.com) - 10000 Word Token and 5 Image Token Free / AI Content Generation / AI Code Generation - From $9/month
+
+### AI Love Letter Generator
+
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Tenorshare AI](https://ai.tenorshare.com) - AI Humanizer / AI PDF Summarizer / AI Writer
+-   [Hatch Canvas](https://hatchcanvas.com) - Start for Free / AI-powered collaborative canvas / Infinite canvas for visual organization / Create interactive tools, apps & websites
+-   [AgapeVerse](https://agapeverse.app) - Free Account / Generate affectionate poems with AI / Create unique custom gifts
+-   [Wonderful Valemtimes](https://valemtimes.com) - Free / AI-powered Valentine's Day message generator / Generates love letters for the romantically challenged
+-   [Writify AI](https://writifyai.com) - 3 Free Articles / Factually Accurate Articles / Real-time external linking
+-   [Heartstring AI](https://heartstring.ai) - Free / Write wedding vows, speeches, eulogies / / -
+
+### AI Short Story Generator
+
+-   [StoryTimeApp](https://apps.apple.com/au/app/storytimeapp/id6670692609) - Free 1 week trial / AI-powered story creation / Personalized stories for family bonding - From $5.99/month
+-   [Storywizard.ai](https://www.storywizard.ai) - 7-day free trial / Personalized learning experiences / AI-powered story creation - From $10/mo
+-   [Dailos.ai](https://dailos.ai) - Free random story creation / Personalized children's stories / Promote values / Audiobook option
+-   [BabyStoryAI](https://babystoryai.com) - Free 3 stories / Personalized audiobooks / Custom background music and voice - From $9/mo
+-   [KidTales](https://kidtalesai.com) - 3 day free trial / Turn ideas into instant children's books / Audio narration / Personalize stories with custom characters - From $89/month
+-   [StoryGenerate](https://storygenerate.io) - Generate unique stories / Customizable story options
+-   [NovelistAI](https://novelistai.com) - 10 free credits per month / Generate unique stories / Custom book covers / AI audiobooks - From $9/month
+-   [Once Upon a Bot](https://onceuponabot.com) - Create original stories with AI / Create endless illustrated stories - From $6.67/month
+-   [SparklesTales](https://sparklestales.com) - 1 story per day / Create magical stories with just three words / Multiple Story Types - $50/year for 500 stories
+-   [BedtimeRead](https://bedtimeread.com) - One story per day / AI-powered personalized stories / Make bedtime magical - From $3.99/month
+-   [MyTales](https://mytales.io) - 5 story sections per day / AI Powered Story Generator / AI collaboration with images / No credit card required - From $9.99/mo
+-   [Story321.org](https://www.story321.org) - 1000 daily free story generations / Generate unlimited stories / Customizable Prompts / No Registration Required - From $4.97/month
+-   [Storyleo](https://storyleo.app) - AI-generated bedtime stories / Custom characters
+-   [AI Suggests](https://ai-suggests.com) - Generate unlimited content / Social media content / SEO-friendly content
+-   [LittleStory & neural.love](https://littlestory.io) - Access to all AI Tools / Advanced Image, Video and Audio AI editing - From $8/month
+-   [OCer - Your All-in-One AI OC Maker](https://ocmaker.pro) - / AI Original Character Creator / One-Click Style Transfer / - From $2.99/month
+-   [MagicTales](https://magictales.io) - Limited stories free / AI-powered personalized stories / Captivating audios & illustrated ebooks - From $6.99/mo
+-   [fanfic generator](https://fanficgenerator.com) - 10 free uses / AI Fanfic Generator / Image Generator / Paragraph by Paragraph Writing - From $8/month
+-   [Fantasaur](https://www.fantasaur.com) - 10 free stories / Personalized AI bedtime stories / Custom illustrations / 18 languages - From $4.95/month
+-   [Imagine Stories](https://imaginestories.pl) - 2 stories free / AI-powered personalized stories / Therapeutic & educational texts - From PLN 18.9/month for 15 stories
+-   [Fantasia - Bedtime Stories](https://apps.apple.com/it/app/fantasia-bedtime-stories/id6451334790) - AI-powered personalized stories / Customizable protagonists
+-   [MidReal](https://midreal.ai) - 10 Pills + 10 Bonus Pills daily / Craft interactive, illustrated stories with AI / Infinite length story generation - From $5.99/month
+-   [StoryLegend](https://storylegend.app) - 14-day free trial / AI-Powered Writing / Character Development / Plot Structuring - From $10/month
+-   [WhimsyWorks](https://whimsyapp.com) - Unlimited free adventures / AI-powered choose-your-own-adventure reading games / Personalized to child's interests / Tailored to reading level
+-   [KidsAIStory](https://www.kidsaistory.com) - Free book created by AI / Create illustrated children's stories with AI / Customize age, pages, and subject
+-   [Fiction Fusion](https://fictionfusion.io) - AI-powered story generation / Novel and short story creation / Export and publish ready books
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [HelpMeTeach](https://helpmeteach.ai) - Free 5 generations / Lesson Plans / Assessments / Reports - From $11.95/month
+-   [Scarlett Panda](https://www.scarlettpanda.com) - First story free / 7-day trial for $1 / Customized stories / Educational content - From $9.90/month
+-   [Shoorts](https://shoorts.ai) - ~2 basic videos, 25 AI credits / Create viral AI shorts daily / Turn ideas into trending TikToks, Reels & Youtube Shorts - From $59/month
+-   [蛙蛙写作](https://wawawriter.com/app) - 5000 AI words upon registration / AI writing/rewriting/expanding / Video generation
+-   [Fableoo](https://www.fableoo.com) - 1 Free Storie / AI-powered interactive storytelling / Develops creativity & tech literacy - From $2.99 one-time for 10 credits
+-   [Mi Cuento Digital](https://micuentodigital.es) - Unlimited free for now / AI-generated personalized children's stories / Customizable character, adventure, and learning / Illustrated stories
+-   [Kids Tell Tales](https://kidstelltales.com) - First 21 AI interactions free / Interactive AI storytelling / Personalized AI adventures - From $7.99 for 450 AI interactions
+
+### AI Inspirational Quotes
+
+-   [InspiroBot](https://inspirobot.me) - Free unlimited quotes / Generates unique inspirational quotes / No Login required
+-   [QuotesMaker](https://quotesmaker.com) - Free / Create stunning quote images / Customize design with beautiful backgrounds and easy customization
+-   [QuoteGenerator.io](https://www.quotegenerator.io) - 200 requests/day free / Create & share quotes instantly / AI-powered quote generation / Incorrect quote generator
+-   [AtFirst - Daily Affirmations](https://apps.apple.com/app/atfirst-daily-affirmations/id6451104136) - Daily Positive Affirmations / Custom Affirmations / Guided Sleep Affirmations - From $7.99
+-   [Attract AI・Manifest Dream Life](https://apps.apple.com/us/app/attract-ai-manifest-dream-life/id6686394253) - Personalized Dream Stories / Daily Affirmations / Progress Tracking - From $9.99/month
+-   [Manifest AI](https://apps.apple.com/us/app/manifest-ai-desire-acquire/id6476699054) - AI-guided manifestation / 15+ manifestation methods & custom affirmations - From $4.99/month
+-   [Inspire AI - Daily Motivation](https://apps.apple.com/app/inspire-ai-daily-motivation/id6450937788) - / Personalized AI affirmations / Daily motivations - From $3.99/month
+-   [Twilight AI](https://twilightai.app) - Personalized AI insights / Smart goal tracking / Guided journaling
+-   [Orā](https://heliosmindset.com) - AI-powered mindset coach / Personalized mindset growth / Science-backed exercises
+-   [Zipgoals](https://www.zipgoals.com) - Unlimited Notes, 20 Images free / Momentum journal / 22 prompts / Journal on any device - From $10/year
+-   [Makr.io](https://makr.io) - 15 AI-powered web apps / Open-source tools
+-   [VividBoard](https://vividboard.app) - 14-days Free Trial / AI Vision Boards / AI Life Coach / AI-Powered Daily Affirmations - From $4/month
+-   [Capybara Affirmations AI](https://capybaraaffirmations.ai) - Free affirmation generation / AI-powered positivity / Customized affirmations / Capybara-themed content
+
+### AI Dialogue Generator
+
+-   [Webapi.ai](https://webapi.ai) - 14-day free trial / AI agents for customer support / Add hundreds of documents / Create dialogue scenarios - From $0.15/100 bot responses
+-   [Roshi](https://www.roshi.ai) - 5 lessons per month / Generate summaries, vocabulary lists, questions, and activities / Fully voiced dialogues with custom voices - From $14.00/month
+-   [Sudowrite](https://www.sudowrite.com) - Bust writer's block / Write novels & screenplays faster / AI feedback - From $10/month (225,000 credits)
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Fable Fiesta](https://fablefiesta.com) - AI DnD Campaign Builder / DnD Race & Class Generators / DnD Monster Generator
+-   [AIdeaFlow Podcast](https://aideaflowpodcast.com/) - Transform text into AI Podcasts / 120+ natural voices - From $8.25/month
+-   [Daydrm.ai](https://www.daydrm.ai) - Free credits / AI tool for creative advertising ideas / Concepts-on-demand - From $5/day
+-   [NolanAI](https://www.nolanai.app) - 100 one time AI requests / AI-driven script writing / AI Budgeting - From $40/month
+-   [PrettyPolly](https://prettypolly.app) - 7 free conversations / Practice speaking with AI / Track your progress - From $6.50/month
+-   [Qvantify](https://www.qvantify.com) - Scale Qualitative Research with AI / Conduct hundreds of remote interviews overnight
+-   [Short AI](https://www.short.ai) - Free / Faceless Video Generation / Auto-Generate Subtitles - From $19/month
+-   [Chat EQ](https://chateq.com) - AI tool for handling tough conversations / Analyzes emotions and suggests effective dialogue
+-   [fanfic generator](https://fanficgenerator.com) - 10 free uses / AI Fanfic Generator / Image Generator / Paragraph by Paragraph Writing - From $8/month
+-   [Endless Visual Novel](https://endlessvn.io) - Free 14 day trial / AI-generated graphics, music, story, and characters / Unique, never-the-same playthroughs - From €9/month
+-   [Unsloth AI](https://unsloth.ai) - Free / Open source fine-tuning & RL for LLMs / 30x faster training / 90% less memory usage
+-   [PizzaGPT](https://pizzagpt.it) - Free / AI Chatbot for Italy / Fast responses / No login - From 16€/month
+-   [workspeak](https://workspeak.online) - 20 credits / Message Polisher / Practice Roleplay / - From $9/month (1000 credits)
+-   [Yasna.ai](https://yasna.ai) - Free 100 credits/month (± 10 interviews) / Automate human-like interviews / AI-powered data processing & reporting / Multi-language capability - From €200/month
+
+### AI Spell Check
+
+-   [LanguageTool](https://languagetool.org) - Free 3 rephrasing requests per day / Comprehensive Grammar, Punctuation & Style Checking / AI-powered Rephrasing / Supports 30+ Languages / No Sign-Up required - From SGD 4.99/month
+-   [Goodnotes](https://goodnotes.com) - Free 3 notebooks / AI note-taking / Cross-device sync - From $6.99/year
+-   [Toolsmart Free Humanize AI](https://www.toolsmart.ai/feature-free-humanize-ai) - Turn AI content into natural, human-like, undetectable text / Eight Humanizing Modes / No Signup Required
+-   [ManageArtworks](https://www.manageartworks.com) - 14-Day Free Trial / Proofing tools / Digital Asset Management (DAM) / Workflow management - From $458/month for 10 Users
+-   [Fuzzy Match](https://fuzzymatch.in) - Free 5 files per day / Resilience to Typos & Misspellings / Identify text similarities / No Login required - From $5/month
+-   [Chinese Text Correction Tool](https://chromewebstore.google.com/detail/%E7%88%B1%E6%A0%A1%E5%AF%B9/fmhbdmboiompligcdklnbcjodiejmmkl) - Free / Higher Accuracy / Intelligent Proofreading for Word, Punctuation, Proper Nouns, Sensitive Info
+-   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
+-   [Grammarly](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Free / Real-time writing suggestions / Generative AI capabilities
+-   [Prose AI](https://useprose.com) - 5 daily requests / AI-powered writing assistance / Grammar & Spell Checking / Style Enhancement - From $5.99/month
+-   [PlagiarismSearch.com](https://plagiarismsearch.com) - Free 300 words daily / Plagiarism check / AI detection - From $22.95/month
+-   [AI Grammar Check - Corrector](https://itunes.apple.com/app/id6446309685) - AI-powered grammar and spelling correction / Paraphrasing and text translation - From $2.50/month
+-   [TextGears](https://textgears.com) - 500 text checking requests/month / Grammar and spelling check / Readability analysis / No Sign-Up required - From $23.96/month
+-   [Chrome AI Grammar Check](https://chromewebstore.google.com/detail/free-ai-grammar-checker/jnkjkpapplndagboidnhphaciphgjeca) - Smart grammar check / AI works on your machine
+-   [AI Suggests](https://ai-suggests.com) - Generate unlimited content / Social media content / SEO-friendly content
+-   [corrAI](https://chromewebstore.google.com/detail/corrai-corriger-et-tradui/dpdfhpfdhdckdknmiledcbednbndjjjj) - 20 000 tokens free / Text correction & translation / Maintain style & save time - From 0.50€ for 25 000 Tokens
+-   [WProofreader](https://chromewebstore.google.com/detail/wproofreader-secure-gramm/ehlmgkidbfjedfdanfechlikaolobpgh) - Multi-language grammar and spell checker / Secure on-premise deployment
+-   [LanguageTool](https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji) - Free extension / Grammar and style checker / Supports more than 25 languages / No registration needed
+-   [Ddict](https://ddict.me) - Effortless website translation & word lookup / AI Translation & Writing Assistant - From $3.99/month
+-   [Grammar Checker](https://chromewebstore.google.com/detail/grammar-checker/mpeepmfabickbdbckcejbflkpfamgcon) - Free / Advanced grammar, spelling & style checks / Suggestions & one-click application / Supports 25+ languages
+-   [Corrector App](https://corrector.app) - Totally Free / Grammar, Spelling, and Punctuation Checker / Multi-language support / No account or download needed
+-   [FixMeBot](https://fixmebot.com) - Free 500 trial characters / Text Correction / Text Rephrasing / Text Translation - From 4.99 €/month
+-   [BulkCorrector](https://bulkcorrector.com) - Max 32'000 characters free / Bulk corrections / Bulk translations - From $29 (Lifetime deal)
+-   [CorrectEnglish](https://correctenglish.com) - Free Forever / AI-powered writing assistant / Grammar and spelling check / Plagiarism check - From $24/month
+-   [Bettertext](https://chromewebstore.google.com/detail/bettertext-chatgpt-ai-wri/anopodponloibekldiehmilbbbadncgf) - 5 free creations every day / Real-time writing suggestions / Comprehensive writing tools
+-   [Parafrasear Textos](https://www.parafraseartextos.net) - Free 1000 words / Online Paraphrasing / Text Humanization / No Registration Required - From €3/weekly
+-   [Correcto](https://chromewebstore.google.com/detail/correcto-herramienta-de-e/hllekbchnfikjpbdielihahenjmbpach) - AI-powered writing suggestions / Grammar and spelling correction / Multi-platform support
+-   [Linguix](https://linguix.com) - Free / Grammar Checker / AI Writing Assistant / Paraphraser - From $5.00/month
+-   [Factful](https://factful.io) - Spelling, Grammar, Factuality checking / Real-Time Personalized Analytics / AI-powered Fact-Checking - From $9.99/month
+-   [imgProof](https://www.imgproof.com) - Free trial / AI-powered spelling and grammar analysis in images / Automated image proofreading / Supports multiple image formats and languages
+-   [Correctify](https://correctify.com.cy) - 1 task free / Proofread restaurant menus / AI-powered proofreading / Canva integration - From €10/year for 5 menus
+-   [Robopost](https://room.dog) - Free 10 Post Scheduling /month / Social Media Scheduling / AI Content Creation / AI Faceless Videos
+-   [Outwrite](https://outwrite.com) - Free 50 plagiarism checks/month / Spelling & Grammar / Style improvements / Sentence rewriting - From US$7.95/user/month
+
+### AI Slogan Generator
+
+-   [ClevopyAI](https://clevopy.ai) - 20 AI Tools Free / Write 10X Faster / Captivate Audience - From $21.6/month
+-   [Personalized License Plate Generator](https://getmylp.com) - Unlimited free generation / AI Powered Personalized License Plate Generator / Buy and print custom AI plates
+-   [Bisibyte Business Name Generator](https://www.bisibyte.com/business-name-generator) - Free / AI-Powered Precision / Industry-Specific Suggestions
+-   [neuroflash](https://neuroflash.com) - 2000 words & 5 images free/month / Highest-quality AI-generated marketing texts / AI text & image generation - From 80€/mo
+-   [AiNameIt](https://ainameit.com) - 20 credits free / AI-powered name generation / Real-time domain availability check / No credit card required - From $10 one-time
+-   [Everyday AI Tools](https://everydayaitools.com) - Free 3-day trial / Generate high-quality content / Save time & efforts - From $14.99/250 responses
+-   [myBrandgen.com](https://mybrandgen.com) - 1 partial brand identity preview / AI-powered brand identity generation / names, logos, slogans, marketing content / No Login required for preview - From €34.99/month
+-   [10Web](https://10web.io) - One-week free trial / AI Website Builder / Automated WordPress Hosting / 90+ PageSpeed Optimization - From $10/month
+-   [Startuptools.ai](https://www.startuptools.ai) - Free / Generate a business plan in 3 minutes / Streamline planning, marketing, and growth - From $11.99/month
+-   [Tenorshare AI](https://ai.tenorshare.com) - AI Humanizer / AI PDF Summarizer / AI Writer
+-   [SMMAI: AI Banner Maker](https://home.smmai.app) - AI-powered banner design / Thousands of ready-made layouts / No Sign-Up needed
+-   [Scrip AI](https://scripai.com) - FREE / AI content writing / Viral short video script generation / No Login required
+-   [Seapik](https://seapik.com) - 2000 free words / AI writer / AI text generator - From $4.9/Month
+-   [Clarice.ai](https://clarice.ai) - Write Clear, Strong, Original, and Error-Free Texts / 50+ templates - From R$ 22.45/month (100k words)
+-   [Aethera AI](https://aethera.ai) - Free 125 Questions / month / Analyze, create, organize documents / Smart Summaries - From $12.5/month
+-   [Prepostseo](https://www.prepostseo.com) - Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants - From $7/month
+-   [Botowski](https://www.botowski.com) - 15,000 words/month free / AI copywriter / Article Generator / Product Description Generator - From $19/month
+-   [BrandKiit](https://brandkiit.com) - 1 Complete Brand Kit, 1 Premium Logo, 4 Simple Icon Logos, 10 Brand Names free / AI-Powered Brand Generation / Generate names, logos, colors, and more - From $9.99 one-time
+-   [Jeeves AI](https://jeeves.ai) - FREE PRO Trial / AI writing assistant / 150+ templates / Powered by GPT3 and GPT4
+
+### AI Sentence Generator
+
+-   [Telugu Autocomplete Assistant](https://chromewebstore.google.com/detail/telugu-autocomplete/ffofpbkbhdoijmddmnkdnlmojjacoopb) - Free / Word Completion / Sentence Completion
+-   [Content Flash AI](https://contentflashai.com) - 2,000 words, 2 AI Images, 300 Character Text-To-Speech per month / AI-powered content generation / AI Images / Text-To-Speech - From INR 500/month
+-   [OCer - Your All-in-One AI OC Maker](https://ocmaker.pro) - / AI Original Character Creator / One-Click Style Transfer / - From $2.99/month
+-   [Rewriter Tools](https://www.rewritertools.com) - 10K tokens, 10 image items, 30 minutes speech to text free / Unique, plagiarism-free text / Improve Readability
+-   [TextFlip](https://textflip.ai) - Free 5 submissions/month / AI Rewriting Tool / AI Detector Evasion - From $19/month
+-   [Aethera AI](https://aethera.ai) - Free 125 Questions / month / Analyze, create, organize documents / Smart Summaries - From $12.5/month
+-   [Type.ai](https://type.ai) - AI-powered document editor / AI writing assistant - From $23/month
+-   [Prepostseo](https://www.prepostseo.com) - Plagiarism Checker / Paraphrasing Tool / AI Writing Assistants - From $7/month
+-   [Sentence Rewriter](https://sentencerewriter.net) - Free / Rephrase and enhance text / Improve readability and clarity - From $4.99/week
+-   [Paraphrasing.io](https://paraphrasing.io) - Free 1000 words per request / Rephrase essays, emails & paragraphs / Remove plagiarism & improve readability - From $7/month
+-   [AI Writing Generator by AIFreeBox](https://chromewebstore.google.com/detail/free-ai-content-generator/bemodjgbgodejfjedggokmadnjljogbh) - Versatile Content Options / SEO-Optimized
+
+### AI Plot Generator
+
+-   [Lore Sage](https://loresage.com) - 5 complimentary generation tokens / Transforms ideas into immersive fantasy settings / Handles intricate setting details
+-   [Bookwiz](https://bookwiz.io) - 35k base words one-time / AI-powered story drafting / Export and publish books - From $9/month
+-   [Sudowrite](https://www.sudowrite.com) - Bust writer's block / Write novels & screenplays faster / AI feedback - From $10/month (225,000 credits)
+-   [Fable Fiesta](https://fablefiesta.com) - AI DnD Campaign Builder / DnD Race & Class Generators / DnD Monster Generator
+-   [Writer Copilot](https://writercopilot.app) - AI-Powered Story Suggestions / Organize Plots - From $12.99/month
+-   [Made Live](https://made.live) - 7-day free trial / AI-supported platform / Complete self-publishing solutions / Specialized for visual storytellers - From $29/month
+-   [NolanAI](https://www.nolanai.app) - 100 one time AI requests / AI-driven script writing / AI Budgeting - From $40/month
+-   [Bookwriter](https://bookwriters.app) - 5.00 of free credits / Voice-to-text transcription / AI-powered summaries / AI writing suggestions
+-   [Story321.org](https://www.story321.org) - 1000 daily free story generations / Generate unlimited stories / Customizable Prompts / No Registration Required - From $4.97/month
+-   [My Adventures](https://myadventures.ai) - 200 ink free / AI-powered story creation & role-playing / Rule-constrained AI for fewer hallucinations
+-   [fanfic generator](https://fanficgenerator.com) - 10 free uses / AI Fanfic Generator / Image Generator / Paragraph by Paragraph Writing - From $8/month
+-   [StoryLegend](https://storylegend.app) - 14-day free trial / AI-Powered Writing / Character Development / Plot Structuring - From $10/month
+-   [Free AI Story Generator](https://freeaistorygenerator.com) - Unlimited stories / AI Story Generator / Based on Prompt / No Sign-Up Required
+-   [Squibler](https://www.squibler.io) - 6000 AI words/month, 5 image generation/month / AI writing features / text to image generation - From $16/month
+-   [Vibrant Ink](https://vibrant.ink) - 200 Ink free / AI-powered storytelling / amazing image generation - From $10
+
+### Headlines AI
+
+-   [ChatGPT News De-Sensationalizer](https://chromewebstore.google.com/detail/chatgpt-news-de-ensationa/mollmdlkcjbbbemgkhgocphdiibkllfc) - Generates non-biased, descriptive, and neutral headlines / Works seamlessly on popular news websites
+-   [Taplio](https://taplio.com) - 7-day free trial / AI-Powered Content Creation / Detailed Analytics - From $39/month
+-   [Copylime](https://copylime.com) - 2,000 Words free / Write 1000+ word articles in seconds / 30+ copywriting tools - From $29/month
+-   [Topicfinder](https://www.topicfinder.com) - 3,000 credits/month free / Find high-value content topics / AI-generated optimized titles - From $39/month
+-   [Free AI Text Humanizer & Detector](https://www.humanizertool.io) - Free / Humanize AI text / Built-in AI Detector / No signup required
+-   [Type Prompt](https://typeprompt.com) - 15 Day Free Trial / AI-driven hook prompts / Transform topics into polished writing / Viral Hook Templates - From $25/month
+-   [Daydrm.ai](https://www.daydrm.ai) - Free credits / AI tool for creative advertising ideas / Concepts-on-demand - From $5/day
+-   [Jounce](https://www.jounce.ai) - AI copywriting, artwork, and chat / 70+ marketing templates
+-   [AI Suggests](https://ai-suggests.com) - Generate unlimited content / Social media content / SEO-friendly content
+-   [Mida](https://www.mida.so) - 25,000 Monthly Test Users Free / Lightweight A/B testing / No-code visual editor - From $199/month for 100,000 MTU
+-   [Make Headline](https://makeheadline.com) - AI-powered headline generation / Capture visitor's attention
+-   [Macbeth AI](https://macbeth.ai) - Free 500 AI words/month / AI content generation / AI chat assistant - From $19.99/month
+-   [AiKeeda](https://www.aikeeda.com) - 7 Days of free trial / AI Text Generator / AI Image Generator / AI Chat Bot - From $9.99/month
+
+[⬆️ Back to README](./README.md)

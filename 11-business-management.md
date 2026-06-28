@@ -1,0 +1,471 @@
+# Business & Management
+
+[⬆️ Back to README](./README.md)
+
+## Business & Management | I Love Free
+
+> Find free AI tools for CRM, project management, and workflow automation. Streamline your business operations without spending a dime.
+
+### AI CRM
+
+-   [HubSpot](https://hubspot.com) - Marketing, Sales, Service, and CRM software / AI-powered platform - From SGD 1,120/mo (includes 3 seats)
+-   [Salesforce Platform](https://force.com) - 30-day trial / Unifies Data, AI, CRM, Development, and Security / Low Code Development / Automation - From $25/user/month
+-   [Attio](https://attio.com) - 14-day free trial / AI-native CRM / Adaptive data model / Powerful automations & reporting
+-   [Crisp](https://crisp.chat) - Free plan with 2 seats / Omnichannel Team Inbox / AI Chatbot - From $45/month
+-   [Recruit CRM](https://recruitcrm.io) - Unlimited free trial / ATS + CRM / AI-powered recruitment software / Workflow Automation - From $85/month
+-   [Durable](https://durable.co) - Free website generation / AI Website Builder / Automated Marketing / CRM & Invoicing / No credit card required - From $12/month
+-   [Manatal](https://www.manatal.com) - 14-day Free Trial / AI Recruitment Software / Applicant Tracking System - From $15/per user per month
+-   [Nutshell](https://www.nutshell.com/crm) - 14-day free trial / User-friendly Sales & CRM / Sales Automation / Email & Calendar Sync / No credit card required - From $13/month per user
+-   [Salesmate](https://salesmate.io) - Try FREE for 15 days / AI-powered CRM / Sales & Marketing Automation / No credit card required - From $23/user/month
+-   [folk](https://www.folk.app) - 14-day free trial / AI-powered CRM / Sales assistant features / Collaborative pipelines - From $25/member/month
+-   [WAPlus CRM](https://waplus.io) - 3,000 characters/month AI Translation / Message Scheduler / Automatic Reply - From $7.99/user/mo
+-   [WhatsApp CRM](https://wadesk.io/whatsapp-crm) - 3-day free trial / WhatsApp Customer Management / Multi-Account Operation / No Credit Card Required - From $24/month
+-   [Leads.fr](https://leads.fr) - 14-day free trial / AI-powered lead acquisition & qualification / High-quality intent-based leads / Integrated CRM & 4000+ tool compatibility
+-   [Zixflow](https://zixflow.com) - Free 3 Users / AI-Powered CRM / Multi-Channel Marketing Automation - From $39/month
+-   [Gojiberry AI](https://www.gojiberry.ai) - 7 days free trial / AI Meeting Notes & Summaries / AI Deals Follow-ups / CRM Updates - From $29/month
+-   [iSmartRecruit](https://www.ismartrecruit.com) - AI Recruitment Software / Hiring Automation / Applicant Tracking
+-   [Clarify](https://clarify.ai) - 2,500 credits free / Automates pipeline creation / Close more deals / Automates tedious work - From $20/mo
+-   [Notbot](https://notbot.in) - Free 3 social profiles, 1 user / WhatsApp AI Chatbots / CRM / Automation - From $49/month
+-   [SalesRender CRM](https://salesrender.com/en) - 14-day free trial / Automate dialers / Track team productivity / Audit calls with AI
+-   [WADeck](https://wadeck.ai) - Free Starter plan with 10k AI Translate Characters/month / AI Assistant / WhatsApp CRM / WhatsApp Broadcast - From $15.9/month
+-   [Retainr.io](https://retainr.io) - 7-Day Access for $1 / Productize Services / Own Branded Web App - From $57/month
+-   [Day.ai](https://day.ai) - 30-day Free Trial / Meeting Assistant / CRM / Knowledge Base - From $0 per user, per month
+-   [ATZ CRM](https://atzcrm.com) - Unlimited free trial / AI-Powered Recruitment ATS & CRM / Seamless Resume Parsing / Automated Job Posting - From $10/user/month
+-   [DryMerge](https://www.drymerge.com) - AI that automatically updates your CRM / Automate tasks between apps using natural language - From $25/month
+-   [Memento Database](https://mementodatabase.com) - 100 MB Cloud Storage, 3 libraries free / AI-powered, no-code data management / Customizable databases for personal & business - From $4/mo
+-   [Xreacher](https://xreacher.com) - 50 DMs/day for Free / Automate X (Twitter) outreach / Track reply rates / Manage all messages in Unibox - From $97/month
+-   [PropFlo](https://www.propflo.ai) - AI-powered customer-centric intelligent real estate CRM / Easier lead and customer management / Buyer accessibility post-sales
+-   [Tresl Segments](https://tresl.co) - 14-day free trial / AI-powered segmentation / Shopper insights - From $199/month
+-   [Blooio](https://blooio.com) - 20 free messages / iMessages API with Typing Indicators / Auto RCS/SMS Fallback / - From $39/mo
+-   [GPTfy](https://gptfy.ai) - 30-day proof of value / Automate Grunt Work / Streamline Workflows - From $20/user/month
+-   [CRM Chat](https://crmchat.ai) - Manage CRM via voice and chat / Integrated with Pipedrive, HubSpot and Salesforce - From $10/month
+-   [Bloks](https://www.bloks.app) - 20-credits trial / Automated meeting summaries / Relationship intelligence - From $14/month
+-   [TorkeHub](https://www.torkehub.com) - 2000 Torke AI credits / AI-powered CRM / Automated processes / Unmatched personalization - From $5.99/mo
+-   [Wurkzen](https://wurkzen.com) - AI-powered CRM / Project Management / Automated Sales & Operations - From $29/month
+-   [Hylark](https://hylark.com) - Free Core plan (12 pages, 500 records) / Customizable digital workspace / AI integration - From $6/month
+-   [Geniechat](https://geniechat.com) - 7-Day Free Trial / Sales Relationship Management / AI-powered Message Generation / Content Keyboard & Team Sharing - From $3.95/month
+-   [Resonate Growth Agency](https://www.resonatehq.com) - AI-powered HubSpot Workflow Actions / Toolbox for HubSpot Workflows / B2B Fresh Data Enrichment
+-   [Rumo Personal CRM](https://rumo.app) - Free up to 5,000 contacts / Sync contacts from LinkedIn, WhatsApp, and Gmail / AI-Powered Personal Relationship Manager - From $6/month
+-   [Corefactors AI CRM](https://www.corefactors.in) - Free 1-year access for startups / AI-Powered RevOps CRM / Automate Revenue Operations / Unified platform - From $8.99/month
+-   [Univw](https://univw.ai) - Free basic lead management / Lead management / Integrated Cloud Telephony / Custom Dashboards & Analytics
+-   [BuzzLeads](https://buzzleads.io) - 14 Days Free Trial / All-in-One Sales & Marketing CRM / Automated Follow-ups / Unlimited Contacts - From $99/month
+-   [Whelp](https://whelp.co) - Free One seat / AI-powered omnichannel customer service / Unified inbox / AI-powered chatbots - From $29/month
+-   [CueLab CRM](https://cuelab.app) - 10 Lead access/month, 10 Free AI Credits/month / Convert Leads into Clients / Instant Lead Notifications / AI-powered Communication - From ₹700/month
+-   [SelfTact](https://selftact.com) - Free for now / Snap, Send, Connect: Effortlessly Collect Contacts with a Selfie! / Easily Save Contact Information and Meeting Locations / Mastering the Art of Networking: Your Personal Visual CRM
+-   [Apptrop](https://apptrop.com) - No Cost / 50+ specialized tools / Cloud-based business suite / AI-powered
+-   [Turtle](https://turtlee.in) - AI Chatbot / Unified Sales & Support CRM / Automate 95% of support communications
+-   [Lightfield](https://lightfield.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3354)- 14 days free trial + From $59/month / AI CRM that remembers everything and does the work for you.
+
+### AI Project Management
+
+-   [Dooray!](https://gov-dooray.com) - Free plan for up to 25 users / All-in-one collaboration / Project management / Messenger & Mail - From ₩2,500/month per person
+-   [DroneDeploy](https://dronedeploy.com) - 14-day free trial / Robotic capture / Real AI / Full lifecycle visibility - From $159/month
+-   [Whimsical](https://whimsical.com) - Free 3 team boards, 100 AI actions / Unite teams, tasks, and tools / Infinite canvas for diagrams, wireframes, whiteboards - From $10/Month/Editor
+-   [SmartSuite](https://www.smartsuite.com) - Free 3 users, 14-day trial / Collaborative Work Management / Workflow Automation - From $10/user/month
+-   [Dart](http://dartai.com) - Up to 4 teammates free / AI-powered project management / Automate 'work about work' - From $10/month
+-   [KROCK.IO](https://krock.io) - Free plan with 1 user, 2 GB storage, 2 Projects, 50 AI Tokens / Media Review / Online Proofing - From $14/user/month
+-   [Nifty](https://niftypm.com) - Free forever plan with 2 projects & 100MB storage / All-in-one project management / Task & workflow automation - From $39/month for 10 members (billed annually)
+-   [Whoz](https://whoz.com) - Free demo / AI-powered project staffing / Talent deployment
+-   [Kroolo](https://kroolo.com) - Free Trial / AI-powered Productivity Management / Manage Projects, Tasks, Goals, Documents / 40+ Custom AI Agents
+-   [Keychain](https://www.keychain.com) - Free for brands, always / AI-Powered CPG supply chain management / Connect with vetted manufacturing partners / Create products instantly with AI
+-   [ITONICS](https://www.itonics-innovation.com) - 30 days FREE / Foresight / Ideation / Portfolio
+-   [Kreo Software](https://www.kreo.net) - 7-Day Free Trial / AI Takeoff / Estimating Capabilities - From $70/month
+-   [TOPY AI](https://www.topy.ai) - 10 FREE CREDITS / AI Business Plan Generation / Startup Valuation & Market Research
+-   [GanttChart AI](https://www.ganttchart.ai) - 2 Credits / Create Gantt charts using natural language / Work with Google Sheets - $3 for 30 Credits
+-   [ScrumDesk](https://scrumdesk.com) - 4 free users / Scrum Project Management / AI Copilot / Objectives & Key Results - From $9/user/month
+-   [Atono](https://atono.io) - Get started for free / Plan, build, run, and improve your product / AI-assisted workflows -
+-   [ProductGo](https://userstorymap.io) - 30-day free trial / User Story Map / Roadmap / Advanced Personas - Free for up to 10 users
+-   [Cogram](https://www.cogram.com) - Try it for free / AI-assisted Project Bidding / Automatic Meeting Minutes / Field Reports
+-   [Metaflow](https://metaflow.org) - Build and manage real-life ML, AI, and data science projects / Deploy workflows to production
+-   [Quila](https://www.quila.ai) - 1 project, 1 team member, Basic AI-powered features / AI-powered planning / Intelligent Task Management / Collaborative Workspace - From $7/month
+-   [RivetAI](https://www.rivetai.com) - 1 project / 7 days max / script breakdowns / scheduling / budgeting - From $150/project
+-   [GitScrum](https://gitscrum.com) - Free account / User Story Creation / Agile Project Management - $17.50 / 5 users
+-   [Swatle](https://swatle.ai) - 14 days free trial / AI-Powered Project Management / Seamless Collaboration - From $8/month
+-   [Spoke.ai](https://www.spoke.ai) - Unlimited AI-Digests & on-demand summaries / AI-powered summaries / Manage communication across your favorite tools - From $29/user/month
+-   [dotBRAND](https://dotbrand.design) - 14-day FREE TRIAL / Gather client info, files, and preferences / Generate project briefs, strategies, and ideas / AI suggestions & recommendations
+-   [Rhythmic](https://gorhythmic.com) - Free Early Access / Streamlines team workflows / Real-time Predictive Insights / Automated Backlog Refinement
+-   [Onetab AI](https://onetab.ai) - Free forever for 5 users / All-in-one communication & collaboration / AI-powered assistance for tasks - From $19.99/month
+-   [Managelify](https://managelify.com/en) - 14-day free trial / Project Management / Task Management - From $6/month
+-   [Ledger](https://www.ledgerteams.com) - Free 14-day trial / All-in-one project management / AI Assist / Unified collaboration - From $7/per user
+-   [The Double A framework](https://www.aithinking.se) - Navigate and harness AI / Unlock new services rooted to business value / Simplify AI project complexity
+-   [Korgi](https://korgiboard.com) - 14-day free trial / AI-built project boards / Integrates with your apps & drives - From $17/month for Individuals
+-   [Miro](https://miro.com) - Free 3 editable boards / Online collaborative whiteboard / AI-powered collaboration - From $10/month per member
+-   [Plexo Hub](https://plexo.app) - 15-day free trial / AI project design & task generation / AI chat assistant - $5.59/ user / month
+-   [BuildKeeper](https://buildkeeper.co) - 1 Active Project, 1 User Free Forever / Budgeting / Expense Tracking / Task Management - From $70/month
+-   [Progr.io](https://progr.io) - Free 3 projects, 10 AI credits / AI-Powered Project Ideation / Project Tracking & Refinement - From $9 USD for 30 credits
+-   [scalenow AI](https://www.scalenowai.com) - 14-day free trial / AI-driven project management / Natural Language Processing / Transformation management - From $34/month
+-   [Crafter](https://usecrafter.com) - Automates ticket management from documents / AI-driven Jira insights - From $9.99/Month
+-   [Project Mela](https://projectmela.com) - Unlimited Free Project Posting & Application / AI-driven project coordination & management / Seamless project management & timely delivery
+-   [Siddhify](https://siddhify.com) - Free 5 dreams/projects / AI Project Management / Organize tasks & boost productivity / Manage net worth - From $6.99/month
+-   [ONtezo](https://ontezo.com) - Forever Free / 3 Projects / 75 AI User Stories Per Month / AI-powered project management / Automates User Story Writing - From $5/user/month
+-   [10xWinners OKR Software](https://10xwinners.com) - Free up to 10 users for 14 days / ChatGPT enabled OKR platform / Set, track, and achieve OKRs - From $2.00/month
+-   [missionX](https://missionx.ai) - Free forever Starter plan for up to 5 people / AI-augmented project management / AI automation and visual tools / minimal data entry - From $3.99/month
+-   [Planelo](https://planelo.app) - Starter tier (2 projects) / Idea-First Project Hub / API & Automation Workflows -
+-   [chaos](https://apps.apple.com/gb/app/chaos/id6752716616) - Free / Integrated music workspace / Real-time collaboration - From £6.99
+-   [Octayne PSA](https://octayne.ai) - 30 days free / Time tracking / Automated invoicing - From $5.99/month
+-   [Subversive Leader](https://subversiveleader.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3168)- Freemium + From $79/month, No Refunds / AI-powered leadership coaching for ambitious professionals.
+-   [Allex](https://www.allex.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2738)- Free Trial + From $32/month, Refunds are only offered for the free 30-day trial (no charge) / AI-supported project management for complex projects.
+-   [Bizgraph](https://bizgraph.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2693)- Free Trial + From $25/month / Turn AI projects into recurring revenue streams.
+-   [Disclaimr AIv2](https://disclaimr.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3047)- 14 days free trial + From $12/month / AI-powered forecasting for outsourced dev projects. Know before you sign.
+-   [Echother](https://echother.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2658)- Freemium + From $20/month / Stop Wasting 10+ Hours Per Sprint Creating Tickets Manually
+
+### AI Workflow
+
+-   [n8n](https://n8n.io) - / AI-powered workflow automation / Code & no-code flexibility / Self-host or cloud deployment - From $20/month
+-   [Zapier](https://zapier.com) - 100 tasks per month / AI Workflows / AI Agents / AI Chatbots - From $19.99/month
+-   [SmartSuite](https://www.smartsuite.com) - Free 3 users, 14-day trial / Collaborative Work Management / Workflow Automation - From $10/user/month
+-   [SyncSketch](https://syncsketch.com) - 14-day trial / Real-time collaboration / Rich Annotations - From $9/user/month (billed yearly)
+-   [ComfyUI](https://www.comfy.org) - Free / Generate video, images, 3D, audio / Full Control with Nodes - Contact for Pricing (Comfy Cloud Enterprise)
+-   [Copy.ai](https://www.copy.ai) - 2,000 Words in Chat free / Generates high-quality copy / Automate GTM tasks / No credit card required - From $36/month
+-   [iWeaver](https://www.iweaver.ai) - Free 3 queries per day / AI Summarizer / AI Workflow Automation - From $9.9/month
+-   [Weavy](https://weavy.ai) - 150 monthly credits (375 images or 25 sec video) / AI models and professional editing tools / node-based platform - From $19/month
+-   [Dify.AI](https://dify.ai) - 200 messages free / Orchestrate LLM apps / RAG engine - From $59/month
+-   [Keychain](https://www.keychain.com) - Free for brands, always / AI-Powered CPG supply chain management / Connect with vetted manufacturing partners / Create products instantly with AI
+-   [RunningHub](https://www.runninghub.ai) - Cloud-Based ComfyUI / Edit & Run Workflows Online / Publish AI Apps to Earn Revenue
+-   [SuperAnnotate](https://www.superannotate.com) - Free Trial / Streamline AI Data Workflows / Build feedback-driven annotation and evaluation pipelines / Centralizes all your AI data work in one place
+-   [Phrase Localization Platform](https://phrase.com) - 14-day free trial / Document and software localization / AI-powered translation / Automated workflows - From $27/month
+-   [RunComfy](https://www.runcomfy.com) - Free / Fast & Easy, No Setup / High-speed GPUs / Reproducible & Shareable Workflows
+-   [Bardeen AI](https://www.bardeen.ai) - Free 100 credits per month / AI-powered workflow automation / 200+ Integrations - From $99/month
+-   [Anakin.ai](https://anakin.ai) - 30 free credits / day / Generate Content, Images, Videos, and Voice / Craft Automated Workflows, Custom AI Apps, and Intelligent Agents - From $12.90/month
+-   [Taskade](https://www.taskade.com) - Free 150 tasks/month / AI Agents & Workflow Automation / Unified Workspace - From $10/month (billed annually)
+-   [Relevance AI](https://relevanceai.com) - Build your AI Workforce / Automate processes / Deliver human-quality work
+-   [Gumloop](https://www.gumloop.com) - 1,000 Credits per Month / AI Web Scraping / Social Media Automation - From $97/month
+-   [Nanonets](https://nanonets.com) - $200 worth of credits / Automate Manual Data Entry Using AI / Intelligent Document Processing & Workflow Automation
+-   [Pipedream](https://pipedream.com) - Up to 300 credits/mo / Connect APIs, AI, databases, and more / code-level control when you need it and no code when you don't - From $29/month
+-   [TextCortex](https://textcortex.com) - 100 free creations + 20 daily recurring creations / Automate everyday tasks & workflows with AI / Search information and find answers from your data
+-   [Activepieces](https://www.activepieces.com) - Free 1,000 tasks per month / AI-first automation / No-Code Automation / AI agents - From $1,200 per month
+-   [V7](https://www.v7labs.com) - Document workflow automation / Multi-modal data extraction - From $249/month
+-   [ClawCloud Run](https://run.claw.cloud/?referralCode=Q7T3Y8M4K6VX) - Free $5 credits / 4 vCPU / 8GiB RAM / 10GiB disk / 10G traffic / Cloud-Native Platform / One-click Docker deployment - From $5/month
+-   [Bhindi](https://bhindi.io) - 50 Credits Per Month / Unified app interface / Agentic workflows across 200+ apps - From $5/month
+-   [Relay.app](https://relay.app) - 200 steps / month / AI agents / Human-in-the-loop collaboration / 100+ app integrations - From $19/month
+-   [FLORA](https://florafauna.ai) - Accessible generative AI creation / Build custom creative workflows
+-   [Gooey.AI](https://gooey.ai) - 500 free credits / Low-code AI workflow platform / Unified API access to latest AI models - From $10 for 1000 credits
+-   [FlowHunt](https://flowhunt.io) - 7-day free trial (5 credits) / Build intelligent chatbots and AI tools without coding / Automate workflows - From 10€/month
+-   [Albato](https://albato.com) - 100 transactions free / No-code automation platform / 800+ available apps - From $13/month for 1,000 transactions
+-   [Dagster](https://www.dagster.io) - 30-day free trial / Unified control plane for AI & data pipelines / End-to-end observability & lineage - From $10/month with 7.5k credits
+-   [Miro](https://miro.com) - Free 3 editable boards / Online collaborative whiteboard / AI-powered collaboration - From $10/month per member
+-   [AI21 Labs](https://www.ai21.com/maestro) - Free $10 credits for 3 months / AI Planning & Orchestration / Solves complex tasks with structured planning - From $0.2 / 1M input tokens
+-   [Rube by Composio](https://rube.app) - / Actions across 600+ apps in AI chat / Seamless authentication & tool selection / Universal Intelligence -
+-   [AirOps](https://www.airops.com) - 1,000 tasks/month free / Orchestrate Content. Drive Revenue. / Build powerful LLM workflows - From $0/month for 1,000 tasks
+-   [Team-GPT](https://team-gpt.com) - Free trial / Collaborative AI workspace / Multiple AI models & prompt organization / Scale on-brand content - From $25/user/month
+-   [Dadan AI Assist](https://www.dadan.io/features/ai-assist) - Free: 25 videos & 5 mins each / AI-generated transcriptions / Auto-generated video metadata - From $8/month
+-   [Alloy](https://alloy.app) - Start for free / AI Prototyping for Product Management / Prototypes that look exactly like your product - Contact for Pricing
+-   [Skyvern](https://www.skyvern.com) - Open Source (Free) / AI Browser Automation / Adapts to any webpage with Computer Vision / Supports CAPTCHA & 2FA - From $0.10/step
+-   [VectorShift](https://www.vectorshift.ai) - Free 1,000 non-AI actions per month / No-code AI app building / Workflow automation / Custom chatbots - From $20/month
+-   [Hexomatic](https://hexomatic.com) - 7-day free trial / Web Scraping / Workflow Automation / AI Work Automation - From $20/mo
+-   [Rossum](https://rossum.ai) - 14-Day Trial / AI Document Processing / Automate Transactional Workflows / Increase Accuracy - From $18,000 per year
+-   [Decisions](https://decisions.com) - Low-code automation / AI-enhanced decisioning
+-   [Leap Rank](https://www.tryleap.ai/ai-seo) - AI-powered workflow automation / SEO content creation / No-code custom automations - From $99/month
+-   [Leap AI](https://tryleap.ai) - Limited runs per month / Automate content creation / Generate leads - From $99/month
+-   [Stately](https://stately.ai) - Unlimited public projects free, 3 AI generations/month / Visually build and deploy logic / AI-enhanced tools / Executable diagrams - From $33/month
+-   [viAct](https://www.viact.ai/solutions/job-hazard-analysis-software) - 14 Days FREE Trail / Streamline JSA Workflows / Real-Time Collaborative Safety
+-   [patchley | BPMN AI Generator](https://www.patchley.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3270)- Freemium + From $15/month / Turn conversations into BPMN diagrams instantly.
+-   [Starnus](https://starnus.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3348)- Free Trial + From $48/month, No Refunds / Run your business with simple prompts.
+-   [Accordio AI](https://www.accordio.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2880)- Freemium + From $29/month, No Refunds / AI handles freelancer paperwork, you keep 100%.
+-   [DIAGLO](https://diaglo.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2877)- Freemium + From $4.99/unit, Because the service is delivered immediately after payment, refunds are generally not available. Refunds may be granted only in exceptional cases, such as: Technical failure that prevents report delivery or duplicate payment / AI vehicle diagnostics delivering clear answers, real causes, and smarter repair decisions.
+-   [Hyperfox](https://www.hyperfox.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2735)- 60 days free trial + From $300/month, No Refunds / Automate B2B order intake with AI validation.
+-   [Lyzr AI](https://www.lyzr.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2637)- Freemium + From $19/month, No Refunds / Build your AI workforce with safe guardrails.
+-   [maxee.me](https://maxee.me/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2616)- Freemium + From $35/month, No Refunds / AI-powered business optimization for SMEs.
+-   [Palmos AI: Automate with AI Agent Teams](https://pulse-editor.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2874)- Freemium + From $48/month / Ready-to-use AI Teams for Your Automation Needs
+-   [Velocibid](https://www.velocibid.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2756)- 7 days free trial + From $199/month, 7-Day Free Trial / Find government RFPs and respond 10x faster with AI.
+-   [Solido](https://www.solido.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3511)- 30 days free trial + From $49/month, No Refunds / Automate invoice reminders to get paid faster.
+-   [VibeMenu](https://vibemenu.dev/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3538)- Freemium + From $7.99/month / AI-powered digital menus for restaurants in minutes.
+
+### AI Recruiting
+
+-   [CodeSignal](https://codesignal.com) - Free tier available / AI-powered learning and hiring solutions / Skills assessments / AI Tutoring with Cosmo - From $24.99/month
+-   [Arc](https://arc.dev) - 2-week risk-free trial / AI recruiter for instant matches / Access vetted global talent / Save up to 58% on hiring - $0 until you hire
+-   [Go Perfect](https://www.goperfect.com) - Free Trial / AI-powered talent matching / Automated candidate outreach / Seamless integration
+-   [Recruit CRM](https://recruitcrm.io) - Unlimited free trial / ATS + CRM / AI-powered recruitment software / Workflow Automation - From $85/month
+-   [VideoAsk](https://videoask.com) - 20 mins of video or audio processing per month / Interactive Video Platform / AI-powered video chatbots / Video Forms / No credit card required - From $24/month
+-   [PyjamaHR](https://pyjamahr.com) - 7-day free trial / AI-powered ATS / Simplify candidate tracking - From $15 per user/month
+-   [Helio.AI](https://www.helio-ai.com) - No Starting Costs / End-to-end automated recruiting / AI-powered ATS / Gamified personality test & candidate profiling
+-   [Manatal](https://www.manatal.com) - 14-day Free Trial / AI Recruitment Software / Applicant Tracking System - From $15/per user per month
+-   [Talent Titan](https://talenttitan.com) - AI Recruitment / Data-Driven Assessments / Learning Management
+-   [Sonara](https://www.sonara.ai) - AI-powered job search automation / Automatically applies for jobs
+-   [BarRaiser](https://barraiser.com) - 5 Interviews free / AI-powered video interview intelligence / Unbiased interviews / Automated feedback & note-taking - From $75/interviewer/month
+-   [Juicebox (PeopleGPT)](https://juicebox.work) - Limited free searches / AI-powered natural language people search / Contact details & AI email outreach / AI-powered candidate review - From $79/month
+-   [Pitch N Hire](https://www.pitchnhire.com) - AI-Powered ATS / Interview Automation / Candidate Sourcing - From $299/Year
+-   [Metaview](https://www.metaview.ai) - 25 conversations per month / Automatically write interview notes / Save time and reduce manual work / Purpose-built for recruiting - From $50/month
+-   [Wobo AI](https://www.wobo.ai) - 10 Personal Job Searches, 2 AI Cover Letters free / Automated Applications / AI Resume Builder / AI Cover Letter Generator - From $24.99/month
+-   [Hirebee](https://hirebee.ai) - 14-day free trial / AI-powered automation / Streamline hiring / Access to 3000+ job sites - From $59/month for 1 recruiter
+-   [iSmartRecruit](https://www.ismartrecruit.com) - AI Recruitment Software / Hiring Automation / Applicant Tracking
+-   [Interviewer.AI](https://interviewer.ai) - 14-day free trial / End-to-End AI Video Interview Platform / AI-powered candidate screening & shortlisting - From $53/month
+-   [Canditech](https://www.canditech.io) - 100 candidates free trial / Job-simulation assessments / Technical & soft skill evaluation / Advanced anti-cheating - From $150/month for 100 candidates
+-   [Marlee](https://getmarlee.com) - 14 credits at signup + 1 daily / Collaboration & performance AI / Scalable personal coaching - From $19.99/month/user
+-   [Loubby AI](https://www.loubby.ai) - Free forever plan / 30-day free trial / AI-powered recruiting / Employee management / Payroll automation / No credit card required - From $149/month
+-   [Sourcebae](https://sourcebae.com) - 30 AI-powered interviews free / AI-powered interviews / Access to global pre-vetted talent
+-   [Voicepanel](https://voicepanel.co) - AI-moderated interviews / Built-in recruiting
+-   [ATZ CRM](https://atzcrm.com) - Unlimited free trial / AI-Powered Recruitment ATS & CRM / Seamless Resume Parsing / Automated Job Posting - From $10/user/month
+-   [The Swarm](https://www.theswarm.com) - Free 30-day trial / Combine team networks / Find warm intros / Reveal relationships - From $29/month
+-   [FidForward Talent](https://fidforward.com) - 50 profiles sourced / AI-powered candidate sourcing & outreach / AI-powered candidate matching & scoring - From $79/month
+-   [TapTalent.ai](https://taptalent.ai) - Free 7-day trial / Discover talent contacts / Run multi-channel outreach campaigns / Screen candidates using AI
+-   [Haire](https://haire.ai) - AI-Driven Smart Hiring / AI Interview Software / Reduced Hiring Time & Cost
+-   [Remotebase](https://remotebase.com) - 2-week free trial / Matches startups with top 1% software engineering talent / Engineers matched within 24 hours / Thoroughly vetted software developers
+-   [hiringcycle.ai](https://www.hiringcycle.ai) - 10-day free trial / AI-based recruitment / Simultaneous video interviews / Smart job ad creator
+-   [KaziQuest](https://www.kaziquest.com) - 30-day free trial / Recruiting Software / Applicant Tracking System / Payroll - From Ksh 3,000/Year
+-   [AI Resume builder for Recruiters](https://www.candidately.com/ai-resume-builder) - Branded resume and cover sheet creation / AI-powered resume enhancement / ATS integration and client sharing
+-   [LiftmyCV](https://www.liftmycv.com) - 3 CV submissions / Automate Job Search & Auto-Apply / ATS-Friendly Profile Builder - From $14.99 for 200 CV submissions
+-   [One Way Interview](https://onewayinterview.com) - Free / AI Validates Any Format / 100+ Pre-Built Tests - From $19.99/month (30 interviews)
+-   [recruitRyte](https://recruitryte.com) - 3-day free trial / AI Recruitment Sourcing / Semantic Deep Search / Automated Outreach
+-   [Applicant AI](https://www.applicantai.com) - AI-powered applicant screening / Reduce screening time by 80% / Filter low-quality applicants
+-   [Potis.AI](https://www.potis.ai) - 5 days free trial / AI Video Screenings / AI Behavioral Assessments / AI Interview Assistance - From $99/month (1 user)
+-   [Virtual Staffer PH](https://www.virtualstaffer.ph) - Unlimited free job post listing / Connect with Top Filipino Virtual Talent / Cost-effective, skilled, and reliable remote workers - From $45/30 days
+-   [Pera Talent Assessment](https://getpera.com) - Free for 1 or 2 candidates / Pre-employment talent assessment / AI-powered competency measurement / Unbiased hiring
+-   [Glozo](https://glozo.com) - 3 months free access / AI-Powered Sourcing / Precise Candidate Matching / Automated Screening
+-   [SourceGeek](https://www.sourcegeek.com) - Free 1-month trial / LinkedIn Automation / AI-driven candidate sourcing - From €100/month
+-   [Recrew AI](https://www.recrew.ai) - Advanced resume parsing / Bias-free screening / Intelligent talent matching
+-   [Codeaid](https://codeaid.io) - Free 2 users 5 candidate invites per month / Real-world simulated testing / Automated granular scoring / ChatGPT-Proof Assessments - From $99/month
+-   [Rapha](https://www.withrapha.com) - AI + audio responses / Capture hard-skills and culture-fit
+-   [Brainner](https://www.brainner.ai) - 25 candidates free trial / AI-driven resume screening / ATS integration - From $79/month
+-   [Celential.ai](https://celential.ai) - AI-powered recruiting / Delivers engaged tech talent / 50% cost savings
+-   [HeyMilo AI](https://www.heymilo.ai) - Free / AI-powered Interviewer / High-Volume Recruiting / Unbiased Candidate Evaluations
+-   [Hyring](https://hyring.com) - Free 14-day trial / Human-like AI Interviewer / Autopilot video interviews / Bias-free hiring / No credit card required - From $160/mo.
+-   [HumanFlow (AI hiring co-pilot)](https://humanflow.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2931)- Freemium + From $49/month, No Refunds / AI hiring co-pilot for fast-moving startups.
+
+### AI Customer Service
+
+-   [Dialpad](https://www.dialpad.com) - Free for 14 days / Ai-powered communications / Connect customers & coach teams / Unlimited calls, messages, and meetings - From $27/month
+-   [Chaport](https://chaport.com) - Free 2 operators / Live Chat / Chatbots / Knowledge base - From $29/month
+-   [OpenPhone](https://www.openphone.com) - 7-day free trial / Customer calls, texts, and contacts in one app / AI-powered answering agent (Sona) / Team collaboration - From $15/user/month (billed annually)
+-   [Crisp](https://crisp.chat) - Free plan with 2 seats / Omnichannel Team Inbox / AI Chatbot - From $45/month
+-   [Jotform AI Agents](https://www.jotform.com/try/ai-agents) - 5 AI Agents / 24/7 Customer Service / Automated Customer Service - From $34/month
+-   [tawk.to Hire Chat Agents](https://tawk.to) - 7-day free trial / Hire Chat Agents / 24x7-365 availability / Drive more leads and sales - From $129/month for 10 hours/week
+-   [Tidio](https://www.tidio.com) - Free plan available with 7-day trial / AI Customer Service Chatbot / Live Chat / Flows / No credit card required - From $24.17/month for 100 Billable conversations (billed annually)
+-   [Intercom](https://intercom.com) - Free 14 day trial / Human-quality AI Agent / AI-first Customer Service Platform - From $29/seat per month
+-   [Re:amaze](https://reamaze.com) - 14-day free trial / Shared Inbox Helpdesk / Live Chat / Chatbots - From $29/month
+-   [Gorgias](https://www.gorgias.com) - Automate support with AI Agent / Centralized Helpdesk / Drive more sales - From $10/month (includes 50 tickets)
+-   [Respond.io](https://respond.io) - 7-day free trial / AI-Powered Customer Conversation Management / Automate chats - From $79/month
+-   [Richpanel](https://www.richpanel.com) - AI-Powered Customer Service / Multichannel Management / Self-Service Automation
+-   [DocsBot AI](https://docsbot.ai) - Free tier available / Instant AI Answers from your Docs / Train with 27+ Content Sources
+-   [Callbell](https://callbell.eu) - 7 days free trial / Centralized multi-channel communication / Automated customer support - From $15/user/month
+-   [JustCall](https://justcall.io) - 14-day free trial / AI-powered phone systems and SMS solutions / Human-like Voice Agent to Handle Incoming Calls - From $29/month
+-   [Chatbase](https://www.chatbase.co) - 100 message credits/month / AI Agents for magical customer experiences / Build & deploy AI Agents - From $40/month
+-   [eDesk](https://www.edesk.com) - 14-day free trial / Unifies tickets & order data / AI Automations / AI Chatbot - From $39/month
+-   [Voiceflow](https://voiceflow.com) - 100 credits free / Build and deploy AI Agents / Collaborative design and prototyping - From $60/month for 10k credits
+-   [Omnichat](https://www.omnichat.ai) - 14-day free trial / Omnichannel Chat Commerce / AI-powered conversational suite
+-   [Userpilot](https://userpilot.com) - 14 Days Free Trial / User Insights / User Engagement / User Feedback - From $299/mo
+-   [Glassix](https://www.glassix.com) - 30-day free trial / AI-powered unified messaging / Omnichannel ticketing - From $41.65 per user/month
+-   [SleekFlow](https://sleekflow.io) - AI-personalized workflows / Omnichannel Inbox / Automate customer interactions - From S$199/month
+-   [Responso](https://responso.com) - 25 messages free / Multi-channel comms management / AI-driven customer support - From 18 GBP/month per agent
+-   [BoldDesk](https://www.bolddesk.com) - 15-day free trial / AI-powered automations / Efficient ticketing / Live chat & knowledge base / No credit card required - From $18/agent/month
+-   [Forethought](https://forethought.ai) - Automates support ticket lifecycle / Multi-agent CX automation / Lowers support costs
+-   [Pine AI](https://www.19pine.ai) - / Negotiate Bills / Cancel Subscriptions / File Complaints
+-   [klink.cloud](https://www.klink.cloud) - CRM Contacts - 100 / Omnichannel Contact Center / AI & Workflow Automation / No credit card required - From $19/user/mo
+-   [Kommunicate](https://www.kommunicate.io) - 30-day free trial / AI-Powered Customer Service Automation / Generative AI Chatbot / No Sign-Up - From $83.33/month (500 conversations/month)
+-   [Gleap](https://gleap.io) - 14-day free trial / AI-powered customer support / visual bug reporting / public roadmaps
+-   [CustomGPT](https://customgpt.ai) - 7-day free trial / Custom AI Chatbots from your content / Accurate, no-hallucination responses / Secure & Private - From $99/month
+-   [VOC AI](https://www.voc.ai/tools/chatgpt-copilot) - AI assistance for Amazon & Shopify sellers / Amazon review analysis / Listing optimization - From $99/month (AI Assist 1500/mo)
+-   [VOC AI](https://www.voc.ai) - AI-powered Reviews Analysis / Customer Insights / AI Customer Service - From $99/month
+-   [VOC AI](https://www.voc.ai/tools/ai-chatbot) - Deep customer insights / Product research / AI-powered customer service - From $99/Month
+-   [FastBots.ai](https://fastbots.ai) - 50 messages/month free / Custom AI Chatbot Builder / Train with your own data - From $29/month
+-   [Cognigy](https://www.cognigy.com) - Generative & conversational AI powered customer service agents / Agent Copilot
+-   [GetButton](https://getbutton.io/m/chatgpt-bot-button) - Free plan available / AI Chatbot Trained on Your Website / Outperforms Humans, 24/7 - From $4.99/month
+-   [LiveChatAI](https://livechatai.com) - Free 250 GPT-4o Messages / AI chatbot trained with your content / Instant, accurate responses in 95 languages - From $39/month
+-   [Bettermode](https://bettermode.com) - Free 100 Members, 20 Spaces / Customizable community platforms / AI-powered engagement / Tons of integrations - From $49/month
+-   [Mava](https://mava.app) - Free 100 support requests / month / AI-powered support / Shared Inbox / Multi-channel integration - From $83/month
+-   [BOTNOI AI CHATBOT](https://botnoi.ai) - Free 5,000 points (1000 messages) / No coding required / AI for Thai language
+-   [Chatling](https://chatling.ai) - 100 AI credits free / No-Code AI Chatbot / Train on your data - From $25/month
+-   [Userflow](https://www.userflow.com) - 14-day free trial / AI-powered product tours / In-app onboarding & support / No credit card required - From $240/month
+-   [SendWo](https://sendwo.com) - Free $0/month plan (1 WhatsApp Account, 10K contacts) / AI Powered WhatsApp Chatbot / Bulk WhatsApp Broadcasting - From $29/month
+-   [Octocom](https://www.octocom.ai) - Instant Responses / Tailored Suggestions / Effective Cross-selling/Upselling - From $100/month for up to 350 conversations
+-   [GoZen](https://gozen.io) - 250 Views per month, 5 AI questions/month / AI-powered marketing and sales automation / Unified suite for customer support and lead generation - $0/month
+-   [Notevibes](https://notevibes.com) - 14-Day Free Trial / AI Phone Call Agents / 24/7 Customer Support - From $15.83/month
+-   [Customerly](https://www.customerly.io/ai) - 14-day free trial / AI Chatbot / Customer Service / Marketing Automation - From $9/month
+-   [Ortto](https://ortto.com) - 14 day free trial / AI-powered marketing automation / Unified customer data platform / Omnichannel engagement & support - From $509/month
+-   [Wonderchat](https://wonderchat.io) - 10 free messages / Build custom AI chatbots from website/PDF in 5 minutes / Self-serve customer support / No-code setup - From $29/month
+-   [Thena](https://thena.ai) - Up to 1,000 tickets/month free / AI-powered Customer Support / Omni-channel Ticketing / Automated Workflows - From $79/user/month
+-   [Hugo AI](https://hugo.ai/en/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3105)- Free Trial + From $45/month, No Refunds / AI support agent that resolves tickets faster.
+-   [Enquiry Genie](https://www.enquirygenie.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2862)- Free Trial + From $39/month / AI email assistant for property managers.
+-   [HintGo](https://hintgo.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2583)- Freemium + From $50/month, No Refunds / AI that asks the follow-up questions for product feedback.
+
+### AI Interview Assistant
+
+-   [ParakeetAI](https://www.parakeet-ai.com) - Real-time AI Interview Assistant / Full Coding Interview Support / Multilingual 52 Languages - $29.50 for 3 Interview Credits
+-   [Final Round AI](https://www.finalroundai.com) - Trial up to 5 mins / Real-time Interview AI Copilot / End-to-end Interview Preparation - From $49/MON
+-   [LockedIn AI](https://www.lockedinai.com) - 10 minutes free daily / AI Interview & Meeting Copilot / Coding Copilot
+-   [Verve AI](https://www.vervecopilot.com) - 15-min Copilot Session x 3 / AI Mock Interviews x 5 / AI Resume Builder / Live Chat Support / Real-time Interview Assistance / AI Mock Interview - From $14.45/month
+-   [Insight7](https://insight7.io) - 3 Files, 3 Transcriptions, 1 Project & 9 questions free / AI-powered customer research / Automated transcription & analysis - From $24/month (billed annually)
+-   [Yoodli](https://www.yoodli.ai) - Up to 5 Yoodlis / Private, realtime AI speech coaching / Reduce filler words & track progress - From $8 USD / month
+-   [Interview Coder](https://www.interviewcoder.co) - Free plan / Real-time coding assistance / Undetectable during technical interviews / Detailed solution explanations - From $25/month (billed annually)
+-   [PyjamaHR](https://pyjamahr.com) - 7-day free trial / AI-powered ATS / Simplify candidate tracking - From $15 per user/month
+-   [Interviews Chat](https://www.interviews.chat) - 30 free credits / Real-time AI Interview Copilot / Tailored Interview Practice & Feedback - From $19/month
+-   [Talent Titan](https://talenttitan.com) - AI Recruitment / Data-Driven Assessments / Learning Management
+-   [Wonsulting](https://wonsulting.com) - Free AI Job Search Tools / Career Coaching / Resume & LinkedIn Revision / No Credit Card Required - From $17/month
+-   [BarRaiser](https://barraiser.com) - 5 Interviews free / AI-powered video interview intelligence / Unbiased interviews / Automated feedback & note-taking - From $75/interviewer/month
+-   [WonsultingAI](https://www.wonsulting.ai) - Free resume & cover letter tailoring / Free job tracking / Free interview practice / AI-powered job search tools - From $19.99/mo
+-   [Linkjob.ai](https://www.linkjob.ai) - 30-minute free trial for mock interviews / Real-time Responses / Mock Interview Practice - From $24.99/month (Billed Yearly)
+-   [Pitch N Hire](https://www.pitchnhire.com) - AI-Powered ATS / Interview Automation / Candidate Sourcing - From $299/Year
+-   [Sensei AI](https://www.senseicopilot.com) - 15-min Copilot Sessions free / Real-time Interview Copilot / Job-Winning Interview Answers / Fully undetectable - From $24/month billed annually
+-   [Hirevire](https://hirevire.com) - 7-day free trial / Automated video, audio & file screening / One-way video interviews - From $19/month
+-   [Interviewer.AI](https://interviewer.ai) - 14-day free trial / End-to-End AI Video Interview Platform / AI-powered candidate screening & shortlisting - From $53/month
+-   [JobBridge](https://jobbridge.io) - 3 Interview Sessions (10 min each) free / Real-time Assistance / Undetectable Support / Personalized answers - From $19/month
+-   [Interviews by AI](https://interviewsby.ai) - 3 questions per month / Tailored interview questions / Instant AI feedback - From $9/month
+-   [Loubby AI](https://www.loubby.ai) - Free forever plan / 30-day free trial / AI-powered recruiting / Employee management / Payroll automation / No credit card required - From $149/month
+-   [Reaidy.io](https://www.reaidy.io) - 30 job applies per month / AI Job Matching / AI Interview - From ₹119/month
+-   [Huru](https://www.huru.ai) - AI Feedback / Practice from job descriptions - From $24.99/month
+-   [Sourcebae](https://sourcebae.com) - 30 AI-powered interviews free / AI-powered interviews / Access to global pre-vetted talent
+-   [InterviewPal](https://www.interviewpal.com) - 3 credits daily / AI interview prep / Real interview questions from top companies - From $1.99/week
+-   [Voicepanel](https://voicepanel.co) - AI-moderated interviews / Built-in recruiting
+-   [ResuFit](https://www.resufit.com) - Free Basic plan / AI-Powered Resumes / Tailored Job Applications / AI Interview Training - From $9.99/month
+-   [Skillora](https://skillora.ai) - 1 FREE AI Interview / Customizable mock interviews / Instant feedback - From $19/month
+-   [CTRLpotato](https://www.ctrlpotato.com) - 10 free uses / Real-Time AI Interview Assistant / 100% undetectable / No card required - From $29/month
+-   [Interview Solver](https://interviewsolver.com) - Solves all Leetcode style problems / Invisible to screensharing / Transcribe from audio - From $39/month
+-   [Mockin](https://mockin.work) - Professional real-time AI interviews / Personalized feedback & resume matching
+-   [InterviewAI](https://interviewai.me) - 1 free token / AI-based tailored questions / Performance feedback - From $7.99 (10 questions)
+-   [One Way Interview](https://onewayinterview.com) - Free / AI Validates Any Format / 100+ Pre-Built Tests - From $19.99/month (30 interviews)
+-   [InterviewBee](https://interviewbee.ai) - 1 live interview/month, 2 mock interviews/month / Real-time talking points / AI mock interviews - From $29/month
+-   [Interview Prep AI](https://interviewprep-ai.com) - 1 Interview Simulation / 12 questions free / Simulate real job interviews / Get instantaneous feedback - From €10 / 5 Interview Simulations
+-   [Leetcode Wizard](https://leetcodewizard.io) - Instantly providing answers to all Leetcode problems / Invisible desktop app with undetectable hotkeys - From €49/month
+-   [Hatchways](https://www.hatchways.io) - Send up to 10 invites / GitHub-based real-world technical assessments / Simulate real-world tasks (e.g. creating or reviewing a pull request) - Starting at $100/month
+-   [Perspective AI](https://getperspective.ai) - First 25 customer conversations free / AI-powered customer conversations / Research-backed specs, journey maps, and insight reports
+-   [OfferGenie](https://offergenie.ai) - 2 free 15-min sessions / AI powered mock interviews / real-time AI interview copilot / multi-device Live Advanced feature - From $29
+-   [Day One Careers](https://dayone.careers) - Free Taster Course / Expert Amazon interview prep / AI tools - From $100/one time
+-   [UserCall](https://www.usercall.co) - Try It Now Free / AI-Moderated Voice Interviews / Automated Qualitative Analysis - From $89/month
+-   [Yasna.ai](https://yasna.ai) - Free 100 credits/month (± 10 interviews) / Automate human-like interviews / AI-powered data processing & reporting / Multi-language capability - From €200/month
+-   [iPrep.Ai](https://www.iprep.ai) - AI-powered mock interviews / Live coding challenges / Personalized feedback - From ₹ 499 for 3 mock interviews
+-   [Interm AI](https://interm.ai) - 10 interviews / 5 minutes per interview free / Real-time AI Interview Assistant / Instant AI-generated answers - $10 / pack
+-   [HeyMilo AI](https://www.heymilo.ai) - Free / AI-powered Interviewer / High-Volume Recruiting / Unbiased Candidate Evaluations
+-   [Shadowing AI](https://shadowing.ai) - One free trial on sign-up / Live Interview Preparation / Actionable Feedback & Interview Analytics - From $10/month
+-   [Behired](https://behired.net) - AI-Powered Cover Letters / Tailored Resumes / Personalized Interview Prep - SGD 19/month
+-   [Hyring](https://hyring.com) - Free 14-day trial / Human-like AI Interviewer / Autopilot video interviews / Bias-free hiring / No credit card required - From $160/mo.
+-   [Screenify](https://screenify.ai) - Try free for 7-days / Human-like AI interviews / Fully automated, intelligent, and consistent - From $149/month
+-   [EzIntervuez](https://www.ezintervuez.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3144)- Freemium + From $99/month, 30 days free trial / Interview Intelligence, Automate. Analyze. Acquire.
+
+### AI Call Center
+
+-   [CallHippo](https://callhippo.com) - Free 3 users / 10-day free trial / Virtual Phone System / AI-driven inbound calls / Increased Productivity - From $10/month
+-   [OpenPhone](https://www.openphone.com) - 7-day free trial / Customer calls, texts, and contacts in one app / AI-powered answering agent (Sona) / Team collaboration - From $15/user/month (billed annually)
+-   [Callin.io](https://callin.io) - 3 min. of free calls / AI-driven voice assistant / White Label AI Call Center Platform - From $30/month
+-   [Bland AI](https://bland.ai) - Automate phone calls with conversational AI / Human-sounding AI agents 24/7 - From $0.09/minute
+-   [Teloz](https://teloz.com) - 14 days free trial / Omnichannel experience / Cloud Contact Center / AI-powered communication - From $10.99/mo
+-   [Ringflow](https://www.ringflow.com) - 14 Days Free Trial / AI-Powered Cloud Communication / Omnichannel Support / Real-Time Analytics - From $9.99/month
+-   [Synthflow AI](https://synthflow.ai) - 14-day free trial / Automate phone calls with AI voice agents / No coding or tech skills needed / Human-Like, Natural Conversations
+-   [Insighto AI](https://insighto.ai) - Get $10 in Free Credits / Automate Calls & Chat / 24/7 AI Agents - From $49/month
+-   [DialLink](https://diallink.com) - 7-day free trial / Cloud Phone System / AI Voice Agents - From $15/user/month (billed annually)
+-   [Frontdesk | AI Phone Receptionist](https://myaifrontdesk.com) - 7-day free trial / Automate calls / Schedule appointments / 24/7 AI phone receptionist - From $65/month
+-   [JustCall](https://justcall.io) - 14-day free trial / AI-powered phone systems and SMS solutions / Human-like Voice Agent to Handle Incoming Calls - From $29/month
+-   [NewOaks AI](https://www.newoaks.ai) - 100 message credits/month / AI chatbot builder / Human-like AI Phone Calls - From $19/month
+-   [MiiTel](https://miitel.com) - AI-powered analytics / Smart PBX - From $69/month
+-   [Phonely AI](https://phonely.ai) - First 500 minutes free / AI-powered answering services / Scalable customer support / Multi-language & voice cloning - From $33/month (200 minutes)
+-   [StrideQ](https://strideq.com) - First Month Free / Automatically capture lost phone orders and increase your revenue / Labor cost reduction / No account or password required for customers
+-   [Thunai](https://www.thunai.ai) - 100 AI Credits/Month / Automate Support, Sales & Marketing / Smart Knowledge Management - From $9/month
+-   [Dolphin AI](https://getdolphin.ai) - Automated tracking of customer insights from calls / Close the loop with Customers and Product
+-   [SalesRender CRM](https://salesrender.com/en) - 14-day free trial / Automate dialers / Track team productivity / Audit calls with AI
+-   [fiXit](https://www.fix-it.ai) - 100 recordings free credit / Analyze customer interactions / Optimize revenue & reduce cost - From $0.025 per minute
+-   [BookedSolid](https://bookedsolid.co.uk) - 14-day free trial / Automated client communication & scheduling / 24/7 availability - From £39/mo for 1 Practitioner
+-   [TeleWizard](https://www.telewizard.ai) - Free Trial / AI call center set up in under 5 minutes / Human-like AI agents / 24/7 multilingual support
+-   [Callab AI](https://callab.ai) - / AI-powered automation for appointments, customer service & cold calling / Human-like AI Voice Agents / Supports Arabic Dialects - From $240/month - 2000 Minutes/Month
+-   [klink.cloud](https://www.klink.cloud) - CRM Contacts - 100 / Omnichannel Contact Center / AI & Workflow Automation / No credit card required - From $19/user/mo
+-   [Adola AI](https://adola.ai) - 7 days free trial, 25 min included / AI voice assistants with phone systems / Outbound Call Services - From $25/month
+-   [Blobfish AI](https://www.blobfish-ai.com) - Free trial / AI call center training with voice AI roleplay / Immediate feedback
+-   [LangCall](https://www.langcall.com) - Limited time of AI calls / AI That Makes and Answers Phone Calls / Skip Hold Music - From $5.99/month
+-   [CallZen](https://callzen.ai) - 14-day trial / Automated Call Audits / Agent Performance Management / Conversational Analytics
+-   [Brilo AI](http://brilo.ai) - 10 Minutes/month free / Human-like AI Phone Calls / Improve customer satisfaction - From $49/month
+-   [Simple AI](https://www.usesimple.ai) - AI powered phone calls / Build hyper realistic voice agents / Speak 29 languages
+-   [Simple Phones](https://simplephones.ai) - 14-day free trial / Answer calls using AI / Customizable AI voice agent - From $49/mo for 100 calls
+-   [CaseGen](https://casegen.ai) - 14 days free trial / AI-powered communication platform / Handles intake calls / Manages medical updates & lead follow-ups
+-   [Instadesk](https://www.instadesk.com) - 14-day free trial / Integrated customer contact system / 24/7 AI assistant / AI and human collaboration
+-   [NexaVoxa](https://nexavoxa.com) - 60 minutes in free credits / Automate business calls / Human-like AI voice agents - From $500/month
+-   [Autonomous Agent](https://autonomousagent.in) - 60 mins free credits / Automate phone calls with AI voice agents / Automate inbound and outbound phone calls - From $19/Month
+-   [Notevibes](https://notevibes.com) - 14-Day Free Trial / AI Phone Call Agents / 24/7 Customer Support - From $15.83/month
+-   [BSwan AI](https://bswan.ai) - First 100 calls (400 mins) free / AI-powered calling agents / Lead Qualification / Appointment Setting & Reminders - From $0.5/minute
+-   [SmileDial.io](https://smiledial.io) - Month long free trial / AI-powered, 24/7 receptionist / Maximize Your Bookings / PHIPA Compliant
+-   [Automaticall](https://automaticall.io) - 1-day free trial / AI assistant handles missed calls 24/7 / Books appointments for you - From $9.99/month
+-   [WebAll](https://weball.ai) - Free for the first 250 minutes / AI-powered call answering / Appointment scheduling - From $105.00/month (up to 250 minutes)
+
+### AI Product Manager
+
+-   [Productboard](https://www.productboard.com) - Free 50 feedback notes / Understand customer needs / Prioritize features & align roadmap - From $25/month
+-   [ChatPRD](https://www.chatprd.ai) - AI Copilot for Product Managers / Draft & improve product docs / Coaching on PM skills - From $5/month
+-   [Arc](https://arc.dev) - 2-week risk-free trial / AI recruiter for instant matches / Access vetted global talent / Save up to 58% on hiring - $0 until you hire
+-   [Ignition](https://haveignition.com) - Free / AI-powered GTM plans / Competitive intelligence / Product roadmaps - From $99/editor/mo
+-   [Zeda.io](https://zeda.io) - 14 dAYS TRIAL / AI Product Management Software / Voice of Customer led Product Insights - From $499/month
+-   [Olvy](https://olvy.co) - Analyze up to 25 Feedback / AI Feedback Analysis / Feedback Widgets - From $60/month
+-   [Narratize](https://www.narratize.com) - 14-day free trial / Automate Product Documentation with AI / Unify Product Knowledge - From $89/user/month
+-   [Full.CX](https://full.cx) - Free forever / AI-powered requirements generation / Developer-approved requirements - From $29.99/month
+-   [VelocitiPM](https://www.velocitipm.com) - AI Co-Pilot / Product Strategy & Planning / Problem-Opportunity Mapping - From $59/month
+-   [Earmark](https://www.tryearmark.com) - 14-day free trial / Real-time AI-powered assistant / transforms live meeting conversations into finished deliverables - $8/month for 20 meetings
+-   [Iterato](https://iterato.in) - 14-day free trial / AI-Powered Conversational Feedback / Intelligent Insight Reports / Turns every response into actionable insights - From $99/month
+-   [Boggl.ai](https://boggl.ai) - 15,000 tokens free / Voice AI-powered assistant / Generate Product Requirements, Release Notes & Customer Docs - From $19/month
+-   [Enzzo AI](https://enzzo.ai) - 7-day free trial / AI-powered product manager / generates requirements / competitive insights - From $25/month
+-   [GeniePM](https://genie.pm) - Create sharp user stories, use cases, and more / Generate a full set of tickets / Compatibility with JIRA, Notion, ClickUp and CSV - From $9.99/month
+-   [Product Lab](https://product-lab.ai) - Free plan / Automates customer profiles, personas, and journey maps / AI-first Product Discovery
+-   [ProdOps.AI](https://prodops.ai) - Generative AI / Automate routine tasks / Integrations with GitHub, Jira, Notion, Google Sheets - From $50/user/month
+-   [Prodely](https://prodely.com) - 1 Active project, 1 Opportunity Solution Tree, 1h mo. of audio transcription free / AI-Generated Opportunity Solution Trees / Smart Transcriptions - From $20.00/month per user
+-   [Rock-n-Roll](https://rocknroll.dev) - 1 free project / Structured product plans / AI-ready prompts - From $10/month
+-   [metastory AI](https://metastory.ai) - Free Forever / AI Requirement Generation / Fastest Editor for requirement gathering - No Credit Card
+-   [PRDKit](https://prdkit.ai) - 10 credits / AI-powered PRDs / Visual user flows - From $15/month (billed yearly)
+-   [Penome](https://penome.com) - Free 30-day trial or lifetime for single users / AI-powered productivity / AI-powered feedback management / Data-driven goal setting & prioritization - From $19/month
+-   [Visionari](https://visionari.me) - 7-day free trial / Collect, Prioritize & Act on Feedback / Transform Feedback into Features - From $19/month
+-   [Productcore](https://productcore.ai) - Forever Free / Inspire creativity / Teach ProdOps / Streamline product development - From $19/month
+-   [SubSeq](https://subseq.io) - Free (3 users, 3 projects) / AI Ticket Generation / Automated Backlog Grooming / Sprint Planning - From $16 per user/month
+-   [Discovery Outcomes](https://discoveryoutcomes.com) - Free 3 Months Trial / AI-driven insights / Streamlined Workflows
+-   [Nostic](https://nostic.app) - Visualize workflows, tickets and project breakdowns / Supercharge ideation and writing with AI / Seamless integration with Jira, Notion and Asana
+-   [SyncBob](https://syncbob.com) - 100 Products Free / Sync Products to Marketplaces / Automatic Specification Filling - From €29.99/month (1,000 Products)
+-   [Feedback Sync](https://www.feedbacksync.ai) - 14 Day Trial, 10 free AI searches per month / Extracting insights from support threads and customer interviews / Unlimited users - From $99/month
+-   [Proddy.io](https://proddy.io) - AI-powered product documentation / Streamline product development process - From $10/month
+-   [ProductMix](https://leanbe.ai) - Free 1 Product, 1 Team Member / Collect user feedback / Prioritize features / Keep customers informed about product updates - From $20/month
+-   [Kraftful](https://www.kraftful.com) - Free 1,800 words/mo / Deep AI analysis of user feedback / Generate surveys & AI-powered user interviews - From $15/month
+-   [Monterey AI](https://www.monterey.ai) - Start for Free / Customer Feedback Analysis / AI-powered Insights & Triage / Workflow Integration
+-   [Canvas AI](https://www.canvasai.de) - / AI-powered strategy canvas generation / AI-driven business model illustration / -
+-   [Crowd](https://crowdapp.io) - 14-day free trial / Unifies analytics, session recordings, heatmaps, feedback / AI-powered insights - $29/mo for up to 5,000 MTU
+-   [NextSprints](https://nextsprints.com/resume-review) - AI-powered resume analysis / 32,000+ PM Questions - From S$25.00/month
+-   [Augmeta](https://augmeta.ai) - AI-driven efficiency for product decisions / Centralized workflows & instant context / Actionable insights & clear next steps
+-   [Yasna.ai](https://yasna.ai) - Free 100 credits/month (± 10 interviews) / Automate human-like interviews / AI-powered data processing & reporting / Multi-language capability - From €200/month
+-   [UGC Maker](https://ugcmaker.io) - 10 credits upon registration / Generate Authentic UGC Ad Videos / Turn Links into Videos / Scaled by AI - From $9/month
+-   [Lensmor](https://www.lensmor.com) - 14-day free trial / AI-powered competitor monitoring / Actionable insights & strategic plans - From $49/month for 5 competitors
+-   [Mockaroni](https://mockaroni.ai) - 1 question and answer free / AI-Powered Interviews / Personalized Feedback - From $30/month
+-   [BestDealer](https://www.bestdealer.com) - 3 free sourcing requests / Flash Sourcing / Reliable Order Fulfillment / Free Branding - From $49/month
+-   [BrainGrid](https://www.braingrid.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3207)- Free Trial + From $10/month, No Refunds / The AI Product Planner: Structure Ideas for AI
+-   [Levr](https://levrhub.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3246)- Free Trial + From $25/month, No Refunds / Boardroom advice accessible to every company.
+-   [Crucible AI Braintrust - Decision Intelligence Platfo...](https://www.roundtablelabs.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2696)- Free Trial + From $5, One-time, Full refund available within 24 hours of session completion if unsatisfied (max 1 refund per month). Automatic refunds provided for system errors. We reserve the right to deny refunds for abuse. Refunds process in 5-7 business days. / The only AI designed to disagree with you.
+
+### AI ERP
+
+-   [ERP.AI](https://www.erp.ai) - Free 10 Users, 1,000 Agent Credits, 1,000 Records / AI-Powered Applications / Autonomous AI Agents - From $9/month
+-   [Edmin](https://edmin.co) - Free trial / AI-powered education administration / Seamless accreditation optimization / Integrated academic operations
+-   [Inventory365](https://inventory365.co) - 14-day free trial / AI-powered inventory management / Multichannel Integration / Automated Order Processing - From $379/month
+-   [TribeArc](https://tribearc.com) - Send 2000 emails for free / Build landing pages / Send Emails & SMS / Create Online Courses - From ₦3,000/month for 1,000 contacts
+-   [Gauss Box](https://gaussbox.com) - All-in-one Business Solution / Optimize Business Processes / Intelligent Workflow Processes - From €12,49/month
+-   [DuoSoft Yazılım](https://duosoft.co) - 30-minute free consultation / Custom Software Development / Open Source ERP Solutions
+-   [Dxyfer](https://www.dxyfer.com) - Free 150 Credits/Month / Effortless data analysis / Document understanding / Dynamic dashboard creation - From $39/month (Billed Annually)
+-   [DocuClipper](https://www.docuclipper.com) - 14-day free trial, 200 free pages / Extract financial data from bank statements, invoices, and receipts / Automate & Integrate / Export to Excel, CSV, and accounting software - From $27/month
+-   [Logistify AI](https://www.logistify.ai) - / Automate sales & procurement data entry / Automate sales lead generation & outreach / AI-powered inventory verification / - From $150/month (500 AI tasks/month)
+-   [DocumentPro](https://www.documentpro.ai) - 20 free credits per month / AI Powered Document Processing / Workflow Automation - From $16/month (400 credits)
+-   [多平台跨境工具](https://chromewebstore.google.com/detail/%E5%BA%97%E5%B0%8F%E5%AE%9D/mpejmbnlbgamjhgnoongmdnpmhoeilje) - Free / Multi-platform cross-border tool / Collection & fast product listing / AI image processing
+-   [Clyr](https://getpersona.app) - Free Demo / Automated Expense Management / AI-driven Expense Tracking
+-   [FinanceOps](http://financeops.ai) - 1-month free trial / Automate collections with compliant chatbot / Slashing costs by 30-60%
+-   [ROK Solution](https://rok-solution.com/en) - Free trial / Hyperautomation / Generative AI / Security & Compliance
+-   [Memento Database](https://mementodatabase.com) - 100 MB Cloud Storage, 3 libraries free / AI-powered, no-code data management / Customizable databases for personal & business - From $4/mo
+
+### AI Roadmap
+
+-   [Productboard](https://www.productboard.com) - Free 50 feedback notes / Understand customer needs / Prioritize features & align roadmap - From $25/month
+-   [Ignition](https://haveignition.com) - Free / AI-powered GTM plans / Competitive intelligence / Product roadmaps - From $99/editor/mo
+-   [SkillAI](https://skillai.io) - Up to 3 learning paths free / Create personalized learning paths / Progress tracking - From $3.90/mo
+-   [ProductRoadmap.ai](http://productroadmap.ai) - 1 Roadmap w/ 100 Items & 5 GTM plans free / AI roadmapping suite / Revenue-based prioritization / Automated sales notifications - From $99/Editor/mo
+-   [Zeda.io](https://zeda.io) - 14 dAYS TRIAL / AI Product Management Software / Voice of Customer led Product Insights - From $499/month
+-   [Nudger](https://www.getnudger.com) - AI-powered interactive roadmap planner / Progress Tracking / Smart Scheduling / No Login Required
+-   [Validea](https://validea.co) - 2 validation tokens per month / Quick Idea Scoring / Insightful Results - From $9.99/month
+-   [Grain AI](https://www.grain99.cc/en/home?hmsr=toolify) - Free 1,000 AI credits per month / Create Fun, Interactive Lessons / Generate 10+ teaching materials - From $9.9/month
+-   [pre.dev](https://pre.dev) - 2 Prototype Generations / Predict Software Costs / Hire Vetted Developers / No credit card required - From $14/month
+-   [Boggl.ai](https://boggl.ai) - 15,000 tokens free / Voice AI-powered assistant / Generate Product Requirements, Release Notes & Customer Docs - From $19/month
+-   [ITONICS](https://www.itonics-innovation.com) - 30 days FREE / Foresight / Ideation / Portfolio
+-   [Existential](https://getexistential.com) - AI-powered personalized career recommendations / Step-by-step roadmap & guidance
+-   [ScrumDesk](https://scrumdesk.com) - 4 free users / Scrum Project Management / AI Copilot / Objectives & Key Results - From $9/user/month
+-   [Rock-n-Roll](https://rocknroll.dev) - 1 free project / Structured product plans / AI-ready prompts - From $10/month
+-   [ProductGo](https://userstorymap.io) - 30-day free trial / User Story Map / Roadmap / Advanced Personas - Free for up to 10 users
+-   [Penome](https://penome.com) - Free 30-day trial or lifetime for single users / AI-powered productivity / AI-powered feedback management / Data-driven goal setting & prioritization - From $19/month
+-   [Visionari](https://visionari.me) - 7-day free trial / Collect, Prioritize & Act on Feedback / Transform Feedback into Features - From $19/month
+-   [EpicStart](https://www.epicstart.ai) - User Story Generation / Comprehensive Market Research / Idea Analysis / No credit card required - From $12.99/month
+-   [SubSeq](https://subseq.io) - Free (3 users, 3 projects) / AI Ticket Generation / Automated Backlog Grooming / Sprint Planning - From $16 per user/month
+-   [Whenable](https://info.whenable.app) - Personal Roadmap / AI-powered task management / Achievement sharing - From $4.99/month
+-   [Wizlink](https://ai.wiz.link) - 5 queries per day / AI-powered Mobile Landing Pages / Game-changing Link-in-Bio Tool / Interactive Widgets
+-   [Match That Role AI](https://matchthatroleai.com) - AI-powered job matching / Resume optimization / 5-year career action plan
+-   [AppFlows](https://appflows.ai) - FREE Forever / Create visual app specifications / Scope, estimate & visualise app ideas / Plan mobile growth campaigns
+-   [Plan Quest](https://plans.quest) - Up to 3 plans created from scratch / AI-assisted goal planning / Smart task management / Progress tracking - From US$9.99/month
+-   [Miro](https://miro.com) - Free 3 editable boards / Online collaborative whiteboard / AI-powered collaboration - From $10/month per member
+-   [ProductMix](https://leanbe.ai) - Free 1 Product, 1 Team Member / Collect user feedback / Prioritize features / Keep customers informed about product updates - From $20/month
+
+[⬆️ Back to README](./README.md)

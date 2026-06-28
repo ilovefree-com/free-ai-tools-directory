@@ -1,0 +1,778 @@
+# Voice Generation & Conversion
+
+[⬆️ Back to README](./README.md)
+
+## Voice Generation & Conversion | I Love Free
+
+> Find free AI transcription, voice generation, and text-to-speech tools. Create and transform audio content at no cost.
+
+### AI Transcription
+
+-   [Otter.ai](https://otter.ai) - 300 monthly transcription minutes / AI meeting assistant records, transcribes and summarizes in real time / Otter AI Chat - From $16.99/month
+-   [Clipto.AI](https://clipto.com) - 7-day free trial / AI Transcription / 99% transcription accuracy / 99+ languages supported - From $8.99/month
+-   [Heidi Health](https://www.heidihealth.com) - Free with 10 Pro actions / Transcribes visits & generates notes / Custom templates / Multilingual - From $99/month
+-   [Klangio](https://klang.io) - 20 seconds free / Transcribe Music into Notes / Create Sheet Music, TABs, MIDI and MusicXML
+-   [Krisp](https://krisp.ai) - Free 60 min/day Noise Cancellation & 2 AI notes/day / Noise Cancellation / AI Note Taker - From $16/month
+-   [Tactiq](https://tactiq.io) - 10 transcripts / mo & 5 AI credits / mo / Bot-free real-time transcripts / AI summaries & action items / Actionable workflows - From $8/month
+-   [Descript](https://www.descript.com) - 1 transcription hour free / Edit videos & podcasts by typing / AI editing tools - From $24/month
+-   [Fireflies.ai](https://fireflies.ai) - 800 mins storage/seat & limited AI summaries free / Meeting Transcription / AI Summaries / AI Powered Search - From $10/month, billed annually
+-   [Freed](https://getfreed.ai) - 7 day free trial / AI medical scribe / Instant clinical documentation - From $99/month
+-   [Happy Scribe](https://happyscribe.com) - 10-minute free trial / Audio Transcription & Video Subtitles / AI-powered & Human-made services - From $9/month
+-   [tl;dv](https://tldv.io) - Free forever / AI Notetaker for meetings / CRM updates & follow-up drafting / AI-powered Sales Coaching & Insights
+-   [Rask AI](https://www.rask.ai) - 1 free minute / AI Video Localization / Dubbing / Perfect Lip-Syncing / No Credit Card Required - From $50/month
+-   [ScreenApp](https://screenapp.io) - Free 3 AI Credits / AI Notetaker / Transcription / Summarizer - From $14/month
+-   [Transkriptor](https://transkriptor.com) - Free 90 minutes / 99% accurate audio transcription / AI summaries & action items / Supports 100+ languages - From $8.33/month
+-   [Maestra AI](https://maestra.ai) - 10 minutes free trial / AI Transcription / Subtitles / Multilingual Voiceovers / No account required - From $23/month
+-   [Noteey](https://www.noteey.com) - Free up to 3 projects, 100 cards, 3 PDFs, 3 videos/audios / Visual Note-taking / Infinite Canvas / PDF & Video Annotation / No account or signup required - From $10/month
+-   [Deepgram](https://deepgram.com/free-transcription) - Convert conversations, audio files, or YouTube videos to text / Supports over 36 languages
+-   [MeetGeek](https://meetgeek.ai) - Free 3 hours of transcription / mo / records & transcribes meetings / AI summaries - From $15/month
+-   [Nutshell](https://www.nutshell.com/crm) - 14-day free trial / User-friendly Sales & CRM / Sales Automation / Email & Calendar Sync / No credit card required - From $13/month per user
+-   [Speak AI](https://speakai.co) - 7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant - From $15/month
+-   [Noota](https://www.noota.io) - Free 300 min & 10 AI credits / AI-powered meeting assistant / Automates note-taking & custom reports - From $19/month/user
+-   [Podwise](https://podwise.ai) - Free 4 AI-enhanced episodes / 3 AI queries per day / Transcribes, extracts insights & summarizes dense episodes / Integrates with Notion, Readwise & more / No credit card required - From $5.90/month
+-   [Sonix](https://sonix.ai) - 30 minutes free transcription / Automated transcription / Translation / AI Analysis - From $22/month
+-   [SubEasy](https://www.subeasy.ai) - 3 x 30 mins Free Transcribe Daily / AI Subtitle & Transcription / AI Translation / Subtitle Reflow - From $7.42/month
+-   [UniScribe](https://www.uniscribe.co) - 120 minutes / 5 files per day / Convert audio and video to text / Generate summaries, mind maps, and key questions - From $6/month
+-   [Bluedot](https://www.bluedothq.com) - 5 meetings lifetime / Record, transcribe & summarize meetings / Automate CRM updates - From $18/member/month
+-   [Easy-Peasy.AI](https://easy-peasy.ai) - 1,000 words free / Content Creation / Image Crafting - From $8/month (billed yearly)
+-   [Dictanote](https://dictanote.co) - Ten 3-minute voice notes (AudioScribe) / Voice typing notes / Multi-lingual support / AI summarization - From $5/month (billed yearly)
+-   [Transmonkey AI Translator Suite](https://www.transmonkey.ai) - Free trial credits / Document, Image, Video Translation / Preserves Original Layout / Dubbing & Subtitle Translation - From $8.3/month
+-   [Bubbles](https://www.usebubbles.com) - Free with 30 min/recording, 5 meetings/week / AI Meeting Note Taker / AI action items and summaries - From $22/month
+-   [Grain](https://grain.com) - 1 notetaker seat / AI Meeting Notes / AI Coaching - From $19/month
+-   [TurboScribe](https://turboscribe.ai) - 3 Free Transcripts Daily / Unlimited Audio & Video Transcription / 99.8% Accuracy - From $10/month
+-   [Voiceform](https://www.voiceform.com) - Free trial / Voice, Video & Text Surveys / AI-powered Insights / Qualitative Data at Scale
+-   [Supernormal](https://supernormal.com) - Free / 1K minutes of storage per member / AI-powered meeting notes / AI-powered summaries - From $10/month billed annually
+-   [SaladCloud](https://salad.com) - 5-audio hour transcription free trial / Save up to 90% on cloud costs / Deploy AI/ML production models easily - From $0.005/month
+-   [Zeemo](https://zeemo.ai) - Free 10 credits / Auto-generate and translate video captions / 98% Accuracy rate - From $9.17/month
+-   [Cockatoo](https://www.cockatoo.com) - Superhuman speech to text accuracy / Transcribe in 90+ languages - From $9.99/month
+-   [JotMe](https://www.jotme.io) - 20 minutes of monthly translation / Real-time translation & transcription / AI meeting notes & document generation - From $9/month
+-   [AssemblyAI](https://www.assemblyai.com) - Free $50 of credits / 416 hours of prerecorded audio / Speech-to-Text / Speech Understanding - From $0.12/hr
+-   [Good Tape](https://goodtape.io) - 3 tapes free / Fast, secure and accurate transcription / Turn audio recordings into text - From 15 EUR/month
+-   [TwinMind](https://twinmind.com) - Unlimited hours of transcription and AI chats for free / AI Second Brain for capturing and summarizing / Perfect notes and memory recall - From $10/month
+-   [Designrr](https://designrr.io) - Free 7 Day Trial / Create eBooks, Kindle books, Leadmagnets, Flipbooks and Blog posts / Repurpose content from web pages, videos, podcasts, & PDFs - From $29/month
+-   [SaladCloud](https://salad.com/transcription) - 5 hours free / AI Speech-to-Text / Lowest GPU Prices - From $3.65/month
+-   [ScriptMe](https://scriptme.io) - 15 min free transcription / Transcribe audio/videos / Add subtitles / Translate - From $45/month
+-   [Transcri.io](https://transcri.io) - 15 minutes per month / AI-Powered Transcription / Subtitle Generation - From 3€/month
+-   [WhisperTranscribe](https://whispertranscribe.com) - Free 60 minutes / Fast and accurate transcripts with timestamps using AI / Generate new content from transcripts - From $19.99/month
+-   [Gladia](https://www.gladia.io) - 10h/month free / AI transcription / translation
+-   [superwhisper](https://superwhisper.com) - Free Basic features / AI powered voice to text / 3x faster typing speed - From $8.49/month
+-   [Castmagic](https://www.castmagic.io) - AI-powered content repurposing / Accurate transcription - From $23/month
+-   [Voiser](https://voiser.net) - Free 50 characters for Text-to-Speech and 5 minutes for Speech-to-Text / Accurate Speech-to-Text / Natural-sounding Text-to-Speech
+-   [HappySRT](https://www.happysrt.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3408)- Freemium + From $4.99/month / Open-source AI transcription, translation & summarization
+-   [Riverside - YouTube Transcript Generator](https://riverside.com/tools/youtube-transcript-generator?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2835)- Free Trial + From $24/month, Users can request a full refund for monthly subscriptions if canceled within 48 hours of purchase, or for yearly subscriptions if canceled within 14 days. Credit purchases are non-refundable / Convert YouTube videos to text with 99% accuracy.
+
+### AI Voice Generator
+
+-   [SuperMaker AI Video Generator](https://supermaker.ai) - 20 Free Credits / AI Video Generator / AI Image Maker / AI Music Maker / No login required - From $8.3/month
+-   [Voicemod](https://www.voicemod.net) - Real-time voice changer / Soundboard / Voice creation with Voicelab
+-   [Audimee](https://audimee.com) - 15 min of conversions free / Convert vocals with royalty-free voices / Train your own voices / Harmony maker - From $12/month
+-   [Fineshare FineVoice](https://www.fineshare.com/ai-voice-generator) - Free 2,000 TTS characters per month / AI Voice Generator / AI Voice Cloning / Text to Speech - From $5.99/month
+-   [Autodraft AI](https://autodraft.in) - 20 free credits / AI Animation Videos / AI Character & Style Consistency - From $8/month
+-   [Vidnoz AI](https://www.vidnoz.com) - 1 Minute Free Time for Everyday / AI Video Generation / AI Avatars & Voices
+-   [Murf AI](https://murf.ai) - 10 mins for Voice Generation / Text to Speech / 200+ realistic AI voices in 20+ languages - From $19/month
+-   [Synthesia](https://www.synthesia.io) - Free 3 minutes of video/month / Create AI videos from text / 230+ AI Avatars - From $18/month (billed yearly)
+-   [Deepgram AI Voice Generator](https://deepgram.com/ai-voice-generator) - Natural-sounding text to speech / Human-like voices / Low-latency
+-   [ElevenLabs](https://elevenlabs.io) - 10k credits/month / Realistic Text to Speech / AI Voice Generation - From $5/month
+-   [Aidocmaker.com](https://aidocmaker.com) - 10 Documents, Presentations, Spreadsheets per month free / AI Document Creation / AI Presentations / No Signup - From CNY ¥66/month
+-   [Dubbing AI](https://dubbingai.io) - Free rotating voices / Real-time AI voice changer / Soundboard
+-   [Resemble AI](https://www.resemble.ai) - Free trial / AI Voice Generation / Voice Cloning / Deepfake Detection - From $5/month
+-   [Vbee AIVoice](http://vbee.vn) - Emotional human-like voices / Over 50 languages and 400+ AI voices / Save up to 90% cost and time - From 30,000 VND/month
+-   [Mango AI](https://mangoanimate.com/ai) - AI video generator / AI photo editor
+-   [Camtasia](https://www.techsmith.com/camtasia) - Free trial with watermark / AI-powered screen recording / Video editing - From $134.91/year
+-   [TTSMaker](https://ttsmaker.com) - 20,000 characters per week / 600+ AI voices / 100+ languages / Commercial use / No registration or payment required - From $9.99/month
+-   [LOVO AI](https://lovo.ai) - 14-day free trial / Realistic AI voices / Text to Speech / Voice Cloning - From $24/month
+-   [Synthesys.io](https://synthesys.io) - 125 Unified Credits/month / AI videos / AI voices - From $20/month (900 credits/month)
+-   [Wondershare Virbo](https://virbo.wondershare.com) - Free 1 video min, 20 AI scripts/day / AI Video Generator / Realistic AI Avatars / Talking Photo - From $19.9/month
+-   [AudioPod AI](https://www.audiopod.ai) - Free 10000 credits per month / Voice cloning / Noise reduction / Audio translation - From $2.50/month
+-   [KreadoAI](https://www.kreadoai.com) - Free 3 minutes video creation / Multilingual AI video creation / AI voice generation & cloning - From $12/month
+-   [Typecast](https://typecast.ai) - 5 minutes of download credits per month / Emotion-driven AI voices / Multilingual dubbing / Voice cloning - From $8.99/month
+-   [DupDub](https://www.dupdub.com) - 3-day free trial of 10 credits / AI voiceover / Voice cloning / AI avatar - From $11/month
+-   [ttsMP3.com](https://ttsmp3.com) - Free 3,000 characters/day / AI-powered, human-like text-to-speech conversion / 28+ languages & MP3 Download - From $13.76 SGD/month
+-   [Wavel AI](https://wavel.ai) - 15 credits & 7-day trial / AI Voiceover / AI Video Editor / AI Dubbing - From $18/month
+-   [Listnr AI](https://listnr.ai) - 1000 words for free / Realistic Text to Speech / 1000+ voices in 140+ languages - From $19/month
+-   [SpeechGen.io](https://speechgen.io) - 2000 characters free / Realistic AI Voiceovers / Text to Speech conversion / Multi-voice editor - $4.99 for 25,000 Pro characters or 50,000 Standard characters
+-   [AI Voice Generator by AIVocal](https://aivocal.io) - Free trial / 1000+ free voices / AI Voice Generator / Voice Cloning / No Sign-Up required
+-   [Revocalize AI](https://www.revocalize.ai) - 5 conversion minutes / month, 1 Starter AI voice / Create studio-quality AI vocals / Train custom AI voice models - From $9/month
+-   [VEED.IO](https://veed.io) - Auto Subtitles 2 min/mo / AI Video Editor / Auto-subtitles / AI Avatars / No credit card or account required - From $9/month
+-   [PopPop AI Text to Speech](https://poppop.ai/ai-text-to-speech) - Free / 20+ languages & 200+ characters / Realistic AI voices / No signup required
+-   [CoeFont](https://coefont.cloud) - Text-to-Speech / Voice Changer / AI Voice Creation
+-   [Lovevoice AI](https://lovevoice.ai) - 1,000 characters free / Transform text into lifelike speech / Nearly 300 AI voices - From $6.99 one-time for 800,000 characters
+-   [Luvvoice](https://luvvoice.com) - 20,000 characters per month / Text to Speech / AI Voice Generator / No login required - From $4.99/month
+-   [Makefilm](https://www.makefilm.ai) - 100 credits free / Image to Video / Text to Video - From $9.9USD/mo (200 credits/month)
+-   [Cartesia](https://cartesia.ai) - 20K Credits Free / Fastest, ultra-realistic voice AI / Real-time voice agents / AI voice cloning - From $5/month
+-   [Designs AI](https://designs.ai) - 50 complimentary credits upon signup / AI-powered logo, image, video generation / AI Chat & Writer
+-   [NaturalReader](https://www.naturalreaders.com) - Free / AI Text to Speech / Voice Cloning
+-   [Voicemaker](https://voicemaker.in) - 100 conversions per week / Commercial use audio / 1,000+ AI voices in 130 languages / Custom Voice Cloning - From $5/month
+-   [Weights](https://www.weights.gg) - Free 100 daily creations / AI voice covers / text-to-speech / AI image generation - From $9.99/month
+-   [Crikk](https://crikk.com) - 10,000 Characters free / Turn Text, PDFs, and Images into Clear Audio / Most Natural Sounding AI Voices / No login sign up required - From $14/month
+-   [Uberduck](https://uberduck.ai) - AI Vocals & Text To Speech / Custom Voice Clones / AI Music Generation - From $2.00/month
+-   [Voiser](https://voiser.net) - Free 50 characters for Text-to-Speech and 5 minutes for Speech-to-Text / Accurate Speech-to-Text / Natural-sounding Text-to-Speech
+-   [Respeecher Voice Marketplace](https://www.respeecher.com) - AI Voice Generator / Advanced Text-to-Speech / Celebrity Voices
+-   [All Voice Lab](https://www.allvoicelab.com) - 10,000 credits per month / AI Voice Changer / Text-to-Speech - From $3/mo
+-   [VoiSpark](https://voispark.com) - 15K Credits / Text-to-Speech / Voice Cloning / Custom AI Voices - From US$9.90/mo
+-   [Vozard](https://www.imobie.com/vozard) - 3 free voice effects per day / Real-time AI voice changer / Change voice for recordings, audio, and videos - From S$17.15/month
+
+### AI Text-to-Speech
+
+-   [CapCut](https://capcut.com) - AI-powered video editing / Text to speech / Auto captions
+-   [HeyGen](https://www.heygen.com) - Free 3 videos per month / AI video generation / Customizable AI avatars / No credit card or sign up needed - From $29/mo
+-   [Fineshare FineVoice](https://www.fineshare.com/ai-voice-generator) - Free 2,000 TTS characters per month / AI Voice Generator / AI Voice Cloning / Text to Speech - From $5.99/month
+-   [Clideo](https://clideo.com) - Video editor / Compress video / Add subtitles - From $6/month
+-   [Murf AI](https://murf.ai) - 10 mins for Voice Generation / Text to Speech / 200+ realistic AI voices in 20+ languages - From $19/month
+-   [Virbo](https://virbo.wondershare.com/app/talkingphoto) - 1 Min Free Video Credits / Talking Photo/Portrait / AI Spokesperson Video Generator
+-   [VMEG AI](https://www.vmeg.ai/tools/clips-to-videos) - 60 free credits / Clips to Videos / AI Voiceovers & Subtitles - From $9.6 for 240 credits
+-   [Vocalize](https://vocalize.fm) - 3 free voice generation credits / AI music covers / Text-To-Speech - From $9.99/month
+-   [Podcastle](https://podcastle.ai) - Free unlimited audio recording / Studio-quality recording / AI-powered editing / AI Voices - From $11.99/month
+-   [Deepgram AI Voice Generator](https://deepgram.com/ai-voice-generator) - Natural-sounding text to speech / Human-like voices / Low-latency
+-   [ElevenLabs](https://elevenlabs.io) - 10k credits/month / Realistic Text to Speech / AI Voice Generation - From $5/month
+-   [Deepgram](https://deepgram.com) - Free $200 credit / Speech-to-Text / Text-to-Speech / Voice Agent APIs / No credit card required - From $4k/year
+-   [GeminiGenAI](https://geminigen.ai) - Free Forever / AI-generated images / videos / speech - Buy credits from $1
+-   [voicechanger.im](https://voicechanger.im) - Free / Transform Voice with Effects / Gender voice conversion
+-   [Easy-Peasy.AI](https://easy-peasy.ai) - 1,000 words free / Content Creation / Image Crafting - From $8/month (billed yearly)
+-   [Resemble AI](https://www.resemble.ai) - Free trial / AI Voice Generation / Voice Cloning / Deepfake Detection - From $5/month
+-   [Vbee AIVoice](http://vbee.vn) - Emotional human-like voices / Over 50 languages and 400+ AI voices / Save up to 90% cost and time - From 30,000 VND/month
+-   [1min.AI](https://1min.ai) - Free 450,000 credits/month / All-in-one AI App / Text, Image, Audio, Video AI tools - From $6.5/month for 1,000,000 credits
+-   [Mango AI](https://mangoanimate.com/ai) - AI video generator / AI photo editor
+-   [TopMediai](https://topmediai.com) - Free 1,000 characters, 2 song covers / Text to Speech / AI Cover Generation / Watermark Removal - From $4.99/week
+-   [TTSMaker](https://ttsmaker.com) - 20,000 characters per week / 600+ AI voices / 100+ languages / Commercial use / No registration or payment required - From $9.99/month
+-   [LOVO AI](https://lovo.ai) - 14-day free trial / Realistic AI voices / Text to Speech / Voice Cloning - From $24/month
+-   [DupDub](https://www.dupdub.com) - 3-day free trial of 10 credits / AI voiceover / Voice cloning / AI avatar - From $11/month
+-   [ttsMP3.com](https://ttsmp3.com) - Free 3,000 characters/day / AI-powered, human-like text-to-speech conversion / 28+ languages & MP3 Download - From $13.76 SGD/month
+-   [Wavel AI](https://wavel.ai) - 15 credits & 7-day trial / AI Voiceover / AI Video Editor / AI Dubbing - From $18/month
+-   [Easygenerator](https://www.easygenerator.com) - 14-day trial / EasyAI / PowerPoint import / Auto-translation - From $116/month
+-   [Listnr AI](https://listnr.ai) - 1000 words for free / Realistic Text to Speech / 1000+ voices in 140+ languages - From $19/month
+-   [Voice Changer .io](https://voicechanger.io) - Free / Transform your voice and add effects / Wide variety of voice effects (robot, monster, alien, etc.) / No Login
+-   [VisionStory AI](https://www.visionstory.ai) - 10 credits on sign up / AI video from photos / Emotion control / Voice cloning - From SGD6.99/mo
+-   [Fliki](https://fliki.ai) - 5 minutes of free audio and video content per month / AI Video Generator / Realistic AI Voices
+-   [SpeechGen.io](https://speechgen.io) - 2000 characters free / Realistic AI Voiceovers / Text to Speech conversion / Multi-voice editor - $4.99 for 25,000 Pro characters or 50,000 Standard characters
+-   [PopPop AI Text to Speech](https://poppop.ai/ai-text-to-speech) - Free / 20+ languages & 200+ characters / Realistic AI voices / No signup required
+-   [Wondercraft](https://wondercraft.ai) - 72 minutes of audio per year / AI voices / Repurpose existing content - From $25/month (paid yearly)
+-   [CoeFont](https://coefont.cloud) - Text-to-Speech / Voice Changer / AI Voice Creation
+-   [Pollinations.AI](https://pollinations.ai) - Image, Text, and Audio Generation API / No Login or Sign Up required
+-   [Dubverse.ai](https://dubverse.ai) - 2-day Free Trial / AI Video Dubbing / AI Text to Speech / Auto Subtitles - From $18/month for 50 Credits
+-   [Lovevoice AI](https://lovevoice.ai) - 1,000 characters free / Transform text into lifelike speech / Nearly 300 AI voices - From $6.99 one-time for 800,000 characters
+-   [Speechify](https://speechify.com) - Text to speech / AI Voice Studio / Celebrity voices
+-   [Luvvoice](https://luvvoice.com) - 20,000 characters per month / Text to Speech / AI Voice Generator / No login required - From $4.99/month
+-   [Designs AI](https://designs.ai) - 50 complimentary credits upon signup / AI-powered logo, image, video generation / AI Chat & Writer
+-   [NaturalReader](https://www.naturalreaders.com) - Free / AI Text to Speech / Voice Cloning
+-   [Voicemaker](https://voicemaker.in) - 100 conversions per week / Commercial use audio / 1,000+ AI voices in 130 languages / Custom Voice Cloning - From $5/month
+-   [WellSaid Labs](https://wellsaidlabs.com) - 1 week Studio trial / 1 week API trial / Beautiful voices / Reduce costs - From $44.08/month (billed annually) for 5 projects and 1,000 downloads
+-   [Crikk](https://crikk.com) - 10,000 Characters free / Turn Text, PDFs, and Images into Clear Audio / Most Natural Sounding AI Voices / No login sign up required - From $14/month
+-   [Uberduck](https://uberduck.ai) - AI Vocals & Text To Speech / Custom Voice Clones / AI Music Generation - From $2.00/month
+-   [Voiser](https://voiser.net) - Free 50 characters for Text-to-Speech and 5 minutes for Speech-to-Text / Accurate Speech-to-Text / Natural-sounding Text-to-Speech
+-   [Deep Infra](https://deepinfra.com) - 10 USD free per month / Fast ML Inference / Simple API - From $0.005 per 1M input tokens
+-   [All Voice Lab](https://www.allvoicelab.com) - 10,000 credits per month / AI Voice Changer / Text-to-Speech - From $3/mo
+-   [Voicv](https://voicv.com) - 3000 credits per week / AI-powered voice cloning / Text-to-speech (TTS) - From $9.99/month
+-   [FlowSpeech](https://flowspeech.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3526)- Freemium + From $12/month, eligible for a refund within 7 days of purchase if not used the service. / Context-aware text to speech with human-like voices.
+
+### AI Voice Changer
+
+-   [HitPaw VoicePea](https://www.hitpaw.com/voice-changer.html) - Free 3 daily TTS attempts / Change Voice in Real-Time using AI / Ever-evolving soundboard - From $9.95/month
+-   [Voicemod](https://www.voicemod.net) - Real-time voice changer / Soundboard / Voice creation with Voicelab
+-   [Audimee](https://audimee.com) - 15 min of conversions free / Convert vocals with royalty-free voices / Train your own voices / Harmony maker - From $12/month
+-   [Fineshare FineVoice](https://www.fineshare.com/ai-voice-generator) - Free 2,000 TTS characters per month / AI Voice Generator / AI Voice Cloning / Text to Speech - From $5.99/month
+-   [LALAL.AI](https://www.lalal.ai) - 10 minutes for listening / Vocal remover / Music source separation / Precise stem extraction - From $20 (one-time fee) for 90 minutes
+-   [Overtune](https://www.overtune.com) - Free to arrange and jam beats / Create Your Own Beats / Royalty-Free Distribution / Unrestricted Exports
+-   [Voice.ai](https://voice.ai) - Free / Real-time AI voice changer / Voice cloning / UGC voice library (Voice Universe)
+-   [EaseUS Vocal Remover](https://multimedia.easeus.com/vocal-remover) - 6 minutes free / AI vocal remover / Extract vocals from video/audio files or online sites
+-   [Murf AI](https://murf.ai) - 10 mins for Voice Generation / Text to Speech / 200+ realistic AI voices in 20+ languages - From $19/month
+-   [Vocalize](https://vocalize.fm) - 3 free voice generation credits / AI music covers / Text-To-Speech - From $9.99/month
+-   [EaseUS](https://www.easeus.com) - Data Recovery / Backup / Partition Management - From $9.95
+-   [ElevenLabs](https://elevenlabs.io) - 10k credits/month / Realistic Text to Speech / AI Voice Generation - From $5/month
+-   [FliFlik Voice Changer](https://fliflik.com/voice-changer) - Limited free voice effects / Change voice in real time / 100+ voice filters & 150+ soundboard effects - From $9.95/month
+-   [voicechanger.im](https://voicechanger.im) - Free / Transform Voice with Effects / Gender voice conversion
+-   [Dubbing AI](https://dubbingai.io) - Free rotating voices / Real-time AI voice changer / Soundboard
+-   [Resemble AI](https://www.resemble.ai) - Free trial / AI Voice Generation / Voice Cloning / Deepfake Detection - From $5/month
+-   [ToneShift](https://www.toneshift.cc) - Get 200 Sound Tokens for free / Voice Conversion / Music Separation / Custom Voice Cloning - From $4.99 for 1000 Sound Tokens
+-   [TopMediai](https://topmediai.com) - Free 1,000 characters, 2 song covers / Text to Speech / AI Cover Generation / Watermark Removal - From $4.99/week
+-   [Altered Studio](https://www.altered.ai) - Unlimited Real-Time, 3 min/month Voice Morphing, 10,000 AI Tokens / Voice Changing / Voice Cloning / Text-to-Speech - From $6/month
+-   [Wondershare UniConverter](https://videoconverter.wondershare.com) - 7-day free trial / Video Conversion / Video Compression / AI Tools - From $9.99/month
+-   [AudioPod AI](https://www.audiopod.ai) - Free 10000 credits per month / Voice cloning / Noise reduction / Audio translation - From $2.50/month
+-   [HitPaw](https://hitpaw.com) - Enhance Videos with AI / AI Enhance Photos / Change Voice with AI - From $12.95/month
+-   [DupDub](https://www.dupdub.com) - 3-day free trial of 10 credits / AI voiceover / Voice cloning / AI avatar - From $11/month
+-   [Voice Changer](https://voicechanger.video) - Free / Transform voices with AI / Change voice or language / No Sign-Up
+-   [CloneGen AI](https://apps.apple.com/us/app/clonegen-ai-change-your-voice/id6744944543) - 200 credits / Voice Cloning / Celebrity & Character Voices / AI Text-to-Speech - From $2.99/week
+-   [Utell AI](https://utell.ai) - Free voice test (30s recording) / Real-time accent filter / Noise reduction / Preserve voices
+-   [HitPaw Edimakor](https://www.hitpaw.com/video-editor.html) - 30 AI Credits free / AI Video Editor / AI-Powered Video Editing - From $19.95/month
+-   [Unsloth AI](https://unsloth.ai) - Free / Open source fine-tuning & RL for LLMs / 30x faster training / 90% less memory usage
+-   [Voice Changer .io](https://voicechanger.io) - Free / Transform your voice and add effects / Wide variety of voice effects (robot, monster, alien, etc.) / No Login
+-   [MicVoice.Ai](https://micvoice.ai) - AI Text to Speech / AI Voice Changer / AI Voice Enhancer - From $19.99/month (1,000,000 TTS characters)
+-   [VisionStory AI](https://www.visionstory.ai) - 10 credits on sign up / AI video from photos / Emotion control / Voice cloning - From SGD6.99/mo
+-   [AI Voice Generator by AIVocal](https://aivocal.io) - Free trial / 1000+ free voices / AI Voice Generator / Voice Cloning / No Sign-Up required
+-   [Revocalize AI](https://www.revocalize.ai) - 5 conversion minutes / month, 1 Starter AI voice / Create studio-quality AI vocals / Train custom AI voice models - From $9/month
+-   [CoeFont](https://coefont.cloud) - Text-to-Speech / Voice Changer / AI Voice Creation
+-   [Voice-Swap](https://voice-swap.ai) - 60 free seconds of audio credit / Swap your vocals with iconic singers / Easily transform your vocals to match chart-topping singers - From £6.99/month
+-   [Voices AI](https://apps.apple.com/us/app/voices-ai-change-your-voice/id6461268224) - 100 free credits / Transform text into authentic speech / Clone your own Voice / AI Audio Enhancement - From $3.99 for 2.000 Credits
+-   [Audio Enhancer](https://audioenhancer.ai) - Free 500 MB under 5 min upload / Audio Enhancer / Noise Remover / Vocal Remover - From $10/month for 60 minutes
+-   [Swapfaces AI](https://www.swapfaces.ai) - Free 1 Unlimited Face Swap / AI Face Swap / Video & Photo Face Swap / No Login Required - From $9.99/month
+-   [Cartesia](https://cartesia.ai) - 20K Credits Free / Fastest, ultra-realistic voice AI / Real-time voice agents / AI voice cloning - From $5/month
+-   [The AI Voice Generator](https://theaivoicegenerator.com) - 1 free try / 120 characters / AI Voice Generator / Celebrity & Multilingual TTS / Voice Cloning / No Signup - From $6.99/month
+-   [Uberduck](https://uberduck.ai) - AI Vocals & Text To Speech / Custom Voice Clones / AI Music Generation - From $2.00/month
+-   [All Voice Lab](https://www.allvoicelab.com) - 10,000 credits per month / AI Voice Changer / Text-to-Speech - From $3/mo
+-   [Amped Studio](https://ampedstudio.com) - 1 project / Demo AI features (one per 24 hours) / Make music online / AI Assistance / VST 3.0 Support - From $6.99/month
+-   [Texttovoice.online](https://www.texttovoice.online) - 50 Premium chars & 10K Standard chars daily / Realistic AI voices / Voice emotions & multiple languages - From $11/month
+-   [VoiSpark](https://voispark.com) - 15K Credits / Text-to-Speech / Voice Cloning / Custom AI Voices - From US$9.90/mo
+-   [Vozard](https://www.imobie.com/vozard) - 3 free voice effects per day / Real-time AI voice changer / Change voice for recordings, audio, and videos - From S$17.15/month
+
+### AI Podcast
+
+-   [Adobe Podcast](https://podcast.adobe.com) - 2 free quick tools / AI-powered audio recording and editing / Noise and echo removal / Record, transcribe, edit, share
+-   [Descript](https://www.descript.com) - 1 transcription hour free / Edit videos & podcasts by typing / AI editing tools - From $24/month
+-   [Riverside.fm](https://riverside.fm) - 2 hours of multi-track recordings free / Separate audio & video tracks / AI-powered transcriptions - From $19/month
+-   [Podcastle](https://podcastle.ai) - Free unlimited audio recording / Studio-quality recording / AI-powered editing / AI Voices - From $11.99/month
+-   [Podhome](https://www.podhome.fm) - 30-day free trial / Unlimited Podcast Hosting / Podhome AI / Easy Distribution - From $15.99/month
+-   [Podsqueeze](https://podsqueeze.com) - 30 mins of podcast time per month free / AI-powered content generation / Transcripts, Show Notes, Timestamps - From $5.99/month
+-   [Shanda Studio](https://www.shanda.studio) - 30 minutes free / All-in-one podcasting platform / AI-powered audio enhancement - From $19/month
+-   [Musajjel](https://www.musajjel.com) - Upto 40 Minutes Recording / AI-powered podcast creation / AI-Powered Studio-Quality Enhancement - From $19 USD/month
+-   [Podurama](https://podurama.com) - Free podcast app / AI-powered natural language search / Custom RSS & private file upload - From $49.99/Lifetime
+-   [Podwise](https://podwise.ai) - Free 4 AI-enhanced episodes / 3 AI queries per day / Transcribes, extracts insights & summarizes dense episodes / Integrates with Notion, Readwise & more / No credit card required - From $5.90/month
+-   [Space Make](https://spacemake.io) - Free Spaces Downloader / AI-powered content creation / Download Twitter Spaces Recordings
+-   [Swell AI](https://swellai.com) - 1 upload a month free / Transcripts / Articles - From $29/month
+-   [Podnotes](https://www.podnotes.app) - Free 350 mins of transcription / Transcribe, Summarize and Repurpose Podcasts & Videos / Generate social media content, blogs, newsletters & audiograms - From $29/month
+-   [AIdeaFlow Podcast](https://aideaflowpodcast.com/) - Transform text into AI Podcasts / 120+ natural voices - From $8.25/month
+-   [CreateWise AI](https://createwise.ai) - 200 FREE credits / month / AI-powered Podcast Editor / Show Notes & Highlights / Removes Filler Words & Silences - From $9.90/month
+-   [PodGen.io](https://podgen.io) - 100 credits ≈ 4 minutes free / Transform any content into professional podcasts / 50+ natural AI voices - From $9.99/week
+-   [EchoPod](https://www.echo-pod.ai) - 1 free podcast / AI-powered podcast creation from written content / Studio-quality audio with music - From €110.00/month
+-   [Podpod](https://podpod.me) - Turn articles/newsletters into podcasts / AI hosts - From €1.99/month
+-   [inboxhiiv](https://inboxhiiv.com) - 5 podcast subscriptions w/ unlimited recaps free / AI-powered podcast summaries / chaptered breakdowns - From $5.99/month
+-   [Relaied](https://relaied.app) - 1 podcast per day free / Turn any document into an engaging podcast / Absorb hours of reading in just minutes
+-   [Snipd](https://www.snipd.com) - 2 AI-processed episodes per week / Save insights instantly / Chat with episodes / AI-generated transcripts & chapters - From $6.99/month
+-   [Jellypod](https://jellypod.ai) - 1000 Generation Credits (one-time) / AI podcast creation & publishing / Customizable AI hosts & voices / Multilingual content translation - From $24/month
+-   [Podverse](https://podverse.ai) - Automatic episode transcripts / AI-generated episode summaries / AI-powered chat
+-   [Read It](https://www.readit.bot) - Convert newsletters and articles into audio / Listen in your favorite podcast player / Pay-as-you-go pricing - From 25 cents per 10,000 characters
+-   [Wondercraft](https://wondercraft.ai) - 72 minutes of audio per year / AI voices / Repurpose existing content - From $25/month (paid yearly)
+-   [FCZP: AI Generative Podcast](https://apps.apple.com/app/fczp-ai-generative-podcast/id6503161962) - Personalised Podcasts / Engaging, non-robotic episodes / Curates tailored news - From $9.79
+-   [LemonSpeak](https://lemonspeak.com) - Free 25 minutes / Automate Podcast Marketing Content / Podcast Transcripts & Summaries / Social Media Content - From $7/month
+-   [pods.ee](https://pods.ee) - 4 AI-enhanced episodes per month / AI transcripts / Summaries / Mindmaps - From $4.99/month
+-   [SpeakUp AI](https://startspeakup.com) - Free 20 minutes audio credits (up to 5 brief episodes) / Turn articles into captivating AI podcasts / AI Instant Voice Clone
+-   [Castmagic](https://www.castmagic.io) - AI-powered content repurposing / Accurate transcription - From $23/month
+-   [Nural.News](https://www.nural.news) - 3 requests / Pulls latest articles & news on your topic / Generates AI podcast
+-   [Relevant](https://relevant-app.com) - Real-time content suggestion / Topic detection and filtering / Automatic transcription - $1 per minute
+-   [Narrativ.ai](https://apps.apple.com/us/app/narrativ-ai/id6450302693) - Narrated audio from written articles using cloned voices / Stream local, national, and international news / Customizable news playlists
+-   [Castup AI](https://castupai.com) - ChatGPT-powered podcast assistant / Record & promote amazing episodes / Generate useful content
+
+### AI Transcriber
+
+-   [Notta](https://notta.ai) - 120 minutes/month transcription, 10 AI summaries/month free / High-precision transcription / AI summary - From 1,185 JPY/month
+-   [Klangio](https://klang.io) - 20 seconds free / Transcribe Music into Notes / Create Sheet Music, TABs, MIDI and MusicXML
+-   [Read AI](https://www.read.ai) - 5 free meetings per month / Personalized Speaker Coach / AI Summaries & Search - From $15/month
+-   [Riverside.fm](https://riverside.fm) - 2 hours of multi-track recordings free / Separate audio & video tracks / AI-powered transcriptions - From $19/month
+-   [Fathom](https://fathom.video) - First 5 advanced AI calls/month / Records, transcribes, and summarizes meetings / Automates post-call data entry into CRM - From $15/month
+-   [Deepgram](https://deepgram.com/free-transcription) - Convert conversations, audio files, or YouTube videos to text / Supports over 36 languages
+-   [Speak AI](https://speakai.co) - 7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant - From $15/month
+-   [AccurateScribe.ai](https://accuratescribe.ai) - Audio & video to text transcription / 99.8% AI accuracy - From $9.99/month (unlimited)
+-   [UniScribe](https://www.uniscribe.co) - 120 minutes / 5 files per day / Convert audio and video to text / Generate summaries, mind maps, and key questions - From $6/month
+-   [TranscribeToText.AI](https://transcribetotext.ai) - 1 Free Upload Daily (up to 10 minutes max) / AI-Powered Audio & Video Transcription / Transcribe from Links & Online Meetings - From $9.99/month (billed yearly)
+-   [VideoToWords AI](https://www.videotowords.ai) - Free 3 daily transcripts, 30 minutes uploads / Transcribe Audio & Video to Text / 99.9% Accuracy / 98+ Languages Support - From $16.58/month
+-   [Insight Video IA](https://www.insightvideoia.com.br) - Repurpose videos into diverse content formats / Transform educational videos into didactic resources
+-   [TurboScribe](https://turboscribe.ai) - 3 Free Transcripts Daily / Unlimited Audio & Video Transcription / 99.8% Accuracy - From $10/month
+-   [AudioShake](https://audioshake.ai) - Stem separation / Lyric Transcription & Alignment
+-   [Video Transcriber AI](https://videotranscriber.ai) - Free Unlimited Minutes / Transcribe Videos to Text Online / 99.8% Accuracy / No Sign-up - Free
+-   [Sembly AI](https://www.sembly.ai) - 60 mins/month online recording, 60 mins/month upload free / AI-generated meeting minutes and summaries / AI Tasks - From $10/month
+-   [Zubtitle](https://zubtitle.com) - 2 videos per month / Add Subtitles to Videos / Edit Videos Online - From $19/month
+-   [Audiotype](https://audiotype.org) - Free 1 minute trial / Convert video or audio to editable text / 100% automatic, 80-95% accuracy / No account required - 60 minutes for 9.00€
+-   [Vatis Tech](https://vatis.tech) - 1 hour free / Accurate Speech-to-Text / AI Summary & Speaker ID / No signup required - From €20/month
+-   [Thetawave AI](https://thetawave.ai) - Converts audio, text, files, and YouTube videos into formatted notes / Generates quizzes, flashcards, and mindmaps
+-   [VideoToTextAI](https://www.videototextai.com) - Free 1 hour of transcriptions / AI Transcriptions / AI Translations / Chat with AI - From $9.99/month
+-   [MarianaAI](https://marianaai.com) - Free trial available / AI Medical Scribe / Autonomous Medical Coding / Real-time Clinical Decision Support
+-   [YouTube Transcript Generator](https://transcriptgenerator.org) - Unlimited Transcripts / Extract accurate transcripts / One-Click Download / No Login Required
+-   [Sintesy](https://sintesy.me) - 1 hour daily free usage / Transcribe and summarize audio/video / Organize ideas into structured insights - From R$29.90/month
+-   [VidTags](https://vidtags.com) - 7-days Free trial / AI-powered interactive video hosting / Transcribe, Translate on 67+ languages, Add Subtitles, Text to Speech / Searchable Table of Contents
+-   [Note This Down](https://note-this-down.com) - 7 days free trial / Transforms handwritten notes into digital text / Seamlessly integrates with Notion - From $8/month
+-   [Summify](https://summify.io) - 15 minutes free / AI Video/Audio Transcriber & Summarizer / One-click solution - From $10/month
+-   [Whisper Memos](https://whispermemos.com) - 10 tries free / Voice recording to email transcription / AI-powered paragraphed articles - From $4.99/month
+-   [TranscriptAI](https://transcriptai.xyz) - 50000 tokens free daily / AI-powered audio & video transcription / 99% accuracy / Multilingual (180+ languages) - From $5/month
+-   [WebWhisper](https://www.web-whisper.com) - Transcribe MP3 files / Summarize MP3 files
+-   [Noty.ai](https://noty.ai) - 7-day free trial / Real-time transcription / AI summaries / Automated Follow-up - From $10/month
+-   [Origlio](https://origlio.app) - 5 minutes transcriptions/month free / Audio message transcribing / Paragraph transcription - From €2.95/mo
+-   [Hello Transcribe](https://apps.apple.com/us/app/hello-transcribe/id6443919768) - Private & secure speech to text / Transcribe audio, video, or dictate live - From $1.99/month
+-   [Vocol AI](https://www.vocol.ai) - Free 200 V-points / AI-powered transcription & summarization / Multilingual support - From $11/month
+-   [transcribethis.io](https://transcribethis.io) - Premier transcription accuracy and precision / Faster and cheaper than human transcription - From $4.99 for one file (up to 90 minutes of audio)
+-   [Transcri.io](https://transcri.io) - 15 minutes per month / AI-Powered Transcription / Subtitle Generation - From 3€/month
+-   [Wiz Write](https://wizwrite.io) - 5-days free trial / Voice to Text Transcription / Custom AI Actions - From $19/month
+-   [Notis](https://notis.ai) - 30 days free trial / Voice to Notion integration / Automated content creation & organization - From $20/month
+-   [Znote](https://znote.io) - Free to edit your files / AI-Powered Notes & Automation / Code Execution / Meeting Transcription / No account required - From 35€ (lifetime)
+-   [Zoc](https://zoc.ai) - Free trial / AI-driven note-taking / Interactive quizzes / Translates into 29 languages - From $14.99/month
+-   [Alphy](https://alphy.app) - 1 hour of transcription credits free / Transcribe, summarize, and question online videos & audio - From $12/month
+-   [VoiceType AI](https://voicetype.ai) - Free trial / Replace typing with speaking / Transcribing & auto-formatting / Works across every application - From $11.59/month
+-   [ScribeBuddy](https://scribebuddy.com) - Unlimited transcription (5 min/file) / AI Transcription / Translation / Subtitle Generation - $16.99/1200 minutes
+-   [Audio Diary](https://audiodiary.ai) - AI-powered voice journaling / Intelligent transcription & analysis / Goal setting & insights
+-   [RollSummary](https://rollsummary.com) - 5000 Tokens for FREE / AI-powered transcription / Smart Summaries - From $10 for 10,000 tokens
+
+### AI Speech-to-Text
+
+-   [Notta](https://notta.ai) - 120 minutes/month transcription, 10 AI summaries/month free / High-precision transcription / AI summary - From 1,185 JPY/month
+-   [Clipto.AI](https://clipto.com) - 7-day free trial / AI Transcription / 99% transcription accuracy / 99+ languages supported - From $8.99/month
+-   [Apowersoft](https://apowersoft.com) - Record, Edit & Convert Multimedia / Screen Recording & Phone Mirroring - From $4.99/month
+-   [Transkriptor](https://transkriptor.com) - Free 90 minutes / 99% accurate audio transcription / AI summaries & action items / Supports 100+ languages - From $8.33/month
+-   [Maestra AI](https://maestra.ai) - 10 minutes free trial / AI Transcription / Subtitles / Multilingual Voiceovers / No account required - From $23/month
+-   [RecCloud](https://reccloud.com) - Free 1 minute for AI features / AI Video Chat / AI Subtitles / AI Speech-to-Text - From $4/month
+-   [Clinicminds](https://clinicminds.com) - Free live demo & trial / AI-driven Medical Record System / Comprehensive Clinic Management - From €160/month
+-   [Deepgram](https://deepgram.com/free-transcription) - Convert conversations, audio files, or YouTube videos to text / Supports over 36 languages
+-   [Nutshell](https://www.nutshell.com/crm) - 14-day free trial / User-friendly Sales & CRM / Sales Automation / Email & Calendar Sync / No credit card required - From $13/month per user
+-   [AccurateScribe.ai](https://accuratescribe.ai) - Audio & video to text transcription / 99.8% AI accuracy - From $9.99/month (unlimited)
+-   [Deepgram](https://deepgram.com) - Free $200 credit / Speech-to-Text / Text-to-Speech / Voice Agent APIs / No credit card required - From $4k/year
+-   [Sunoh.ai](https://sunoh.ai) - Converts conversations to clinical notes / Reduces burnout & saves time - From $149/month
+-   [Sonix](https://sonix.ai) - 30 minutes free transcription / Automated transcription / Translation / AI Analysis - From $22/month
+-   [UniScribe](https://www.uniscribe.co) - 120 minutes / 5 files per day / Convert audio and video to text / Generate summaries, mind maps, and key questions - From $6/month
+-   [TranscribeToText.AI](https://transcribetotext.ai) - 1 Free Upload Daily (up to 10 minutes max) / AI-Powered Audio & Video Transcription / Transcribe from Links & Online Meetings - From $9.99/month (billed yearly)
+-   [Dictanote](https://dictanote.co) - Ten 3-minute voice notes (AudioScribe) / Voice typing notes / Multi-lingual support / AI summarization - From $5/month (billed yearly)
+-   [Transmonkey AI Translator Suite](https://www.transmonkey.ai) - Free trial credits / Document, Image, Video Translation / Preserves Original Layout / Dubbing & Subtitle Translation - From $8.3/month
+-   [VideoToWords AI](https://www.videotowords.ai) - Free 3 daily transcripts, 30 minutes uploads / Transcribe Audio & Video to Text / 99.9% Accuracy / 98+ Languages Support - From $16.58/month
+-   [TurboScribe](https://turboscribe.ai) - 3 Free Transcripts Daily / Unlimited Audio & Video Transcription / 99.8% Accuracy - From $10/month
+-   [Wondershare Filmora](https://filmora.wondershare.com.br) - 100 AI Credits / AI-powered video editing / 100+ Advanced Editing Functions / 2.3M+ Creative Assets - From 35,99€/quarter
+-   [Wondershare UniConverter](https://videoconverter.wondershare.com) - 7-day free trial / Video Conversion / Video Compression / AI Tools - From $9.99/month
+-   [Reflect Notes](https://reflect.app) - 14-day trial / Networked notes with backlinks / AI integration for note-taking and writing - From $10/month
+-   [Cockatoo](https://www.cockatoo.com) - Superhuman speech to text accuracy / Transcribe in 90+ languages - From $9.99/month
+-   [SoundWise.ai](https://soundwise.ai) - Free forever / AI Audio Video Transcription / 90+ languages / No registration required
+-   [Vatis Tech](https://vatis.tech) - 1 hour free / Accurate Speech-to-Text / AI Summary & Speaker ID / No signup required - From €20/month
+-   [AssemblyAI](https://www.assemblyai.com) - Free $50 of credits / 416 hours of prerecorded audio / Speech-to-Text / Speech Understanding - From $0.12/hr
+-   [Good Tape](https://goodtape.io) - 3 tapes free / Fast, secure and accurate transcription / Turn audio recordings into text - From 15 EUR/month
+-   [Letterly](https://letterly.app) - AI speech to clear & structured text / Rewrite speech into various formats / No Sign-Up
+-   [VoiceInk](https://tryvoiceink.com) - 7-day trial / Instant Voice-to-Text Transcription / Offline AI & Privacy Focused - From $19 (one-time purchase)
+-   [Behnevis](https://behnevis.com) - Free 45-day trial / Pinglish to Persian Transliteration / Persian Speech-to-Text - From $3.5/month
+-   [FreeSubtitles.AI](https://freesubtitles.ai) - Free 1 hour / 300 MB / Transcribe audio and video to text / Automatic free translation / No Login or Sign Up required - From $0.99/h
+-   [SoundType AI](https://soundtype.ai) - Free 180 minutes/month / AI-powered audio & video transcription / Speaker identification / AI summarization / No registration required - From $6.67/month
+-   [Pollinations.AI](https://pollinations.ai) - Image, Text, and Audio Generation API / No Login or Sign Up required
+-   [Vocol AI](https://www.vocol.ai) - Free 200 V-points / AI-powered transcription & summarization / Multilingual support - From $11/month
+-   [SaladCloud](https://salad.com/transcription) - 5 hours free / AI Speech-to-Text / Lowest GPU Prices - From $3.65/month
+-   [Yescribe.ai](https://yescribe.ai) - Fast, Accurate and Affordable Transcription / 98 Languages Global Coverage / AI Summaries
+-   [Inkr](https://inkr.app) - Free 35 minutes transcription & limited Ask Inkr access / Lightning-Fast, Accurate Transcriptions / AI-powered Notes & Search / No Sign-Up - From $9.99/month
+-   [RecCloud](https://reccloud.cn) - Free 2GB cloud storage, 5 files, 1-min AI feature trial / AI Speech-to-Text / AI Video Translation / AI Text-to-Speech - From ¥15/month
+-   [BlabbyAI Speech to text](https://www.blabby.ai) - 1 hour transcription time free / Speech to Text / Voice type on any website
+-   [Gladia](https://www.gladia.io) - 10h/month free / AI transcription / translation
+-   [TranscribeMe](https://www.transcribeme.app) - 20 minutes of transcriptions per month / Convert voice messages to text / Transcription, summary & translation / No Sign-Up - From ARS$ 720/month
+-   [superwhisper](https://superwhisper.com) - Free Basic features / AI powered voice to text / 3x faster typing speed - From $8.49/month
+-   [WhisperUI](https://whisperui.com) - Speech to Text / Text to Speech
+-   [Scribewave](https://scribewave.com) - First transcript free (up to 30MB) / Accurate speech-to-text / 90+ languages for subtitles & translations / No account required - From €9/hour
+-   [Voiser](https://voiser.net) - Free 50 characters for Text-to-Speech and 5 minutes for Speech-to-Text / Accurate Speech-to-Text / Natural-sounding Text-to-Speech
+-   [LazyTyper](https://lazytyper.com) - Free / 12 Voice Models / 3x Faster Voice Typing - Free
+-   [Voicv](https://voicv.com) - 3000 credits per week / AI-powered voice cloning / Text-to-speech (TTS) - From $9.99/month
+-   [AI Automatic Translation Rosetta](https://rozetta.jp) - Free trial / High-precision AI translation for specialized fields / Automatic speech-to-text & translation / Generative AI for DX promotion
+-   [Voicetype AI](https://go.voicetype.com/TAAFTDIRECTORY) [](https://free.ilovefree.com/link/3399)- 3 days free trial + From $13.59/month, No Refunds / Write 9x Faster with AI Speech to Text on all Apps
+-   [VoxTap](https://voxtap.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3426)- Free Trial + From $29, One-time, 14-day money-back guarantee / Press a key. Talk. Text appears.
+-   [FastlyConvert](https://www.fastlyconvert.com/audio-to-text?ref=ilovefree&utm_source=ilovefree&utm_medium=referral&utm_campaign=ilovefree_listing) [](https://free.ilovefree.com/link/2676)- Freemium + From $14.99/month, No Refunds / Transcribe audio & video with Whisper. Export TXT/SRT/VTT. Auto-delete 24h.
+-   [Freeway](https://tryfreeway.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2841)- 100% Free / Talk to your Mac. For free.
+-   [TalkToText](https://talktotext.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2934)- Free Trial + From $19/month / Transform your voice into polished text instantly.
+-   [EchoWrite](https://echo-write.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3535)- Freemium + From $37, One-time, 30 Days money back guarantee / Don't type text anymore, just speak
+
+### AI Podcast Editing
+
+-   [AutoPod](https://www.autopod.fm) - 30 day free trial / Automatic Multi-Camera Editing / Social Clip Creation / Silent Shot Removal - From $29/month
+-   [Cleanvoice AI](https://cleanvoice.ai) - 30 minutes free / Remove filler sounds, stuttering & mouth sounds / Remove background noise / No Sign-Up - From $11/month
+-   [Detail: Video & Captions](https://apps.apple.com/us/app/id1673518618) - AI Camera & Editor / Teleprompter / AI Auto-editing for Podcasts - From $7.99/month
+-   [Mastermallow AI Audio Mastering](https://mastermallow.com) - Free sample / AI Audio Mastering / Fast & Affordable / No account creation - From $17.99/track
+-   [Fame Clips](https://www.audiolabs.io) - 1 clip free trial / Professionally edited clips / Hybrid AI/human solution - From $700/month
+-   [Shanda Studio](https://www.shanda.studio) - 30 minutes free / All-in-one podcasting platform / AI-powered audio enhancement - From $19/month
+-   [Musajjel](https://www.musajjel.com) - Upto 40 Minutes Recording / AI-powered podcast creation / AI-Powered Studio-Quality Enhancement - From $19 USD/month
+-   [SimpleClean](https://simpleclean.app) - 1 hour free / Remove background noise from audio and video / AI audio cleaner - From $10/month
+-   [Detail](https://detail.co) - Free Basic plan / Turn longer content into short, shareable videos / AI-powered automated editing - From €4.99/month
+-   [AutoCut](https://autocut.fr) - 14-day free trial / Automatic Silence Remover / Animated Captions / Podcast Editing - From $6.6/month
+-   [FireCut AI](https://firecut.ai) - 7-day free trial / Silence cutting / Captions / Zoom cuts - From $19/month
+
+### AI Celebrity Voice Generator
+
+-   [FakeYou](https://fakeyou.com) - AI Voice Generation (Text to Speech, Voice to Voice) / Voice Cloning & Design - From $12/month
+-   [HitPaw VoicePea](https://www.hitpaw.com/voice-changer.html) - Free 3 daily TTS attempts / Change Voice in Real-Time using AI / Ever-evolving soundboard - From $9.95/month
+-   [Voice.ai](https://voice.ai) - Free / Real-time AI voice changer / Voice cloning / UGC voice library (Voice Universe)
+-   [Soccer Field Map – AI Soccer Celebrities & Soccer Fields](https://soccerfieldmap.com) - Free / Find Soccer Fields / Generate AI Celebrity Videos
+-   [Voxdazz](https://voxdazz.com) - 3 free trial voice generations / AI Celebrity Voice Generator / Unlimited videos & downloads - From $89.89/Week
+-   [Celebrity AI](https://celebrityai.club) - Free to Use, unlimited generation / Create AI Videos / Voice Cloning / No Sign-Up required - From $9.99/month
+-   [Fanfun AI](https://www.fanfun.ai) - AI Voice Clone Video Generator / Personalized AI video & voice generator - From $7/month
+-   [Audyo](https://www.audyo.ai) - Edit words not waveforms / switch speakers / tweak pronunciations with phonetics
+-   [BOLLYWOODAI](https://www.bollywoodai.app) - Free WhatsApp Chat / Chat with Bollywood actors & actresses / Voice and text messages using AI - From $5/month
+-   [TTSLabs](https://ttslabs.ai) - 400 AI voice alerts per month / customize Text to Speech donations / enable custom voices / add unique sound clips - From $25/month
+-   [Outtloud](https://www.outtloud.com) - Try for free for 3-days / Turn Any Text into Audio / AI-powered audio summary - From $8/mo Yearly
+-   [AI Voicer](https://apps.apple.com/us/app/ai-voicer-voice-over/id6464452140) - Text to speech / Voice cloning / Celebrity voices - From $19.99/month
+-   [Character Lingo](https://characterlingo.com) - 100 lingos / mo / Transform writing into character voices / AI-powered content generation - From $9.99/month
+-   [Get Cheezy With Dr. Aaron Ozee](https://apps.apple.com/app/get-cheezy-with-dr-aaron-ozee/id1642331303) - Chat with AI digital twin of celebrity author / Looks and sounds just like the real Dr. Ozee - From $4.99/week
+-   [CloneGen AI](https://apps.apple.com/us/app/clonegen-ai-change-your-voice/id6744944543) - 200 credits / Voice Cloning / Celebrity & Character Voices / AI Text-to-Speech - From $2.99/week
+-   [KlipLab](https://kliplab.com) - 100 free credits / AI celebrity voice generator / Realistic voiceovers / Realistic Lip Sync - From $5/month
+-   [AI Voice Generator by AIVocal](https://aivocal.io) - Free trial / 1000+ free voices / AI Voice Generator / Voice Cloning / No Sign-Up required
+-   [Voices AI](https://apps.apple.com/us/app/voices-ai-change-your-voice/id6461268224) - 100 free credits / Transform text into authentic speech / Clone your own Voice / AI Audio Enhancement - From $3.99 for 2.000 Credits
+-   [FalcoCut](https://falcocut.com) - 10 Credits monthly / Face Swap / Subtitle Translation / - From $33/month (2400 credits annually)
+-   [The AI Voice Generator](https://theaivoicegenerator.com) - 1 free try / 120 characters / AI Voice Generator / Celebrity & Multilingual TTS / Voice Cloning / No Signup - From $6.99/month
+-   [Vozard](https://www.imobie.com/vozard) - 3 free voice effects per day / Real-time AI voice changer / Change voice for recordings, audio, and videos - From S$17.15/month
+
+### AI Voice Cloning
+
+-   [Vidnoz AI](https://www.vidnoz.com/video-translate.html?insur=en_md_toolify2) - Free 3 min/day / Video translation to 140+ languages / Natural voice clone & lip-sync - From $19.99/mo
+-   [Audimee](https://audimee.com) - 15 min of conversions free / Convert vocals with royalty-free voices / Train your own voices / Harmony maker - From $12/month
+-   [Fineshare FineVoice](https://www.fineshare.com/ai-voice-generator) - Free 2,000 TTS characters per month / AI Voice Generator / AI Voice Cloning / Text to Speech - From $5.99/month
+-   [Musicfy AI](https://musicfy.lol) - / AI voice cloning / AI music generation / Stem splitting / No credit card required - From $9/mo.
+-   [Voice.ai](https://voice.ai) - Free / Real-time AI voice changer / Voice cloning / UGC voice library (Voice Universe)
+-   [Murf AI](https://murf.ai) - 10 mins for Voice Generation / Text to Speech / 200+ realistic AI voices in 20+ languages - From $19/month
+-   [MyVocal.ai](https://www.myvocal.ai) - Voice Cloning / AI Singer / Text to Speech
+-   [Rask AI](https://www.rask.ai) - 1 free minute / AI Video Localization / Dubbing / Perfect Lip-Syncing / No Credit Card Required - From $50/month
+-   [Kits AI](https://kits.ai) - AI Voice Cloning / AI Singing Generators / AI Mastering / No Credit Card Required - From $9.99/month
+-   [BlipCut AI Video Translator](https://videotranslator.blipcut.com) - AI Video Translation to 130+ languages / Voice Cloning / Lip Sync / No Sign Up required - From $25/month
+-   [JoyPix.ai](https://www.joypix.ai/?invitation_code=toolify.ai) - 1 voice clone / AI Talking Video Generator / Avatar Generator / Voice Cloning - From $7.9/month
+-   [PERSO.ai](https://perso.ai) - Free 7-day trial & 3 AI Studio credits / AI Dubbing / Voice Cloning & Lip Sync / Video Localization - From $29/month
+-   [StoryBee](https://storybee.app) - Free 3 stories via referral / AI-powered story generation / Personalized children's stories - From $5/month (40 stories)
+-   [TalkingAvatar](https://www.talkingavatar.ai) - Rewrite video with talking avatar using AI / Clone voices, sync lips
+-   [Resemble AI](https://www.resemble.ai) - Free trial / AI Voice Generation / Voice Cloning / Deepfake Detection - From $5/month
+-   [Vbee AIVoice](http://vbee.vn) - Emotional human-like voices / Over 50 languages and 400+ AI voices / Save up to 90% cost and time - From 30,000 VND/month
+-   [BasedLabs.ai](https://www.basedlabs.ai) - AI Image & Video Creator / Access to best AI models
+-   [ToneShift](https://www.toneshift.cc) - Get 200 Sound Tokens for free / Voice Conversion / Music Separation / Custom Voice Cloning - From $4.99 for 1000 Sound Tokens
+-   [LOVO AI](https://lovo.ai) - 14-day free trial / Realistic AI voices / Text to Speech / Voice Cloning - From $24/month
+-   [Altered Studio](https://www.altered.ai) - Unlimited Real-Time, 3 min/month Voice Morphing, 10,000 AI Tokens / Voice Changing / Voice Cloning / Text-to-Speech - From $6/month
+-   [F5 TTS](https://www.f5tts.net) - High-Quality Synthesis / Multilingual Support / Voice Cloning / No Sign-Up
+-   [AudioPod AI](https://www.audiopod.ai) - Free 10000 credits per month / Voice cloning / Noise reduction / Audio translation - From $2.50/month
+-   [Typecast](https://typecast.ai) - 5 minutes of download credits per month / Emotion-driven AI voices / Multilingual dubbing / Voice cloning - From $8.99/month
+-   [Verbalate](https://verbalate.ai) - 1st minute free / Video translation / Voice clone / Multi-language audio tracks - From $9/month for 10 mins
+-   [AI Dubbing](https://aidubbing.io) - Free / AI Video Dubbing / Multilingual Support / Voice Cloning / No Sign-Up - Free
+-   [BHuman](https://www.bhuman.ai) - 15 personalized videos (from templates) / Personalized videos at scale / Face cloning - From $39/month
+-   [Deepdub](https://deepdub.ai) - 14-Day Free Trial and 10,000 Characters Free / Faster and more cost-efficient dubbing / Hollywood-Approved Audio
+-   [Listnr AI](https://listnr.ai) - 1000 words for free / Realistic Text to Speech / 1000+ voices in 140+ languages - From $19/month
+-   [VisionStory AI](https://www.visionstory.ai) - 10 credits on sign up / AI video from photos / Emotion control / Voice cloning - From SGD6.99/mo
+-   [Free Voice Cloning](https://aiclonevoicefree.com) - Free 20 characters per input / High quality AI voice cloning / Text to Speech / No sign up - From $4.59/month
+-   [Revocalize AI](https://www.revocalize.ai) - 5 conversion minutes / month, 1 Starter AI voice / Create studio-quality AI vocals / Train custom AI voice models - From $9/month
+-   [F5-TTS](https://f5tts.org) - 40 free credits / Natural, expressive speech / Zero-Shot Voice Cloning - From $9.90/month
+-   [Voice-Swap](https://voice-swap.ai) - 60 free seconds of audio credit / Swap your vocals with iconic singers / Easily transform your vocals to match chart-topping singers - From £6.99/month
+-   [YourBestAccent](https://www.yourbestaccent.com) - 7-day free trial / AI-powered voice cloning / Personalized practice & feedback - From €15.75/month
+-   [Speechify](https://speechify.com) - Text to speech / AI Voice Studio / Celebrity voices
+-   [Similarvideo.ai](https://similarvideo.ai) - Create viral short videos 10x faster / Clone anyone's voice and image
+-   [Cartesia](https://cartesia.ai) - 20K Credits Free / Fastest, ultra-realistic voice AI / Real-time voice agents / AI voice cloning - From $5/month
+-   [clonemyvoice.io](https://clonemyvoice.io) - / AI audio voiceovers for long-form content / Voice cloning and imitation / - From $99.99/month
+-   [Echovox Studio](https://studio.echovox.in) - Free 10k TTS characters / AI-powered audio content creation / Voice Cloning / Text-to-Speech - From $5.41/mo
+-   [VoiceVector](https://www.voice-vector.com) - Free $2 Credits and 3 free voice clonings / Voice Cloning / Text to Speech / Speech to Text - From $3.99/cloning
+-   [Verbatik](https://verbatik.com) - 1000 characters free / Realistic Text to Speech / Voice Cloning - From $9/month
+-   [Maibrain](https://www.maibrain.ai) - Free 1 person clone, limited interactive chat / Preserve loved ones' voices / Interact with AI clones - From $9.99/month (up to 3 clones)
+-   [Respeecher Voice Marketplace](https://www.respeecher.com) - AI Voice Generator / Advanced Text-to-Speech / Celebrity Voices
+-   [All Voice Lab](https://www.allvoicelab.com) - 10,000 credits per month / AI Voice Changer / Text-to-Speech - From $3/mo
+-   [Voiceley](https://voiceley.com) - Free monthly uses / AI Voice Cloning / Natural Sound - From $5.99/month
+-   [Voicv](https://voicv.com) - 3000 credits per week / AI-powered voice cloning / Text-to-speech (TTS) - From $9.99/month
+-   [VoiSpark](https://voispark.com) - 15K Credits / Text-to-Speech / Voice Cloning / Custom AI Voices - From US$9.90/mo
+-   [KikiVoice](https://kikivoice.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2943)- 100% Free / Clone any voice in seconds with 99% similarity.
+
+### AI Voice Assistants
+
+-   [Blahget](https://itunes.apple.com/app/id6473291180) - Voice-based AI Expense Tracking / Smart Categorization / Intelligent Queries - From $1.99
+-   [CallHippo](https://callhippo.com) - Free 3 users / 10-day free trial / Virtual Phone System / AI-driven inbound calls / Increased Productivity - From $10/month
+-   [Omakase Voice AI](https://www.omakase.ai) - Free / Voice-Powered Sales AI Agent / Drives Real Sales / Effortless Setup / No Credit Card Required
+-   [Homeway](https://homeway.io) - 30-day free trial / Home Assistant Remote Access / ChatGPT AI Assistant / Alexa and Google Assistant Support - From $2.49/month
+-   [Teloz](https://teloz.com) - 14 days free trial / Omnichannel experience / Cloud Contact Center / AI-powered communication - From $10.99/mo
+-   [Synthflow AI](https://synthflow.ai) - 14-day free trial / Automate phone calls with AI voice agents / No coding or tech skills needed / Human-Like, Natural Conversations
+-   [NLX](https://nlx.ai) - Up to 10k conversations / month & $20 free credit / No-code platform / Build, deploy, and analyze chat, voice, multimodal applications / Purposeful generative AI - From $0.05/conversation
+-   [Frontdesk | AI Phone Receptionist](https://myaifrontdesk.com) - 7-day free trial / Automate calls / Schedule appointments / 24/7 AI phone receptionist - From $65/month
+-   [VoiceAIWrapper](https://voiceaiwrapper.com) - 10-day free trial / Connect Any Voice AI Provider / Complete White-Labeling / 30-Minute Setup - From $29/month
+-   [Synthflow AI](https://fine-tuner.ai) - 14-Day Free Trial / Automate phone calls with AI voice agents / Create custom AI phone call agents effortlessly - From $29/mo
+-   [Flowtica](https://flowtica.ai) - AI voice assistant / Natural Voice Input / Automate Your Organization
+-   [Vapify](https://vapify.agency) - 30 Mins Free Per Month / Branded voice AI services / Client sub-accounts / Markup Vapi calls for profit - From $19.00/month
+-   [LipSurf](https://lipsurf.com) - Voice commands and shortcuts for the browser / Dictate text 3x faster - From $3/month
+-   [Phonely AI](https://phonely.ai) - First 500 minutes free / AI-powered answering services / Scalable customer support / Multi-language & voice cloning - From $33/month (200 minutes)
+-   [Roxy - AI Voice companion](https://itunes.apple.com/app/id6737482921) - Hands-Free AI voice chat / Natural conversational interactions / Language practice & translation - From $9.99/month
+-   [VOYP - Voice Over Your Phone](https://voyp.app) - Free Limited Calls (1 min. max) / AI Call Assistant / Automated Phone Calls - From $1.99/month
+-   [Inbox AI](https://inbox-ai.app) - Voice Driven AI Automation / Custom AI-Powered Workflows / No Login Required
+-   [Safina AI](https://safina.ai) - 1 week free / Natural conversations / Call summaries / Spam protection - From 6.99 €/month
+-   [AiCogni](https://aicogni.com) - Free credits on registration / AI Chatbot & Writing Assistant / Voice & WearOS Support - From $0.99 for 100,000 Credits
+-   [Xobot AI](https://xobot.co) - Free / Customized AI voice bots / Automated scheduling & lead generation
+-   [Cyntra](https://cyntra.ai) - Two free Breez devices / 30-second checkouts / AI voice activation & RFID technology - From $99/month
+-   [Wakey Wakey](https://wakeycalls.com) - AI-powered wake-up calls / Call Transcripts / Backup Calls - From $1.99 per call
+-   [Overhyped AI](https://overhyped.ai) - 100-minute free trial / AI Voice Agent for Product Adoption / Scalable Customer Success - From $299/month
+-   [Jules](https://www.heyjules.app) - / Real voice phone calls / Impossible to ignore reminders / Golden Window timing / No account to manage -
+-   [Extra Thursday](https://www.extrathursday.com) - Free plan available / Voice-powered email management / Daily planning / No credit card required - From $20/month
+-   [Relyable](https://relyable.ai) - 25k Free Credits / Automated Testing / Monitoring / Evaluation - From $500/month
+-   [Telezen Dashboard](https://www.telezen-ai.com) - 3 days free trial / White-Label Client Portals / Voice Agent Management / Automated Billing with Stripe - From $19.00/month
+-   [Voice Assistant](https://www.voicebun.com) - 5 minutes/month free / Build smart voice agents / Automate calls, support, and scheduling - From $20/month
+-   [ContactSwing](https://contactswing.com) - 14-day free trial, 50 AI Voice Minutes / AI Voice Assistants / Gen AI Email Assistant / AI-powered Document Analyst - From $25/month for 50 minutes
+-   [Scrawly](https://www.scrawly.ai) - Free for 7 days / AI Voice Companion / Emotional Support / Organizes Thoughts & Tasks
+-   [VoiceGenie](https://voicegenie.ai) - 30 voice minutes for 7 days / Qualify Leads / Book Meetings - From $50/month for 250 Minutes
+-   [Simple AI](https://www.usesimple.ai) - AI powered phone calls / Build hyper realistic voice agents / Speak 29 languages
+-   [Call an AI](https://callanai.com) - Calls under 4 minutes free / Real-time voice AI interaction / Role-focused AIs via phone call - From 15 cents per minute
+-   [Neon AI](https://neon.ai) - State-of-the-art Voice Applications / Customized LLM & Generative AI
+-   [Open Voice OS](https://openvoiceos.com) - Free / Open-source voice AI platform / Multi-platform support
+-   [Fonada](https://www.fonada.com) - 100-1000 credits demo panel / Next-Gen CPaaS / AI-Powered Customer Engagement / Omni-Channel Integrations
+-   [Agentz](https://agentz.ai) - 14-day free trial / AI driven digital receptionist / Automate Routine Tasks - From $29/month
+-   [SmileDial.io](https://smiledial.io) - Month long free trial / AI-powered, 24/7 receptionist / Maximize Your Bookings / PHIPA Compliant
+-   [SmooveCall](https://smoovecall.com) - 60 free minutes per month / AI Voice Agents / Customer Service Automation / Lead Generation - From $25/month
+-   [Capacity Conversational AI Software](https://lumenvox.com) - Intelligent Virtual Agents / Agent Assist + Live Support / Campaigns + Workflows
+-   [Aria - AI Chat&Speak Assistant](https://apps.apple.com/us/app/aria-ai-chat-speak-assistant/id6480132263) - Voice-activated AI Chatbot / Multi-language conversation / Note-taking - From $29.99/month
+
+### AI Dubbing
+
+-   [Vidnoz AI](https://www.vidnoz.com/video-translate.html?insur=en_md_toolify2) - Free 3 min/day / Video translation to 140+ languages / Natural voice clone & lip-sync - From $19.99/mo
+-   [Murf AI](https://murf.ai) - 10 mins for Voice Generation / Text to Speech / 200+ realistic AI voices in 20+ languages - From $19/month
+-   [Rask AI](https://www.rask.ai) - 1 free minute / AI Video Localization / Dubbing / Perfect Lip-Syncing / No Credit Card Required - From $50/month
+-   [Maestra AI](https://maestra.ai) - 10 minutes free trial / AI Transcription / Subtitles / Multilingual Voiceovers / No account required - From $23/month
+-   [VMEG](https://www.vmeg.ai/tools/video-translator) - 60 free credits / Translate & dub videos in 170+ languages / 7000+ AI Voices & Lip Sync - From $9.6 for 240 credits
+-   [Panda Video](https://pandavideo.com.br) - 30-day free trial / Secure Video Hosting / AI-powered content creation / Sales & Engagement tools - From R$87.90/month
+-   [InfiniteTalk AI](https://www.infinitetalk.net) - Free credits / Sparse-Frame Video Dubbing / Audio-Driven Video Generation - From $9.90 for 100 Credits
+-   [PERSO.ai](https://perso.ai) - Free 7-day trial & 3 AI Studio credits / AI Dubbing / Voice Cloning & Lip Sync / Video Localization - From $29/month
+-   [vidby](https://vidby.com) - Free 3 minutes of dubbing / AI-powered video translation and dubbing / 70+ languages - From $9.95/month
+-   [Checksub](https://checksub.com) - Free 1 hour of video translation / Subtitle Generation / AI Dubbing / Video Translation - From $12/month
+-   [Vbee AIVoice](http://vbee.vn) - Emotional human-like voices / Over 50 languages and 400+ AI voices / Save up to 90% cost and time - From 30,000 VND/month
+-   [Translate.Video](https://www.translate.video) - Video Translation 5 Mins/mo / Video Translation / AI Voice-over & Voice Cloning - From $29/month
+-   [Speakshift.ai](https://speakshift.ai) - Real-time voice translation / Video dubbing
+-   [Sieve](https://www.sievedata.com) - Free $20 credit & 3 concurrent requests / Understand, edit, and search video / Dubbing - From $0/month + usage
+-   [YouTube Dubbing](https://www.youtube-dubbing.com) - Free to use / AI Dubbing & Translation / Multi-Platform & Site Support / Rich Voices & Advanced Features
+-   [AudioPod AI](https://www.audiopod.ai) - Free 10000 credits per month / Voice cloning / Noise reduction / Audio translation - From $2.50/month
+-   [SyncWords](https://syncwords.com) - AI-powered captioning / subtitling / voice dubbing - From $0.50/minute
+-   [VoiceCheap](https://www.voicecheap.ai) - 30k tokens free / AI-powered video dubbing & translation / auto-subtitles & lipsync - From 29€/month
+-   [AI Dubbing](https://aidubbing.io) - Free / AI Video Dubbing / Multilingual Support / Voice Cloning / No Sign-Up - Free
+-   [Ollang](https://ollang.com) - 21-Day Free Trial / AI Dubbing / Subtitling - From $19.99/month
+-   [Voice Changer](https://voicechanger.video) - Free / Transform voices with AI / Change voice or language / No Sign-Up
+-   [Deepdub](https://deepdub.ai) - 14-Day Free Trial and 10,000 Characters Free / Faster and more cost-efficient dubbing / Hollywood-Approved Audio
+-   [SpeechLab](https://speechlab.ai) - 5 minutes of free dubbing / AI-powered dubbing & voice-overs / Voice matching to original speaker - Starting at 60 cents per minute
+-   [Translate This Video](https://www.translatethisvideo.com) - 5 minutes free / Video Translation & Dubbing / Voice Cloning - From $79/month
+-   [AI Video Translator](https://aivideotranslator.ai) - Free Tool / Translate Videos Instantly / Perfect Lip Sync / No Sign-Up
+-   [AiLuvio](https://ailuvio.com) - 5,000 characters / Real-time AI-powered translation for video calls / AI-powered chat translation - From $4.99/month
+-   [Youtube Chinese Dubbing](https://chromewebstore.google.com/detail/youtube%E4%B8%AD%E6%96%87%E9%85%8D%E9%9F%B3/oglffgiaiekgeicdgkdlnlkhliajdlja) - Free 5 videos per day / AI dubbing for foreign videos / Supports YouTube & Udemy
+-   [Speax](https://speax.ai) - / AI-powered video dubbing / perfect lip-sync / multilingual accuracy / -
+-   [TransDub](https://transdub.xyz) - 1 minute free / Automatically translate and dub YouTube videos with AI / Translate to 29+ languages - From $49/month
+-   [UniDub](https://unidub.co) - 15 minutes free credit / Multi-lingual AI Dubbing / Emotions, Style, and Background music - ₹1.5 per second
+-   [Hello8](https://www.hello8.ai) - Free 3 minutes of translation credits / Translate videos into 29+ languages / Accurate AI video dubbing - From €49/month
+-   [Hello8](https://www.hellohola.app) - 3 minutes of translation credits / Accurate video translation / Lip-sync dubbing - From €49/month
+-   [Dubverse.ai](https://dubverse.ai) - 2-day Free Trial / AI Video Dubbing / AI Text to Speech / Auto Subtitles - From $18/month for 50 Credits
+-   [Langswap](https://langswap.app) - / Translate video with your voice / Save original voice and intonation / Save time and money
+-   [VideoLingo](https://videolingo.io) - Free trial for 15 mins video / AI-powered Cinema-grade Bilingual Subtitles & Dubbing Generation / Precise Translation, Thoughtful Dubbing / Natural Voice Synthesis
+-   [Braiv](https://www.braiv.co) - 15min hosted video & 300 AI Credits / Automate captions, translations & AI video dubbing / AI voice cloning - From $5/mo
+-   [Lip Sync AI](https://www.lipsyncai.org) - 10 credits /month / Perfectly synced videos / Any language and scenario - From $19.99/month
+-   [SIREN](https://siren.raccourci.top) - 50 Credits free trial / Audio Transcription / Audio Pen / Text-To-Speech
+-   [Crayo AI Video Clips Generator](https://crayoclips.com) - / AI Viral Video Clips / Video Downloader / AI Video Translation & Dubbing - From $19.99/month
+-   [Dubformer](https://dubformer.ai) - AI Dubbing and Voiceover / Ranked #1 in Speech Translation at WMT24 / Patented Emotion Transfer Technology
+
+### Audio To Text AI
+
+-   [Notta](https://notta.ai) - 120 minutes/month transcription, 10 AI summaries/month free / High-precision transcription / AI summary - From 1,185 JPY/month
+-   [Happy Scribe](https://happyscribe.com) - 10-minute free trial / Audio Transcription & Video Subtitles / AI-powered & Human-made services - From $9/month
+-   [Transkriptor](https://transkriptor.com) - Free 90 minutes / 99% accurate audio transcription / AI summaries & action items / Supports 100+ languages - From $8.33/month
+-   [Deepgram](https://deepgram.com/free-transcription) - Convert conversations, audio files, or YouTube videos to text / Supports over 36 languages
+-   [Speak AI](https://speakai.co) - 7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant - From $15/month
+-   [XspaceGPT](https://twitterspacegpt.com) - Convert & Summarize Twitter Spaces to Text / AI Summaries / Multi-language support - From $9.9/user per month
+-   [Sonix](https://sonix.ai) - 30 minutes free transcription / Automated transcription / Translation / AI Analysis - From $22/month
+-   [UniScribe](https://www.uniscribe.co) - 120 minutes / 5 files per day / Convert audio and video to text / Generate summaries, mind maps, and key questions - From $6/month
+-   [TranscribeToText.AI](https://transcribetotext.ai) - 1 Free Upload Daily (up to 10 minutes max) / AI-Powered Audio & Video Transcription / Transcribe from Links & Online Meetings - From $9.99/month (billed yearly)
+-   [Pixno](https://photes.io) - 30 credits per month (about 3 images) / Generate notes from images, docs, audio / AI-powered note enhancement - From $3/month
+-   [Transmonkey AI Translator Suite](https://www.transmonkey.ai) - Free trial credits / Document, Image, Video Translation / Preserves Original Layout / Dubbing & Subtitle Translation - From $8.3/month
+-   [VideoToWords AI](https://www.videotowords.ai) - Free 3 daily transcripts, 30 minutes uploads / Transcribe Audio & Video to Text / 99.9% Accuracy / 98+ Languages Support - From $16.58/month
+-   [SubtitleBee](https://subtitlebee.com) - Free 1 video / 10 minutes / 95% Accurate AI generated Subtitles / Translate subtitles in 120+ languages - From $19/month
+-   [TurboScribe](https://turboscribe.ai) - 3 Free Transcripts Daily / Unlimited Audio & Video Transcription / 99.8% Accuracy - From $10/month
+-   [Video To Blog](https://www.videotoblog.ai) - 1 blog post / month free / SEO optimized blog posts / Automatic link insertion - From $19/month
+-   [Cockatoo](https://www.cockatoo.com) - Superhuman speech to text accuracy / Transcribe in 90+ languages - From $9.99/month
+-   [Vatis Tech](https://vatis.tech) - 1 hour free / Accurate Speech-to-Text / AI Summary & Speaker ID / No signup required - From €20/month
+-   [VideoToTextAI](https://www.videototextai.com) - Free 1 hour of transcriptions / AI Transcriptions / AI Translations / Chat with AI - From $9.99/month
+-   [AudioConvert](https://audioconvert.ai) - Currently Free / AI Transcription / Speaker Detection / Multiple Export Formats
+-   [tulz.AI](https://tulz.ai) - AI-powered audio-to-text transcription / Up to 98% accuracy / Multiple language support
+-   [Audio2Text](https://audio2text.eu) - 10 minutes free / Converting audio to text / High accuracy transcription across 58 languages - From $0.99 / 60 Credits
+-   [Whisper Memos](https://whispermemos.com) - 10 tries free / Voice recording to email transcription / AI-powered paragraphed articles - From $4.99/month
+-   [Speechless](https://apps.apple.com/us/app/id6456413273) - / Audio Transcription / Audio Translation - From $2.99/month
+-   [Recos](https://recos.studio) - Free 20 credits / Transcribes audio to text / Supports up to 100MB audio files / No Login required
+-   [SpeakNotes](https://speaknotes.io) - 5 minutes per note free / AI transcription / Intelligent summarization / Multi-language support - From $14.99/month
+-   [WhisperBot](https://whisperize.me) - WhatsApp voice notes to text / AI-powered summaries / 57 languages supported / No Login required - €8.95/month
+-   [Mictoo](https://mictoo.com) - Automatic Transcription / AI Summary & Action Items
+-   [PodScribe.IO](https://podscribe.io) - 100 minutes & 25 AI credits free / AI-powered Content Creation / Accurate Transcription & AskAI Q&A - From $5/month
+-   [SoundType AI](https://soundtype.ai) - Free 180 minutes/month / AI-powered audio & video transcription / Speaker identification / AI summarization / No registration required - From $6.67/month
+-   [transcribethis.io](https://transcribethis.io) - Premier transcription accuracy and precision / Faster and cheaper than human transcription - From $4.99 for one file (up to 90 minutes of audio)
+-   [Yescribe.ai](https://yescribe.ai) - Fast, Accurate and Affordable Transcription / 98 Languages Global Coverage / AI Summaries
+-   [Inkr](https://inkr.app) - Free 35 minutes transcription & limited Ask Inkr access / Lightning-Fast, Accurate Transcriptions / AI-powered Notes & Search / No Sign-Up - From $9.99/month
+-   [RecCloud](https://reccloud.cn) - Free 2GB cloud storage, 5 files, 1-min AI feature trial / AI Speech-to-Text / AI Video Translation / AI Text-to-Speech - From ¥15/month
+-   [Transcri.io](https://transcri.io) - 15 minutes per month / AI-Powered Transcription / Subtitle Generation - From 3€/month
+-   [Transcripo](https://www.transcripo.com) - Audio-to-Text Conversion / AI Summaries / Generate Subtitles - From $9.90/month
+-   [Gladia](https://www.gladia.io) - 10h/month free / AI transcription / translation
+-   [TranscribeMe](https://www.transcribeme.app) - 20 minutes of transcriptions per month / Convert voice messages to text / Transcription, summary & translation / No Sign-Up - From ARS$ 720/month
+-   [VoicePen](https://voicepen.ai) - Audio/Video/Website to Blog Posts / AI-driven content, no writing needed - From $6.99/one time (1-3 blog posts)
+-   [SummarAIze](https://www.summaraize.com) - 75 free credits / Repurpose content from podcasts or video with AI / 10X content production - From $29/month
+-   [WhisperUI](https://whisperui.com) - Speech to Text / Text to Speech
+-   [Akkadu](https://akkadu.ai) - 10 minutes free / Real-time AI Subtitles in 90+ languages / Compatible with any platform - From $5 / hour
+-   [SIREN](https://siren.raccourci.top) - 50 Credits free trial / Audio Transcription / Audio Pen / Text-To-Speech
+-   [Tongyi Tingwu](https://chromewebstore.google.com/detail/%E9%80%9A%E4%B9%89%E5%90%AC%E6%82%9F-%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97%EF%BC%8C%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91/omlgpaciclcjgbligehccipcikleeiea) - Free 50 hours (first login) + 10 hours/day (daily login) / Real-time A/V to text / Speaker differentiation / AI summarization
+-   [LazyTyper](https://lazytyper.com) - Free / 12 Voice Models / 3x Faster Voice Typing - Free
+-   [Transkriptor](https://chromewebstore.google.com/detail/transkriptor-transcribe-a/pbajmiiebklfjhkeahpgjdlgclelihjh) - 90 Minutes Free Transcription / AI speech-to-text browser extension / Supports all file formats
+-   [Konch](https://konch.ai) - AI Transcription / Transcript Translation / Human Transcription - From $10/month
+-   [TextPixie](https://textpixie.com) - Free 20,000 text tokens, 5 image, 5 min audio per day / Translate text, images, audio, documents, web articles into 100+ languages / Fast, accurate, context-aware - From $7.9/month
+-   [Transcribe to Text](https://transcribetotext.org/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2883)- Freemium + From $19.99/month, No Refunds / Convert audio to text instantly with AI.
+
+### Tiktok AI Voice Generator
+
+-   [TikTok Voice Generator](https://tiktokvoice.net) - Free / Generate funny TikTok AI Voices / Thousands of styles in 20+ languages
+-   [AI Voice Generator by AIVocal](https://aivocal.io) - Free trial / 1000+ free voices / AI Voice Generator / Voice Cloning / No Sign-Up required
+-   [Shoorts](https://shoorts.ai) - ~2 basic videos, 25 AI credits / Create viral AI shorts daily / Turn ideas into trending TikToks, Reels & Youtube Shorts - From $59/month
+-   [The AI Voice Generator](https://theaivoicegenerator.com) - 1 free try / 120 characters / AI Voice Generator / Celebrity & Multilingual TTS / Voice Cloning / No Signup - From $6.99/month
+
+### AI Voice Enhancer
+
+-   [Vocal Image](https://vocalimage.app) - AI-powered voice coaching / Improve communication skills / Voice evaluation & specialized programs
+-   [Canvid](https://canvid.com) - Automatic Zooms / AI Background Effects / Auto-Captions - From $15/month
+-   [Ringflow](https://www.ringflow.com) - 14 Days Free Trial / AI-Powered Cloud Communication / Omnichannel Support / Real-Time Analytics - From $9.99/month
+-   [Tomato.ai](https://tomato.ai) - Free trial available / AI Accent Neutralization / Noise Cancellation - From $27/month (for 3 seats)
+-   [End Boost](https://alexaudiobutler.com) - 7 Day Trial / Automatic Audio Mixing / AI De-noising & Mastering - From US$249/yr
+-   [HeardThat](https://heardthatapp.com) - 30-day Free Trial / 30 free minutes/week / Separates speech from noise / Turns smartphone into hearing assistive device - From $9.99/month
+-   [VoiceCanvas](https://voicecanvas.org) - 1000 characters free / 7-day trial / Neural voice synthesis / Voice cloning - From $4.99/month
+-   [SpeakBrightly](https://speakbrightly.com) - Limited 60 seconds recording, 3 messages / Practice in a safe space / Expert-informed feedback / AI-powered analysis - From $4.99/month
+-   [Voice Isolator](https://www.voiceisolator.org) - 200 free credits / Remove background noise / Isolate vocals - From $9.9/month
+-   [Utell AI](https://utell.ai) - Free voice test (30s recording) / Real-time accent filter / Noise reduction / Preserve voices
+-   [MicVoice.Ai](https://micvoice.ai) - AI Text to Speech / AI Voice Changer / AI Voice Enhancer - From $19.99/month (1,000,000 TTS characters)
+-   [AI Voice Generator by AIVocal](https://aivocal.io) - Free trial / 1000+ free voices / AI Voice Generator / Voice Cloning / No Sign-Up required
+-   [Revocalize AI](https://www.revocalize.ai) - 5 conversion minutes / month, 1 Starter AI voice / Create studio-quality AI vocals / Train custom AI voice models - From $9/month
+-   [SimpleClean](https://simpleclean.app) - 1 hour free / Remove background noise from audio and video / AI audio cleaner - From $10/month
+-   [Audio Enhancer](https://audioenhancer.ai) - Free 500 MB under 5 min upload / Audio Enhancer / Noise Remover / Vocal Remover - From $10/month for 60 minutes
+
+### AI Speech Recognition
+
+-   [Blahget](https://itunes.apple.com/app/id6473291180) - Voice-based AI Expense Tracking / Smart Categorization / Intelligent Queries - From $1.99
+-   [ELSA Speak](https://elsaspeak.com) - 3 free scenarios / Improve English pronunciation / AI-powered English speaking coach / Real-world conversations - From $13.33/month
+-   [ParakeetAI](https://www.parakeet-ai.com) - Real-time AI Interview Assistant / Full Coding Interview Support / Multilingual 52 Languages - $29.50 for 3 Interview Credits
+-   [PTE APEUni](https://apeuni.com) - Free / AI Scorings / PTE Study Tools
+-   [Klangio](https://klang.io) - 20 seconds free / Transcribe Music into Notes / Create Sheet Music, TABs, MIDI and MusicXML
+-   [Fireflies.ai](https://fireflies.ai) - 800 mins storage/seat & limited AI summaries free / Meeting Transcription / AI Summaries / AI Powered Search - From $10/month, billed annually
+-   [LockedIn AI](https://www.lockedinai.com) - 10 minutes free daily / AI Interview & Meeting Copilot / Coding Copilot
+-   [Bark](https://bark.us) - 7-day free trial / Advanced content monitoring / AI-powered safety alerts / Manage screen time - From $5/month
+-   [BoldVoice](https://www.boldvoice.com) - 1 week free trial / Hollywood accent coaches / Instant A.I. feedback
+-   [Pronounce AI](https://www.getpronounce.com) - Free plan / AI Speech Checker / AI Speaking Partners / AI Meeting Transcription - From $19.99/m
+-   [Yoodli](https://www.yoodli.ai) - Up to 5 Yoodlis / Private, realtime AI speech coaching / Reduce filler words & track progress - From $8 USD / month
+-   [Tarteel AI](https://tarteel.ai) - Free plan / AI-powered Quran recitation feedback / Memorization tools - From $7.50/month
+-   [Speak AI](https://speakai.co) - 7-day trial with 30 minutes free transcription & AI analysis / Transcribe, translate, analyze / AI Meeting Assistant - From $15/month
+-   [Fluently](https://getfluently.app) - 4-minute call for free English score / Personalized feedback on real speech / AI tutor for speaking practice / Real-life call feedback
+-   [Sunoh.ai](https://sunoh.ai) - Converts conversations to clinical notes / Reduces burnout & saves time - From $149/month
+-   [SpeechPulse](https://speechpulse.com) - 30-day free trial / Real-time speech recognition / Transcribe audio/video & generate subtitles - One-time purchase: $99
+-   [AiRepeater](https://www.airepeater.com) - Core features free during public beta / Audio/Video Repetition / Pronunciation Assessment
+-   [MediScoper](https://mediscoper.com) - 7 days / 10 minutes of transcription / AI-powered transcription & analysis / Real-time diagnostic proposals / Secure & private data processing - From €3/month
+-   [Trancy](https://www.trancy.org) - Free 50 PDF pages/month / Personalized study materials from YouTube/Netflix / Build vocabulary & grammar / Improve listening & speaking - From $3.49/month
+-   [Accent Guesser](https://accentguesser.ai) - Free trial / AI-Powered Accent Analysis / Quick & Reliable Analysis / Global Accent Recognition
+-   [Algochat.io](https://www.algochat.io) - 30 Mins of daily usage / AI-powered chatbots for streams / Real-time interactions / No Login required - From $19.99/Monthly
+-   [TurboScribe](https://turboscribe.ai) - 3 Free Transcripts Daily / Unlimited Audio & Video Transcription / 99.8% Accuracy - From $10/month
+-   [OETStudy](https://oetstudy.com) - Free Practice / AI-powered DET Test Preparation / Largest DET question bank with AI scoring
+-   [AudioPod AI](https://www.audiopod.ai) - Free 10000 credits per month / Voice cloning / Noise reduction / Audio translation - From $2.50/month
+-   [AssemblyAI](https://www.assemblyai.com) - Free $50 of credits / 416 hours of prerecorded audio / Speech-to-Text / Speech Understanding - From $0.12/hr
+-   [CPAIT-Chinese Pronunciation AI](https://apps.apple.com/us/app/cpait-chinese-pronunciation-ai/id1673600157) - / AI tutor with real-time feedback / Offline practice & privacy - From $24.99/month
+-   [TranscriptionPlus](https://transcription.plus) - 30 minutes/month / 99% accuracy / Speaker Identification / Summary Generation - From $4.90/month
+-   [Chinese AI - U Language Coach](https://apps.apple.com/us/app/chinese-ai-u-language-coach/id6478802293) - 4 times per day / Pronunciation Correction / Grammar Correction - From $5.99/month
+-   [Bleep Censor AI](https://bleepcensor.com) - AI-powered profanity censoring / Prevents demonetization / Automates content cleaning
+-   [Cyntra](https://cyntra.ai) - Two free Breez devices / 30-second checkouts / AI voice activation & RFID technology - From $99/month
+-   [Natulang](https://apps.apple.com/app/apple-store/id1672038621) - Some free lessons / Dialogue with AI chatbot / Voice recognition and synthesis / Real-life dialogues - From $4.99
+-   [Ello](https://www.ello.com) - 7-day free trial / AI-powered reading coach / Proprietary speech recognition / Decodable e-books - From $14.99/month
+-   [Language Reactor](https://www.languagereactor.com) - Learn from native materials (Netflix, YouTube) / Bilingual subtitles / AI Dictionary - From SGD 7.88/month
+-   [Merlin Bird ID by Cornell Lab](https://apps.apple.com/us/app/merlin-bird-id-by-cornell-lab/id773457673) - Free / Identify Birds You See & Hear / Photo ID & Sound ID
+-   [Deep Infra](https://deepinfra.com) - 10 USD free per month / Fast ML Inference / Simple API - From $0.005 per 1M input tokens
+
+### AI Voice Over
+
+-   [Fineshare FineVoice](https://www.fineshare.com/ai-voice-generator) - Free 2,000 TTS characters per month / AI Voice Generator / AI Voice Cloning / Text to Speech - From $5.99/month
+-   [Autodraft AI](https://autodraft.in) - 20 free credits / AI Animation Videos / AI Character & Style Consistency - From $8/month
+-   [Coverr](https://coverr.co) - Unlimited Free Stock Videos & Music / HD & 4K Stock Videos / Royalty-Free Music / AI Tools / No Sign-Up needed
+-   [Murf AI](https://murf.ai) - 10 mins for Voice Generation / Text to Speech / 200+ realistic AI voices in 20+ languages - From $19/month
+-   [EaseUS](https://www.easeus.com) - Data Recovery / Backup / Partition Management - From $9.95
+-   [ElevenLabs](https://elevenlabs.io) - 10k credits/month / Realistic Text to Speech / AI Voice Generation - From $5/month
+-   [Unmixr](https://unmixr.com) - 7-day free trial / AI Voiceover / AI Dubbing / AI Writing Editor - From $2.99/month for 100,000 words
+-   [Lazybird](https://lazybird.app) - Free 3,000 characters per month / Human-like Automated Voice Overs / 200+ voices and 100+ languages - From $4/month
+-   [Overvoice](https://overvoice.ai) - Free / Automatically adds professional-grade voiceovers / Customizable voiceover generation with AI
+-   [Supademo](https://supademo.com) - 5 Supademos included, 14-day free trial / AI-powered interactive demos / Personalize at scale / No account required - From $27/month
+-   [AudioPod AI](https://www.audiopod.ai) - Free 10000 credits per month / Voice cloning / Noise reduction / Audio translation - From $2.50/month
+-   [Typecast](https://typecast.ai) - 5 minutes of download credits per month / Emotion-driven AI voices / Multilingual dubbing / Voice cloning - From $8.99/month
+-   [AI Voicer](https://apps.apple.com/us/app/ai-voicer-voice-over/id6464452140) - Text to speech / Voice cloning / Celebrity voices - From $19.99/month
+-   [Voice Changer](https://voicechanger.video) - Free / Transform voices with AI / Change voice or language / No Sign-Up
+-   [Tight Studio](https://tight.studio) - Free plan / Automatic zoom in / AI voiceover / - From $20/month
+-   [ApolloAI](https://useapollo.app) - 10,000 tokens free / AI videos, images, music, audio effects & content generation - From $25/month
+-   [Listnr AI](https://listnr.ai) - 1000 words for free / Realistic Text to Speech / 1000+ voices in 140+ languages - From $19/month
+-   [SpeechLab](https://speechlab.ai) - 5 minutes of free dubbing / AI-powered dubbing & voice-overs / Voice matching to original speaker - Starting at 60 cents per minute
+-   [AiCoursify](https://createaicourse.com) - Free trial with up to 4000 words of lesson content / AI Course Generation / Automated Assessments / AI Voice Lessons - From $49/month (2 Course Generations)
+-   [DeckBird.ai](https://deckbird.ai) - Free Upload Presentation / Create self-running webinars / Embed & share presentations / Built-in CRM & analytics
+-   [KlipLab](https://kliplab.com) - 100 free credits / AI celebrity voice generator / Realistic voiceovers / Realistic Lip Sync - From $5/month
+-   [Assistante.app](https://assistante.app) - Unlimited free access for life / AI Experts for precise answers / All-in-one AI content generation platform
+-   [DaVinci AI (Dewagear CreateAI)](https://createai.dewagear.com) - AI Content Generation / AI Image Creation / AI Voiceovers - From $5.00 USD for 2,000 words and 100 images
+-   [Epicly.ai](https://www.epicly.ai) - 50 Credits Per Month / Automating Video Content Creation Workflows / AI-Driven Scriptwriting & Voiceovers - From $25.00/month
+-   [Maximus AI](https://maximus-ai.com) - AI Writer / AI Chatbot / AI Image Generator - From $29.99/month
+-   [Supademo](https://supascreenshot.com) - 5 Supademos & Unlimited screenshots free / Interactive Demos / Beautiful Screenshots / Annotate & Share - From $27/creator/month
+-   [Speechify](https://speechify.com) - Text to speech / AI Voice Studio / Celebrity voices
+-   [XMetaverso CREA & Academia de Automatización IA](https://crea.xmetaverso.com) - Free 1000 words/month / AI Content Generation / AI Voiceovers / AI Image Generation - From €7.99/month
+-   [Speechimo](https://speechimo.io) - 14 Days Free Trial / High-quality, human-sounding voiceovers / Save money on voice-over artists
+-   [clonemyvoice.io](https://clonemyvoice.io) - / AI audio voiceovers for long-form content / Voice cloning and imitation / - From $99.99/month
+-   [IdeaAize](https://ideaaize.com) - AI Content Generation / AI Voice Over / Image Creation - From $7.75/month
+-   [Dubformer](https://dubformer.ai) - AI Dubbing and Voiceover / Ranked #1 in Speech Translation at WMT24 / Patented Emotion Transfer Technology
+
+### AI Podcast Clip Generator
+
+-   [WayinVideo](https://wayin.ai/wayinvideo) - / AI Clipping / Video Summary / Edit video by text
+-   [AutoPod](https://www.autopod.fm) - 30 day free trial / Automatic Multi-Camera Editing / Social Clip Creation / Silent Shot Removal - From $29/month
+-   [Descript](https://www.descript.com) - 1 transcription hour free / Edit videos & podcasts by typing / AI editing tools - From $24/month
+-   [Riverside.fm](https://riverside.fm) - 2 hours of multi-track recordings free / Separate audio & video tracks / AI-powered transcriptions - From $19/month
+-   [GoodListen](https://goodlisten.co) - AI-driven audio comprehension / Generate highlights, chapters, clips from podcasts
+-   [Fame Clips](https://www.audiolabs.io) - 1 clip free trial / Professionally edited clips / Hybrid AI/human solution - From $700/month
+-   [Podhome](https://www.podhome.fm) - 30-day free trial / Unlimited Podcast Hosting / Podhome AI / Easy Distribution - From $15.99/month
+-   [Swell AI](https://swellai.com) - 1 upload a month free / Transcripts / Articles - From $29/month
+-   [CreateWise AI](https://createwise.ai) - 200 FREE credits / month / AI-powered Podcast Editor / Show Notes & Highlights / Removes Filler Words & Silences - From $9.90/month
+-   [Vizard.ai](https://vizard.ai) - 60 upload minutes/mo / AI Video Editing and Clipping / Repurpose Video Content / No Sign-Up - From $14.5/month
+-   [Flowjin](https://flowjin.com) - Turn Long Videos to Short Videos Effortlessly / Create engaging short-form content for TikTok, Instagram and YouTube / Edit videos by editing transcription text - From $9.5/year
+-   [Minvo](https://minvo.pro) - Upload up to 1 hour of video free / Extract viral shorts from long videos / AI video content automation / Unlimited social posting & scheduling - From $4.49/month (billed annually)
+-   [PodClips](https://podclips.pro) - 7 day free trial / Create viral video content / Turn Podcasts Into Viral Video Content On Autopilot
+-   [ClipGen](https://www.clipgen.io) - 5 Clips, 60 Upload Minutes free / Turning Podcasts into Short Clips / Subtitles, Custom Branding, 30+ Languages / No credit card required - From £7.50/month for 10 Clips, 60 Upload Minutes
+
+### AI Speech Synthesis
+
+-   [GPT Reader](https://gpt-reader.com) - Free / ChatGPT-Powered Voices / Text-to-Speech (TTS) / Supports PDFs, articles, & docs
+-   [Voice.ai](https://voice.ai) - Free / Real-time AI voice changer / Voice cloning / UGC voice library (Voice Universe)
+-   [Murf AI](https://murf.ai) - 10 mins for Voice Generation / Text to Speech / 200+ realistic AI voices in 20+ languages - From $19/month
+-   [DesiVocal](https://desivocal.com) - Free access / Text to speech in multiple languages / HD AI voice overs in seconds - From ₹ 129 for 5,000 credits
+-   [SteosVoice](https://cybervoice.io) - 1K symbols for free everyday / High-Quality Neural Voice AI / TTS for content, mod and game creators - From $2/month (~1222 minutes)
+-   [Kokoro Web](https://voice-generator.pages.dev) - Forever Free / AI Voice Generation / Text to Speech / Open-Source
+-   [Free Text to Speech Online](https://text-speech.net) - Completely Free / Text to Voice Conversion / Natural-Sounding Voice / No Login or Signup Required
+-   [SAM TTS](https://samtts.com) - Free / Authentic Microsoft SAM Voice Synthesis / Customizable Voice Parameters / No Downloads Required
+-   [TailoredPod](https://tailoredpod.ai) - Free Newsletter / Personalized News Podcast & Newsletter / Neutral News Summaries - From $7.99/month
+-   [Vbee AIVoice](http://vbee.vn) - Emotional human-like voices / Over 50 languages and 400+ AI voices / Save up to 90% cost and time - From 30,000 VND/month
+-   [AnyToSpeech](https://anytospeech.com) - ~15 seconds audio, 200 characters, 1 audio per day / Convert text, PDF, or URL to speech / Natural-sounding voices / No registration or credit card required - From $14 for 100,000 characters (one-time payment)
+-   [VoiceNovel](https://voicenovel.org) - 2 free credits / Convert up to 2 novels / AI Voice Synthesis / Convert Novels to Audiobooks / Unique Character Voices - From $5.00/year
+-   [VoiceCanvas](https://voicecanvas.org) - 1000 characters free / 7-day trial / Neural voice synthesis / Voice cloning - From $4.99/month
+-   [AIdeaFlow Podcast](https://aideaflowpodcast.com/) - Transform text into AI Podcasts / 120+ natural voices - From $8.25/month
+-   [Text to Speech.im](https://texttospeech.im) - Free / Natural-sounding voices / High-quality audio download
+-   [TTSMaker](https://ttsmaker.com) - 20,000 characters per week / 600+ AI voices / 100+ languages / Commercial use / No registration or payment required - From $9.99/month
+-   [TTSVox](https://ttsvox.com) - 5000 characters free / Lifelike Voices / Unlimited Usage / Multi-language Support
+-   [F5 TTS](https://www.f5tts.net) - High-Quality Synthesis / Multilingual Support / Voice Cloning / No Sign-Up
+-   [Microsoft TTS Downloader](https://www.microsoft-tts-downloader.com) - Free 6 downloads/month / Download Microsoft synthesized Text-to-Speech audio / 1-click download & play - From $1.5/month (billed yearly)
+-   [Outtloud](https://www.outtloud.com) - Try for free for 3-days / Turn Any Text into Audio / AI-powered audio summary - From $8/mo Yearly
+-   [Typecast](https://typecast.ai) - 5 minutes of download credits per month / Emotion-driven AI voices / Multilingual dubbing / Voice cloning - From $8.99/month
+-   [Web Whisper](https://webwhisper.online) - Turns web pages into audios / Instant Conversion / Works Offline - $0 / Unlimited webpage conversions
+-   [ttsMP3.com](https://ttsmp3.com) - Free 3,000 characters/day / AI-powered, human-like text-to-speech conversion / 28+ languages & MP3 Download - From $13.76 SGD/month
+-   [Article Audio](https://article.audio) - 1 article free / Convert articles to high-quality audio / 140+ languages / 270+ high-quality voices - From €19/month
+-   [TTS4Free](https://tts4free.com) - Free to use / Natural sounding voices / Supports over 20 languages / No Sign-Up required
+-   [article2audio](https://article2audio.app) - Interprets images / Synthesizes table summaries / Enhances text for natural audio - From $2.22/hour
+-   [Podcustom](https://podcustom.io) - 15 Free Credits / AI Podcast Generator / Multiple Input Sources / Premium AI Voices - From $5.99/month
+-   [SpeechGen.io](https://speechgen.io) - 2000 characters free / Realistic AI Voiceovers / Text to Speech conversion / Multi-voice editor - $4.99 for 25,000 Pro characters or 50,000 Standard characters
+-   [Azure Speech TTS Extension](https://chromewebstore.google.com/detail/speak-based-on-azure-spee/andejlggejnbmnoikmckpdlmlhlplkmi) - 0.5 million characters free per month / Text to speech (TTS) extension / Play audio of selected text / Multi-language support
+-   [F5-TTS](https://f5tts.org) - 40 free credits / Natural, expressive speech / Zero-Shot Voice Cloning - From $9.90/month
+-   [Audioread](https://chromewebstore.google.com/detail/audioread-ultra-realistic/fblchjbbkkaoobkhhbloehgkpdlomido) - Convert articles, PDFs, emails to podcasts / Personal RSS feed for podcast apps
+-   [PopPop AI Text to Speech](https://poppop.ai/ai-text-to-speech) - Free / 20+ languages & 200+ characters / Realistic AI voices / No signup required
+-   [FileSpeech](https://filespeech.com) - 7-Day Free Trial / Convert Files to Speech / Multilingual & Neural Voices / Offline features
+-   [Dubverse.ai](https://dubverse.ai) - 2-day Free Trial / AI Video Dubbing / AI Text to Speech / Auto Subtitles - From $18/month for 50 Credits
+-   [Lovevoice AI](https://lovevoice.ai) - 1,000 characters free / Transform text into lifelike speech / Nearly 300 AI voices - From $6.99 one-time for 800,000 characters
+-   [Luvvoice](https://luvvoice.com) - 20,000 characters per month / Text to Speech / AI Voice Generator / No login required - From $4.99/month
+-   [Voicemaker](https://voicemaker.in) - 100 conversions per week / Commercial use audio / 1,000+ AI voices in 130 languages / Custom Voice Cloning - From $5/month
+-   [Crikk](https://crikk.com) - 10,000 Characters free / Turn Text, PDFs, and Images into Clear Audio / Most Natural Sounding AI Voices / No login sign up required - From $14/month
+-   [Respeecher Voice Marketplace](https://www.respeecher.com) - AI Voice Generator / Advanced Text-to-Speech / Celebrity Voices
+-   [Voice Out](https://voiceout.app) - Free plan / Read aloud any Google Doc, PDF, webpage, or book / Supports 60+ languages & 100+ voices / Designed to respect your privacy - From $3/month
+
+### AI Recording
+
+-   [Limitless](https://limitless.ai) - 20 hours/month free / Personalized AI / Preserve conversations - From $19/month
+-   [Adobe Podcast](https://podcast.adobe.com) - 2 free quick tools / AI-powered audio recording and editing / Noise and echo removal / Record, transcribe, edit, share
+-   [Krisp](https://krisp.ai) - Free 60 min/day Noise Cancellation & 2 AI notes/day / Noise Cancellation / AI Note Taker - From $16/month
+-   [Fireflies.ai](https://fireflies.ai) - 800 mins storage/seat & limited AI summaries free / Meeting Transcription / AI Summaries / AI Powered Search - From $10/month, billed annually
+-   [tl;dv](https://chromewebstore.google.com/detail/record-transcribe-chatgpt/lknmjhcajhfbbglglccadlfdjbaiifig) - Automatic meeting recording / Accurate transcription with Speaker Labels / Instant AI Summaries
+-   [ScreenApp](https://screenapp.io) - Free 3 AI Credits / AI Notetaker / Transcription / Summarizer - From $14/month
+-   [Fathom](https://fathom.video) - First 5 advanced AI calls/month / Records, transcribes, and summarizes meetings / Automates post-call data entry into CRM - From $15/month
+-   [Recallify](https://recallify.ai) - 120 monthly transcription minutes free / Record, summarise, revisit memories / Voice-recall, train, and test your memory - From £7.49/month
+-   [Transkriptor](https://transkriptor.com) - Free 90 minutes / 99% accurate audio transcription / AI summaries & action items / Supports 100+ languages - From $8.33/month
+-   [Bangin' Audio Recorder](https://www.banginaudiorecorder.com) - Try for Free / Record, transcribe and curate audio / Timestamped speech-to-text / iCloud Sync
+-   [UXSniff](https://uxsniff.com) - 150 recording limits & 4,500 monthly pageviews free / AI-Powered Session Recordings / Website Heatmaps - From $19/month
+-   [Vemo: AI Note Taker](https://apps.apple.com/us/app/vemo-ai-ai-note-taker/id6458929422) - 30-minute recording limit / AI-generated meeting summaries / Action item generation - From $9.99
+-   [Wizardshot](https://wizardshot.com) - Free / Create AI-powered step-by-step tutorials / Record screen & automatically generate guides / Export as PDF/DOC or embed into knowledge base
+-   [Noota](https://www.noota.io) - Free 300 min & 10 AI credits / AI-powered meeting assistant / Automates note-taking & custom reports - From $19/month/user
+-   [Dubnote](https://apps.apple.com/us/app/dubnote-record-music-ideas/id6445849526) - Organise recordings / Auto-split sections / Transcription & BPM detection - From $5.99/month
+-   [Sembly AI](https://www.sembly.ai) - 60 mins/month online recording, 60 mins/month upload free / AI-generated meeting minutes and summaries / AI Tasks - From $10/month
+-   [Backtrack AI](https://www.usebacktrack.com) - Free 1-Day Trial / AI Lead Capture for Events / Automated AI Notes & Summaries - From $400/per user/per event
+-   [Scribe Medix](https://scribemedix.com) - 20 Free Credits / Real-time Patient-Doctor Conversations / Accurate Clinical Documentation - From $99/month
+-   [Tella](https://www.tella.com) - 7-day Free trial / AI video editing / Screen recording / Product demos - From $12/month
+-   [AiSOAP](https://aisoap.com) - 3 days free trial / Accurate, HIPAA-compliant SOAP notes / Automated medical documentation / Customizable SOAP note templates - From $1 for the first month
+-   [Boom for Mac: Present & Record Like a Pro](https://www.boomvideo.app) - Try Free / Pro Layouts & Transitions / No Editing Screen Recording / No Credit Card Required to Try - From $10 USD/Month (Yearly)
+-   [Apollo Health AI](https://apollohealth.ai) - 1 Week Free Use / Automates charting notes / Reduces clerical burdens / HIPAA Compliant - From $99/month
+-   [CrystalSound](https://crystalsound.ai) - Free 7-Day Trial / Noise Cancellation / Screen Recording / Meeting Minutes - From $96 USD/User/Year
+-   [NoteX](https://notexapp.com) - Free 1 AI Transcription per day / AI Note Taking / Smart Study Material Generation - From $12.99/month
+-   [SeaMeet](https://chromewebstore.google.com/detail/seameet-take-chatgpt-meet/gkkhkniggakfgioeeclbllpihmipkcmn) - Real-time Transcriptions / AI Summaries / Action Items
+-   [SOAPME.AI](https://soapme.ai) - 10 Visits free / Automatic SOAP Notes From The Patient Conversations / Accurate SOAPs - From $99/month
+-   [Colibri](https://chromewebstore.google.com/detail/colibri-%E2%80%93-ai-note-taking/cakncflhgfdldplnfckolccpndmocdal) - Free trial / Real-time transcription / AI-generated summaries and action items
+-   [Bubbles](https://chromewebstore.google.com/detail/bubbles-ai-meeting-notes/ppbfhhgcdehhbjigifndnfmcihegokbb) - Free / screen recorder / AI meeting notetaker
+-   [Vocol AI](https://www.vocol.ai) - Free 200 V-points / AI-powered transcription & summarization / Multilingual support - From $11/month
+-   [Wave: AI Note Taker](https://apps.apple.com/us/app/wave-ai-note-taker/id6451491556) - AI-powered Transcription / Intelligent Summaries / Phone Call Recording - From $6.99
+-   [Sonnet AI](https://www.sonnetai.com) - 5 monthly recordings / No-bot audio recording / AI-generated notes - From $15/month for 40 monthly recordings
+
+[⬆️ Back to README](./README.md)
