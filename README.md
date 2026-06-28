@@ -1,5 +1,7 @@
 # Free AI Tools Directory | I Love Free
 
+<!-- split-by-split-readme-en v1 -->
+
 ![](ilovefree.png)
 
 > A curated directory of 7,586+ free AI tools across 22 categories.
