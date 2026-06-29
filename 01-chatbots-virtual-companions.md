@@ -66,7 +66,6 @@ I Love Free
 -   [AccuChats](https://accuchats.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3423)- Freemium + From $39/month, No Refunds / Build accurate AI chatbots with guaranteed accuracy.
 -   [Decision Forcing Studio](https://chatgpt.com/g/g-6951775631e881919f94cb0a387625de-decision-forcing-studio?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3351)- 100% Free / Chat with AI to explore, solve, and learn.
 -   [scalerX](https://scalerx.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3090)- Freemium + From $5/month, No Refunds / Supercharge Your Telegram Chats with Personalized AI Agents
--   [Hello123](https://hello123.com) - hello123 ai tools directory
 
 ### AI Character
 
