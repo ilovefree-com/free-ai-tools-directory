@@ -490,7 +490,7 @@ I Love Free
   - [AI Models](./22-other.md#ai-models)
   - [Open Source AI Models](./22-other.md#open-source-ai-models)
   - [AI Tools Directory](./22-other.md#ai-tools-directory)
-  - [Other](./22-other.md#other)
+  - [Other](./22-other.md#other-1)
   - [AI Games](./22-other.md#ai-games)
   - [AI Game Generator](./22-other.md#ai-game-generator)
   - [AI Robot](./22-other.md#ai-robot)
