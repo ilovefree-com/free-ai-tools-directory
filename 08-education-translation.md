@@ -81,6 +81,7 @@
 -   [Asksia](https://www.asksia.ai) - Personal AI Tutor & Homework Helper / Lecture Transcription & Note Organization / Smart Highlights & Summaries
 -   [Khanmigo](https://khanmigo.ai) - Free for teachers / AI-powered teaching assistant & tutor / personalized tutoring & homework help
 -   [Study Fetch](https://studyfetch.com) - AI Flashcards / AI Quizzes / AI Tutor
+-   [Cardify](https://blynkai.app/cardify/) - Free / AI mistake-question flashcards / Concept, weakness, and variant cards for K12 review
 -   [Answer.AI](https://answerai.pro) - Free 3 daily requests / AI Tutor & Counselor / Question Scanner - From $8.33/month
 -   [TutorOcean](https://tutorocean.com) - Free to join / Affordable Private Online Tutors / Homework Help & Test Prep
 -   [LearnFast AI](https://learnfast.ai) - Free daily usage / Instant, Accurate Math & Physics Solutions / Powered by GPT-4o AI / No Login Required
