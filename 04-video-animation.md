@@ -52,6 +52,7 @@
 -   [PixVerse](https://pixverse.ai) - Free 3 trials / Transform multi-modal inputs into stunning videos / Create AI videos from text & photos
 -   [Fliki](https://fliki.ai) - 5 minutes of free audio and video content per month / AI Video Generator / Realistic AI Voices
 -   [InVideo](https://invideo.io) - 10 mins/wk of AI generation free / AI video creation / 5000+ templates - From $28/month
+-   [ImagineClip](https://imagineclip.com) - Freemium / AI video generator for avatar clips, stylized scenes, and social-ready videos
 -   [VEED.IO](https://veed.io) - Auto Subtitles 2 min/mo / AI Video Editor / Auto-subtitles / AI Avatars / No credit card or account required - From $9/month
 -   [Vmake AI](https://vmake.ai) - All-in-One Talking Head Video Solution / AI Video Enhancement & Transformation Tools / No signup needed
 -   [Animaker](https://www.animaker.com) - Free 3 Video Downloads/mo / AI-Powered Video Creation / Custom Character Builder - From $15/month
