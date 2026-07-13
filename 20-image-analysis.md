@@ -279,6 +279,7 @@
 
 ### AI Image Scanning
 
+-   [Reverse Image Location (Geo Solver)](https://reverseimagelocation.com/) - Freemium / AI photo geolocation / explains visual scene clues for OSINT and GeoGuessr-style practice / cross-check results with maps and satellite imagery
 -   [AI Image Detector](https://www.aiimagedetector.com) - 100% Free / Detect AI-Generated Images Instantly / Highly Accurate / No Registration Required
 -   [Bark](https://bark.us) - 7-day free trial / Advanced content monitoring / AI-powered safety alerts / Manage screen time - From $5/month
 -   [MealSnap: AI meal log journal](https://apps.apple.com/us/app/mealsnap-ai-meal-log-journal/id6475162854) - Free / AI-Powered Meal Scanning / Nutritional Information at a Glance - From $1.99
