@@ -178,6 +178,7 @@
 -   [Viyou AI Kiss Generator](https://viyou.ai/custom-kiss-generator?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3198)- Free Trial + From $7.99, One-time, No Refunds / Create personalized AI kiss images or videos in seconds.
 -   [Paper Animator](https://paperanimator.art/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2685)- Freemium + From $4.99, One-time, Users can request a refund within 7 days of purchase: subscriptions get a pro-rated refund (or full if no credits used) / Turn images into paper animations.
 -   [Uthana](https://uthana.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2786)- Freemium + From $10/month / Generate motion on any character, from prompt to production.
+-   [Recapo.ai](https://recapo.ai?from=ilovefree-free-ai-tools-directory) - Freemium / AI long-to-short video editor / Script, subtitle, voiceover, and chat-based editing for publish-ready short videos
 
 ### AI Video Enhancer
 
