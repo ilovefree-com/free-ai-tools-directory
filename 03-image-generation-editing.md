@@ -9,6 +9,7 @@
 > Discover free AI image generators, photo editors, and background removers. Create and edit stunning visuals at no cost.
 
 ### AI Image Generator
+-   [GPT Image 2 Chinese](https://gptimage2.yfyyu.com/?utm_source=ilovefree&utm_medium=directory&utm_campaign=free_ai_tools_directory) - Free signup and daily check-in credits / Chinese AI image generation / Prompt templates / Reference-image workflows
 
 -   [Adobe](https://adobe.com) - Free trial / Creativity & Design / PDF & E-signatures
 -   [Freepik AI Image Generator](https://www.freepik.com/ai/image-generator) - 20 generations per day / Real-time AI image generation / Photorealistic image generation / Image upscaling
