@@ -10,6 +10,10 @@
 
 ### AI Video Generator
 
+-   [VideoAny](https://videoany.be/) - Free starter credits / Text and image to video / AI image and audio generation
+-   [VideoAny PL](https://videoany.pl/) - Free starter credits / Polish AI video studio / Text, image, and audio generation
+-   [DeepFake AI](https://deepfakeai.pro/) - Free starter credits / Consent-based deepfake video and face exchange / Image and music generation
+-   [Unbound AI](https://unboundai.net/) - Free starter credits / Unrestricted AI image and video generation / Optional music, voice, and sound effects
 -   [Creatify](https://creatify.ai) - 10 credits/mo (~2 videos) / AI Video Ads / AI Avatar / No credit card required - From $33/mo
 -   [HeyGen](https://www.heygen.com) - Free 3 videos per month / AI video generation / Customizable AI avatars / No credit card or sign up needed - From $29/mo
 -   [Sora](https://sora.chatgpt.com) - Up to 3 images per day / Video generation from text / Realistic and imaginative scenes - From $20/month
