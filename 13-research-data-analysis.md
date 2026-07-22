@@ -153,6 +153,7 @@
 -   [Height Estimator](https://heightestimator.com) - Estimate height from image / Predict child's future adult height
 -   [Destiny Matrix Chart Calculator](https://matrix-destiny-chart.net) - Free Destiny Matrix Calculator / AI-powered Destiny Matrix calculation / Life's blueprint insights - From $4.8 for 2 reports
 -   [AI Teller](https://aiteller.io) - Free / AI Fortune Teller / AI Vedic Astrology Calculator / AI Chinese BAZI Calculator
+-   [Vedic Astrology Chart](https://vedicastrologychart.net) - Free chart / Vedic birth chart and divisional charts / AI interpretation / No credit card required - From $4.99/report
 -   [CosmicguideAI](https://www.cosmicguideai.com) - Free Weekly Cosmic Playbook / Personalized AI Astrologer / Deep Relationship Analysis - From $39.95 for Full 20-Page Report
 -   [Chinese Feng Shui Online Calculation Tool](https://chinesefengshui.net) - 2 Calculation times free / Chinese Feng Shui Online Calculation Tool / AI Intelligent Analysis / I Ching Divination & Bazi Fortune-Telling - From $1 for 2 calculation times
 -   [AI Trading Predictor](https://aitradingpredictor.com) - Free / AI-powered financial forecasting / Accurate forecasts with dynamic visualizations
