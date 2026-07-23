@@ -1142,6 +1142,7 @@
 
 ### AI Video Upscaler
 
+-   [Video Upscaler](https://videoupscaler.video) - Freemium / AI video upscaling / Video enhancement / Online processing
 -   [EzUGC](https://www.ezugc.ai) - 3-day free trial / AI UGC Video Ads / Realistic AI Actors - From $49/month for 10 Videos
 -   [DomoAI](https://domoai.app) - Free 25 credits / AI Art Generator / Video to Animation Converter - From $6.99/month
 -   [EaseUS](https://www.easeus.com) - Data Recovery / Backup / Partition Management - From $9.95
