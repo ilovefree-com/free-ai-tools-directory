@@ -62,7 +62,6 @@
 
 ### AI Photo Editor
 
--   [Blur Background](https://blurbackground.vip) - Freemium / AI background blur / Adjustable blur depth and edge controls / Browser-based photo editing
 -   [Cutout.Pro](https://www.cutout.pro) - Free 1 file processing / AI Photo & Video Editing / Automatic Background Removal / Image Enhancement & Content Generation
 -   [VSCO](http://www.vsco.co) - Free Starter plan with 15 presets & 100 Canvas credits / Photo & Video Editor / Photography Community / Brand Engagement - From $2.50/month
 -   [Aftershoot](https://aftershoot.com) - 30-day free trial / AI Culling / AI Editing / AI Retouching - From $10/month
@@ -117,6 +116,7 @@
 -   [AI Moire Remover](https://moireremoval.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2598)- 7 days free trial + From $4.49/month, No Refunds / Remove wavy interference patterns from photos instantly with AI.
 -   [EzEditor AI Magic Editor](https://ezeditor.io/ai-magic-editor/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2526)- Free Trial + From $9.99, One-time / Edit photos instantly with text prompts.
 -   [Pic A.I.'d](https://www.picaid.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2777)- Free Trial + From $10, One-time / Transform real estate property photos instantly with A.I.
+-   [Blur Background](https://blurbackground.vip) - Freemium / AI background blur / Adjustable blur depth and edge controls / Browser-based photo editing
 
 ### AI Background Remover
 
