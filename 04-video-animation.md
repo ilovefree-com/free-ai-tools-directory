@@ -71,6 +71,9 @@
 -   [SoVideo - All-in-one ai image/video generator platfor...](https://sovideo.org/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2768)- Free Trial + From $9.90/month, No Refunds / Free AI video generator without watermarks.
 -   [Tool.Video](https://tool.video/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2667)- Freemium + From $4/month, No Refunds / All-in-one AI video generation toolkit with API support.
 -   [VicSee](https://vicsee.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2556)- Freemium + From $15/month, Users can receive refunds within 7 days of purchase only if no credits were used. / Create cinematic videos and stunning images with AI.
+-   [VideoAny](https://videoany.be/) - Free starter credits / Text and image to video / AI image and audio generation
+-   [DeepFake AI](https://deepfakeai.pro/) - Free starter credits / Consent-based deepfake video and face exchange / Image and music generation
+-   [Unbound AI](https://unboundai.net/) - Free starter credits / Unrestricted AI image and video generation / Optional music, voice, and sound effects
 
 ### AI Video Editor
 
