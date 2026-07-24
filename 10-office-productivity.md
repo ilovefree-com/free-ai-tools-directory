@@ -226,6 +226,7 @@
 -   [OsirisBrain](https://osirisbrain.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3489)- Freemium + From $99/year / An AI expert for everything you do.
 -   [Pamela](https://www.thisispamela.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3468)- Freemium + From $16/month, No Refunds / Take back control of your time.
 -   [Gobii](https://gobii.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2553)- Freemium + From $50/month, No Refunds / Create digital workers that automate web tasks 24/7.
+-   [Agent Skills Finder](https://agentskillsfinder.com/?utm_source=ilovefree.com&utm_medium=referral&utm_campaign=promotion) - Completely free / Search, compare, and evaluate public skills for Claude, Codex, OpenClaw, and Cursor / Category browsing, collections, install commands, submissions, ratings, and reviews - $0
 
 ### AI Presentation Generator
 
