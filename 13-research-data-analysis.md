@@ -163,6 +163,7 @@
 -   [Assisty](https://assisty.ai) - 3 Custom Reports, 1 Custom Dashboard free / Inventory Replenishment Optimization / Inventory Tracking / Accurate Demand Forecasting - From $19/month
 -   [Arcana Vibes](https://www.arcanavibes.com) - 7 Day Full Access Trial / Personalized Tarot Readings / Astrological Insights / Saved Readings - From $19.99/month
 -   [CandlePredict: Prediction AI](https://apps.apple.com/us/app/candlepredict-prediction-ai/id6602896564) - Free / Price prediction for over 80 stocks / Price prediction for the biggest cryptocurrency tokens - From $9.99/Month
+-   [Vedic Astrology Chart](https://vedicastrologychart.net) - Free chart / Vedic birth chart and divisional charts / AI interpretation / No credit card required - From $4.99/report
 
 ### AI Data Mining
 
