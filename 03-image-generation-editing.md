@@ -171,7 +171,6 @@
 
 ### AI Face Swap Generator
 
--   [Best Face Swap](https://bestfaceswap.io/) - Free starter access / AI face swap for photos, videos, GIFs, and group media
 -   [Artguru AI](https://www.artguru.ai) - 1 image generation free / AI Art Generator from Text / AI Art Generator from Photo / AI Avatar & Portrait Generator / Login-free
 -   [BeArt AI Face Swap](https://beart.ai/face-swap) - Free / Unlimited AI Face Swap for Photos, Videos & GIFs / No Download, No Watermark / No Login or Sign Up required
 -   [insMind](https://www.insmind.com/face-swap) - 3 days free trial, get 10 credits / Seamlessly Change Faces / Realistic Face Swaps - From $5.83/month
