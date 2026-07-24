@@ -678,8 +678,3 @@
 -   [DepsHub](https://depshub.com) - Free for Open-Source / Automatic dependency updates / License checks / Security vulnerability scanning - From $19/month
 
 [⬆️ Back to README](./README.md)
-
-
-### Agent Skill Discovery
-
-- [Agent Skills Finder](https://agentskillsfinder.com/?utm_source=ilovefree.com&utm_medium=referral&utm_campaign=promotion) - Completely free / Search, compare, and evaluate public skills for Claude, Codex, OpenClaw, and Cursor / Category browsing, collections, install commands, submissions, ratings, and reviews - $0
