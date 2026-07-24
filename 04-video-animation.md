@@ -1142,7 +1142,6 @@
 
 ### AI Video Upscaler
 
--   [Video Upscaler](https://videoupscaler.video) - Freemium / AI video upscaling / Video enhancement / Online processing
 -   [EzUGC](https://www.ezugc.ai) - 3-day free trial / AI UGC Video Ads / Realistic AI Actors - From $49/month for 10 Videos
 -   [DomoAI](https://domoai.app) - Free 25 credits / AI Art Generator / Video to Animation Converter - From $6.99/month
 -   [EaseUS](https://www.easeus.com) - Data Recovery / Backup / Partition Management - From $9.95
@@ -1176,6 +1175,7 @@
 -   [Sora2 AI](https://sora-2.run) - 16 Credits/day / Text & Image to Video / Audio generation / - From $20.93/month
 -   [Viddo-Veo3 AI Video Generator](https://viddo.ai) - AI video generator / Text-to-Video and Image-to-Video / Cinematic Ultra-HD videos - From $0.17 per video
 -   [AI Upscaler](https://www.aiupscaler.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2956)- Freemium + From $0.20/unit, No Refunds / Smarter AI 4K Upscaler for Images & Videos
+-   [Video Upscaler](https://videoupscaler.video) - Freemium / AI video upscaling / Video enhancement / Online processing
 
 ### Video to Video
 
