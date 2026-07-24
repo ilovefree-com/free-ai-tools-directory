@@ -1273,7 +1273,6 @@
 
 ### AI Style Transfer
 
--   [AnimeGen.ai](https://animegen.ai) - Free sample / Turn portraits, pets, and travel photos into anime-style art / 40+ styles / Download-ready results
 -   [neural frames](https://www.neuralframes.com/tools/ai-cartoon-generator) - Free / Transform photos into vibrant cartoons / Instant results / No Login or Sign Up required - From $19/month
 -   [NightCafe Creator](https://creator.nightcafe.studio) - Unlimited base Stable Diffusion generations + 5 daily credits / AI Art Generator / AI Art Community & Challenges - From $4.49/month
 -   [Autodraft AI](https://autodraft.in) - 20 free credits / AI Animation Videos / AI Character & Style Consistency - From $8/month
@@ -1311,6 +1310,7 @@
 -   [Nano Banana Pro](https://nanobananafree.ai) - Unlimited generations / AI Image Generation / One-Shot Editing
 -   [Nano Banana AI](https://banana-ai.org) - 5 Credit Free Trial on First Sign In / AI-Powered Photo Editing / Effortless Style Adaptation - From $7.92/month
 -   [Img2Img.net AI](https://img-2-img.net/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2838)- Free Trial + From $3.99/month, No Refunds / Transform photos with AI style transfer in seconds.
+-   [AnimeGen.ai](https://animegen.ai) - Free sample / Turn portraits, pets, and travel photos into anime-style art / 40+ styles / Download-ready results
 
 ### AI Waifu Generator
 
