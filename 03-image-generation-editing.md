@@ -9,6 +9,7 @@
 > Discover free AI image generators, photo editors, and background removers. Create and edit stunning visuals at no cost.
 
 ### AI Image Generator
+- [ImgFast](https://imgfast.org) - Free starter credits / Text-to-image, reference image editing, photo editing, background removal, enhancement, and a continuous visual workspace / One-time credit packs available
 
 -   [Adobe](https://adobe.com) - Free trial / Creativity & Design / PDF & E-signatures
 -   [Freepik AI Image Generator](https://www.freepik.com/ai/image-generator) - 20 generations per day / Real-time AI image generation / Photorealistic image generation / Image upscaling
