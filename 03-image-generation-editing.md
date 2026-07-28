@@ -118,6 +118,7 @@
 -   [EzEditor AI Magic Editor](https://ezeditor.io/ai-magic-editor/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2526)- Free Trial + From $9.99, One-time / Edit photos instantly with text prompts.
 -   [Pic A.I.'d](https://www.picaid.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2777)- Free Trial + From $10, One-time / Transform real estate property photos instantly with A.I.
 -   [Blur Background](https://blurbackground.vip) - Freemium / AI background blur / Adjustable blur depth and edge controls / Browser-based photo editing
+-   [ImageChanger](https://aiimagechanger.app/) - Freemium / 38 focused AI photo editing workflows / Background, portrait, object, restoration, and creative transformations
 
 ### AI Background Remover
 
