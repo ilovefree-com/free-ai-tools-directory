@@ -1314,6 +1314,7 @@
 -   [Nano Banana AI](https://banana-ai.org) - 5 Credit Free Trial on First Sign In / AI-Powered Photo Editing / Effortless Style Adaptation - From $7.92/month
 -   [Img2Img.net AI](https://img-2-img.net/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2838)- Free Trial + From $3.99/month, No Refunds / Transform photos with AI style transfer in seconds.
 -   [AnimeGen.ai](https://animegen.ai) - Free sample / Turn portraits, pets, and travel photos into anime-style art / 40+ styles / Download-ready results
+-   [Line Drawing Converter](https://linedrawingconverter.com) - Free / Turn photos into clean black-and-white line drawings online / Styles: Clean, Simple, Detailed, Bold, Thin / No sign-up required
 
 ### AI Waifu Generator
 
