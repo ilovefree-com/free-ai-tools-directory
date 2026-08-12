@@ -60,6 +60,7 @@
 -   [Piooy AI Image Generator](https://piooy.com/ai-image-generator?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3059)- Freemium + From $9.99/month, Refunds are considered within 7 days for duplicate charges, accidental purchases with no material use, defective delivery, or unintended subscription renewals without usage. / Create stunning images from text prompts instantly.
 -   [StockCake](https://stockcake.com/premium/ai-tools/image-creator/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2571)- Freemium + From $6/month, One click refunds / Millions of free AI stock images. Download, edit, or generate variations instantly.
 -   [GPT Image 2 Chinese](https://gptimage2.yfyyu.com/?utm_source=ilovefree&utm_medium=directory&utm_campaign=free_ai_tools_directory) - Free signup and daily check-in credits / Chinese AI image generation / Prompt templates / Reference-image workflows
+-   [Pixal3D](https://pixal-3d.com/) - Free / Open-source image-to-3D generation with PBR textures and GLB export - MIT License
 
 ### AI Photo Editor
 
