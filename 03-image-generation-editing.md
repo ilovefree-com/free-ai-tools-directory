@@ -987,6 +987,7 @@
 
 ### AI Realistic Image Generator
 
+-   [Realistic AI Image Generator](https://realisticaiimagegenerator.online/) - Start for free / Generate photorealistic portraits, product photos, and ads from text / Reference image support / 1K, 2K, and 4K output
 -   [Freepik AI Image Generator](https://www.freepik.com/ai/image-generator) - 20 generations per day / Real-time AI image generation / Photorealistic image generation / Image upscaling
 -   [Tatship](https://tatship.com) - Free / Virtual Tattoo Try-On / AI Tattoo Generator
 -   [Z-image](https://z-image.ai) - Open source / Efficient Image Generation / Photorealistic Quality / Ultra-fast Inference
