@@ -119,6 +119,7 @@
 
 -   [Vizologi](https://vizologi.com) - FREE 7 days trial - 8k credits / Generate limitless business ideas / Automate business plan creation - From $9/month (billed yearly)
 -   [aicofounder](https://aicofounder.com) - Free 5 daily credits / Idea validation / Market research / - From $25/month
+-   [IdeaHunter](https://ideahunter.today) - Freemium / Demand-backed app and micro-SaaS ideas / Public signal research, buyer pain, MVP scope, and validation paths
 -   [Solo](https://www.soloist.ai) - Free website / Instantly create beautiful websites with AI / Free custom domain connection
 -   [Stratup.ai](https://stratup.ai) - 10 ideas, 10 solutions, 1 report free / AI-powered startup idea generation / Detailed business reports - From $15/month
 -   [IdeaBuddy](https://ideabuddy.com) - 15-day free trial, 10 AI requests / AI Assistance / Business Planning Software - From $5/month
