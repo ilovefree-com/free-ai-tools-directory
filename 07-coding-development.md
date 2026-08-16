@@ -379,6 +379,7 @@
 
 ### AI Testing
 
+-   [Agent QA](https://github.com/vostride/agent-qa) - Source-available software with no license fee for permitted use / Natural-language web and mobile regression testing / CLI, dashboard, MCP server, run memory / Model, browser, or device-provider costs may apply
 -   [PTE APEUni](https://apeuni.com) - Free / AI Scorings / PTE Study Tools
 -   [AlfaPTE](https://alfapte.com) - 2 free mock tests & 5 daily AI score checks / AI Scoring / Real Exam Simulation / Comprehensive Mock Tests - From $10.95/10 days
 -   [LambdaTest](https://www.lambdatest.com/kane-ai) - 60 Min/Month Freemium Plan / GenAI-Native Test Agent / Natural Language Test Authoring - From $15/month
