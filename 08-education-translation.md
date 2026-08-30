@@ -62,6 +62,8 @@
 
 ### AI Homework Helper
 
+-   [Math AI](https://mathai.chat/) - Free credits without sign-up / Step-by-step math solutions / Photo and text problem solving / Tutor explanations
+
 -   [Gauth](https://gauthmath.com) - AI Homework Helper / Real Live Tutors / Step-by-step Solutions
 -   [Solvely](https://solvely.ai) - Free to start / Take a picture and get step-by-step solutions / All subjects, all levels
 -   [ReadTheory](https://readtheory.org) - Free Basic plan / Adaptive reading comprehension / Personalized learning / Automatic grading - From $14/month
