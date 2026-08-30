@@ -61,6 +61,7 @@
 -   [Telo](https://blynkai.app/telo/) - Free / AI wellness companion for iPhone / Apple Health context and event logging / Readiness, recovery, sleep trends / Not a medical diagnosis tool
 
 ### AI Mental Health
+-   [RAADS-R Test](https://raads-rtest.online/) - Free / 80-question self-assessment / Total score and four domain breakdowns / No account / Informational, not a medical diagnosis
 
 -   [Brain.fm](https://www.brain.fm) - 14-Day Free Trial / Focus music for distraction-free work / Stimulates brain for sustained attention - From $9.99/month
 -   [Upheal](https://upheal.io) - Unlimited notes free / AI progress notes / Treatment plans with SMART goals - From $39/month
