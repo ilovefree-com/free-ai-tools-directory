@@ -10,6 +10,7 @@
 
 ### AI Interior Design
 
+-   [AI Interior Design](https://ai-interior-design.online/) - Free online use / Upload a room photo and compare AI-generated interior styles and layout concepts
 -   [Coohom](https://www.coohom.com) - Free 3 projects / 3D Home Design / AI Interior Design / Fast 4K Rendering - From $35/month
 -   [mnml.ai](https://mnml.ai) - Free credits / AI Render tools for architecture & interior design / 1-click Sketch to Render - From $19/month
 -   [AiHouse](https://aihouse.com) - 7-Day Free Trial / AI-Powered 3D Interior Design / Photorealistic Renders & 3D Walkthroughs / Design-to-Manufacturing Integration
