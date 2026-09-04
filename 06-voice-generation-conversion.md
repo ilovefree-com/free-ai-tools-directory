@@ -9,6 +9,7 @@
 > Find free AI transcription, voice generation, and text-to-speech tools. Create and transform audio content at no cost.
 
 ### AI Transcription
+-   [ScriptGecko](https://scriptgecko.com) - 2 transcripts/day for guests, 3/day with Google sign-in / AI Instagram Reel & video transcription / Timestamped transcripts / TXT downloads
 
 -   [Otter.ai](https://otter.ai) - 300 monthly transcription minutes / AI meeting assistant records, transcribes and summarizes in real time / Otter AI Chat - From $16.99/month
 -   [Clipto.AI](https://clipto.com) - 7-day free trial / AI Transcription / 99% transcription accuracy / 99+ languages supported - From $8.99/month
