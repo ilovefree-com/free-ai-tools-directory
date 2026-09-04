@@ -1188,6 +1188,7 @@
 -   [IMAI Studio](https://www.imai.studio/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3327)- Freemium + From $20/month, No Refunds / Design studio for enduring brand experiences.
 
 ### AI Pixel Art
+-   [MakePixelArt](https://makepixelart.net) - Free / AI-powered image-to-pixel-art converter / Adjustable pixel size, retro palettes, grid preview, and PNG downloads
 
 -   [Pixelfy](https://www.pixelfy.ai) - 12 image generations / AI-powered prompt builder / generates stunning pixel art images
 -   [Sketchar](https://sketchar.io) - 7 days free trial / AR drawing on any surface / Hundreds of drawing courses / Built-in digital canvas
