@@ -37,6 +37,7 @@
 -   [AI KAT](https://www.aikat.ai) - 7 content pieces free / Brand strategy, naming, logo, content & visuals / Content scheduling - From £49/month
 
 ### AI Crypto
+-   [TokenHawk](https://tokenhawk.io) - Free plan with up to 10 alert rules / AI-powered crypto price monitoring / Telegram and email alerts - Pro from $10/month
 
 -   [Pionex](https://www.pionex.com/en/signUp?r=7bYd5fOw) - Free Crypto Trading Bot / World’s 1st exchange with in-built crypto trading bots / 24/7 trading automatically in the cloud
 -   [LuxAlgo](https://www.luxalgo.com) - Free tools / AI trading indicators / AI backtesting - From $24.99/month

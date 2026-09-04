@@ -119,6 +119,7 @@
 -   [TruVerifAI](https://truverif.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2813)- Freemium + From $12/month, No Refunds / Multiple AIs deliver verified, consensus-driven intelligence.
 
 ### AI Predictions
+-   [dobenchmark](https://dobenchmark.com) - Free / AI-powered PC game compatibility checker / Compare hardware against published requirements and sourced GPU benchmark data
 
 -   [Tarotap](https://tarotap.com) - Free 2 AI Tarot readings/day / AI Tarot Reading / Online Tarot Card Drawing - From NT$199/month
 -   [Tarotoo](https://tarotoo.com) - Absolutely FREE / AI-powered Tarot & Psychic Readings / Animated Tarot Cards / No Registration Required

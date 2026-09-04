@@ -513,6 +513,7 @@
 -   [SpeakNotes](https://speaknotes.io) - 5 minutes per note free / AI transcription / Intelligent summarization / Multi-language support - From $14.99/month
 
 ### AI Image Translator
+-   [Manga Translator](https://mangatranslator.pro) - Free / AI manga image translation / Upload one JPG, PNG, or WebP page / Review and download the translated image
 
 -   [漫画翻译器](https://ichigoreader.com) - AI-driven Japanese, Chinese, and Korean translation / Supports all platforms
 -   [PDNob Image Translator](https://www.tenorshare.com/products/free-ai-image-translator.html) - / Translate image with OCR / Translate to 100+ Languages - From $15.95/month with 100 AI credits

@@ -251,6 +251,7 @@
 -   [Keenly](https://keenly.com) - Free Privacy Report / AI Phone Assistant / Data Broker Removal
 
 ### AI Games
+-   [Build A Player](https://buildaplayer.games) - Free / AI basketball player builder / 82-game season simulation / Shareable challenges
 
 -   [Friends & Fables](https://fables.gg) - Up to 25 turns per day / AI text adventure RPG / AI Game Master / World Building tools
 -   [HakkoAI](https://www.hakko.ai) - Free / Real-time game assistance / Emotional companionship

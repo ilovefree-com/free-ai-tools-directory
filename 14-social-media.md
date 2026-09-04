@@ -546,6 +546,7 @@
 -   [SocialDude](https://socialdude.ai) - Up to 10 Generations free / AI-powered content creation / Multi-platform content generation - From 3.25€/month
 
 ### AI Tiktok
+-   [OwlPeek](https://owlpeek.net) - Free / AI public TikTok story viewer / View available photo and video stories without signing in
 
 -   [Gloda](https://www.gloda.vip/en) - Free access / TikTok Market Insights / Winning Product Selection / Creator Matching
 -   [CUT3](https://www.cut3.ai) - Try for free / AI video generation / Short-form content creation / Automated video editing - From $19.99/month
