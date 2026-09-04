@@ -74,6 +74,7 @@
 -   [VideoAny](https://videoany.be/) - Free starter credits / Text and image to video / AI image and audio generation
 -   [DeepFake AI](https://deepfakeai.pro/) - Free starter credits / Consent-based deepfake video and face exchange / Image and music generation
 -   [Unbound AI](https://unboundai.net/) - Free starter credits / Unrestricted AI image and video generation / Optional music, voice, and sound effects
+-   [VidRush AI](https://vidrushai.com/) - Free / AI long video generation from text, images, audio & video / Multi-modal input with reference consistency - Freemium
 
 ### AI Video Editor
 
