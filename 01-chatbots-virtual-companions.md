@@ -274,3 +274,4 @@ I Love Free
 -   [Dan - AI Voice Chat Companion](https://apps.apple.com/us/app/dan-ai-voice-chat-companion/id6502860590) - Free Access / Real-Time Voice Conversations / Fully Customizable AI Voice Chat - From $9.99/month
 
 [⬆️ Back to README](./README.md)
+- [WSUP AI: Free AI Character Chat](https://wsupai.app/) - Free AI character chat online: talk to AI characters in your browser, with no sign up.
