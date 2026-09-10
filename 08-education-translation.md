@@ -111,6 +111,7 @@
 -   [QWiser](https://qwiser.io) - Analyze up to 5 courses, 10 questions per exam free / Transform content into engaging study materials / Personalized AI study tools - From $14.95/month
 -   [Cogent](https://joincogent.com) - 3 AI flashcards, 2 AI Exams, 5 file chats free per month / AI Flashcards / AI Exams / File Chat - From $2.99/month
 -   [StudyFox](https://studyfox.pro) - 3-day free trial / Quiz Solver / Flashcards / Mind Mapping - From $3.99/week
+-   [StudyArena](https://studyarena.com) - Free three-answer comparisons / Study questions / Blind voting and model reveal
 
 ### AI Course
 
