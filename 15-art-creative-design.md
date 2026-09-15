@@ -242,6 +242,7 @@
 -   [Blueberry AI](https://www.blueberry-ai.com) - 14 Day Free Trial / Digital Asset Management / 3D project file preview / User management - From $9.99/Seat/Month
 -   [SAM 3D](https://sam-3d.com) - 10 credits monthly / Turn Any Image into 3D Objects & Scenes / Single-image 3D reconstruction - From $15/month
 -   [SuperCraft](https://supercraft.ai) - 30 iterations / Design physical products with natural language / Highly realistic renders - From $29.99/month
+-   [AI STL Generator](https://aistlgenerator.com/) - Free / Turn Text & Images into 3D Printable STL Files / Text to STL, Image to STL, Watertight 3D Printable Models - Freemium
 -   [Stability AI License](https://stablevideo3d.com) - Free Community License / Generate 3D views from single images / Create detailed 3D meshes / Novel multi-view synthesis - Free
 
 ### AI Font Generator
