@@ -41,6 +41,7 @@
 
 ### AI YouTube
 
+-   [ShortsMonkey](https://www.shortsmonkey.com) - Permanent free plan / YouTube outlier research and views-to-subscribers comparisons / MCP integration for AI-assisted video research - Paid plans from $19.90/month
 -   [Futurepedia](https://futurepedia.io) - Find The Best AI Tools & Software / Comprehensive directories and guides
 -   [TubeBuddy](https://tubebuddy.com) - 5 Suggested Shorts / AI-powered Video Optimization / YouTube SEO Tools - From $6.00/month
 -   [Subscribr](https://subscribr.ai) - First script free / AI Script Writer / YouTube Automation Tool - From $19/month
