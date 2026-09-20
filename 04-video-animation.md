@@ -117,6 +117,7 @@
 -   [Vmake AI](https://vmake.ai) - All-in-One Talking Head Video Solution / AI Video Enhancement & Transformation Tools / No signup needed
 -   [VideoGen](https://videogen.io) - Free / Instantly generate videos / Realistic AI voiceovers - From $12/month
 -   [SendShort](https://sendshort.ai) - Turn long videos into viral short clips / Create Faceless videos / Add subtitles with AI - From $19/month for 100 shorts
+-   [Faceless Reels AI](https://facelessreels-ai.com/) - Free / Review-first faceless vertical video studio / Plan scripts, scenes, narration, captions, timing, and music before rendering / Export 9:16 video and SRT captions
 -   [sync.so](https://sync.so) - 5$ in free credits / lipsync video to any audio or text / seamless translation for global reach - From $19/month
 -   [BIGVU](https://bigvu.tv) - Free 3 scripts in total / AI Avatars / Smart Teleprompter / Auto-captions
 -   [GStory AI](https://www.gstory.ai) - 50 free credits upon sign-up / Free AI Video Editor / Photo enhancer / TikTok watermark remover - From $2.99 for 50 credits
