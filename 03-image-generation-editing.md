@@ -28,6 +28,7 @@
 -   [Craiyon](https://www.craiyon.com) - Unlimited Lite images / AI image generator from text / Fast generation / No Sign-Up - From $6/month
 -   [GeminiGenAI](https://geminigen.ai) - Free Forever / AI-generated images / videos / speech - Buy credits from $1
 -   [VisualGPT](https://visualgpt.io) - Free access / AI Image Generator / AI Image Editor / No Login Required
+-   [MagicKit](https://magickit.47.80.8.174.nip.io) - 100% Free, No Sign-up / AI Image Generation (FLUX) + AI Writing + AI Video / Open Source MIT License / Powered by Pollinations
 -   [Easy-Peasy.AI](https://easy-peasy.ai) - 1,000 words free / Content Creation / Image Crafting - From $8/month (billed yearly)
 -   [PicLumen](https://www.piclumen.com) - Unlimited Generations / Text-to-image conversion / Multiple styles
 -   [Tensor.Art](https://tensor.art) - Free / Online image generator / Model hosting site
