@@ -1228,5 +1228,6 @@
 -   [Virtual Try On AI](https://aitryon.art) - 100 credits for new users, 20 daily check-in credits / Virtual Try On AI / AI Image Generation / AI Video Generation - From $7.99/month
 -   [Vadu AI](https://vadu.ai) - 20 free credits / AI Video Generation / AI Image Creation - From $9.00/month
 -   [Vidofy](https://vidofy.ai) - 10 credits / Generate professional AI videos / unique images in seconds - From $10.00/month
+-   [AI Fruit Video](https://aifruitvideo.com) - Free credits / Talking-fruit AI video generation / Single-scene shareable clips
 
 [⬆️ Back to README](./README.md)
