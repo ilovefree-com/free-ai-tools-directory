@@ -10,6 +10,7 @@
 
 ### AI Developer Tools
 
+-   [Codex Reset Radar](https://quickresetai.online/?utm_source=ilovefree) - Free browser dashboard / Track Codex usage limits, reset status, and reset history / Plan heavy coding work around real reset windows / No sign-up required
 -   [Google AI Studio](https://aistudio.google.com) - Completely free in Google AI Studio / Multimodal generative AI models / 2M token context window / Search grounding - From $0.0375 per 1M tokens
 -   [Bitbucket](https://bitbucket.org) - Free for up to 5 users, 50 build minutes, 1 GB Git LFS / CI/CD / AI / Jira integration - From $3.30/month
 -   [Salesforce Platform](https://force.com) - 30-day trial / Unifies Data, AI, CRM, Development, and Security / Low Code Development / Automation - From $25/user/month
