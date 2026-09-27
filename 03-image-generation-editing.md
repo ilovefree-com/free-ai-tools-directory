@@ -225,6 +225,7 @@
 ### AI Image Upscaler
 
 -   [Imgupscaler AI](https://imgupscaler.ai) - Unlimited Free / Upscale Image / Sharpen Photo / Increase Quality / No Login or Sign Up required
+-   [UpRes](https://upres.ai) - 5 free upscales/month / AI Image & Video Upscaler / 4K-8K resolution / Real-ESRGAN-based / MCP server for AI agents - From $9/month
 -   [ImgUpscaler](https://imgupscaler.com) - 20 free credits per month / AI Image Upscaler / Batch Process / No Account Required - From $3.9/month
 -   [SvgTrace](https://svgtrace.com) - Convert any image to SVG / AI-powered upscaling / Create color-layered SVG files
 -   [Recraft](https://www.recraft.ai) - 50 free credits daily / Generate images in the same style / Image generation and editing / - From $12/month (1000 credits monthly)
