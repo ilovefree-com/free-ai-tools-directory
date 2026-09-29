@@ -170,6 +170,7 @@
 -   [Aiarty Image Matting](https://jp.aiarty.com/aiarty-image-matting) - 1 image export per time free / AI Background Removal / AI Image Enhancement - From 5980円/year
 -   [Nano Banana AI](https://banana-ai.org) - 5 Credit Free Trial on First Sign In / AI-Powered Photo Editing / Effortless Style Adaptation - From $7.92/month
 -   [Photiu.ai](https://www.photiu.ai) - Free / Remove Background / Upscale Images / Erase Objects / No Login or Sign Up required
+-   [RemoveMate](https://removemate.com) - 10 free credits every 24 hours, no sign-up required / AI Background Removal / Image Cleanup Tools - From $9 one-time
 
 ### AI Face Swap Generator
 
