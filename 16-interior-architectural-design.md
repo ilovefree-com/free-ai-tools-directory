@@ -63,6 +63,7 @@
 -   [AI Virtual Staging](https://www.aivirtualstaging.net/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2951)- Free Trial + From $19, One-time, No Refunds / Stage empty rooms instantly with realistic furniture using AI.
 -   [Vaethat - AI Render Enhancer for Architecture Renders](https://www.vaethat.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2850)- Free Trial + From $14/month / AI render enhancer built for archviz professionals.
 -   [AI Home Design.io](https://aihomedesign.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3547)- Free Trial + From $22.42/month / Upload room photos, get professional interior design in seconds.
+-   [AI Room Makeover](https://airoommakeover.com) - Free previews / Preview a specific change in your own room photo / Keeps original space, viewpoint, and unmentioned objects intact - Freemium
 
 ### AI Floor Plan Generator
 
