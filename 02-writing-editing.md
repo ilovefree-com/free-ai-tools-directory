@@ -64,6 +64,7 @@
 -   [xeditai](https://xeditai.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3459)- Free Trial + From $7.99, One-time / Create with every AI model in one workspace.
 -   [ContentPod](https://www.contentpod.co/products/article-writer/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2910)- Freemium + From $9.99/month, We offer prorated refunds based on the unused credits remaining in your current billing period. / The everything app for content creation
 -   [Triall](https://triall.ai/?utm_source=ilovefree&utm_medium=directory&utm_campaign=listing) [](https://free.ilovefree.com/link/3502)- Free Trial + From $11/month, No Refunds / The AI Hallucination Fix: three models, one verdict.
+-   [AI eBook Pro](https://aiebookpro.com) - First eBook free to write and read / Full eBook from one sentence / Cover generation / PDF, EPUB and DOCX export - From $29/month
 
 ### AI Writing
 
