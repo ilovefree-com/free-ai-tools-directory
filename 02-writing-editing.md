@@ -348,6 +348,7 @@
 -   [TuckMeIn](https://tuckmein.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3228)- Freemium + From $9/month, No Refunds / Every night, a new adventure starring your child.
 -   [Wonder Wisp](https://wonderwisp.net/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3420)- Free Trial + From $5/unit, No Refunds / Create personalized children's storybooks starring your child.
 -   [GenStory](https://www.genstory.app/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2714)- Free Trial + From $19.99/month / Transform ideas into beautiful AI storybooks instantly.
+-   [WhimKid](https://whimkid.com) - 100 welcome credits for new users, valid for 30 days / 10 daily credits / Create editable, AI children's storybook generator.
 
 ### AI Summarizer
 
