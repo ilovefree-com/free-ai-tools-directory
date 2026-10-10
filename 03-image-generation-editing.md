@@ -10,6 +10,8 @@
 
 ### AI Image Generator
 
+-   [iLoveAIImg](https://iloveaiimg.com/) - Limited free trial and daily credits (eligibility and limits apply) / Text-to-image generation / Natural-language image editing / Background removal with transparent PNG downloads / Paid options available
+
 -   [Adobe](https://adobe.com) - Free trial / Creativity & Design / PDF & E-signatures
 -   [Freepik AI Image Generator](https://www.freepik.com/ai/image-generator) - 20 generations per day / Real-time AI image generation / Photorealistic image generation / Image upscaling
 -   [MiriCanvas](https://www.miricanvas.com) - Free for 2 weeks / AI-powered design / Advanced photo editing tools
