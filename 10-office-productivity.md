@@ -170,6 +170,8 @@
 -   [Recal](https://tryrecal.com?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2816)- Freemium + From $14/month, 14-day money-back guarantee for first-time subscribers / Your AI-powered second brain that captures everything important.
 -   [RiffOn](https://riffon.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2895)- 100% Free / Discover podcast insights that matter daily.
 
+-   [Orkas](https://orkas.ai/?source=gh_ilovefree) - Free core desktop app; model usage and optional services may cost extra / Open-source, local-first desktop AI workforce / Turn project files into reports and editable presentations through Commander-led specialist coordination / Reuse project context and connect supported model providers with your own API keys
+
 ### AI Agent
 
 -   [Apify](https://apify.com) - Free $5 credit / Web scraping / Data extraction / Automation - From $39/month
