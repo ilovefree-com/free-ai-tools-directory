@@ -155,6 +155,7 @@
 ### AI Tools Directory
 
 -   [Futurepedia](https://futurepedia.io) - Find The Best AI Tools & Software / Comprehensive directories and guides
+-   [AI Tools Radar](https://aitoolsradar.com) - Free public browsing of AI tools, models, agent skills, prompts, news and newsletters; vendor submission and promotion are paid.
 -   [Itirupati](https://itirupati.com) - AI Tools Directory / ChatGPT Prompts / Notion Templates
 -   [Meta AI Demos](https://aidemos.meta.com) - Interactive Media Segmentation / Animated Drawings / AI-Generated Audio Stories
 -   [WizGenerator](https://wizgenerator.com) - Free / Comprehensive Tools / Premium & Accurate Results
