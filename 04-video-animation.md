@@ -10,6 +10,8 @@
 
 ### AI Video Generator
 
+-   [Image to Video AI](https://imagetovideoai.pro/) - 1 free video to try / Generate videos from still images or text prompts / Multi-model creative workflow - Paid plans from $15/month
+
 -   [Creatify](https://creatify.ai) - 10 credits/mo (~2 videos) / AI Video Ads / AI Avatar / No credit card required - From $33/mo
 -   [HeyGen](https://www.heygen.com) - Free 3 videos per month / AI video generation / Customizable AI avatars / No credit card or sign up needed - From $29/mo
 -   [Sora](https://sora.chatgpt.com) - Up to 3 images per day / Video generation from text / Realistic and imaginative scenes - From $20/month
