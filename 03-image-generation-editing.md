@@ -63,6 +63,7 @@
 
 ### AI Photo Editor
 
+-   [LUT Generator](https://ailutgenerator.online/) - Free manual matching, fine-tuning and PNG previews / Reference-based color exploration for photos and SDR frames / Custom .cube exports and successful optional AI requests use paid credits; subscription or one-time credit packs
 -   [Cutout.Pro](https://www.cutout.pro) - Free 1 file processing / AI Photo & Video Editing / Automatic Background Removal / Image Enhancement & Content Generation
 -   [VSCO](http://www.vsco.co) - Free Starter plan with 15 presets & 100 Canvas credits / Photo & Video Editor / Photography Community / Brand Engagement - From $2.50/month
 -   [Aftershoot](https://aftershoot.com) - 30-day free trial / AI Culling / AI Editing / AI Retouching - From $10/month
