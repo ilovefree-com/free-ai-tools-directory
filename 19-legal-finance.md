@@ -231,6 +231,7 @@
 
 ### AI Accounting
 
+-   [bank statement pdf to excel](https://bank-statement-converter.online/) (Bank Statement Converter) - Statement PDFs/images to Excel, CSV or JSON / Single or batch exports / Paid plans or page credits; no free conversion allowance verified.
 -   [Blahget](https://itunes.apple.com/app/id6473291180) - Voice-based AI Expense Tracking / Smart Categorization / Intelligent Queries - From $1.99
 -   [Accountable](https://accountable.de) - 14-day full feature trial, unlimited e-invoices & 5 expense scans free / Tax & bookkeeping management / Free business account / AI tax advisor - From 15.50€/month
 -   [Syft Analytics](https://www.syftanalytics.com) - 14-day free trial & Basic Free Plan Forever / AI insights / Financial reporting - From $19/month
