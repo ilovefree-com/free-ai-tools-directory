@@ -74,6 +74,7 @@
 -   [VideoAny](https://videoany.be/) - Free starter credits / Text and image to video / AI image and audio generation
 -   [DeepFake AI](https://deepfakeai.pro/) - Free starter credits / Consent-based deepfake video and face exchange / Image and music generation
 -   [Unbound AI](https://unboundai.net/) - Free starter credits / Unrestricted AI image and video generation / Optional music, voice, and sound effects
+-   [Sora2 Hub](https://sora2hub.org) - Free tier (watermarked, personal use) / AI video and image generator / Veo 3.1, Kling 3.0, Seedance 2.0 and Hailuo on one credit balance / Text and image to video - From $7.99/month
 
 ### AI Video Editor
 
