@@ -123,6 +123,7 @@
 -   [Sketchflow.ai](https://www.sketchflow.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3087)- Freemium + From $25/month, No Refunds / Text to native iOS & Android apps. Real Swift & Kotlin code
 -   [ThinkRoot - The AI Compiler](https://www.thinkroot.dev/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3192)- Freemium + From $5, One-time / From idea to app in minutes.
 -   [RapidNative](https://www.rapidnative.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2856)- Freemium + From $20/month, No Refunds / Build mobile apps from idea to prototype instantly.
+-   [Massvai](https://massvai.com) - Free plan with 100 credits / AI agent builds full-stack Next.js apps from a prompt / Supabase setup, GitHub sync and one-click Vercel deploy
 
 ### AI Website Builder
 
