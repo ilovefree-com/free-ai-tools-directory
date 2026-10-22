@@ -1040,6 +1040,7 @@
 -   [imini AI](https://imini.com) - 20 daily chat rounds / Super AI Agent / AI Slides / Deep Research - From US$4.17/month
 -   [IconGenerate.com](https://icongenerate.com) - AI-powered icon generator / Craft custom icons and logos / Streamline creative process - From $3 USD for 20 Credits
 -   [IconsMint](https://iconsmint.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3285)- Free Trial + From $15/month, No Refunds / Generate consistent AI-powered icon packs for your brand.
+-   [APPLORE AI App Icon Generator](https://applore.app/ai-app-icon-generator) - Free to start / Generate app icons with AI / Browse 18,000+ real App Store and Google Play icons for reference / Export iOS, Android and web sizes - From $9.99/month
 
 ### AI Comic Generator
 
