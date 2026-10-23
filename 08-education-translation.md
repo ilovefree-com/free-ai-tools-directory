@@ -264,6 +264,7 @@
 -   [BloomNote](https://www.bloomnote.me) - Upload up to 2 sources, 5 AI chat messages free / Notes, flashcards, quizzes, podcasts / Summarizes resources / AI chat - From $12/month
 -   [Jungle](https://wisdolia.com) - Free 10 times per month / Generate AI flashcards & multiple choice questions / Export cards to Anki - From $4/month
 -   [BrainDeck](https://apps.apple.com/app/id6476791990) - AI-powered flashcard creation / Gamified study sessions / Smart scheduling - From $2.99/week
+-   [SummarizAI](https://summarizai.ink) - Free plan / Chrome extension for YouTube lectures / AI summary, chapters & chat on the watch page / Study flashcards from any video
 
 ### AI Language Learning
 
