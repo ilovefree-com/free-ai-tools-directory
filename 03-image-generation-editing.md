@@ -1125,6 +1125,7 @@
 -   [Vidofy](https://vidofy.ai) - 10 credits / Generate professional AI videos / unique images in seconds - From $10.00/month
 -   [Img2Img AI](https://imgtoimg-ai.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2562)- Freemium + From $4.99/month, 7 Days Money Back Guarantee / Transform any image with AI in seconds.
 -   [VFast AI Image](https://vfast.ai/ai/image-generation/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2789)- Free Trial + From $8/month, No Refunds / All-in-one generative AI platform for everyone.
+-   [ASCII Art Generator](https://asciiartgenerator.online/) - Free basic image/text-to-ASCII conversion / Character-grid output / Optional paid AI features
 
 ### AI Photo Restoration
 
