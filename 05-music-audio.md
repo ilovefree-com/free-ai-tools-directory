@@ -333,6 +333,7 @@
 
 ### AI Lyrics Generator
 
+-   [AI LRC Generator](https://ailrcgenerator.online/) - Free manual lyric/timestamp editing and LRC exports / Automatic audio processing requires a verified account and credits / Enhanced LRC requires real word timestamps
 -   [Mureka](https://www.mureka.ai) - First creation free / AI music generation / Transforms lyrics and prompts into songs
 -   [AI Song Maker](https://www.aisongmaker.io) - 10 credits /month / Generate songs effortlessly / Royalty-free music creation / Cutting-edge AI technology - From $9.99/month
 -   [aiMusician.ai](https://aimusician.ai) - 25 credits/mo / AI music generation / Image to Music - From $9/month
