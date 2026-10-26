@@ -1771,6 +1771,7 @@
 
 ### AI Love Letter Generator
 
+-   [https://digitalloveletter.online/](https://digitalloveletter.online/) - Digital Love Letter: free writing and envelope preview / Optional AI drafts, photos and music / Recipient links and QR sharing require credits
 -   [WriteVoice](https://www.writevoice.io) - 2,000 written words free / 4x Faster / 97%+ recognition accuracy / Works in any app - From €8.99/month
 -   [Tenorshare AI](https://ai.tenorshare.com) - AI Humanizer / AI PDF Summarizer / AI Writer
 -   [Hatch Canvas](https://hatchcanvas.com) - Start for Free / AI-powered collaborative canvas / Infinite canvas for visual organization / Create interactive tools, apps & websites
