@@ -14,6 +14,7 @@
 -   [HeyGen](https://www.heygen.com) - Free 3 videos per month / AI video generation / Customizable AI avatars / No credit card or sign up needed - From $29/mo
 -   [Sora](https://sora.chatgpt.com) - Up to 3 images per day / Video generation from text / Realistic and imaginative scenes - From $20/month
 -   [Higgsfield](https://higgsfield.ai) - 25 credits free / AI-powered cinematic video generation / Create product videos from a single photo - From $9/month
+-   - [Motion Transfer](https://www.motiontransfer.app/) - Freemium / AI image-to-video templates / Turn a photo into a viral trend clip with no reference video or prompt - Free to start
 -   [Kapwing](https://kapwing.com) - Free 10 min auto-subtitling / AI-powered video creation / Collaborative editing - From $24/month
 -   [Vidnoz AI](https://www.vidnoz.com) - 1 Minute Free Time for Everyday / AI Video Generation / AI Avatars & Voices
 -   [DeeVid AI](https://deevid.ai) - Transform text, image, or video into stunning videos / Generate videos in one minute - From $10/month (200 credits)
