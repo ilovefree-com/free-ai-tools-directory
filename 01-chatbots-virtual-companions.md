@@ -132,6 +132,7 @@ I Love Free
 -   [Kindroid](https://kindroid.ai) - 3 days unlimited messaging / Personal AI / lifelike memory & intelligence / customizable personality & appearances - From $13.99/month
 -   [LOVESCAPE](https://lovescape.com) - 600 FREE chips each month / Create your unique AI friend / Enjoy conversations / Exclusive AI-generated images - From $5.99/month
 -   [Privee AI](https://priveeai.com) - Free / Customize AI Characters / AI Chat & Roleplay
+-   [EroLove](https://erolove.ai) - 5 free messages per day / 18+ AI companions written by the team / Memory you can see and edit / Rooms with up to 4 characters - From $12.99/month
 -   [Loveon AI - Bring Your Fantasies into Real Life](https://loveon.chat) - Free / Immersive AI chat / Create AI companions
 -   [TalkPersona](https://talkpersona.com) - Free 10 minutes every 2 hours / AI video chat with lifelike avatar / Real-time human-like conversation with natural voice and face animation / No Sign-Up
 -   [dmwithme](https://dmwithme.com) - Limited messages per day / AI girlfriend with personality / Persistent memory - From $7.99/month
