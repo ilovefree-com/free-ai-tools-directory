@@ -130,6 +130,7 @@
 
 ### AI Animation Generator
 
+-   [SVG Animation](https://svganimation.app/) - Free browser SVG motion preview and presets / Editable vector source / SVG, GIF and MP4 export / Optional AI features; check current credit terms
 -   [Komiko](https://komiko.app) - Free to create / AI Anime Generator / Create Comics & Manga / AI Animation - From $8.33/month
 -   [neural frames](https://www.neuralframes.com/tools/ai-cartoon-generator) - Free / Transform photos into vibrant cartoons / Instant results / No Login or Sign Up required - From $19/month
 -   [Autodraft AI](https://autodraft.in) - 20 free credits / AI Animation Videos / AI Character & Style Consistency - From $8/month
