@@ -341,6 +341,7 @@
 
 ### AI Infographic Generator
 
+-   [Genogram Maker](https://genogrammaker.org/) - Free plan: 2 projects, 50 people per project, PNG export, 5 AI credits monthly / Editable family relationship diagrams / Optional credit-based AI assistance
 -   [Diagrimo](https://www.tenorshare.ai/diagrimo.html) - 100 AI credits/day / Turn Text into Visuals / Customize & Collaborate - From $6.99/month
 -   [Infografix](https://infografix.app) - Free / Create infographics without design skills / AI-powered generation
 -   [Infography](https://infography.in) - Turn blogs into stunning, shareable infographics / Simplify complex information / Save 99% on design costs - From $7.5/month
