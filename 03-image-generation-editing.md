@@ -9,6 +9,7 @@
 > Discover free AI image generators, photo editors, and background removers. Create and edit stunning visuals at no cost.
 
 ### AI Image Generator
+- [Caricature Maker](https://caricature-maker.online/) - AI caricature portraits from photos or text / Eight styles and adjustable exaggeration / One free 1K generation, with additional usage subject to current pricing
 
 -   [Adobe](https://adobe.com) - Free trial / Creativity & Design / PDF & E-signatures
 -   [Freepik AI Image Generator](https://www.freepik.com/ai/image-generator) - 20 generations per day / Real-time AI image generation / Photorealistic image generation / Image upscaling
