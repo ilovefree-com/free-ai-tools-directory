@@ -10,6 +10,7 @@
 
 ### AI Image Generator
 
+-   [DnD Map Maker](https://dndmapmaker.com/) - AI-assisted tabletop map drafts / Plan rooms and routes / Revise selected areas and export maps
 -   [Adobe](https://adobe.com) - Free trial / Creativity & Design / PDF & E-signatures
 -   [Freepik AI Image Generator](https://www.freepik.com/ai/image-generator) - 20 generations per day / Real-time AI image generation / Photorealistic image generation / Image upscaling
 -   [MiriCanvas](https://www.miricanvas.com) - Free for 2 weeks / AI-powered design / Advanced photo editing tools
