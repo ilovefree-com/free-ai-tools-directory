@@ -1040,6 +1040,7 @@
 -   [buzz-cut](https://buzz-cut.ai) - 20 Times Limit Per Day / AI Buzz Cut Filter / Try Different Buzz Cut Styles / No Registration Required
 -   [Image Editor](https://imageeditor.online) - Free / Edit Images with AI and Prompts / High-Quality Results / No Sign-Up
 -   [PS2 Filter AI](https://ps2filter.net) - Apply PS2 aesthetics to photos and videos / Turn photos into PS2 characters
+-   [Losercore AI](https://losercoreai.com) - Freemium / Selfie to PS2-style lonely-scene stills (foggy park, rainy bus stop, and more) + optional ~5s silent 16:9 video / Sign-in; watermarked trial still when available; not a PlayStation emulator
 -   [LivePortrait](https://liveportrait.app) - Transform static images into lifelike animated videos / Precise Motion Control / Diverse Style Support - From $7.90/month
 -   [PhotoStyleAI](https://photostyleai.com) - Free 1 Credit / AI Style Transfer / Filter Tools - From $9.9 / 100 Credits
 -   [Nano Banana | Nanana AI](https://nanana.app) - 2 free generations / AI Image Generation / AI Image Editing / No Registration Required
