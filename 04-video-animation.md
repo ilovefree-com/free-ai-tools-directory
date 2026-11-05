@@ -322,6 +322,7 @@
 
 ### Long Video To Short Video AI
 
+-   [Repostit Clips](https://repostit.io/clips/) - 10 videos OR 100 minutes free per account (one-time allowance) / AI-assisted highlight selection and per-clip scoring / Turn long YouTube videos into vertical clips / Paid Clips plans after the allowance
 -   [OpusClip](https://clip.opus.pro/captions) - Animated captions / Repurpose long videos into high-quality viral clips
 -   [Opus Clip](https://www.opus.pro) - 60 credits/month / Repurpose long videos into shorts / Create high-quality viral clips - From $15/month
 -   [Riverside.fm](https://riverside.fm) - 2 hours of multi-track recordings free / Separate audio & video tracks / AI-powered transcriptions - From $19/month
