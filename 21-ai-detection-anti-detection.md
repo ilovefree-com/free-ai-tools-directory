@@ -449,6 +449,7 @@
 -   [Noodle4](https://www.noodle4.com) - Reduce content review up to 70% / AI content watchdog / Analyse content against briefs and guidelines
 -   [Lasso Moderation](https://www.lassomoderation.com) - AI-powered Content Moderation / Moderation Dashboard - From $99/month for up to 10K items
 -   [StopScam](https://www.stopscam.ai) - AI-powered scam detection / scans documents, PDFs, text, images, links
+-   [Coda One](https://www.codaone.ai) - Free unlimited AI detector, no signup / Highlights sentences that read as AI-written / AI Humanizer, Rewriter and Grammar Checker with free daily uses
 
 ### AI Art Detector
 
