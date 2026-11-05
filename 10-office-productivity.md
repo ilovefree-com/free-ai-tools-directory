@@ -169,6 +169,7 @@
 -   [PlanWiseNow](https://planwisenow.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2723)- Free Trial + From $5.99/month, Users can request a full refund within 30 days of the initial purchase if they’re a first-time subscriber / Productivity + Finance + AI in one app.
 -   [Recal](https://tryrecal.com?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2816)- Freemium + From $14/month, 14-day money-back guarantee for first-time subscribers / Your AI-powered second brain that captures everything important.
 -   [RiffOn](https://riffon.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2895)- 100% Free / Discover podcast insights that matter daily.
+-   [AUTOMATER.ai](https://automater.ai) - Free version, no account / One searchable library of AI coding sessions / Flags agents waiting on you / Usage across 9 providers
 
 ### AI Agent
 
