@@ -1267,6 +1267,8 @@
 
 ### AI Book Cover Generator
 
+-   [KDP Cover Creator](https://kdpcovercreator.app/) - Free basic browser cover editing / Editable text and layout / Print-dimension review and project backups / Optional AI features may require paid credits
+
 -   [CoverDesignAI](https://coverdesignai.com) - 1 book cover design idea & 1 Midjourney prompt free / AI-powered book cover designs / Tailored Midjourney Prompts - From $11.99
 -   [Book AI Writer](https://bookaiwriter.com) - / AI-powered book creation / Stunning cover design
 -   [GravityWrite](https://gravitywrite.com) - Free 1,000 words/mo / High-quality content generation / SEO blog writing / AI image creation - From $19/month
