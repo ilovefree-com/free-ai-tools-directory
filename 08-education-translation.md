@@ -554,6 +554,7 @@
 -   [AI Manga Translator - ImageTranslate.AI](https://imagetranslate.ai/manga-translator?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2765)- Freemium + From $8.30/month, Users can request a refund within 3 days of purchase if they have used 500 credits or fewer, / Translate manga while preserving original artwork and layout.
 -   [Translate Image.io](https://translateimage.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3068)- Freemium + From $9.99/month / Translate text in photos to 130+ languages instantly.
 -   [TranslateImage AI](https://www.translateimage.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2729)- Free Trial + From $10/month, No Refunds / Native-quality AI translator preserving original image style.
+-   [Mangit](https://mangit.app/?utm_source=ilovefree) - 3 free pages + 3 free pages every week / iOS and Android app / Translates manga and comic pages from a photo or screenshot / Erases the original text and typesets the translation inside the speech bubbles
 
 ### AI Mind Mapping
 
