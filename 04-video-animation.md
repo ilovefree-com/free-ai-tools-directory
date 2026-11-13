@@ -79,6 +79,7 @@
 
 -   [CapCut](https://capcut.com) - AI-powered video editing / Text to speech / Auto captions
 -   [Cutout.Pro](https://www.cutout.pro) - Free 1 file processing / AI Photo & Video Editing / Automatic Background Removal / Image Enhancement & Content Generation
+-   [Video Background Remover (.ai)](https://videobackgroundremover.ai) - Preview the whole clip free, first 5 seconds in HD free, keeps the sound / AI video background removal
 -   [VSCO](http://www.vsco.co) - Free Starter plan with 15 presets & 100 Canvas credits / Photo & Video Editor / Photography Community / Brand Engagement - From $2.50/month
 -   [Kapwing](https://kapwing.com) - Free 10 min auto-subtitling / AI-powered video creation / Collaborative editing - From $24/month
 -   [Clideo](https://clideo.com) - Video editor / Compress video / Add subtitles - From $6/month
