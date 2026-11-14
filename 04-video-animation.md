@@ -1229,4 +1229,5 @@
 -   [Vadu AI](https://vadu.ai) - 20 free credits / AI Video Generation / AI Image Creation - From $9.00/month
 -   [Vidofy](https://vidofy.ai) - 10 credits / Generate professional AI videos / unique images in seconds - From $10.00/month
 
+- [01Router](https://01router.com/) - Freemium / One API key for video, image, audio, and chat models / AI video and image generation / Choose models and providers to match budget and quality
 [⬆️ Back to README](./README.md)
