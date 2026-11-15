@@ -62,6 +62,7 @@
 
 -   [AInvest](https://www.ainvest.com) - AI Stock Screener / AI-Powered Stock Analysis / Real-Time Stock Data - From $9.90/month
 -   [Origin](https://useorigin.com) - Budgeting / Investing / Financial Guidance - From $12.99/month
+   -[QuantaVal](https://quantaval.com/)-  Free 62 valuation models, 3 calculations/day / Quantitative valuation engine, 88 models / DCF, reverse DCF, multiples and stock screener - Free
 -   [Danelfin](https://danelfin.com) - AI Stock Picker to Find the Best Stocks / Optimize your portfolio with explainable AI insights / Make smarter, data-driven investment decisions
 -   [Edgen](https://www.edgen.tech) - AI-powered Crypto Trading & Market Intelligence / Real-time Trading Insights & Actionable Signals
 -   [Incite AI](https://inciteai.com) - Free / AI Stock Analysis / Real-time Insights / AI Stock Prediction
