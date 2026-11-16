@@ -440,6 +440,7 @@
 
 ### AI Midi Generator
 
+-   [AudioMIDI](https://audiomidi.app/) - Free local Quick mode without sign-up; 3 free Deep transcriptions/day with separate upload consent / Short clear melody or solo-instrument audio to editable MIDI / Browser note preview and MIDI export / Up to 5 minutes and 25 MiB per file
 -   [Klangio](https://klang.io) - 20 seconds free / Transcribe Music into Notes / Create Sheet Music, TABs, MIDI and MusicXML
 -   [LANDR](https://orbplugins.com) - AI Chord Progression Generator / AI Mastering / Music Distribution - From $8.25/month
 -   [Soundful](https://soundful.com) - 1 MP3 download per month / Generate royalty free tracks / AI Music Generator - From $5.00/Month
