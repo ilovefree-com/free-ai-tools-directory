@@ -347,4 +347,6 @@
 
 -   [Pairrd](https://pairrd.com) - 10 free questions daily, 5 free bounty videos / Daily quizzes and drills / AI Recommendations - From $499/year
 
+- [Which AI Works](https://whichaiworks.com/) - Free-to-use AI tools directory / Search by task and compare features, pricing, and alternatives
+
 [⬆️ Back to README](./README.md)
