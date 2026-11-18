@@ -943,3 +943,4 @@
 -   [AdCopy.ai & Koast.ai](https://adcopy.ai) - 30 FREE ADS / AI-powered ad copy generation / High-converting & compliant copy / Unlimited variations - From $29/month
 
 [⬆️ Back to README](./README.md)
+-   [GotTracked](https://www.gottracked.io) - Server-side conversion tracking for Shopify: sends purchase and lead events from your server to Meta CAPI, TikTok Events API and Google Ads, sets a first-party pixel on your own domain, captures UTMs automatically, and reconciles ad spend against order-level revenue. Freemium with a permanent free tier.
