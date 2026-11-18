@@ -1054,3 +1054,5 @@
 -   [LearniAI](https://learniai.com) - 100 credits to start / AI Learning Assistant / Visual Mind Mapping - From $9.99/month
 
 [⬆️ Back to README](./README.md)
+
+-   [GP Sourcing 1688](https://gpsourcing.gp-fulfillment.com) - One-click English translation of 1688 product pages, AI image search for the same or similar factory items, and live DDP landed shipping plus margin calculation. Free Chrome extension, no account needed.
