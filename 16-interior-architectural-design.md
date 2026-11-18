@@ -66,6 +66,7 @@
 
 ### AI Floor Plan Generator
 
+-   [Seating Chart Maker](https://seating-chart-maker.org/) - Free manual seating editor and export / Arrange tables, import guests, and assign seats / Optional credit-based AI features
 -   [Coohom](https://www.coohom.com) - Free 3 projects / 3D Home Design / AI Interior Design / Fast 4K Rendering - From $35/month
 -   [Mappedin](https://mappedin.com) - Free unlimited maps & floors / AI Mapping / 3D interactive maps - From $25/map/mo
 -   [AiHouse](https://aihouse.com) - 7-Day Free Trial / AI-Powered 3D Interior Design / Photorealistic Renders & 3D Walkthroughs / Design-to-Manufacturing Integration
