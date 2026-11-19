@@ -111,6 +111,7 @@
 -   [LightX](https://www.lightxeditor.com) - 5 daily free AI credits / AI Photo Editor & Image Generator / Remove & Change Background - From $3.33/month
 -   [Deepfake Maker AI Halloween](https://deepfakemaker.io/ai-halloween) - 5 free high-quality generations every day / Instantly Create Spooky Photos / Deepfake Maker Face Swap / No Sign-Up - From $9.9 for 2000 credits
 -   [Photiu.ai](https://www.photiu.ai) - Free / Remove Background / Upscale Images / Erase Objects / No Login or Sign Up required
+-   [XNOV imgtool](https://xnov.io) - Unlimited free use / AI Background Removal / Local in-browser processing / No uploads / Batch mode / No watermark
 -   [Maskr.io](https://maskr.io/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3447)- Freemium + From $9.99/month, No Refunds / AI Image Processing Made Simple
 -   [AI Clothes Changer.ai](https://aiclothes.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3032)- Free Trial + From $7.90/month, No Refunds / Swap outfits in photos with AI magic.
 -   [AI Hair Studio](https://www.aihairstyle.top/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2646)- Freemium + From $1.99/unit, No Refunds / Free AI Hairstyle Changer
