@@ -201,6 +201,7 @@
 -   [Midlibrary](https://midlibrary.io) - Free / Midjourney AI artistic styles & SREF codes library / Midjourney Guides + Tools
 -   [AnyModel](https://www.anymodel.xyz) - 5,000 credits / Compare AI models side-by-side / Spot hallucinations easily - From $9/month
 -   [Prompt AI Tools](https://promptaitools.com) - Free / Tackle daily technical challenges / Content generation / Utility & Conversion tools
+-   [Grok Bots Market](https://grokbotsmarket.com/?utm_source=ilovefree.org&utm_medium=directory&utm_campaign=rotation) - 100% free, no sign-up to browse / Grok Bot marketplace of ready-made bot templates / Find bots by task (Research, Scheduling, Social Media) or connected app (X, Gmail) / Watch recorded runs, then add via the official x.ai share link
 -   [ChatPlayground AI](https://chatplayground.ai/) [](https://free.ilovefree.com/link/3396)- Free Trial + From $14/month, No Refunds / The #1 Platform for Comparing AI Models
 -   [Unify AI](https://unifycore.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3264)- Freemium + From $7.64/month, No Refunds / One AI platform for all your creative needs.
 -   [Omni One](https://app.omni1.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2955)- Freemium + From $20/month, No Refunds / Access 350+ AI models in one place for $20/month.
