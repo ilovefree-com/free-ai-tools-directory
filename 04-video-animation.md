@@ -798,6 +798,7 @@
 
 ### AI Video Recording
 
+-   [Vertov](https://vertov.app/) - Free plan includes 180 minutes of workspace video storage and recordings up to 15 minutes / Browser screen and camera recording / Edit video by transcript / Captions and share links
 -   [muse.ai](https://muse.ai) - 14-day free trial / AI-powered video search / auto-generated chapters & transcripts - From $8/month
 -   [Clideo](https://clideo.com) - Video editor / Compress video / Add subtitles - From $6/month
 -   [guidde](https://guidde.com) - Free Extension / AI-powered video documentation / Step-by-step guides
