@@ -446,6 +446,7 @@
 -   [AI Music Maker](https://musicmaker.im) - 60 credits for new users / Text-to-Music Generation / AI Image-to-Music Generation - From $11.99/month
 -   [UniMusic AI](https://unimusic.ai) - 15 free credits / AI Music & Song Generator / Royalty-Free Tracks - From $10/month
 -   [Tuneonmusic](https://tuneonmusic.com) - Free access to all resources / Online piano community / Sheet music & music tools / No Login required
+-   [MidiTake](https://miditake.com) - Free converters, Piano HQ free 30-second preview then $1.99 per song / MP3, WAV, video and song to editable MIDI in the browser / Check notes, download bar-aligned MIDI / No upload, no account
 
 ### AI Singing Generator
 

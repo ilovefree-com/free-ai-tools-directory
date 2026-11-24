@@ -62,6 +62,7 @@
 -   [Voiser](https://voiser.net) - Free 50 characters for Text-to-Speech and 5 minutes for Speech-to-Text / Accurate Speech-to-Text / Natural-sounding Text-to-Speech
 -   [HappySRT](https://www.happysrt.com/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3408)- Freemium + From $4.99/month / Open-source AI transcription, translation & summarization
 -   [Riverside - YouTube Transcript Generator](https://riverside.com/tools/youtube-transcript-generator?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/2835)- Free Trial + From $24/month, Users can request a full refund for monthly subscriptions if canceled within 48 hours of purchase, or for yearly subscriptions if canceled within 14 days. Credit purchases are non-refundable / Convert YouTube videos to text with 99% accuracy.
+-   [WatchToText](https://watchtotext.com) - Free for most videos, one credit per video that blocks free readers (100 for $4.99) / Public YouTube, TikTok and Instagram captions as readable text / Copy or download TXT, SRT or VTT / No sign-up, no upload
 
 ### AI Voice Generator
 
