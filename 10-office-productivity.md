@@ -108,6 +108,7 @@
 -   [Geneo](https://geneo.app) - 50 Credits, 3-Day Free Trial / Multi-Platform AI Monitoring / AI-Powered Sentiment Analysis - From $39.9/month
 
 ### AI Productivity Tools
+- [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) - Free / Chrome and Edge browser extension for ChatGPT / Automatic continuation after a configurable delay / Per-tab controls and context handoff
 
 -   [Brain.fm](https://www.brain.fm) - 14-Day Free Trial / Focus music for distraction-free work / Stimulates brain for sustained attention - From $9.99/month
 -   [Dooray!](https://gov-dooray.com) - Free plan for up to 25 users / All-in-one collaboration / Project management / Messenger & Mail - From ₩2,500/month per person
