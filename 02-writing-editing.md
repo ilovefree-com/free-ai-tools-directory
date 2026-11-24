@@ -11,6 +11,7 @@
 ### AI Writing Assistants
 
 -   [DeepL](https://deepl.com) - 3 non-editable file translations per month / Accurate machine translation / Text & document translation - From $8.74/month
+-   [AIWriteBook](https://ai-book-writer.org/) - AI-assisted book planning / Fiction and nonfiction manuscript drafting / Editable revision workflow / Export tools - Project-associated submission
 -   [QuillBot](https://quillbot.com) - Paraphrase up to 125 words free / Paraphrase / Grammar Checker / Plagiarism Checker - From $8.33/month
 -   [Grammarly](https://www.grammarly.com) - Free 100 AI prompts / AI-powered writing assistance / Works across all apps and sites - From $30/month
 -   [Rezi](https://www.rezi.ai) - 1 Resume, 1 Interview, 3 Downloads free / AI Resume Builder / AI Keyword Targeting / ATS Resume Checker - From $29/month
