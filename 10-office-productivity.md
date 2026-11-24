@@ -913,7 +913,9 @@
 -   [ChandlerAi](https://chandler.bet) - Free 5 advanced queries / Chat with AI models / Image Generation / PDF Reading - From $3.99/month
 -   [GenPPT AI](https://genppt.ai/?ref=ilovefree&utm_source=ilovefree&utm_medium=referral) [](https://free.ilovefree.com/link/3312)- Free Trial + From $15.90/month, No Refunds / Transform ideas into polished presentations with AI.
 
-### AI Documents Generator
+- [AIPPT.org](https://aippt.org) - Free browser-based PowerPoint tools — merge and compress PPTX locally with no sign-up or watermark, plus an AI deck generator.
+-
+- ### AI Documents Generator
 
 -   [ChatPRD](https://www.chatprd.ai) - AI Copilot for Product Managers / Draft & improve product docs / Coaching on PM skills - From $5/month
 -   [guidde](https://guidde.com) - Free Extension / AI-powered video documentation / Step-by-step guides
