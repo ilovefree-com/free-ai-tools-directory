@@ -10,6 +10,7 @@
 
 ### AI Transcription
 
+-   [FastScribe](https://fastscribe.org/) - 120 introductory credits valid for 30 days / Transcribe audio and video recordings and export editable text or SRT captions / One-time credits from $9.90.
 -   [Otter.ai](https://otter.ai) - 300 monthly transcription minutes / AI meeting assistant records, transcribes and summarizes in real time / Otter AI Chat - From $16.99/month
 -   [Clipto.AI](https://clipto.com) - 7-day free trial / AI Transcription / 99% transcription accuracy / 99+ languages supported - From $8.99/month
 -   [Heidi Health](https://www.heidihealth.com) - Free with 10 Pro actions / Transcribes visits & generates notes / Custom templates / Multilingual - From $99/month
