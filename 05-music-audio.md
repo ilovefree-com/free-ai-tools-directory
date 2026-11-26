@@ -112,6 +112,8 @@
 
 ### AI Audio Editing
 
+-   [Clean Voice](https://cleanvoice.app/) - 10 free credits on signup (up to 10 minutes) / AI background noise removal for audio and video / Paid credits from $11 or subscriptions from $11/month
+
 -   [Adobe Podcast](https://podcast.adobe.com) - 2 free quick tools / AI-powered audio recording and editing / Noise and echo removal / Record, transcribe, edit, share
 -   [Descript](https://www.descript.com) - 1 transcription hour free / Edit videos & podcasts by typing / AI editing tools - From $24/month
 -   [AI Song Maker](https://www.aisongmaker.io) - 10 credits /month / Generate songs effortlessly / Royalty-free music creation / Cutting-edge AI technology - From $9.99/month
