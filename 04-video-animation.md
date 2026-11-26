@@ -10,6 +10,7 @@
 
 ### AI Video Generator
 
+-   [CloneCut](https://clonecut.net) - AI video remix: swap people, products, backgrounds or on-screen text while keeping the original motion and timing / up to 30s clips / watermark-free - Credits from $19.9/month
 -   [Creatify](https://creatify.ai) - 10 credits/mo (~2 videos) / AI Video Ads / AI Avatar / No credit card required - From $33/mo
 -   [HeyGen](https://www.heygen.com) - Free 3 videos per month / AI video generation / Customizable AI avatars / No credit card or sign up needed - From $29/mo
 -   [Sora](https://sora.chatgpt.com) - Up to 3 images per day / Video generation from text / Realistic and imaginative scenes - From $20/month
