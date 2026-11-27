@@ -243,6 +243,7 @@
 -   [SAM 3D](https://sam-3d.com) - 10 credits monthly / Turn Any Image into 3D Objects & Scenes / Single-image 3D reconstruction - From $15/month
 -   [SuperCraft](https://supercraft.ai) - 30 iterations / Design physical products with natural language / Highly realistic renders - From $29.99/month
 -   [Stability AI License](https://stablevideo3d.com) - Free Community License / Generate 3D views from single images / Create detailed 3D meshes / Novel multi-view synthesis - Free
+-   [Next3D](https://next3d.ai) - Free credits / AI 3D model generation from text or reference images / Several frontier 3D models side by side / Preview before export - Pay per generation
 
 ### AI Font Generator
 
