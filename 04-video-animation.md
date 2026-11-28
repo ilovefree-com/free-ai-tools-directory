@@ -11,6 +11,7 @@
 ### AI Video Generator
 
 -   [Creatify](https://creatify.ai) - 10 credits/mo (~2 videos) / AI Video Ads / AI Avatar / No credit card required - From $33/mo
+-   [FreyaVideo](https://freyavideo.com) - Free trial / Text and image to video / Camera motion and styles for short marketing clips - Freemium
 -   [HeyGen](https://www.heygen.com) - Free 3 videos per month / AI video generation / Customizable AI avatars / No credit card or sign up needed - From $29/mo
 -   [Sora](https://sora.chatgpt.com) - Up to 3 images per day / Video generation from text / Realistic and imaginative scenes - From $20/month
 -   [Higgsfield](https://higgsfield.ai) - 25 credits free / AI-powered cinematic video generation / Create product videos from a single photo - From $9/month
