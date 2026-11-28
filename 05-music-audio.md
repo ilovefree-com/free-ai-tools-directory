@@ -63,6 +63,7 @@
 
 ### AI Vocal Remover
 
+-   [RemoveVocals](https://removevocals.app/?utm_source=ilovefree) - Free, no account, no daily or length limit, no watermark / In-browser vocal remover, audio never uploaded / Instrumental and vocal WAV
 -   [Moises](https://moises.ai) - AI Audio Separation / Smart Metronome & Audio Speed Changer / Pitch Changer & AI Key Detection
 -   [Audimee](https://audimee.com) - 15 min of conversions free / Convert vocals with royalty-free voices / Train your own voices / Harmony maker - From $12/month
 -   [LALAL.AI](https://www.lalal.ai) - 10 minutes for listening / Vocal remover / Music source separation / Precise stem extraction - From $20 (one-time fee) for 90 minutes
